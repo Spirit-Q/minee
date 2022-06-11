@@ -1,0 +1,54 @@
+# Javascript Expansion: 1.4.1
+# This is the main configuration file for the Javascript Expansion.
+# 
+# You will define your javascript placeholders in this file.
+# 
+# Javascript files must be located in the:
+#  /plugins/placeholderapi/javascripts/ folder
+# 
+# A detailed guide on how to create your own javascript placeholders
+# can be found here:
+# https://github.com/PlaceholderAPI-Expansions/Javascript-Expansion/wiki
+# 
+# Your javascript placeholders will be identified by: %javascript_<identifier>%
+# 
+# Configuration format:
+# 
+# <identifier>:
+#   file: <name of file>.<file extension>
+#   engine: (name of script engine)
+# 
+# 
+# Example:
+# 
+# 'my_placeholder':
+#   file: 'my_placeholder.js'
+#   engine: 'nashorn'
+example:
+  file: example.js
+  engine: nashorn
+prefux:
+  file: prefux.js
+  engine: nashorn
+donate:
+  file: donate.js
+  engine: nashorn
+kd:
+  file: kd.js
+  engine: nashorn
+millionaire:
+  expression: '%vaulteco_balance% >= 1000000'
+  type: boolean
+  true_result: '&aMillionaire'
+  false_result: '&cbroke'
+is_staff:
+  expression: '"%vault_group%" == "Moderator" || "%vault_group%" == "Admin" || "%vault_group%"
+    == "Owner"'
+  type: boolean
+  true_result: '&bStaff'
+  false_result: '&ePlayer'
+health_rounded:
+  expression: Math.round(%player_health%)
+  type: string
+staff_online:
+  type: string

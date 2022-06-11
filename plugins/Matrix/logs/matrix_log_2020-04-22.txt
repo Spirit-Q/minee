@@ -1,0 +1,6 @@
+(16:04:58) Matrix Enabled!
+(16:04:58) Version: 2.4.4
+(16:05:17) DarkRage failed Speed check | (strafe) change direction in mid-air:0.286 a:565.487 lm:0.286 (+5) | vl:5 ping:108 tps:20.0 component: speed.strafe
+(16:05:18) DarkRage failed Fly check | suspicious movement:-0.078 predict:-0.004 lm:0.075 hard_pred:-0.004 sev_pred:-0.374 air_t:8 g:-- tag:gn (+5) | vl:5 ping:108 tps:20.0 component: fly.main
+(16:07:07) Matrix Enabled!
+(16:07:07) Version: 2.4.4

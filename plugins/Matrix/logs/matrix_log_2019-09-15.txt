@@ -1,0 +1,598 @@
+(06:37:11) MemasGelya failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.078 air_t:8 g:-- tag:gn (+5) | vl:5 ping:159 tps:20.0 component: fly.main
+(09:13:17) Artiko123 failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:0 tps:20.0 component: fly.main
+(09:13:29) Artiko123 failed FastUse check | fast use (+0) | vl:0 ping:13 tps:20.0 component: fastuse
+(09:14:01) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 1500.29,71.0,-2747.332 v:-0.155 (+5) | vl:5 ping:29 tps:20.0 component: fly.fg.wl
+(09:14:02) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 1500.305,72.0,-2748.7 v:-0.152 (+5) | vl:10 ping:29 tps:20.0 component: fly.fg.wl
+(09:15:31) Artiko123 failed Fly check | suspicious movement:-0.355 predict:-0.447 lm:-0.377 hard_pred:-0.447 sev_pred:-0.078 air_t:5 g:+- tag:gn (+5) | vl:5 ping:47 tps:19.95 component: fly.main
+(09:39:47) Matrix Enabled!
+(09:39:47) Version: 2.4.0
+(10:28:53) Matrix Enabled!
+(10:28:53) Version: 2.4.0
+(10:31:19) Artiko123 failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2882976067793468 fr:0.6 tag:a (+9) | vl:9 ping:14 tps:19.94 component: speed.main
+(10:31:45) Enderka_Easy_xD failed Speed check | suspicious movement:0.327 expect:0.315 predict:0.2845476896323234 fr:0.6 tag:ec (+10) | vl:10 ping:50 tps:18.77 component: speed.main
+(10:31:46) Artiko123 failed Speed check | (strafe) change direction in mid-air:0.211 a:95.63 lm:0.264 (+5) | vl:5 ping:31 tps:18.77 component: speed.strafe
+(10:31:48) Artiko123 failed Fly check | suspicious movement:0.02 predict:-0.078 air_t:12 tag:m1 (+10) | vl:10 ping:31 tps:20.0 component: fly.main
+(10:31:50) Artiko123 failed Fly check | suspicious movement:0.02 predict:-0.078 air_t:12 tag:m1 (+10) | vl:20 ping:31 tps:19.97 component: fly.main
+(10:31:53) Artiko123 failed Fly check | suspicious movement:0.02 predict:-0.078 air_t:12 tag:m1 (+10) | vl:30 ping:31 tps:19.93 component: fly.main
+(10:33:17) Enderka_Easy_xD failed Fly check | suspicious movement:-0.176 predict:-0.514 lm:-0.445 hard_pred:-0.514 sev_pred:-0.078 air_t:12 g:+- tag:gn (+5) | vl:5 ping:71 tps:20.0 component: fly.main
+(10:33:38) Enderka_Easy_xD failed Fly check | suspicious movement:-0.239 predict:-0.514 lm:-0.445 hard_pred:-0.514 sev_pred:-0.078 air_t:12 g:+- tag:gn (+5) | vl:5 ping:72 tps:19.98 component: fly.main
+(10:34:42) l3addiGaming failed Interact check | interact block through walls ,o=STONE b=FURNACE (+1) | vl:1 ping:0 tps:19.97 component: interact.through
+(10:34:51) Enderka_Easy_xD failed Chat check | send the same chat content (+1) | vl:1 ping:81 tps:20.0 component: chat.same
+(10:34:52) l3addiGaming failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:2 ping:17 tps:19.98 component: interact.through
+(10:35:15) l3addiGaming failed Interact check | interact block through walls ,o=STONE b=FURNACE (+1) | vl:1 ping:38 tps:20.0 component: interact.through
+(10:35:15) Enderka_Easy_xD failed Speed check | (strafe) change direction in mid-air:896.817 a:447.711 lm:0.162 (+5) | vl:5 ping:84 tps:20.0 component: speed.strafe
+(10:35:15) Enderka_Easy_xD failed Speed check | teleport move (+25) | vl:30 ping:84 tps:20.0 component: speed.tp
+(10:35:15) Enderka_Easy_xD failed Speed check | suspicious movement:896.817 expect:0.365 predict:0.17294455137020587 fr:0.6 tag:ea (+20) | vl:50 ping:84 tps:20.0 component: speed.main
+(10:35:15) Enderka_Easy_xD failed Fly check | suspicious movement:22.232 predict:-0.304 air_t:3 tag:vt (+5) | vl:5 ping:84 tps:20.0 component: fly.main
+(10:38:15) Enderka_Easy_xD failed Fly check | suspicious movement:-0.098 predict:-0.174 lm:-0.098 hard_pred:-0.174 sev_pred:-0.078 air_t:1 g:-- tag:gn (+5) | vl:5 ping:76 tps:19.93 component: fly.main
+(10:38:15) Enderka_Easy_xD failed Fly check | suspicious movement:-0.098 predict:-0.174 lm:-0.098 hard_pred:-0.174 sev_pred:-0.078 air_t:2 g:-- tag:gn (+5) | vl:10 ping:76 tps:19.93 component: fly.main
+(10:56:24) Artiko123 failed Fly check | suspicious movement:0.003 predict:-0.078 air_t:12 tag:m1 (+10) | vl:10 ping:60 tps:20.0 component: fly.main
+(10:56:26) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 759.453,73.875,594.746 v:-0.155 (+5) | vl:15 ping:60 tps:20.0 component: fly.fg.wl
+(11:46:04) __KokosYT__ failed Fly check | ground spoof | tag: ai-wl | loc: -1804.253,75.0,-3879.675 v:-0.155 (+5) | vl:5 ping:49 tps:19.97 component: fly.fg.wl
+(11:46:53) __KokosYT__ failed FastUse check | fast use (+0) | vl:0 ping:55 tps:19.97 component: fastuse
+(11:53:45) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.481 expect:0.2873 predict:0.2838494397220424 fr:0.6 tag:a (+9) | vl:9 ping:470 tps:20.0 component: speed.main
+(11:53:45) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.078 predict:0.118 lm:0.2 hard_pred:0.118 sev_pred:0.248 air_t:1 g:+- tag:gn (+5) | vl:5 ping:470 tps:20.0 component: fly.main
+(11:53:46) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.078 predict:0.118 lm:0.2 hard_pred:0.118 sev_pred:-0.155 air_t:1 g:+- tag:gn (+5) | vl:10 ping:470 tps:20.0 component: fly.main
+(11:56:38) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.078 predict:0.118 lm:0.2 hard_pred:0.118 sev_pred:0.333 air_t:1 g:++ tag:gn (+5) | vl:5 ping:79 tps:20.0 component: fly.main
+(11:57:45) Dep3kiu_TpoJlb failed KillAura check | force field | t: base (+4) | vl:4 ping:61 tps:20.0 component: ka.ff
+(11:58:36) Dep3kiu_TpoJlb failed Fly check | ground spoof | tag: ai-wl | loc: -2456.836,67.0,1793.343 v:-0.155 (+5) | vl:5 ping:60 tps:20.0 component: fly.fg.wl
+(12:00:58) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.162 predict:-0.582 lm:-0.514 hard_pred:-0.582 sev_pred:-0.582 air_t:12 g:-- tag:gn (+5) | vl:5 ping:56 tps:19.99 component: fly.main
+(12:03:10) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.078 air_t:12 g:++ tag:gn (+5) | vl:5 ping:53 tps:19.99 component: fly.main
+(12:05:07) Dep3kiu_TpoJlb failed Speed check | fast climb | 0.492 > 0.425 / 2 (+5) | vl:5 ping:57 tps:19.96 component: speed.ladder
+(12:09:46) Dep3kiu_TpoJlb failed Speed check | sprint direction: 0.244 angle:325.127 (+5) | vl:5 ping:55 tps:19.96 component: speed.sprint
+(12:12:21) Dep3kiu_TpoJlb failed Speed check | move no slow down while using/sneaking: m:0.135 a:31 (+4) | vl:4 ping:52 tps:19.99 component: speed.noslow.limit
+(12:12:33) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.455 expect:0.2873 predict:0.26053456400365493 fr:0.6 tag:a (+9) | vl:9 ping:52 tps:20.0 component: speed.main
+(12:12:50) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.601 expect:0.2873 predict:0.23912979728413708 fr:0.6 tag:a (+9) | vl:18 ping:84 tps:19.9 component: speed.main
+(12:16:33) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.481 expect:0.2873 predict:0.2833675650978222 fr:0.6 tag:a (+9) | vl:9 ping:74 tps:20.0 component: speed.main
+(12:17:28) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=COAL_ORE b=BURNING_FURNACE (+1) | vl:1 ping:60 tps:19.92 component: interact.through
+(12:17:42) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:58 tps:20.0 component: fly.main
+(12:22:13) Dep3kiu_TpoJlb failed Speed check | (strafe) change direction in mid-air:0.202 a:469.316 lm:0.284 (+5) | vl:5 ping:14 tps:19.96 component: speed.strafe
+(12:23:27) Dep3kiu_TpoJlb failed Speed check | (strafe) change direction in mid-air:0.202 a:333.05 lm:0.239 (+5) | vl:5 ping:43 tps:19.98 component: speed.strafe
+(12:26:16) Dep3kiu_TpoJlb failed Speed check | (strafe) change direction in mid-air:0.206 a:124.262 lm:0.27 (+5) | vl:5 ping:56 tps:20.0 component: speed.strafe
+(12:26:30) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:55 tps:19.91 component: fly.main
+(12:28:07) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.098666204774677 (+3) | vl:3 ping:53 tps:20.0 component: jesus.solid.2
+(12:28:07) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.098666204774677 (+3) | vl:6 ping:53 tps:20.0 component: jesus.solid.2
+(12:28:07) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.155092903160457 (+3) | vl:9 ping:53 tps:20.0 component: jesus.solid.2
+(12:28:07) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.155092903160457 (+3) | vl:12 ping:53 tps:20.0 component: jesus.solid.2
+(12:28:08) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.3176916321019485 (+3) | vl:15 ping:53 tps:20.0 component: jesus.solid.2
+(12:28:08) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.3176916321019485 (+3) | vl:18 ping:53 tps:20.0 component: jesus.solid.2
+(12:28:08) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.3176916321019485 (+3) | vl:21 ping:53 tps:20.0 component: jesus.solid.2
+(12:28:08) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.3697378261187618 (+3) | vl:24 ping:53 tps:20.0 component: jesus.solid.2
+(12:28:08) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.4207430972479413 (+3) | vl:27 ping:53 tps:20.0 component: jesus.solid.2
+(12:28:43) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.041081532115299 (+3) | vl:3 ping:15 tps:20.0 component: jesus.solid.2
+(12:28:43) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.0986599228559264 (+3) | vl:6 ping:15 tps:20.0 component: jesus.solid.2
+(12:28:43) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.0986599228559264 (+3) | vl:9 ping:15 tps:20.0 component: jesus.solid.2
+(12:28:43) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.155086746879962 (+3) | vl:12 ping:15 tps:20.0 component: jesus.solid.2
+(12:28:43) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.264577359401919 (+3) | vl:15 ping:15 tps:20.0 component: jesus.solid.2
+(12:28:43) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.3176858378596585 (+3) | vl:18 ping:15 tps:20.0 component: jesus.solid.2
+(12:28:43) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.3176858378596585 (+3) | vl:21 ping:15 tps:20.0 component: jesus.solid.2
+(12:28:43) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.3697321477612072 (+3) | vl:24 ping:15 tps:20.0 component: jesus.solid.2
+(12:28:43) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.4707228104325776 (+3) | vl:27 ping:15 tps:20.0 component: jesus.solid.2
+(12:30:11) Dep3kiu_TpoJlb failed Speed check | (strafe) change direction in mid-air:0.208 a:153.304 lm:0.151 (+5) | vl:5 ping:50 tps:19.94 component: speed.strafe
+(12:31:27) Dep3kiu_TpoJlb failed Speed check | (strafe) change direction in mid-air:0.201 a:145.161 lm:0.274 (+5) | vl:5 ping:52 tps:20.0 component: speed.strafe
+(12:34:34) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.078 predict:0.118 lm:0.2 hard_pred:0.118 sev_pred:0.42 air_t:1 g:++ tag:gn (+5) | vl:5 ping:45 tps:20.0 component: fly.main
+(12:36:29) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.304 air_t:4 g:-- tag:gn (+5) | vl:5 ping:40 tps:20.0 component: fly.main
+(12:36:49) Dep3kiu_TpoJlb failed Speed check | move no slow down while using/sneaking: m:0.136 a:24 (+4) | vl:4 ping:45 tps:20.0 component: speed.noslow.limit
+(12:37:16) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.162 predict:-0.582 lm:-0.514 hard_pred:-0.582 sev_pred:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:47 tps:20.0 component: fly.main
+(12:39:24) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28834486361295775 fr:0.6 tag:a (+9) | vl:9 ping:62 tps:20.0 component: speed.main
+(12:41:15) YT_Diper_YT failed Fly check | ground spoof | tag: ai-wl | loc: 1791.7,66.0,-701.334 v:-0.155 (+5) | vl:5 ping:786 tps:19.98 component: fly.fg.wl
+(12:42:39) YT_Diper_YT failed Fly check | suspicious movement:-0.059 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:+- tag:gn (+5) | vl:5 ping:906 tps:19.95 component: fly.main
+(12:43:05) Dep3kiu_TpoJlb failed Speed check | (strafe) change direction in mid-air:0.209 a:122.101 lm:0.159 (+5) | vl:5 ping:55 tps:19.99 component: speed.strafe
+(12:45:22) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.078 air_t:4 g:++ tag:gn (+5) | vl:5 ping:52 tps:19.84 component: fly.main
+(12:48:10) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.582 air_t:11 g:-- tag:gn (+5) | vl:5 ping:66 tps:19.96 component: fly.main
+(12:48:21) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2881887022826021 fr:0.6 tag:a (+9) | vl:9 ping:76 tps:19.97 component: speed.main
+(12:48:25) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:10 ping:76 tps:20.0 component: fly.main
+(12:49:36) YT_Diper_YT failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:437 tps:19.99 component: fly.main
+(12:49:53) Dep3kiu_TpoJlb failed Inventory check | inventory move | simple (+2) | vl:2 ping:57 tps:20.0 component: inv.move
+(12:51:18) YT_Diper_YT failed Fly check | move unexpected: 0.0 -> -0.078 (+8) | vl:8 ping:257 tps:19.96 component: fly.fg.pattern.9plus.2
+(12:51:18) YT_Diper_YT failed Fly check | t: af (+5) | vl:13 ping:257 tps:19.96 component: nofall.air
+(12:52:05) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:889 tps:20.0 component: fastuse
+(12:52:20) HoldiSs failed KillAura check | force field | t: base (+4) | vl:4 ping:35 tps:19.97 component: ka.ff
+(12:52:22) HoldiSs failed KillAura check | t: f (+5) | vl:9 ping:35 tps:19.83 component: ka.f
+(12:52:25) HoldiSs failed KillAura check | force field | t: base (+4) | vl:13 ping:41 tps:19.97 component: ka.ff
+(12:52:29) YT_Diper_YT failed Fly check | suspicious movement:-0.58 predict:-0.649 lm:-0.582 hard_pred:-0.649 sev_pred:-0.649 air_t:12 g:-- tag:gn (+5) | vl:5 ping:630 tps:19.93 component: fly.main
+(12:52:29) YT_Diper_YT failed Fly check | ground spoof | send ground packets when falling | a: 3.3306033417796073 (+5) | vl:10 ping:630 tps:19.93 component: fly.fg.nofall
+(12:52:29) YT_Diper_YT failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 3.3306033417796073 val3: true (+10) | vl:20 ping:630 tps:19.93 component: nofall.packet
+(12:52:40) HoldiSs failed FastUse check | fast use (+0) | vl:0 ping:59 tps:19.95 component: fastuse
+(12:53:25) HoldiSs failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:++ tag:gn (+5) | vl:5 ping:56 tps:20.0 component: fly.main
+(12:54:04) YT_Diper_YT failed Fly check | suspicious movement:0.165 predict:0.165 air_t:12 tag:m1 (+10) | vl:10 ping:554 tps:19.97 component: fly.main
+(12:54:04) YT_Diper_YT failed Fly check | suspicious movement:0.083 predict:-0.078 air_t:12 tag:m1 (+10) | vl:20 ping:554 tps:19.97 component: fly.main
+(12:54:06) YT_Diper_YT failed Fly check | suspicious movement:-0.779 predict:-0.149 lm:-0.072 hard_pred:-0.149 sev_pred:-1.248 air_t:6 g:-- tag:gn (+5) | vl:5 ping:554 tps:20.0 component: fly.main
+(12:54:12) YT_Diper_YT failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:+- tag:gn (+5) | vl:10 ping:554 tps:19.94 component: fly.main
+(12:54:15) Reloaded Matrix.
+(12:55:17) YT_Diper_YT failed Speed check | suspicious movement:0.287 expect:0.2873 predict:0.28834136492398993 fr:0.6 tag:a (+9) | vl:9 ping:588 tps:20.0 component: speed.main
+(12:56:07) YT_Diper_YT failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.374 air_t:11 g:-- tag:gn (+5) | vl:5 ping:383 tps:20.0 component: fly.main
+(12:56:48) YT_Diper_YT failed Speed check | suspicious movement:0.7 expect:0.615 predict:0.1900476072194873 fr:0.6 tag:ea (+5) | vl:5 ping:3863 tps:19.94 component: speed.main
+(12:56:48) YT_Diper_YT failed Speed check | suspicious movement:0.637 expect:0.615 predict:0.6624447862745808 fr:0.6 tag:ea (+5) | vl:10 ping:3863 tps:19.94 component: speed.main
+(12:56:48) YT_Diper_YT failed Speed check | suspicious movement:0.637 expect:0.542 predict:0.6624447862745808 fr:0.6 tag:eb (+6) | vl:16 ping:3863 tps:19.94 component: speed.main
+(12:56:56) YT_Diper_YT failed Speed check | suspicious movement:0.534 expect:0.429 predict:0.23397545323509933 gt:4 fr:0.6 tag:b (+8) | vl:24 ping:3863 tps:19.99 component: speed.main
+(12:57:03) YT_Diper_YT failed HitBox check | attacking entities that are not in view:2.245 type:PLAYER vec:1.643,0.441,1.465 hz:1.083 dst:1.822 (+2) | vl:2 ping:2988 tps:19.93 component: hb.direction
+(12:57:04) YT_Diper_YT failed Speed check | suspicious movement:0.604 expect:0.5504351039784668 predict:0.18041146780030792 gt:2 fr:0.6 tag:b (+8) | vl:32 ping:2988 tps:20.0 component: speed.main
+(12:57:12) HoldiSs failed KillAura check | non-human like combat style | confidence: 23.333333333333332 (sp) (+10) | vl:10 ping:57 tps:20.0 component: ka.style
+(12:57:12) YT_Diper_YT failed Speed check | suspicious movement:0.796 expect:0.429 predict:0.15488835090339867 gt:3 fr:0.6 tag:b (+8) | vl:8 ping:2988 tps:20.0 component: speed.main
+(12:57:12) YT_Diper_YT failed Speed check | suspicious movement:0.561 expect:0.429 predict:0.5927672775692007 gt:4 fr:0.6 tag:b (+8) | vl:16 ping:2988 tps:20.0 component: speed.main
+(12:57:12) YT_Diper_YT failed KillAura check | snap | tag: b (+0) | vl:0 ping:2988 tps:20.0 component: ka.snap
+(12:57:19) YT_Diper_YT failed Fly check | suspicious movement:-0.228 predict:-0.075 lm:0.003 hard_pred:-0.075 sev_pred:-0.075 air_t:6 g:-- tag:gn (+5) | vl:5 ping:2302 tps:19.84 component: fly.main
+(12:57:20) HoldiSs failed KillAura check | snap | tag: b (+0) | vl:10 ping:57 tps:19.99 component: ka.snap
+(12:57:20) YT_Diper_YT failed KillAura check | snap | tag: b (+0) | vl:0 ping:2302 tps:19.99 component: ka.snap
+(12:57:21) YT_Diper_YT failed HitBox check | attacking entities that are not in view:3.911 type:PLAYER vec:1.323,-1.432,-3.391 hz:0.796 dst:2.59 (+2) | vl:2 ping:2302 tps:19.99 component: hb.direction
+(12:57:22) YT_Diper_YT failed Speed check | suspicious movement:0.714 expect:0.615 predict:0.17583776013558092 fr:0.6 tag:ea (+5) | vl:21 ping:2302 tps:20.0 component: speed.main
+(12:57:22) YT_Diper_YT failed Speed check | suspicious movement:0.714 expect:0.542 predict:0.17583776013558092 fr:0.6 tag:eb (+6) | vl:27 ping:2302 tps:20.0 component: speed.main
+(12:57:22) YT_Diper_YT failed Speed check | suspicious movement:0.662 expect:0.615 predict:0.6751292654965451 fr:0.6 tag:ea (+5) | vl:32 ping:2302 tps:20.0 component: speed.main
+(12:57:22) YT_Diper_YT failed Speed check | suspicious movement:0.563 expect:0.429 predict:0.18985892845953553 gt:6 fr:0.6 tag:b (+8) | vl:40 ping:2302 tps:20.0 component: speed.main
+(12:57:26) YT_Diper_YT failed HitBox check | attacking entities that are not in view:1.964 type:PLAYER vec:0.611,0.177,-1.858 hz:1.156 dst:3.382 (+2) | vl:4 ping:2302 tps:19.97 component: hb.direction
+(12:57:27) HoldiSs failed KillAura check | attack accuracy | accuracy: 71.42857 , var: 554 (+20) | vl:30 ping:57 tps:19.97 component: ka.accuracy
+(12:57:29) YT_Diper_YT failed Speed check | suspicious movement:0.713 expect:0.429 predict:0.21021595847235247 gt:3 fr:0.6 tag:b (+8) | vl:48 ping:1925 tps:19.92 component: speed.main
+(12:57:32) YT_Diper_YT failed HitBox check | attacking entities that are not in view:2.227 type:PLAYER vec:-1.268,0.452,1.774 hz:1.142 dst:1.456 (+2) | vl:6 ping:1925 tps:19.98 component: hb.direction
+(12:57:34) HoldiSs failed KillAura check | attack accuracy | accuracy: 83.333336 , var: 709 (+20) | vl:50 ping:57 tps:19.98 component: ka.accuracy
+(12:57:34) YT_Diper_YT failed Speed check | suspicious movement:0.544 expect:0.529 predict:0.47339419067261346 gt:1 fr:0.6 tag:b (+8) | vl:56 ping:1925 tps:18.58 component: speed.main
+(12:57:57) HoldiSs failed Speed check | suspicious movement:0.306 ar_t:12 lm:0.266 tag:ed (+15) | vl:15 ping:0 tps:19.93 component: speed.main
+(12:59:52) YT_Diper_YT failed Speed check | suspicious movement:0.487 expect:1.1235 vet:0.003 predict:0.2432756561702144 fr:0.6 tag:d (+8) | vl:8 ping:1964 tps:19.73 component: speed.main
+(13:00:03) YT_Diper_YT failed Speed check | suspicious movement:0.78 expect:0.7022724659002256 predict:0.5451231044432193 gt:1 fr:0.6 tag:b (+8) | vl:16 ping:1533 tps:19.94 component: speed.main
+(13:00:04) YT_Diper_YT failed Fly check | suspicious movement:-0.304 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.652 air_t:8 g:-- tag:gn (+5) | vl:5 ping:1533 tps:19.94 component: fly.main
+(13:00:15) YT_Diper_YT failed Speed check | suspicious movement:0.654 ar_t:12 lm:0.194 tag:ed (+15) | vl:15 ping:1452 tps:19.78 component: speed.main
+(13:00:15) YT_Diper_YT failed Fly check | suspicious movement:-0.582 predict:-0.093 lm:-0.015 hard_pred:-0.093 sev_pred:-1.081 air_t:12 g:++ tag:gn (+5) | vl:5 ping:1452 tps:19.78 component: fly.main
+(13:00:22) YT_Diper_YT failed Speed check | suspicious movement:0.929 expect:0.6208972520847094 predict:1.5672888588003853 fr:0.6 tag:ea (+5) | vl:20 ping:1452 tps:20.0 component: speed.main
+(13:00:22) YT_Diper_YT failed Speed check | suspicious movement:0.85 expect:0.6203664995517472 predict:0.8710119022815054 fr:0.6 tag:ea (+5) | vl:25 ping:1452 tps:20.0 component: speed.main
+(13:00:22) YT_Diper_YT failed Speed check | suspicious movement:0.777 expect:0.619883514732832 predict:0.7986255121427331 fr:0.6 tag:ea (+5) | vl:30 ping:1452 tps:20.0 component: speed.main
+(13:00:22) YT_Diper_YT failed Speed check | suspicious movement:0.711 expect:0.6194439985349524 predict:0.7327696776235715 fr:0.6 tag:ea (+5) | vl:35 ping:1452 tps:20.0 component: speed.main
+(13:00:23) Artiko123 failed Fly check | suspicious movement:0.02 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:38 tps:20.0 component: fly.main
+(13:00:26) HoldiSs failed FastBow check | t: bow aim bot [s] a=358.3673095703125 (+2) | vl:2 ping:51 tps:19.82 component: bow.aim.1
+(13:00:26) HoldiSs failed FastBow check | t: bow aim bot [r] a=358.3673095703125 (+1) | vl:3 ping:51 tps:19.82 component: bot.aim.2
+(13:00:28) YT_Diper_YT failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.165 air_t:3 g:-- tag:gn (+5) | vl:10 ping:1452 tps:19.98 component: fly.main
+(13:00:30) HoldiSs failed KillAura check | snap | tag: b (+0) | vl:0 ping:51 tps:19.96 component: ka.snap
+(13:00:35) YT_Diper_YT failed Speed check | sprint direction: 0.222 angle:336.241 (+5) | vl:40 ping:1163 tps:19.86 component: speed.sprint
+(13:00:35) HoldiSs failed Fly check | suspicious movement:-0.075 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:8 g:-- tag:gn (+5) | vl:5 ping:54 tps:19.86 component: fly.main
+(13:00:36) HoldiSs failed Fly check | suspicious movement:-0.075 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:8 g:-- tag:gn (+5) | vl:10 ping:54 tps:19.86 component: fly.main
+(13:00:37) YT_Diper_YT failed HitBox check | attacking entities that are not in view:2.78 type:PLAYER vec:2.696,-0.437,0.521 hz:1.367 dst:1.737 (+2) | vl:2 ping:1163 tps:19.97 component: hb.direction
+(13:00:40) HoldiSs failed Fly check | suspicious movement:-0.374 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:54 tps:19.9 component: fly.main
+(13:00:42) HoldiSs failed KillAura check | snap | tag: b (+0) | vl:0 ping:54 tps:19.92 component: ka.snap
+(13:00:45) HoldiSs failed Fly check | suspicious movement:-0.078 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:-- tag:gn (+5) | vl:10 ping:54 tps:20.0 component: fly.main
+(13:00:46) HoldiSs failed Fly check | suspicious movement:-0.075 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:8 g:-- tag:gn (+5) | vl:15 ping:54 tps:20.0 component: fly.main
+(13:00:47) HoldiSs failed Fly check | suspicious movement:-0.078 predict:-0.155 lm:-0.078 hard_pred:-0.155 sev_pred:-0.231 air_t:1 g:-- tag:gn (+5) | vl:20 ping:54 tps:19.96 component: fly.main
+(13:00:50) HoldiSs failed Fly check | suspicious movement:-0.078 predict:-0.231 lm:-0.155 hard_pred:-0.231 sev_pred:-0.304 air_t:2 g:-- tag:gn (+5) | vl:25 ping:57 tps:19.98 component: fly.main
+(13:00:50) YT_Diper_YT failed HitBox check | attacking entities that are not in view:2.369 type:PLAYER vec:-1.72,0.739,-1.452 hz:1.019 dst:1.23 (+2) | vl:4 ping:1057 tps:19.98 component: hb.direction
+(13:00:50) YT_Diper_YT failed KillAura check | snap | tag: b (+0) | vl:0 ping:1057 tps:19.94 component: ka.snap
+(13:00:53) HoldiSs failed FastUse check | fast use (+0) | vl:0 ping:57 tps:19.95 component: fastuse
+(13:00:54) YT_Diper_YT failed Fly check | suspicious movement:-0.001 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.083 air_t:3 g:-+ tag:gn (+5) | vl:5 ping:1057 tps:19.95 component: fly.main
+(13:00:56) HoldiSs failed Fly check | suspicious movement:-0.072 predict:-0.152 lm:-0.075 hard_pred:-0.152 sev_pred:-0.228 air_t:7 g:-- tag:gn (+5) | vl:30 ping:57 tps:19.73 component: fly.main
+(13:00:58) HoldiSs failed Fly check | suspicious movement:-0.377 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:35 ping:57 tps:19.87 component: fly.main
+(13:00:59) HoldiSs failed Fly check | suspicious movement:-0.152 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.374 air_t:10 g:-- tag:gn (+5) | vl:40 ping:57 tps:19.91 component: fly.main
+(13:01:00) HoldiSs failed KillAura check | snap | tag: b (+0) | vl:0 ping:57 tps:19.91 component: ka.snap
+(13:01:01) HoldiSs failed KillAura check | attack accuracy | accuracy: 80.0 , var: 571 (+20) | vl:20 ping:57 tps:19.96 component: ka.accuracy
+(13:01:05) YT_Diper_YT failed Speed check | suspicious movement:1.758 expect:0.5601914708158994 predict:0.15497987270368013 gt:1 fr:0.6 tag:b (+16) | vl:16 ping:888 tps:19.97 component: speed.main
+(13:01:05) YT_Diper_YT failed Speed check | suspicious movement:1.074 expect:0.5601914708158994 predict:1.1697862427000396 gt:2 fr:0.6 tag:b (+8) | vl:24 ping:888 tps:19.97 component: speed.main
+(13:01:05) YT_Diper_YT failed Speed check | suspicious movement:0.705 expect:0.429 predict:0.7595123152707689 gt:3 fr:0.6 tag:b (+8) | vl:32 ping:888 tps:19.97 component: speed.main
+(13:01:05) YT_Diper_YT failed Speed check | suspicious movement:0.506 expect:0.429 predict:0.537748964412846 gt:4 fr:0.6 tag:b (+8) | vl:40 ping:888 tps:19.97 component: speed.main
+(13:01:07) YT_Diper_YT failed HitBox check | attacking entities that are not in view:2.557 type:PLAYER vec:1.198,0.255,2.245 hz:1.254 dst:2.499 (+2) | vl:2 ping:888 tps:19.99 component: hb.direction
+(13:01:08) YT_Diper_YT failed HitBox check | attacking entities that are not in view:3.124 type:PLAYER vec:-2.905,-0.615,-0.97 hz:1.388 dst:1.946 (+2) | vl:4 ping:888 tps:19.99 component: hb.direction
+(13:01:10) YT_Diper_YT failed HitBox check | attacking entities that are not in view:2.886 type:PLAYER vec:0.798,-0.133,2.77 hz:1.17 dst:3.638 (+2) | vl:6 ping:888 tps:19.95 component: hb.direction
+(13:01:12) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:888 tps:19.99 component: fastuse
+(13:01:13) HoldiSs failed Fly check | suspicious movement:-0.152 predict:-0.302 lm:-0.228 hard_pred:-0.302 sev_pred:-0.302 air_t:9 g:-- tag:gn (+5) | vl:5 ping:59 tps:19.99 component: fly.main
+(13:01:14) HoldiSs failed Fly check | suspicious movement:-0.152 predict:-0.302 lm:-0.228 hard_pred:-0.302 sev_pred:-0.302 air_t:9 g:-- tag:gn (+5) | vl:10 ping:59 tps:19.99 component: fly.main
+(13:01:16) HoldiSs failed Fly check | suspicious movement:-0.228 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.374 air_t:9 g:-- tag:gn (+5) | vl:15 ping:59 tps:19.99 component: fly.main
+(13:01:20) YT_Diper_YT failed HitBox check | attacking entities that are not in view:2.111 type:PLAYER vec:-2.029,0.579,-0.031 hz:1.364 dst:1.199 (+2) | vl:8 ping:744 tps:19.86 component: hb.direction
+(13:01:20) Artiko123 failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:46 tps:19.86 component: fly.main
+(13:01:22) HoldiSs failed Fly check | suspicious movement:-0.075 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:8 g:-- tag:gn (+5) | vl:20 ping:58 tps:19.97 component: fly.main
+(13:01:23) YT_Diper_YT failed HitBox check | attacking entities that are not in view:2.686 type:PLAYER vec:2.446,0.479,1.0 hz:1.362 dst:2.551 (+2) | vl:10 ping:744 tps:19.9 component: hb.direction
+(13:01:25) HoldiSs failed FastUse check | fast use (+0) | vl:0 ping:58 tps:20.0 component: fastuse
+(13:01:29) YT_Diper_YT failed Fly check | suspicious movement:-0.022 predict:-0.078 lm:0.109 hard_pred:0.028 sev_pred:0.003 air_t:4 g:-- tag:gn (+5) | vl:5 ping:679 tps:19.88 component: fly.main
+(13:01:33) HoldiSs failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:25 ping:58 tps:19.91 component: fly.main
+(13:01:36) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:679 tps:19.83 component: fastuse
+(13:01:41) YT_Diper_YT failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:10 ping:679 tps:19.91 component: fly.main
+(13:01:43) YT_Diper_YT failed Speed check | suspicious movement:1.669 expect:1.2386585956953688 predict:0.32781846506225726 fr:0.6 tag:ea (+20) | vl:20 ping:679 tps:19.97 component: speed.main
+(13:01:43) YT_Diper_YT failed Speed check | suspicious movement:1.311 expect:1.1825293384388833 predict:1.5446529899583377 fr:0.6 tag:ea (+20) | vl:40 ping:679 tps:19.97 component: speed.main
+(13:01:44) YT_Diper_YT failed Fly check | suspicious movement:-0.152 predict:-0.075 lm:0.003 hard_pred:-0.075 sev_pred:-0.075 air_t:6 g:-- tag:gn (+5) | vl:15 ping:633 tps:19.97 component: fly.main
+(13:01:57) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.078 predict:0.118 lm:0.2 hard_pred:0.118 sev_pred:-0.078 air_t:1 g:++ tag:gn (+5) | vl:5 ping:95 tps:19.93 component: fly.main
+(13:01:57) YT_Diper_YT failed Speed check | suspicious movement:1.717 expect:0.8246703634056335 predict:0.27202565005108326 gt:2 fr:0.6 tag:b (+16) | vl:56 ping:633 tps:19.93 component: speed.main
+(13:02:08) YT_Diper_YT failed Speed check | suspicious movement:0.62 expect:0.5778530829744652 predict:0.6510507674048188 fr:0.6 tag:eb (+6) | vl:12 ping:543 tps:19.98 component: speed.main
+(13:02:20) HoldiSs failed FastBow check | t: bow aim bot [s] a=358.14976365864277 (+2) | vl:2 ping:60 tps:19.94 component: bow.aim.1
+(13:02:20) HoldiSs failed FastBow check | t: bow aim bot [r] a=358.14976365864277 (+1) | vl:3 ping:60 tps:19.94 component: bot.aim.2
+(13:02:31) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:81 tps:20.0 component: interact.through
+(13:02:42) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:492 tps:19.92 component: fastuse
+(13:03:18) HoldiSs failed FastUse check | fast use (+0) | vl:0 ping:57 tps:19.98 component: fastuse
+(13:03:22) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:395 tps:19.97 component: fastuse
+(13:03:23) HoldiSs failed Speed check | move no slow down while using/sneaking: m:0.147 a:9 (+4) | vl:4 ping:57 tps:20.0 component: speed.noslow.limit
+(13:03:30) HoldiSs failed Fly check | move unexpected: -0.024 -> -0.078 (+8) | vl:8 ping:57 tps:19.97 component: fly.fg.pattern.9plus.2
+(13:03:30) HoldiSs failed Fly check | send illegal packet to anti fall damage |  val1: 0.22777925 val2: 0.2522033402537289 val3: false (+10) | vl:18 ping:57 tps:19.97 component: nofall.packet
+(13:03:44) YT_Diper_YT failed HitBox check | attacking entities that are not in view:1.429 type:PLAYER vec:0.841,0.652,-0.954 hz:0.562 dst:0.821 (+2) | vl:2 ping:366 tps:19.84 component: hb.direction
+(13:03:44) YT_Diper_YT failed HitBox check | attacking entities that are not in view:4.043 type:PLAYER vec:3.053,-0.919,-2.487 hz:1.129 dst:3.698 (+2) | vl:4 ping:366 tps:19.84 component: hb.direction
+(13:03:46) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.362 expect:0.6235 vet:0.2 predict:0.13899032217055715 fr:0.6 tag:d (+8) | vl:8 ping:103 tps:19.99 component: speed.main
+(13:03:48) HoldiSs failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.248 air_t:1 g:-- tag:gn (+5) | vl:5 ping:55 tps:19.95 component: fly.main
+(13:03:50) YT_Diper_YT failed HitBox check | attacking entities that are not in view:3.438 type:PLAYER vec:-0.324,0.352,3.405 hz:1.148 dst:1.78 (+2) | vl:6 ping:510 tps:19.89 component: hb.direction
+(13:03:52) YT_Diper_YT failed HitBox check | attacking entities that are not in view:1.443 type:PLAYER vec:-1.38,-0.126,-0.4 hz:1.024 dst:1.852 (+2) | vl:8 ping:510 tps:20.0 component: hb.direction
+(13:03:54) HoldiSs failed Fly check | suspicious movement:-0.075 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:8 g:-- tag:gn (+5) | vl:10 ping:58 tps:19.98 component: fly.main
+(13:03:56) YT_Diper_YT failed Fly check | suspicious movement:-0.249 predict:-0.078 lm:0.083 hard_pred:0.003 sev_pred:0.003 air_t:5 g:-+ tag:gn (+5) | vl:5 ping:510 tps:19.99 component: fly.main
+(13:03:58) YT_Diper_YT failed HitBox check | attacking entities that are not in view:2.351 type:PLAYER vec:2.043,0.71,-0.92 hz:0.506 dst:1.334 (+2) | vl:10 ping:510 tps:20.0 component: hb.direction
+(13:03:59) YT_Diper_YT failed HitBox check | attacking entities that are not in view:2.266 type:PLAYER vec:-1.856,1.146,0.614 hz:0.966 dst:1.516 (+2) | vl:12 ping:510 tps:20.0 component: hb.direction
+(13:04:00) YT_Diper_YT failed HitBox check | attacking entities that are not in view:2.573 type:PLAYER vec:2.394,0.568,-0.752 hz:0.941 dst:2.243 (+2) | vl:14 ping:484 tps:20.0 component: hb.direction
+(13:04:02) YT_Diper_YT failed HitBox check | attacking entities that are not in view:1.571 type:PLAYER vec:-0.136,0.228,1.548 hz:1.23 dst:0.851 (+2) | vl:16 ping:484 tps:19.95 component: hb.direction
+(13:04:06) YT_Diper_YT failed Speed check | move no slow down while using/sneaking: m:1.217 a:14 (+4) | vl:4 ping:484 tps:19.7 component: speed.noslow.limit
+(13:04:06) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:484 tps:19.7 component: fastuse
+(13:04:11) HoldiSs failed Fly check | suspicious movement:-0.075 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:8 g:-- tag:gn (+5) | vl:5 ping:57 tps:19.99 component: fly.main
+(13:04:11) YT_Diper_YT failed Fly check | suspicious movement:-0.078 predict:-0.304 lm:-0.231 hard_pred:-0.304 sev_pred:-0.447 air_t:3 g:-- tag:gn (+5) | vl:5 ping:484 tps:19.99 component: fly.main
+(13:04:15) HoldiSs failed Fly check | suspicious movement:-0.152 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.374 air_t:10 g:-- tag:gn (+5) | vl:10 ping:57 tps:19.63 component: fly.main
+(13:04:17) YT_Diper_YT failed HitBox check | attacking entities that are not in view:1.307 type:PLAYER vec:0.241,0.204,-1.268 hz:0.527 dst:0.998 (+2) | vl:3 ping:433 tps:19.63 component: hb.direction
+(13:04:29) HoldiSs failed FastUse check | fast use (+0) | vl:0 ping:57 tps:19.92 component: fastuse
+(13:04:30) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:382 tps:19.92 component: fastuse
+(13:04:33) YT_Diper_YT failed FastBow check | fast bow (+0) | vl:0 ping:382 tps:19.88 component: fastbow
+(13:04:43) HoldiSs failed FastUse check | fast use (+0) | vl:0 ping:58 tps:19.83 component: fastuse
+(13:04:48) YT_Diper_YT failed Speed check | suspicious movement:0.874 expect:0.673500808159994 predict:1.483236154528441 fr:0.6 tag:ea (+5) | vl:5 ping:351 tps:20.0 component: speed.main
+(13:04:48) YT_Diper_YT failed Speed check | suspicious movement:0.795 expect:0.6682357369598393 predict:0.8205423041548922 fr:0.6 tag:ea (+5) | vl:10 ping:351 tps:20.0 component: speed.main
+(13:04:48) YT_Diper_YT failed Speed check | suspicious movement:0.724 expect:0.6634445220296166 predict:0.7490387356090555 fr:0.6 tag:ea (+5) | vl:15 ping:351 tps:20.0 component: speed.main
+(13:04:48) YT_Diper_YT failed Speed check | suspicious movement:0.599 expect:0.5821169110050504 predict:0.6247590785942978 fr:0.6 tag:eb (+6) | vl:21 ping:351 tps:20.0 component: speed.main
+(13:04:48) HoldiSs failed Speed check | move no slow down while using/sneaking: m:0.161 a:14 (+4) | vl:4 ping:58 tps:20.0 component: speed.noslow.limit
+(13:04:51) YT_Diper_YT failed Fly check | suspicious movement:-0.078 predict:-0.149 lm:-0.072 hard_pred:-0.149 sev_pred:-0.075 air_t:6 g:-- tag:gn (+5) | vl:5 ping:351 tps:20.0 component: fly.main
+(13:04:53) HoldiSs failed Fly check | suspicious movement:-0.075 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:8 g:-- tag:gn (+5) | vl:5 ping:57 tps:20.0 component: fly.main
+(13:05:02) HoldiSs failed FastBow check | fast bow (+0) | vl:0 ping:57 tps:19.96 component: fastbow
+(13:05:02) YT_Diper_YT failed FastBow check | fast bow (+0) | vl:0 ping:324 tps:19.96 component: fastbow
+(13:05:05) YT_Diper_YT failed Speed check | suspicious movement:1.574 expect:0.7221055113035445 predict:0.2648759629960382 fr:0.6 tag:ea (+20) | vl:41 ping:324 tps:19.74 component: speed.main
+(13:05:07) YT_Diper_YT failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:10 ping:324 tps:19.93 component: fly.main
+(13:05:10) YT_Diper_YT failed Speed check | suspicious movement:1.616 expect:0.8382408423269718 predict:0.06281516222176091 fr:0.6 tag:ea (+20) | vl:20 ping:324 tps:19.94 component: speed.main
+(13:05:10) YT_Diper_YT failed Speed check | suspicious movement:1.488 expect:0.8181491723722684 predict:1.4964699318134513 fr:0.6 tag:ea (+20) | vl:40 ping:324 tps:19.94 component: speed.main
+(13:05:10) YT_Diper_YT failed Speed check | suspicious movement:1.488 expect:0.7451491723722684 predict:1.4964699318134513 fr:0.6 tag:eb (+6) | vl:46 ping:324 tps:19.94 component: speed.main
+(13:05:10) YT_Diper_YT failed Speed check | suspicious movement:1.373 expect:0.7998657521865633 predict:1.379315050671704 fr:0.6 tag:ea (+20) | vl:66 ping:324 tps:19.94 component: speed.main
+(13:05:11) YT_Diper_YT failed HitBox check | attacking entities that are not in view:3.538 type:PLAYER vec:2.185,-1.016,-2.591 hz:1.0 dst:1.939 (+2) | vl:2 ping:324 tps:19.8 component: hb.direction
+(13:05:17) YT_Diper_YT failed HitBox check | attacking entities that are not in view:1.737 type:PLAYER vec:-1.632,0.517,0.294 hz:1.048 dst:1.79 (+2) | vl:4 ping:320 tps:19.96 component: hb.direction
+(13:05:18) HoldiSs failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:++ tag:gn (+5) | vl:5 ping:56 tps:19.96 component: fly.main
+(13:05:20) HoldiSs failed Fly check | suspicious movement:-0.228 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.374 air_t:10 g:-- tag:gn (+5) | vl:10 ping:58 tps:19.95 component: fly.main
+(13:05:24) YT_Diper_YT failed Fly check | suspicious movement:-0.42 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-+ tag:gn (+5) | vl:5 ping:320 tps:19.92 component: fly.main
+(13:05:25) YT_Diper_YT failed KillAura check | snap | tag: b (+0) | vl:0 ping:320 tps:19.92 component: ka.snap
+(13:05:29) HoldiSs failed Fly check | suspicious movement:-0.075 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:8 g:-- tag:gn (+5) | vl:15 ping:58 tps:19.98 component: fly.main
+(13:05:32) HoldiSs failed Fly check | suspicious movement:-0.228 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.374 air_t:10 g:-- tag:gn (+5) | vl:20 ping:58 tps:20.0 component: fly.main
+(13:05:41) YT_Diper_YT failed Fly check | suspicious movement:-0.302 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.165 air_t:3 g:-- tag:gn (+5) | vl:5 ping:305 tps:19.86 component: fly.main
+(13:05:41) YT_Diper_YT failed Speed check | suspicious movement:1.637 expect:0.7948780603022455 predict:0.2787024956438338 fr:0.6 tag:ea (+20) | vl:36 ping:305 tps:19.94 component: speed.main
+(13:05:47) YT_Diper_YT failed Speed check | suspicious movement:1.676 expect:1.2307753163159727 predict:0.33598234031660923 fr:0.6 tag:ea (+20) | vl:56 ping:294 tps:19.99 component: speed.main
+(13:05:50) YT_Diper_YT failed Fly check | suspicious movement:-0.304 predict:-0.649 lm:-0.582 hard_pred:-0.649 sev_pred:-0.078 air_t:12 g:-- tag:gn (+5) | vl:10 ping:294 tps:19.97 component: fly.main
+(13:05:56) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:294 tps:20.0 component: fastuse
+(13:06:11) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:287 tps:19.98 component: fastuse
+(13:06:17) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.363 expect:0.6235 vet:0.2 predict:0.1401987861379283 fr:0.6 tag:d (+8) | vl:8 ping:62 tps:19.97 component: speed.main
+(13:06:31) YT_Diper_YT failed Speed check | suspicious movement:1.931 expect:1.5897627361465339 predict:0.3022202158210269 fr:0.6 tag:c (+10) | vl:16 ping:465 tps:19.97 component: speed.main
+(13:06:31) YT_Diper_YT failed Speed check | suspicious movement:1.078 expect:0.8271495510607864 predict:1.7828735698893459 fr:0.6 tag:ea (+20) | vl:36 ping:465 tps:19.97 component: speed.main
+(13:06:31) YT_Diper_YT failed Speed check | suspicious movement:1.005 expect:0.808056097029159 predict:1.006725281480794 fr:0.6 tag:ea (+20) | vl:56 ping:465 tps:19.97 component: speed.main
+(13:06:31) YT_Diper_YT failed Speed check | suspicious movement:0.939 expect:0.7906810533596323 predict:0.9402020447982675 fr:0.6 tag:ea (+5) | vl:61 ping:465 tps:19.97 component: speed.main
+(13:06:31) YT_Diper_YT failed Speed check | suspicious movement:0.878 expect:0.7748697631646844 predict:0.8797362801535653 fr:0.6 tag:ea (+5) | vl:66 ping:465 tps:19.97 component: speed.main
+(13:06:31) YT_Diper_YT failed Speed check | suspicious movement:0.823 expect:0.615 predict:0.8247839840065435 fr:0.6 tag:ea (+5) | vl:71 ping:465 tps:19.97 component: speed.main
+(13:06:31) YT_Diper_YT failed Speed check | suspicious movement:0.823 expect:0.542 predict:0.8247839840065435 fr:0.6 tag:eb (+6) | vl:77 ping:465 tps:19.97 component: speed.main
+(13:06:31) YT_Diper_YT failed Speed check | suspicious movement:0.774 expect:0.615 predict:0.7748497195838301 fr:0.6 tag:ea (+5) | vl:82 ping:465 tps:19.97 component: speed.main
+(13:06:31) YT_Diper_YT failed Speed check | suspicious movement:0.728 expect:0.615 predict:0.7294822149646851 fr:0.6 tag:ea (+5) | vl:87 ping:465 tps:19.97 component: speed.main
+(13:06:31) YT_Diper_YT failed Speed check | suspicious movement:0.687 expect:0.615 predict:0.688270365378271 fr:0.6 tag:ea (+5) | vl:92 ping:465 tps:19.97 component: speed.main
+(13:06:31) YT_Diper_YT failed Speed check | suspicious movement:0.65 expect:0.615 predict:0.6508452165731128 fr:0.6 tag:ea (+5) | vl:97 ping:465 tps:19.97 component: speed.main
+(13:06:31) YT_Diper_YT failed Fly check | suspicious movement:-0.152 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.374 air_t:10 g:-- tag:gn (+5) | vl:5 ping:465 tps:19.97 component: fly.main
+(13:06:46) Dep3kiu_TpoJlb failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:57 tps:20.0 component: fly.main
+(13:06:52) YT_Diper_YT failed Speed check | suspicious movement:0.874 expect:0.712507923575577 predict:1.4793159597996428 fr:0.6 tag:ea (+5) | vl:52 ping:412 tps:19.97 component: speed.main
+(13:07:05) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:367 tps:20.0 component: fastuse
+(13:07:06) YT_Diper_YT failed Fly check | suspicious movement:-0.078 predict:-0.152 lm:-0.075 hard_pred:-0.152 sev_pred:-0.152 air_t:7 g:-- tag:gn (+5) | vl:5 ping:367 tps:19.83 component: fly.main
+(13:07:08) YT_Diper_YT failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:367 tps:20.0 component: fly.main
+(13:07:14) YT_Diper_YT failed Speed check | suspicious movement:0.87 expect:0.7742693930968787 predict:1.4820542720710959 fr:0.6 tag:ea (+5) | vl:7 ping:367 tps:19.97 component: speed.main
+(13:07:14) YT_Diper_YT failed Speed check | suspicious movement:0.784 expect:0.7599351518951657 predict:0.8172698068045087 fr:0.6 tag:ea (+5) | vl:12 ping:339 tps:19.97 component: speed.main
+(13:07:15) YT_Diper_YT failed Fly check | suspicious movement:-0.078 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.445 air_t:11 g:-- tag:gn (+5) | vl:10 ping:339 tps:20.0 component: fly.main
+(13:07:17) YT_Diper_YT failed Speed check | suspicious movement:0.952 expect:0.6535759397829976 predict:1.5761689257831037 fr:0.6 tag:ea (+5) | vl:17 ping:339 tps:20.0 component: speed.main
+(13:07:17) YT_Diper_YT failed Speed check | suspicious movement:0.887 expect:0.6501041062142221 predict:0.8914965035193746 fr:0.6 tag:ea (+5) | vl:22 ping:339 tps:20.0 component: speed.main
+(13:07:17) YT_Diper_YT failed Speed check | suspicious movement:0.829 expect:0.6469447375755839 predict:0.8330818942223519 fr:0.6 tag:ea (+5) | vl:27 ping:339 tps:20.0 component: speed.main
+(13:07:17) YT_Diper_YT failed Speed check | suspicious movement:0.777 expect:0.6440697120315654 predict:0.7801225535848076 fr:0.6 tag:ea (+5) | vl:32 ping:339 tps:20.0 component: speed.main
+(13:07:17) YT_Diper_YT failed Speed check | suspicious movement:0.729 expect:0.641453438711108 predict:0.7321304527279656 fr:0.6 tag:ea (+5) | vl:37 ping:339 tps:20.0 component: speed.main
+(13:07:17) YT_Diper_YT failed Speed check | suspicious movement:0.729 expect:0.5684534387111081 predict:0.7321304527279656 fr:0.6 tag:eb (+6) | vl:43 ping:339 tps:20.0 component: speed.main
+(13:07:18) YT_Diper_YT failed Fly check | suspicious movement:-0.078 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:8 g:-- tag:gn (+5) | vl:15 ping:339 tps:20.0 component: fly.main
+(13:07:22) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:339 tps:19.98 component: fastuse
+(13:07:28) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.51 ve:0.42 tag:gs (+5) | vl:5 ping:56 tps:19.99 component: speed.ground
+(13:07:28) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.42 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.42 air_t:1 g:-+ tag:gn (+5) | vl:5 ping:56 tps:19.99 component: fly.main
+(13:07:45) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:345 tps:19.97 component: fastuse
+(13:07:51) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 759.047,73.875,594.722 v:-0.231 (+5) | vl:5 ping:0 tps:20.0 component: fly.fg.wl
+(13:08:12) dany2282005 failed Fly check | suspicious movement:-0.717 predict:-0.155 lm:-0.078 hard_pred:-0.155 sev_pred:-0.155 air_t:1 g:++ tag:gn (+5) | vl:5 ping:72 tps:19.97 component: fly.main
+(13:08:36) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.152 predict:-0.075 lm:0.003 hard_pred:-0.075 sev_pred:-0.445 air_t:6 g:-- tag:gn (+5) | vl:5 ping:69 tps:19.94 component: fly.main
+(13:09:04) dany2282005 failed Fly check | suspicious movement:-0.109 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:0.0 air_t:4 g:-- tag:gn (+5) | vl:5 ping:82 tps:19.93 component: fly.main
+(13:09:05) YT_Diper_YT failed Speed check | (strafe) change direction in mid-air:0.207 a:129.651 lm:0.311 (+5) | vl:5 ping:1406 tps:19.93 component: speed.strafe
+(13:09:08) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 759.776,73.875,594.732 v:-0.155 (+5) | vl:5 ping:46 tps:19.99 component: fly.fg.wl
+(13:09:10) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 760.281,73.875,591.497 v:-0.155 (+5) | vl:10 ping:46 tps:20.0 component: fly.fg.wl
+(13:09:32) dany2282005 failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.078 air_t:12 g:++ tag:gn (+5) | vl:5 ping:98 tps:19.97 component: fly.main
+(13:09:39) dany2282005 failed FastUse check | fast use (+0) | vl:0 ping:96 tps:19.97 component: fastuse
+(13:09:42) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 759.636,73.875,594.761 v:-0.155 (+5) | vl:5 ping:48 tps:20.0 component: fly.fg.wl
+(13:09:44) HoldiSs failed FastUse check | fast use (+0) | vl:0 ping:54 tps:20.0 component: fastuse
+(13:10:03) dany2282005 failed Speed check | suspicious movement:0.48 expect:0.2873 predict:0.2833323175451362 fr:0.6 tag:a (+9) | vl:9 ping:94 tps:19.69 component: speed.main
+(13:10:09) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 759.764,73.875,592.362 v:-0.155 (+5) | vl:5 ping:52 tps:20.0 component: fly.fg.wl
+(13:10:10) dany2282005 failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:91 tps:19.97 component: fly.main
+(13:10:13) dany2282005 failed KillAura check | force field | t: base (+4) | vl:4 ping:91 tps:19.94 component: ka.ff
+(13:10:21) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 759.407,73.875,592.273 v:-0.155 (+5) | vl:10 ping:52 tps:19.93 component: fly.fg.wl
+(13:10:39) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 759.372,73.875,594.728 v:-0.155 (+5) | vl:5 ping:51 tps:19.96 component: fly.fg.wl
+(13:10:41) YT_Diper_YT failed Fly check | ground spoof | tag: ai-wl | loc: 759.399,73.875,594.72 v:-0.155 (+5) | vl:5 ping:1002 tps:19.96 component: fly.fg.wl
+(13:10:47) dany2282005 failed Fly check | suspicious movement:-0.078 predict:0.118 lm:0.2 hard_pred:0.118 sev_pred:-0.078 air_t:1 g:++ tag:gn (+5) | vl:5 ping:88 tps:19.91 component: fly.main
+(13:10:49) dany2282005 failed Fly check | suspicious movement:-0.078 predict:0.118 lm:0.2 hard_pred:0.118 sev_pred:-0.078 air_t:1 g:++ tag:gn (+5) | vl:10 ping:88 tps:20.0 component: fly.main
+(13:12:36) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 760.735,73.875,593.55 v:-0.155 (+5) | vl:5 ping:54 tps:20.0 component: fly.fg.wl
+(13:12:40) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 759.258,73.875,592.325 v:-0.155 (+5) | vl:5 ping:53 tps:19.96 component: fly.fg.wl
+(13:12:44) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 761.529,73.875,592.653 v:-0.155 (+5) | vl:10 ping:53 tps:19.99 component: fly.fg.wl
+(13:12:46) dany2282005 failed Fly check | ground spoof | tag: ai-wl | loc: -3149.338,32.0,1030.7 v:-0.155 (+5) | vl:5 ping:84 tps:20.0 component: fly.fg.wl
+(13:13:11) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 759.531,73.875,594.666 v:-0.155 (+5) | vl:5 ping:53 tps:19.99 component: fly.fg.wl
+(13:13:24) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 759.06,73.875,592.479 v:-0.155 (+5) | vl:10 ping:52 tps:20.0 component: fly.fg.wl
+(13:13:48) dany2282005 failed Speed check | (strafe) change direction in mid-air:0.206 a:93.621 lm:0.251 (+5) | vl:5 ping:89 tps:20.0 component: speed.strafe
+(13:13:58) Dep3kiu_TpoJlb failed Inventory check | inventory move | simple (+2) | vl:2 ping:56 tps:20.0 component: inv.move
+(13:14:05) dany2282005 failed Fly check | suspicious movement:-0.078 predict:-0.155 lm:-0.078 hard_pred:-0.155 sev_pred:-0.231 air_t:1 g:-- tag:gn (+5) | vl:5 ping:87 tps:19.99 component: fly.main
+(13:14:49) dany2282005 failed Fly check | ground spoof | tag: ai-wl | loc: -1259.378,87.0,3464.3 v:-0.155 (+5) | vl:5 ping:86 tps:20.0 component: fly.fg.wl
+(13:15:18) dany2282005 failed FastUse check | fast use (+0) | vl:0 ping:85 tps:19.99 component: fastuse
+(13:15:55) dany2282005 failed Fly check | suspicious movement:-0.162 predict:-0.582 lm:-0.514 hard_pred:-0.582 sev_pred:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:89 tps:19.97 component: fly.main
+(13:16:04) Dep3kiu_TpoJlb failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:55 tps:20.0 component: fly.main
+(13:20:05) dany2282005 failed Fly check | suspicious movement:0.165 predict:0.165 air_t:12 tag:m4 (+10) | vl:10 ping:97 tps:19.84 component: fly.main
+(13:20:05) dany2282005 failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:20 ping:97 tps:19.84 component: fly.main
+(13:20:07) dany2282005 failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:30 ping:97 tps:19.57 component: fly.main
+(13:20:47) dany2282005 failed Fly check | suspicious movement:-0.585 predict:-0.155 lm:-0.078 hard_pred:-0.155 sev_pred:-0.155 air_t:1 g:++ tag:gn (+5) | vl:5 ping:89 tps:19.96 component: fly.main
+(13:21:14) MankaGrief failed Chat check | send the same chat content (+1) | vl:1 ping:58 tps:19.97 component: chat.same
+(13:21:18) dany2282005 failed FastUse check | fast use (+0) | vl:0 ping:88 tps:19.98 component: fastuse
+(13:22:14) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.287 expect:0.2873 predict:0.28800855682521553 fr:0.6 tag:a (+9) | vl:9 ping:54 tps:19.99 component: speed.main
+(13:22:52) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.123 expect:0.342 predict:0.0691190655920058vet:-0.072 fr:0.6 tag:f (+5) | vl:5 ping:56 tps:19.92 component: speed.main
+(13:23:45) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.155 predict:-0.231 lm:-0.155 hard_pred:-0.231 sev_pred:-0.304 air_t:2 g:-- tag:gn (+5) | vl:5 ping:60 tps:19.86 component: fly.main
+(13:24:22) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:72 tps:19.87 component: speed.spin
+(13:24:43) Dep3kiu_TpoJlb failed Fly check | ground spoof | tag: ai-wl | loc: 1999.691,71.0,-2012.39 v:-0.231 (+5) | vl:5 ping:56 tps:19.92 component: fly.fg.wl
+(13:25:00) dany2282005 failed FastUse check | fast use (+0) | vl:0 ping:89 tps:20.0 component: fastuse
+(13:25:14) MankaGrief failed Inventory check | inventory move | simple (+2) | vl:2 ping:78 tps:20.0 component: inv.move
+(13:25:22) Donbicon_ failed Fly check | ground spoof | tag: ai-wl | loc: 2737.31,74.875,2231.65 v:-0.155 (+5) | vl:5 ping:44 tps:19.93 component: fly.fg.wl
+(13:25:26) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:1 ping:55 tps:19.93 component: interact.through
+(13:26:34) WerTual failed Speed check | sprint direction: 0.212 angle:428.174 (+5) | vl:5 ping:0 tps:19.96 component: speed.sprint
+(13:26:34) WerTual failed Speed check | sprint direction: 0.214 angle:426.202 (+5) | vl:10 ping:0 tps:19.96 component: speed.sprint
+(13:26:34) WerTual failed Speed check | sprint direction: 0.212 angle:415.317 (+5) | vl:15 ping:0 tps:19.96 component: speed.sprint
+(13:26:34) WerTual failed Speed check | sprint direction: 0.214 angle:406.121 (+5) | vl:20 ping:0 tps:19.96 component: speed.sprint
+(13:26:34) WerTual failed Speed check | sprint direction: 0.21 angle:460.32 (+5) | vl:25 ping:0 tps:19.96 component: speed.sprint
+(13:26:35) WerTual failed Speed check | sprint direction: 0.212 angle:513.085 (+5) | vl:30 ping:0 tps:19.96 component: speed.sprint
+(13:26:35) WerTual failed Speed check | sprint direction: 0.213 angle:561.617 (+5) | vl:35 ping:0 tps:19.96 component: speed.sprint
+(13:26:35) WerTual failed Speed check | sprint direction: 0.211 angle:564.729 (+5) | vl:40 ping:0 tps:19.6 component: speed.sprint
+(13:26:36) WerTual failed Speed check | sprint direction: 0.211 angle:564.829 (+5) | vl:45 ping:0 tps:19.6 component: speed.sprint
+(13:26:47) Donbicon_ failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:50 tps:20.0 component: fly.main
+(13:27:07) Donbicon_ failed Speed check | suspicious movement:0.48 expect:0.2873 predict:0.2847175673653882 fr:0.6 tag:a (+9) | vl:9 ping:49 tps:19.92 component: speed.main
+(13:27:19) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.126 expect:0.342 predict:0.07088452531496821vet:-0.072 fr:0.6 tag:f (+5) | vl:5 ping:57 tps:19.94 component: speed.main
+(13:28:27) Donbicon_ failed FastUse check | fast use (+0) | vl:0 ping:51 tps:19.96 component: fastuse
+(13:30:33) Dep3kiu_TpoJlb failed Elytra check | move faster than expect | tag: pt-st | s: 7 | move: 0.551 expect: 0.35 (+1) | vl:1 ping:33 tps:19.48 component: elytra.xz
+(13:30:34) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.272 predict:-0.344 air_t:12 tag:g9 (+6) | vl:6 ping:33 tps:19.48 component: fly.main
+(13:31:02) dany2282005 failed Fly check | suspicious movement:-0.043 predict:-0.304 lm:-0.231 hard_pred:-0.304 sev_pred:0.0 air_t:3 g:-- tag:gn (+5) | vl:5 ping:84 tps:19.74 component: fly.main
+(13:31:03) dany2282005 failed Fly check | suspicious movement:-0.027 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:0.0 air_t:5 g:-- tag:gn (+5) | vl:10 ping:84 tps:19.74 component: fly.main
+(13:31:04) dany2282005 failed Fly check | suspicious movement:-0.02 predict:-0.117 lm:-0.039 hard_pred:-0.117 sev_pred:0.0 air_t:12 g:-- tag:gn (+5) | vl:15 ping:84 tps:19.74 component: fly.main
+(13:31:14) Donbicon_ failed FastUse check | fast use (+0) | vl:0 ping:49 tps:19.75 component: fastuse
+(13:32:12) WerTual failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:+- tag:gn (+5) | vl:5 ping:132 tps:20.0 component: fly.main
+(13:32:33) Be3y4uU_Kot failed Speed check | (strafe) change direction in mid-air:0.246 a:113.167 lm:0.322 (+5) | vl:5 ping:93 tps:20.0 component: speed.strafe
+(13:32:37) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:62 tps:19.96 component: fly.main
+(13:32:58) Be3y4uU_Kot failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2881642061900214 fr:0.6 tag:a (+9) | vl:9 ping:89 tps:19.83 component: speed.main
+(13:33:01) Be3y4uU_Kot failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.078 air_t:8 g:-- tag:gn (+5) | vl:5 ping:89 tps:19.85 component: fly.main
+(13:33:43) Be3y4uU_Kot failed Fly check | suspicious movement:-0.098 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:-0.231 air_t:1 g:-- tag:gn (+5) | vl:5 ping:91 tps:19.88 component: fly.main
+(13:33:43) Be3y4uU_Kot failed Fly check | suspicious movement:-0.098 predict:-0.174 lm:-0.098 hard_pred:-0.174 sev_pred:-0.304 air_t:2 g:-- tag:gn (+5) | vl:10 ping:91 tps:19.88 component: fly.main
+(13:33:43) Be3y4uU_Kot failed Fly check | suspicious movement:-0.098 predict:-0.174 lm:-0.098 hard_pred:-0.174 sev_pred:-0.078 air_t:3 g:-- tag:gn (+5) | vl:15 ping:91 tps:19.86 component: fly.main
+(13:33:43) Be3y4uU_Kot failed Fly check | suspicious movement:-0.098 predict:-0.174 lm:-0.098 hard_pred:-0.174 sev_pred:-0.155 air_t:4 g:-- tag:gn (+5) | vl:20 ping:91 tps:19.86 component: fly.main
+(13:34:19) Be3y4uU_Kot failed Fly check | ground spoof | tag: ai-wl | loc: 1498.381,75.0,-1364.52 v:-0.155 (+5) | vl:5 ping:86 tps:19.83 component: fly.fg.wl
+(13:34:24) Be3y4uU_Kot failed Fly check | ground spoof | tag: ai-wl | loc: 1489.665,76.0,-1366.543 v:-0.155 (+5) | vl:10 ping:86 tps:19.66 component: fly.fg.wl
+(13:35:11) WerTual failed Speed check | suspicious movement:1.16 expect:0.40499999999999997 predict:0.26642676017804773 fr:0.6 tag:ea (+20) | vl:20 ping:129 tps:19.94 component: speed.main
+(13:35:20) WerTual failed Speed check | sprint direction: 0.21 angle:561.997 (+5) | vl:5 ping:129 tps:19.94 component: speed.sprint
+(13:35:20) WerTual failed Speed check | sprint direction: 0.213 angle:561.96 (+5) | vl:10 ping:129 tps:19.94 component: speed.sprint
+(13:35:20) WerTual failed Speed check | sprint direction: 0.214 angle:561.94 (+5) | vl:15 ping:129 tps:19.94 component: speed.sprint
+(13:35:20) WerTual failed Speed check | sprint direction: 0.215 angle:561.929 (+5) | vl:20 ping:129 tps:19.94 component: speed.sprint
+(13:35:21) WerTual failed Speed check | sprint direction: 0.215 angle:561.923 (+5) | vl:25 ping:129 tps:19.94 component: speed.sprint
+(13:35:21) WerTual failed Speed check | sprint direction: 0.215 angle:561.92 (+5) | vl:30 ping:129 tps:19.94 component: speed.sprint
+(13:35:21) WerTual failed Speed check | sprint direction: 0.216 angle:561.918 (+5) | vl:35 ping:129 tps:19.94 component: speed.sprint
+(13:35:22) WerTual failed Speed check | sprint direction: 0.212 angle:555.587 (+5) | vl:40 ping:129 tps:19.87 component: speed.sprint
+(13:35:25) Donbicon_ failed Fly check | move unexpected: -0.024 -> -0.078 (+8) | vl:8 ping:402 tps:19.97 component: fly.fg.pattern.9plus.2
+(13:35:25) Donbicon_ failed Fly check | send illegal packet to anti fall damage |  val1: 0.22777925 val2: 0.2522033402537289 val3: false (+10) | vl:18 ping:402 tps:19.97 component: nofall.packet
+(13:35:25) WerTual failed Speed check | sprint direction: 0.21 angle:565.477 (+5) | vl:45 ping:129 tps:19.97 component: speed.sprint
+(13:35:26) WerTual failed Speed check | sprint direction: 0.211 angle:565.477 (+5) | vl:50 ping:129 tps:19.91 component: speed.sprint
+(13:35:26) WerTual failed Speed check | sprint direction: 0.21 angle:565.477 (+5) | vl:55 ping:128 tps:19.91 component: speed.sprint
+(13:35:27) WerTual failed Speed check | sprint direction: 0.211 angle:565.403 (+5) | vl:60 ping:128 tps:19.91 component: speed.sprint
+(13:35:56) MankaGrief failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:78 tps:20.0 component: interact.through
+(13:36:44) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2882757644253136 fr:0.6 tag:a (+9) | vl:9 ping:55 tps:20.0 component: speed.main
+(13:36:47) Dep3kiu_TpoJlb failed Fly check | ground spoof | send ground packets when falling | a: 8.624115481310184 (+5) | vl:5 ping:55 tps:20.0 component: fly.fg.nofall
+(13:36:47) Dep3kiu_TpoJlb failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 0.07840000152587834 val3: true (+10) | vl:15 ping:55 tps:20.0 component: nofall.packet
+(13:36:49) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.078 predict:-0.304 lm:-0.231 hard_pred:-0.304 sev_pred:-0.304 air_t:3 g:-- tag:gn (+5) | vl:20 ping:55 tps:19.97 component: fly.main
+(13:37:02) WerTual failed KillAura check | extremely suspicious rotation feature (+15) | vl:15 ping:132 tps:19.82 component: ka.rotation
+(13:37:04) MankaGrief failed Fly check | ground spoof | tag: ai-wl | loc: -500.386,71.875,-3195.646 v:-0.231 (+5) | vl:5 ping:78 tps:19.93 component: fly.fg.wl
+(13:37:28) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:77 tps:19.86 component: speed.spin
+(13:37:32) Dep3kiu_TpoJlb failed Fly check | ground spoof | tag: ai-wl | loc: 1098.471,72.0,-1028.651 v:-0.155 (+5) | vl:5 ping:56 tps:19.98 component: fly.fg.wl
+(13:38:05) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.078 predict:0.118 lm:0.2 hard_pred:0.118 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:55 tps:19.96 component: fly.main
+(13:39:15) Donbicon_ failed Fly check | ground spoof | tag: ai-wl | loc: 2737.368,74.875,2232.226 v:-0.155 (+5) | vl:5 ping:58 tps:19.86 component: fly.fg.wl
+(13:40:52) WerTual failed FastUse check | fast use (+0) | vl:0 ping:131 tps:19.83 component: fastuse
+(13:40:52) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:62 tps:19.83 component: interact.through
+(13:41:01) Burger_ failed Fly check | suspicious movement:-0.176 predict:-0.514 lm:-0.445 hard_pred:-0.514 sev_pred:-0.078 air_t:12 g:+- tag:gn (+5) | vl:5 ping:0 tps:19.97 component: fly.main
+(13:42:35) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -1190.619,66.0,3619.803 v:-0.155 (+5) | vl:5 ping:131 tps:19.98 component: fly.fg.wl
+(13:42:39) Burger_ failed Speed check | suspicious movement:0.287 expect:0.2873 predict:0.2883547042876227 fr:0.6 tag:a (+9) | vl:9 ping:42 tps:19.96 component: speed.main
+(13:42:51) Burger_ failed Inventory check | inventory move | simple (+2) | vl:2 ping:42 tps:19.74 component: inv.move
+(13:43:01) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -1193.232,66.0,3623.516 v:-0.155 (+5) | vl:5 ping:136 tps:19.95 component: fly.fg.wl
+(13:43:01) WerTual failed Fly check | t: af (+5) | vl:10 ping:136 tps:19.95 component: nofall.air
+(13:43:18) Burger_ failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28858883426653575 fr:0.6 tag:a (+9) | vl:9 ping:45 tps:19.91 component: speed.main
+(13:45:03) Donbicon_ failed Fly check | suspicious movement:-0.33 predict:-0.649 lm:-0.582 hard_pred:-0.649 sev_pred:-0.078 air_t:12 g:+- tag:gn (+5) | vl:5 ping:24 tps:19.89 component: fly.main
+(13:45:12) WerTual failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:+- tag:gn (+5) | vl:5 ping:129 tps:19.89 component: fly.main
+(13:46:03) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: 760.395,73.875,595.308 v:-0.155 (+5) | vl:5 ping:129 tps:19.98 component: fly.fg.wl
+(13:46:12) Donbicon_ failed Fly check | ground spoof | tag: ai-wl | loc: 2724.552,74.0,2237.321 v:-0.155 (+5) | vl:5 ping:46 tps:19.89 component: fly.fg.wl
+(13:46:44) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: 760.16,73.0,594.534 v:-0.155 (+5) | vl:5 ping:14 tps:19.9 component: fly.fg.wl
+(13:46:58) Donbicon_ failed Fly check | suspicious movement:-0.155 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:58 tps:19.89 component: fly.main
+(13:47:09) Donbicon_ failed Chat check | send the same chat content (+1) | vl:1 ping:56 tps:19.96 component: chat.same
+(13:48:00) Donbicon_ failed FastUse check | fast use (+0) | vl:0 ping:79 tps:20.0 component: fastuse
+(13:48:58) Donbicon_ failed Fly check | suspicious movement:-0.075 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:7 g:-- tag:gn (+5) | vl:5 ping:603 tps:19.91 component: fly.main
+(13:49:18) Artiko123 failed Speed check | suspicious movement:0.294 ar_t:12 lm:0.068 tag:ed (+15) | vl:15 ping:58 tps:20.0 component: speed.main
+(13:49:23) Artiko123 failed Speed check | suspicious movement:0.384 expect:0.365 predict:0.14607051901757262 fr:0.6 tag:ea (+5) | vl:20 ping:58 tps:19.91 component: speed.main
+(13:49:23) Artiko123 failed Speed check | suspicious movement:0.384 expect:0.315 predict:0.14607051901757262 fr:0.6 tag:ec (+10) | vl:30 ping:58 tps:19.91 component: speed.main
+(13:50:00) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.381 expect:0.6235 vet:0.2 predict:0.18274338389272238 fr:0.6 tag:d (+8) | vl:8 ping:58 tps:19.83 component: speed.main
+(13:50:37) Donbicon_ failed Speed check | suspicious movement:0.473 ve:0.42 tag:gs (+5) | vl:5 ping:0 tps:20.0 component: speed.ground
+(13:51:17) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.078 predict:0.118 lm:0.2 hard_pred:0.118 sev_pred:0.333 air_t:1 g:+- tag:gn (+5) | vl:5 ping:54 tps:19.97 component: fly.main
+(13:52:25) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: 2735.741,73.0,2234.309 v:-0.155 (+5) | vl:5 ping:101 tps:20.0 component: fly.fg.wl
+(13:52:35) WerTual failed Chat check | send the same chat content (+1) | vl:1 ping:107 tps:20.0 component: chat.same
+(13:58:26) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.425 expect:0.6235 vet:0.2 predict:0.2232284123877073 fr:0.6 tag:d (+8) | vl:8 ping:51 tps:19.99 component: speed.main
+(14:02:42) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=FURNACE b=FURNACE (+1) | vl:1 ping:54 tps:19.94 component: interact.through
+(14:03:26) dany2282005 failed FastUse check | fast use (+0) | vl:0 ping:83 tps:20.0 component: fastuse
+(14:06:08) dany2282005 failed Fly check | suspicious movement:-0.078 predict:0.265 lm:0.35 hard_pred:0.265 sev_pred:-0.078 air_t:1 g:++ tag:gn (+5) | vl:5 ping:83 tps:20.0 component: fly.main
+(14:06:08) dany2282005 failed Fly check | suspicious movement:-0.078 predict:0.265 lm:0.35 hard_pred:0.265 sev_pred:-0.155 air_t:1 g:++ tag:gn (+5) | vl:10 ping:83 tps:20.0 component: fly.main
+(14:08:04) dany2282005 failed AutoBot check | bot like actions | like: Baritone (+4) | vl:4 ping:100 tps:19.95 component: bot.baritone
+(14:08:25) dany2282005 failed FastUse check | fast use (+0) | vl:0 ping:95 tps:19.97 component: fastuse
+(14:08:39) dany2282005 failed FastUse check | fast use (+0) | vl:0 ping:93 tps:20.0 component: fastuse
+(14:08:57) dany2282005 failed Fly check | ground spoof | tag: ai-wl | loc: 754.329,72.0,608.744 v:-0.155 (+5) | vl:5 ping:95 tps:20.0 component: fly.fg.wl
+(14:09:43) Dep3kiu_TpoJlb failed Elytra check | move faster than expect | tag: pt-st-s | s: 43 | move: 1.134 expect: 0.528 (+1) | vl:1 ping:55 tps:19.98 component: elytra.xz
+(14:10:27) Dep3kiu_TpoJlb failed Elytra check | move unexpected: 0.0 -> -0.163 / pb / t:401 (+2) | vl:2 ping:61 tps:20.0 component: elytra.y
+(14:11:03) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:57 tps:20.0 component: fly.main
+(14:11:41) dany2282005 failed Fly check | suspicious movement:-0.078 predict:0.265 lm:0.35 hard_pred:0.265 sev_pred:-0.078 air_t:1 g:++ tag:gn (+5) | vl:5 ping:60 tps:20.0 component: fly.main
+(14:11:42) dany2282005 failed Fly check | suspicious movement:-0.078 predict:0.265 lm:0.35 hard_pred:0.265 sev_pred:-0.078 air_t:1 g:++ tag:gn (+5) | vl:10 ping:60 tps:19.97 component: fly.main
+(14:11:43) dany2282005 failed Fly check | suspicious movement:-0.078 predict:0.265 lm:0.35 hard_pred:0.265 sev_pred:-0.155 air_t:1 g:++ tag:gn (+5) | vl:15 ping:60 tps:19.97 component: fly.main
+(14:13:34) dany2282005 failed KillAura check | force field | t: base (+4) | vl:4 ping:73 tps:19.99 component: ka.ff
+(14:13:34) dany2282005 failed KillAura check | force field | t: base (+4) | vl:8 ping:73 tps:20.0 component: ka.ff
+(14:13:34) dany2282005 failed KillAura check | force field | t: fast (+10) | vl:18 ping:73 tps:20.0 component: ka.ff
+(14:13:35) dany2282005 failed KillAura check | force field | t: base (+4) | vl:22 ping:73 tps:20.0 component: ka.ff
+(14:13:35) dany2282005 failed KillAura check | force field | t: base (+4) | vl:26 ping:73 tps:20.0 component: ka.ff
+(14:13:35) dany2282005 failed KillAura check | force field | t: fast (+10) | vl:36 ping:73 tps:20.0 component: ka.ff
+(14:13:36) dany2282005 failed KillAura check | force field | t: base (+4) | vl:40 ping:73 tps:20.0 component: ka.ff
+(14:13:36) dany2282005 failed KillAura check | force field | t: fast (+10) | vl:50 ping:73 tps:20.0 component: ka.ff
+(14:13:53) dany2282005 failed KillAura check | force field | t: base (+4) | vl:4 ping:0 tps:20.0 component: ka.ff
+(14:13:54) dany2282005 failed KillAura check | force field | t: base (+4) | vl:8 ping:0 tps:20.0 component: ka.ff
+(14:13:54) dany2282005 failed KillAura check | force field | t: base (+4) | vl:12 ping:0 tps:20.0 component: ka.ff
+(14:13:55) dany2282005 failed KillAura check | force field | t: base (+4) | vl:16 ping:0 tps:19.99 component: ka.ff
+(14:15:37) dany2282005 failed Speed check | (strafe) change direction in mid-air:0.202 a:98.093 lm:0.228 (+5) | vl:5 ping:63 tps:19.78 component: speed.strafe
+(14:16:27) dany2282005 failed FastUse check | fast use (+0) | vl:0 ping:75 tps:20.0 component: fastuse
+(14:16:43) Dep3kiu_TpoJlb failed Fly check | ground spoof | tag: ai-wl | loc: 2456.467,67.0,852.628 v:-0.155 (+5) | vl:5 ping:57 tps:20.0 component: fly.fg.wl
+(14:17:10) dany2282005 failed KillAura check | force field | t: base (+4) | vl:4 ping:72 tps:19.94 component: ka.ff
+(14:17:11) dany2282005 failed KillAura check | force field | t: base (+4) | vl:8 ping:72 tps:19.97 component: ka.ff
+(14:17:11) dany2282005 failed KillAura check | force field | t: fast (+10) | vl:18 ping:72 tps:19.97 component: ka.ff
+(14:17:19) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.287 expect:0.2873 predict:0.2879072026100036 fr:0.6 tag:a (+9) | vl:9 ping:57 tps:19.99 component: speed.main
+(14:17:30) dany2282005 failed KillAura check | force field | t: base (+4) | vl:12 ping:71 tps:20.0 component: ka.ff
+(14:17:30) dany2282005 failed KillAura check | force field | t: base (+4) | vl:16 ping:71 tps:20.0 component: ka.ff
+(14:17:35) dany2282005 failed KillAura check | force field | t: base (+4) | vl:20 ping:71 tps:19.98 component: ka.ff
+(14:17:35) dany2282005 failed KillAura check | force field | t: base (+4) | vl:24 ping:71 tps:20.0 component: ka.ff
+(14:17:35) dany2282005 failed KillAura check | force field | t: fast (+10) | vl:34 ping:71 tps:20.0 component: ka.ff
+(14:17:45) dany2282005 failed KillAura check | force field | t: base (+4) | vl:38 ping:71 tps:20.0 component: ka.ff
+(14:17:45) dany2282005 failed KillAura check | force field | t: fast (+10) | vl:48 ping:71 tps:19.97 component: ka.ff
+(14:18:19) Dep3kiu_TpoJlb failed Chat check | send the same chat content (+1) | vl:1 ping:53 tps:20.0 component: chat.same
+(14:18:38) dany2282005 failed Speed check | suspicious movement:0.376 expect:0.365 predict:0.1569533440101437 fr:0.6 tag:ea (+5) | vl:5 ping:31 tps:19.96 component: speed.main
+(14:18:38) dany2282005 failed Speed check | suspicious movement:0.376 ar_t:12 lm:0.144 tag:ed (+15) | vl:20 ping:31 tps:19.96 component: speed.main
+(14:20:48) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.0410879433980318 (+3) | vl:3 ping:56 tps:20.0 component: jesus.solid.2
+(14:20:48) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.0410879433980318 (+3) | vl:6 ping:56 tps:20.0 component: jesus.solid.2
+(14:20:48) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.3697378271478304 (+3) | vl:9 ping:56 tps:20.0 component: jesus.solid.2
+(14:20:48) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.3697378271478304 (+3) | vl:12 ping:56 tps:20.0 component: jesus.solid.2
+(14:20:48) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.4207430982564284 (+3) | vl:15 ping:56 tps:20.0 component: jesus.solid.2
+(14:20:48) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.470728264915703 (+3) | vl:18 ping:56 tps:20.0 component: jesus.solid.2
+(14:20:48) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.470728264915703 (+3) | vl:21 ping:56 tps:20.0 component: jesus.solid.2
+(14:20:48) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.5197137291951834 (+3) | vl:24 ping:56 tps:20.0 component: jesus.solid.2
+(14:20:49) Dep3kiu_TpoJlb failed Jesus check | jesus | solid | t2 val1: -1.7937248822929808 (+3) | vl:27 ping:56 tps:20.0 component: jesus.solid.2
+(14:21:00) dany2282005 failed Chat check | send the same chat content (+1) | vl:1 ping:70 tps:20.0 component: chat.same
+(14:21:19) dany2282005 failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.078 air_t:8 g:-- tag:gn (+5) | vl:5 ping:71 tps:19.99 component: fly.main
+(14:21:31) dany2282005 failed KillAura check | force field | t: base (+4) | vl:4 ping:80 tps:20.0 component: ka.ff
+(14:21:31) dany2282005 failed KillAura check | force field | t: base (+4) | vl:8 ping:80 tps:20.0 component: ka.ff
+(14:21:32) dany2282005 failed KillAura check | force field | t: fast (+10) | vl:18 ping:80 tps:20.0 component: ka.ff
+(14:21:33) dany2282005 failed KillAura check | force field | t: base (+4) | vl:22 ping:80 tps:19.97 component: ka.ff
+(14:21:33) dany2282005 failed KillAura check | force field | t: base (+4) | vl:26 ping:80 tps:19.97 component: ka.ff
+(14:21:33) dany2282005 failed KillAura check | force field | t: fast (+10) | vl:36 ping:80 tps:19.97 component: ka.ff
+(14:21:34) dany2282005 failed KillAura check | force field | t: fast (+10) | vl:46 ping:80 tps:19.97 component: ka.ff
+(14:21:55) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=HUGE_MUSHROOM_2 b=TRAPPED_CHEST (+1) | vl:1 ping:30 tps:20.0 component: interact.through
+(14:21:55) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=STONE b=FURNACE (+1) | vl:2 ping:30 tps:20.0 component: interact.through
+(14:22:17) Dep3kiu_TpoJlb failed KillAura check | force field | t: base (+4) | vl:4 ping:83 tps:19.98 component: ka.ff
+(14:22:21) dany2282005 failed Fly check | ground spoof | tag: ai-wl | loc: 746.052,75.0,635.456 v:-0.231 (+5) | vl:5 ping:31 tps:20.0 component: fly.fg.wl
+(14:39:33) _Neo_ failed Fly check | suspicious movement:-0.176 predict:-0.514 lm:-0.445 hard_pred:-0.514 sev_pred:-0.582 air_t:12 g:+- tag:gn (+5) | vl:5 ping:0 tps:20.0 component: fly.main
+(15:16:52) Matrix Enabled!
+(15:16:52) Version: 2.4.0
+(15:31:01) _Neo_ failed Fly check | suspicious movement:-0.059 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:+- tag:gn (+5) | vl:5 ping:144 tps:19.93 component: fly.main
+(15:31:01) _Neo_ failed Speed check | t: spin (+1) | vl:1 ping:144 tps:19.93 component: speed.spin
+(15:31:01) _Neo_ failed Speed check | t: spin (+1) | vl:2 ping:144 tps:19.93 component: speed.spin
+(15:31:14) _Neo_ failed Fly check | suspicious movement:-0.176 predict:-0.514 lm:-0.445 hard_pred:-0.514 sev_pred:-0.078 air_t:12 g:-- tag:gn (+5) | vl:10 ping:128 tps:19.98 component: fly.main
+(15:32:23) _Neo_ failed Fly check | suspicious movement:-0.162 predict:-0.582 lm:-0.514 hard_pred:-0.582 sev_pred:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:107 tps:19.99 component: fly.main
+(15:32:43) WerTual failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:1 ping:127 tps:20.0 component: interact.through
+(15:32:45) WerTual failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:2 ping:127 tps:20.0 component: interact.through
+(15:32:46) WerTual failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:3 ping:127 tps:20.0 component: interact.through
+(15:32:56) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: 2735.981,74.875,2236.286 v:-0.155 (+5) | vl:5 ping:128 tps:20.0 component: fly.fg.wl
+(15:33:36) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.75,73.875,592.871 v:-0.155 (+5) | vl:5 ping:113 tps:19.97 component: fly.fg.wl
+(15:33:38) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 761.23,73.875,594.302 v:-0.155 (+5) | vl:10 ping:104 tps:19.99 component: fly.fg.wl
+(15:33:40) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.808,73.875,592.655 v:-0.155 (+5) | vl:15 ping:104 tps:19.91 component: fly.fg.wl
+(15:33:45) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.705,73.875,592.804 v:-0.155 (+5) | vl:20 ping:104 tps:19.95 component: fly.fg.wl
+(15:33:46) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 759.966,73.875,592.285 v:-0.155 (+5) | vl:25 ping:104 tps:19.95 component: fly.fg.wl
+(15:34:25) WerTual failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:133 tps:19.99 component: interact.through
+(15:34:39) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: 2735.896,73.5,2236.238 v:-0.155 (+5) | vl:5 ping:133 tps:20.0 component: fly.fg.wl
+(15:35:18) WerTual failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:1 ping:131 tps:19.99 component: interact.through
+(15:35:19) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.239,73.875,591.796 v:-0.155 (+5) | vl:5 ping:90 tps:19.97 component: fly.fg.wl
+(15:35:20) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 761.034,73.875,594.364 v:-0.155 (+5) | vl:10 ping:90 tps:19.97 component: fly.fg.wl
+(15:35:23) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.989,73.875,594.328 v:-0.155 (+5) | vl:15 ping:89 tps:19.93 component: fly.fg.wl
+(15:35:25) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 761.061,73.875,592.757 v:-0.155 (+5) | vl:20 ping:89 tps:20.0 component: fly.fg.wl
+(15:35:55) WerTual failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:132 tps:20.0 component: interact.through
+(15:36:09) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.743,73.875,593.716 v:-0.155 (+5) | vl:5 ping:91 tps:19.99 component: fly.fg.wl
+(15:36:22) WerTual failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:1 ping:131 tps:20.0 component: interact.through
+(15:36:26) WerTual failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:2 ping:131 tps:20.0 component: interact.through
+(15:36:32) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.692,73.875,592.866 v:-0.155 (+5) | vl:5 ping:89 tps:19.95 component: fly.fg.wl
+(15:37:25) WerTual failed FastUse check | fast use (+0) | vl:0 ping:130 tps:19.98 component: fastuse
+(15:39:16) WerTual failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:132 tps:19.96 component: interact.through
+(15:39:20) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 759.514,73.875,592.257 v:-0.155 (+5) | vl:5 ping:88 tps:19.99 component: fly.fg.wl
+(15:39:23) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 759.606,73.875,592.406 v:-0.155 (+5) | vl:10 ping:85 tps:20.0 component: fly.fg.wl
+(15:39:24) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.084,73.875,594.716 v:-0.155 (+5) | vl:15 ping:85 tps:20.0 component: fly.fg.wl
+(15:39:28) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 759.332,73.875,594.62 v:-0.155 (+5) | vl:5 ping:85 tps:19.99 component: fly.fg.wl
+(15:40:45) WerTual failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:131 tps:19.99 component: interact.through
+(15:40:51) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: 2735.741,74.875,2236.331 v:-0.155 (+5) | vl:5 ping:131 tps:19.95 component: fly.fg.wl
+(15:41:12) _Neo_ failed Speed check | t: spin (+1) | vl:1 ping:85 tps:19.96 component: speed.spin
+(15:41:12) _Neo_ failed Speed check | t: spin (+1) | vl:2 ping:85 tps:19.96 component: speed.spin
+(15:41:18) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.644,73.875,593.158 v:-0.231 (+5) | vl:5 ping:85 tps:20.0 component: fly.fg.wl
+(15:42:42) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.732,73.875,593.234 v:-0.155 (+5) | vl:5 ping:84 tps:19.96 component: fly.fg.wl
+(15:42:53) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.253,73.875,592.135 v:-0.155 (+5) | vl:10 ping:84 tps:20.0 component: fly.fg.wl
+(15:42:58) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.387,73.875,591.999 v:-0.155 (+5) | vl:5 ping:84 tps:19.97 component: fly.fg.wl
+(15:43:01) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.249,73.875,595.069 v:-0.155 (+5) | vl:10 ping:84 tps:20.0 component: fly.fg.wl
+(15:43:04) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 760.977,73.875,594.258 v:-0.155 (+5) | vl:15 ping:84 tps:19.94 component: fly.fg.wl
+(15:43:06) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 761.032,73.875,592.72 v:-0.155 (+5) | vl:20 ping:84 tps:20.0 component: fly.fg.wl
+(15:44:42) Donbicon_ failed Chat check | send the same chat content (+1) | vl:1 ping:25 tps:19.98 component: chat.same
+(16:03:24) Anime_dasha failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.304 air_t:12 g:-+ tag:gn (+5) | vl:5 ping:58 tps:20.0 component: fly.main
+(16:03:55) Anime_dasha failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.078 air_t:12 g:++ tag:gn (+5) | vl:5 ping:58 tps:20.0 component: fly.main
+(16:04:25) Anime_dasha failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.078 air_t:12 g:-+ tag:gn (+5) | vl:5 ping:58 tps:19.95 component: fly.main
+(16:04:50) Anime_dasha failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.078 air_t:12 g:-+ tag:gn (+5) | vl:5 ping:58 tps:19.96 component: fly.main
+(16:06:38) Anime_dasha failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.304 air_t:12 g:-+ tag:gn (+5) | vl:5 ping:59 tps:20.0 component: fly.main
+(16:08:42) Anime_dasha failed Interact check | interact block through walls ,o=GRASS b=ENDER_CHEST (+1) | vl:1 ping:58 tps:20.0 component: interact.through
+(16:08:58) Anime_dasha failed Interact check | interact block through walls ,o=STONE b=ENDER_CHEST (+1) | vl:2 ping:58 tps:19.99 component: interact.through
+(16:09:44) Anime_dasha failed KillAura check | extremely suspicious rotation feature (+15) | vl:15 ping:58 tps:19.91 component: ka.rotation
+(16:10:05) Anime_dasha failed KillAura check | t: f (+5) | vl:10 ping:58 tps:19.94 component: ka.f
+(16:10:53) Anime_dasha failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:10 g:-- tag:gn (+5) | vl:5 ping:58 tps:19.91 component: fly.main
+(16:12:22) dododo2555 failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:117 tps:19.99 component: fly.main
+(16:12:22) dododo2555 failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:10 ping:117 tps:19.99 component: fly.main
+(16:12:23) dododo2555 failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.514 air_t:11 g:-- tag:gn (+5) | vl:15 ping:119 tps:19.96 component: fly.main
+(16:14:35) Anime_dasha failed Fly check | ground spoof | tag: ai-wl | loc: 786.706,73.063,595.327 v:-0.155 (+5) | vl:5 ping:59 tps:20.0 component: fly.fg.wl
+(16:20:03) MemasGelya failed Fly check | ground spoof | tag: ai-wl | loc: 716.635,74.0,592.752 v:-0.155 (+5) | vl:5 ping:147 tps:19.94 component: fly.fg.wl
+(16:20:35) MemasGelya failed Fly check | ground spoof | tag: ai-wl | loc: -2090.63,73.0,3622.376 v:-0.155 (+5) | vl:5 ping:141 tps:19.61 component: fly.fg.wl
+(16:21:07) MemasGelya failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:137 tps:19.96 component: fly.main
+(16:23:50) Anime_dasha failed Jesus check | jesus | pattern: st (+3) | vl:3 ping:58 tps:20.0 component: jesus.st
+(16:23:50) Anime_dasha failed Jesus check | jesus | pattern: st (+3) | vl:6 ping:58 tps:20.0 component: jesus.st
+(16:23:50) Anime_dasha failed Jesus check | jesus | pattern: st (+3) | vl:9 ping:58 tps:20.0 component: jesus.st
+(16:24:14) MemasGelya failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:134 tps:20.0 component: fly.main
+(16:27:50) MemasGelya failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:142 tps:19.98 component: fly.main
+(16:30:25) Anime_dasha failed Jesus check | liquid speed:0.122 expect:0.12 dmg: false flw:false (+3) | vl:3 ping:59 tps:19.92 component: jesus.speed.in
+(16:30:59) MemasGelya failed Interact check | interact block through walls ,o=SAND b=CHEST (+1) | vl:1 ping:131 tps:19.99 component: interact.through
+(16:31:58) Anime_dasha failed KillAura check | extremely suspicious rotation feature (+15) | vl:15 ping:58 tps:20.0 component: ka.rotation
+(16:32:29) Anime_dasha failed Speed check | suspicious movement:0.47 expect:0.469 predict:0.3410757259980957 gt:1 fr:0.6 tag:b (+8) | vl:8 ping:58 tps:20.0 component: speed.main
+(16:32:53) MemasGelya failed Fly check | ground spoof | tag: fake air packet | at: 853.737,75.0,1025.329 t: 725.5,74.0,593.5 (+7) | vl:7 ping:129 tps:20.0 component: fly.fg.air
+(16:33:14) Anime_dasha failed Fly check | suspicious movement:-0.078 predict:0.196 lm:0.28 hard_pred:0.196 sev_pred:-0.155 air_t:2 g:++ tag:gn (+5) | vl:5 ping:58 tps:20.0 component: fly.main
+(16:33:26) Anime_dasha failed Fly check | suspicious movement:-0.078 predict:-0.008 lm:0.072 hard_pred:-0.008 sev_pred:-0.231 air_t:3 g:-- tag:gn (+5) | vl:10 ping:58 tps:20.0 component: fly.main
+(16:34:03) MemasGelya failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:132 tps:19.99 component: fly.main
+(16:34:18) MemasGelya failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.078 air_t:4 g:++ tag:gn (+5) | vl:10 ping:132 tps:19.96 component: fly.main
+(16:36:42) MemasGelya failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.078 air_t:8 g:-- tag:gn (+5) | vl:5 ping:129 tps:19.97 component: fly.main
+(16:36:43) MemasGelya failed Fly check | ground spoof | tag: ai-wl | loc: 3256.7,74.0,2335.453 v:-0.155 (+5) | vl:10 ping:129 tps:19.97 component: fly.fg.wl
+(16:37:38) MemasGelya failed Fly check | ground spoof | tag: ai-wl | loc: 3278.481,80.0,2345.313 v:-0.155 (+5) | vl:5 ping:128 tps:19.99 component: fly.fg.wl
+(16:39:05) MemasGelya failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2886761117812993 fr:0.6 tag:a (+9) | vl:9 ping:135 tps:19.89 component: speed.main
+(16:39:09) MemasGelya failed Fly check | ground spoof | tag: ai-wl | loc: 3339.377,69.0,2428.354 v:-0.155 (+5) | vl:5 ping:135 tps:19.93 component: fly.fg.wl
+(16:39:51) MemasGelya failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.165 air_t:3 g:-- tag:gn (+5) | vl:5 ping:144 tps:19.99 component: fly.main
+(18:21:27) chelo failed Speed check | suspicious movement:0.932 expect:1.1235 vet:0.1 predict:0.16227604852817923 fr:0.6 tag:d (+8) | vl:8 ping:19 tps:20.0 component: speed.main
+(18:22:45) chelo failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28857975800605207 fr:0.6 tag:a (+9) | vl:9 ping:223 tps:19.97 component: speed.main
+(18:23:53) chelo failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28849560096646804 fr:0.6 tag:a (+9) | vl:9 ping:266 tps:20.0 component: speed.main
+(18:24:14) chelo failed Fly check | move unexpected: -0.024 -> -0.078 (+8) | vl:8 ping:218 tps:20.0 component: fly.fg.pattern.9plus.2
+(18:24:14) chelo failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 0.24918707874468282 val3: false (+10) | vl:18 ping:218 tps:20.0 component: nofall.packet
+(18:24:34) Donbicon_ failed Speed check | suspicious movement:0.489 ve:0.42 tag:gs (+5) | vl:5 ping:561 tps:20.0 component: speed.ground
+(18:24:36) Donbicon_ failed Interact check | interact block through walls ,o=GRASS b=ENDER_CHEST (+1) | vl:1 ping:561 tps:20.0 component: interact.through
+(19:51:15) III_4elovek_III_ failed FastUse check | fast use (+0) | vl:0 ping:59 tps:20.0 component: fastuse
+(19:51:35) III_4elovek_III_ failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.155 air_t:4 g:-- tag:gn (+5) | vl:5 ping:59 tps:19.82 component: fly.main
+(19:52:02) III_4elovek_III_ failed Speed check | suspicious movement:0.418 expect:0.392 predict:0.02553112208227884 fr:0.6 tag:eb (+6) | vl:6 ping:70 tps:19.99 component: speed.main
+(19:52:16) III_4elovek_III_ failed FastUse check | fast use (+0) | vl:0 ping:69 tps:20.0 component: fastuse
+(19:53:24) III_4elovek_III_ failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:+- tag:gn (+5) | vl:5 ping:76 tps:20.0 component: fly.main
+(19:53:54) III_4elovek_III_ failed FastUse check | fast use (+0) | vl:0 ping:69 tps:19.99 component: fastuse
+(19:54:01) III_4elovek_III_ failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:148 tps:19.98 component: fly.main
+(19:56:11) III_4elovek_III_ failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.078 air_t:8 g:-- tag:gn (+5) | vl:5 ping:74 tps:20.0 component: fly.main
+(19:56:35) III_4elovek_III_ failed Fly check | ground spoof | tag: ai-wl | loc: -3660.718,96.0,2874.36 v:-0.231 (+5) | vl:10 ping:71 tps:19.99 component: fly.fg.wl
+(19:57:03) III_4elovek_III_ failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.083 air_t:3 g:-- tag:gn (+5) | vl:5 ping:122 tps:19.99 component: fly.main
+(19:57:26) III_4elovek_III_ failed FastUse check | fast use (+0) | vl:0 ping:106 tps:20.0 component: fastuse
+(19:58:15) III_4elovek_III_ failed Fly check | move unexpected: -0.152 -> -0.228 (+8) | vl:8 ping:75 tps:20.0 component: fly.fg.pattern.9plus.2
+(19:58:15) III_4elovek_III_ failed Fly check | send illegal packet to anti fall damage |  val1: 0.075444065 val2: 0.2247629905309907 val3: false (+10) | vl:18 ping:75 tps:20.0 component: nofall.packet
+(19:58:31) III_4elovek_III_ failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:23 ping:98 tps:20.0 component: fly.main
+(19:58:41) III_4elovek_III_ failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:++ tag:gn (+5) | vl:5 ping:98 tps:20.0 component: fly.main
+(19:59:17) III_4elovek_III_ failed Jesus check | liquid speed:0.127 expect:0.12 dmg: false flw:false (+3) | vl:3 ping:76 tps:20.0 component: jesus.speed.in
+(19:59:17) III_4elovek_III_ failed Jesus check | liquid speed:0.121 expect:0.12 dmg: false flw:false (+3) | vl:6 ping:76 tps:20.0 component: jesus.speed.in
+(19:59:18) III_4elovek_III_ failed Jesus check | liquid speed:0.127 expect:0.12 dmg: false flw:false (+3) | vl:9 ping:76 tps:20.0 component: jesus.speed.in
+(19:59:18) III_4elovek_III_ failed Jesus check | liquid speed:0.121 expect:0.12 dmg: false flw:false (+3) | vl:12 ping:76 tps:20.0 component: jesus.speed.in
+(20:00:48) III_4elovek_III_ failed KillAura check | force field | t: base (+4) | vl:4 ping:66 tps:20.0 component: ka.ff
+(20:00:50) III_4elovek_III_ failed KillAura check | force field | t: base (+4) | vl:8 ping:66 tps:20.0 component: ka.ff
+(20:01:11) III_4elovek_III_ failed FastUse check | fast use (+0) | vl:0 ping:65 tps:20.0 component: fastuse
+(20:01:54) III_4elovek_III_ failed Speed check | suspicious movement:0.378 expect:0.365 predict:0.04376754268041545 fr:0.6 tag:ea (+5) | vl:5 ping:77 tps:20.0 component: speed.main
+(20:02:04) III_4elovek_III_ failed Jesus check | liquid speed:0.121 expect:0.12 dmg: false flw:false (+3) | vl:3 ping:72 tps:20.0 component: jesus.speed.in
+(20:02:29) III_4elovek_III_ failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.078 air_t:8 g:-- tag:gn (+5) | vl:5 ping:72 tps:20.0 component: fly.main
+(20:03:46) III_4elovek_III_ failed KillAura check | yaw pattern |  r:0.545 h:56 (+0) | vl:0 ping:69 tps:20.0 component: ka.yaw
+(20:04:15) III_4elovek_III_ failed FastUse check | fast use (+0) | vl:0 ping:65 tps:20.0 component: fastuse
+(20:04:58) III_4elovek_III_ failed Fly check | ground spoof | tag: ai-wl | loc: 3121.7,71.0,2626.313 v:-0.155 (+5) | vl:5 ping:65 tps:20.0 component: fly.fg.wl
+(23:47:14) _Neo_ failed Speed check | t: spin (+1) | vl:1 ping:95 tps:20.0 component: speed.spin
+(23:47:59) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 759.486,73.875,594.699 v:-0.155 (+5) | vl:5 ping:74 tps:20.0 component: fly.fg.wl
+(23:48:00) _Neo_ failed Fly check | ground spoof | tag: ai-wl | loc: 759.309,73.875,592.306 v:-0.155 (+5) | vl:10 ping:67 tps:20.0 component: fly.fg.wl

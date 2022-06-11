@@ -1,0 +1,308 @@
+(02:00:44) Matrix Enabled!
+(02:00:44) Version: 2.4.4
+(09:14:53) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:49 tps:20.0 component: speed.spin
+(09:17:25) Artiko123 failed Speed check | suspicious movement:0.407 expect:0.365 predict:0.07755292703294685 fr:0.6 tag:ea (+5) | vl:5 ping:57 tps:20.0 component: speed.main
+(09:17:25) Artiko123 failed Speed check | suspicious movement:0.407 ar_t:12 lm:0.057 tag:ed (+15) | vl:20 ping:57 tps:20.0 component: speed.main
+(09:17:56) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:57 tps:20.0 component: speed.spin
+(09:18:11) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: -165.472,70.0,-1065.317 v:-0.155 (+5) | vl:5 ping:57 tps:20.0 component: fly.fg.wl
+(10:30:59) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: -173.51,74.0,-995.025 v:-0.155 (+5) | vl:5 ping:0 tps:19.98 component: fly.fg.wl
+(10:31:00) Artiko123 failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:15 ping:14 tps:19.99 component: fly.main
+(10:33:17) Artiko123 failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:53 tps:20.0 component: fly.main
+(10:34:56) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:56 tps:20.0 component: speed.spin
+(10:52:39) Artiko123 failed AutoBot check | bot like actions | like: Baritone (+4) | vl:4 ping:57 tps:20.0 component: bot.baritone
+(10:53:03) Artiko123 failed Speed check | (strafe) change direction in mid-air:0.231 a:105.778 lm:0.293 (+5) | vl:5 ping:57 tps:20.0 component: speed.strafe
+(11:18:24) 79041123177 failed Fly check | suspicious movement:-2.907 predict:-2.967 lm:-2.948 hard_pred:-2.967 sev_pred:-2.986 air_t:12 g:-- tag:gn (+5) | vl:5 ping:81 tps:19.93 component: fly.main
+(11:23:10) Alexey_Vilnusov failed Chat check | send the same chat content (+1) | vl:1 ping:53 tps:19.99 component: chat.same
+(11:26:27) Alexey_Vilnusov failed Chat check | send the same chat content (+1) | vl:1 ping:50 tps:20.0 component: chat.same
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:2 ping:50 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:4 ping:50 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:6 ping:50 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:8 ping:50 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:10 ping:50 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:12 ping:50 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:14 ping:50 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:16 ping:50 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:18 ping:50 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:20 ping:50 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:22 ping:0 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:24 ping:0 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:26 ping:0 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:28 ping:0 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:30 ping:0 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:32 ping:0 tps:20.0 component: inv.move
+(11:26:35) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:34 ping:0 tps:20.0 component: inv.move
+(11:26:50) Alexey_Vilnusov failed Speed check | sprint direction: 0.235 angle:406.704 (+5) | vl:5 ping:0 tps:19.97 component: speed.sprint
+(11:26:50) Alexey_Vilnusov failed Speed check | sprint direction: 0.229 angle:324.09 (+5) | vl:10 ping:0 tps:19.97 component: speed.sprint
+(11:29:10) Alexey_Vilnusov failed FastUse check | fast use (+0) | vl:0 ping:47 tps:19.98 component: fastuse
+(11:34:40) Alexey_Vilnusov failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:44 tps:20.0 component: fly.main
+(11:34:59) Alexey_Vilnusov failed Speed check | sprint direction: 0.244 angle:300.996 (+5) | vl:5 ping:46 tps:20.0 component: speed.sprint
+(11:35:11) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: -203.797,73.0,-1072.617 v:-0.155 (+5) | vl:5 ping:59 tps:20.0 component: fly.fg.wl
+(11:35:53) Alexey_Vilnusov failed FastUse check | fast use (+0) | vl:0 ping:49 tps:20.0 component: fastuse
+(11:36:14) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: -163.322,71.0,-1035.757 v:-0.152 (+5) | vl:5 ping:59 tps:20.0 component: fly.fg.wl
+(11:36:19) _DIBILLO_ failed Chat check | send the same chat content (+1) | vl:1 ping:74 tps:20.0 component: chat.same
+(11:37:09) Artiko123 failed Fly check | suspicious movement:-0.078 predict:0.196 lm:0.28 hard_pred:0.196 sev_pred:-0.155 air_t:2 g:++ tag:gn (+5) | vl:5 ping:57 tps:20.0 component: fly.main
+(11:37:11) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:57 tps:20.0 component: speed.spin
+(11:37:53) _DIBILLO_ failed HitBox check | attacking entities that are not in view:1.382 type:PLAYER vec:0.429,0.558,1.189 hz:0.593 dst:0.649 (+2) | vl:2 ping:74 tps:19.99 component: hb.direction
+(11:37:56) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: -202.699,73.0,-1034.58 v:-0.155 (+5) | vl:5 ping:58 tps:20.0 component: fly.fg.wl
+(11:39:06) _DIBILLO_ failed HitBox check | attacking entities that are not in view:1.671 type:PLAYER vec:0.495,-0.085,1.594 hz:1.248 dst:3.027 (+2) | vl:2 ping:74 tps:19.99 component: hb.direction
+(11:39:22) Alexey_Vilnusov failed Speed check | move no slow down while using/sneaking: m:0.136 a:16 (+4) | vl:4 ping:36 tps:20.0 component: speed.noslow.limit
+(11:39:46) _DIBILLO_ failed Chat check | send the same chat content (+1) | vl:1 ping:74 tps:20.0 component: chat.same
+(11:41:58) Alexey_Vilnusov failed Speed check | suspicious movement:0.287 expect:0.2873 predict:0.28787754282538486 fr:0.6 tag:a (+9) | vl:9 ping:49 tps:19.91 component: speed.main
+(11:41:59) _DIBILLO_ failed Chat check | send the same chat content (+1) | vl:1 ping:77 tps:20.0 component: chat.same
+(11:45:39) Alexey_Vilnusov failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:1 ping:59 tps:20.0 component: interact.through
+(11:48:16) Alexey_Vilnusov failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:12 tps:20.0 component: fly.main
+(11:52:39) _DIBILLO_ failed Speed check | move no slow down while using/sneaking: m:0.136 a:77 (+4) | vl:4 ping:74 tps:20.0 component: speed.noslow.limit
+(11:55:50) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -178.48,73.063,-998.065 v:-0.155 (+5) | vl:5 ping:74 tps:20.0 component: fly.fg.wl
+(11:58:31) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: 2716.46,65.0,1451.614 v:-0.155 (+5) | vl:5 ping:82 tps:19.91 component: fly.fg.wl
+(11:58:42) _DIBILLO_ failed HitBox check | attacking entities that are not in view:1.301 type:COW vec:0.272,0.708,1.057 hz:0.576 dst:1.413 (+2) | vl:2 ping:80 tps:19.98 component: hb.direction
+(11:59:26) _DIBILLO_ failed FastUse check | fast use (+0) | vl:0 ping:76 tps:20.0 component: fastuse
+(12:00:12) _DIBILLO_ failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:75 tps:20.0 component: fly.main
+(12:00:14) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: 2823.348,71.0,1409.561 v:-0.155 (+5) | vl:10 ping:75 tps:20.0 component: fly.fg.wl
+(12:01:04) _DIBILLO_ failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:75 tps:19.93 component: fly.main
+(12:02:57) _DIBILLO_ failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:74 tps:20.0 component: fly.main
+(12:05:04) _DIBILLO_ failed Speed check | suspicious movement:0.365 expect:0.365 predict:0.5916531448248219 fr:0.6 tag:ea (+5) | vl:5 ping:74 tps:19.95 component: speed.main
+(12:05:50) _DIBILLO_ failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:74 tps:19.99 component: fly.main
+(12:07:32) _DIBILLO_ failed KillAura check | (yaw) yaw pattern:0.545, hms:53 (+5) | vl:5 ping:75 tps:20.0 component: ka.yaw
+(12:07:48) Alexey_Vilnusov failed Inventory check | inventory move | simple (+2) | vl:2 ping:127 tps:20.0 component: inv.move
+(12:08:07) _DIBILLO_ failed KillAura check | (npc) force field (+5) | vl:5 ping:74 tps:20.0 component: ka.ff
+(12:08:13) _DIBILLO_ failed KillAura check | (npc) force field (+5) | vl:10 ping:74 tps:20.0 component: ka.ff
+(12:08:34) _DIBILLO_ failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.374 air_t:11 g:-- tag:gn (+5) | vl:5 ping:88 tps:19.96 component: fly.main
+(12:08:38) _DIBILLO_ failed Fly check | suspicious movement:-0.162 predict:-0.582 lm:-0.514 hard_pred:-0.582 sev_pred:-0.078 air_t:12 g:-- tag:gn (+5) | vl:10 ping:88 tps:20.0 component: fly.main
+(12:10:17) _DIBILLO_ failed Fly check | move unexpected: -0.024 -> -0.078 (+8) | vl:8 ping:74 tps:20.0 component: fly.fg.pattern.9plus.2
+(12:10:17) _DIBILLO_ failed Fly check | send illegal packet to anti fall damage |  val1: 0.22777925 val2: 0.2522033402537289 val3: false (+10) | vl:18 ping:74 tps:20.0 component: nofall.packet
+(12:11:15) _DIBILLO_ failed Speed check | suspicious movement:0.471 expect:0.2873 predict:0.27291253967007845 fr:0.6 tag:a (+9) | vl:9 ping:74 tps:20.0 component: speed.main
+(12:11:33) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -3999.7,71.0,-446.569 v:-0.155 (+5) | vl:5 ping:74 tps:20.0 component: fly.fg.wl
+(12:11:34) _DIBILLO_ failed Fly check | suspicious movement:-0.155 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:++ tag:gn (+5) | vl:10 ping:74 tps:20.0 component: fly.main
+(12:11:36) _DIBILLO_ failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.248 air_t:1 g:++ tag:gn (+5) | vl:15 ping:74 tps:20.0 component: fly.main
+(12:11:59) _DIBILLO_ failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:75 tps:20.0 component: fly.main
+(12:12:00) _DIBILLO_ failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:20 ping:75 tps:20.0 component: fly.main
+(12:12:02) _DIBILLO_ failed HitBox check | attacking entities that are not in view:1.817 type:PIG vec:-0.724,0.514,1.585 hz:0.73 dst:2.252 (+2) | vl:2 ping:75 tps:20.0 component: hb.direction
+(12:15:34) _DIBILLO_ failed Speed check | move no slow down while using/sneaking: m:0.136 a:28 (+4) | vl:4 ping:74 tps:20.0 component: speed.noslow.limit
+(12:18:01) _DIBILLO_ failed FastUse check | fast use (+0) | vl:0 ping:74 tps:20.0 component: fastuse
+(12:19:58) _DIBILLO_ failed Speed check | suspicious movement:0.406 expect:0.365 predict:0.06206644818502825 fr:0.6 tag:ea (+5) | vl:5 ping:74 tps:20.0 component: speed.main
+(12:19:58) _DIBILLO_ failed Speed check | suspicious movement:0.406 expect:0.342 predict:0.06206644818502825 fr:0.6 tag:eb (+6) | vl:11 ping:74 tps:20.0 component: speed.main
+(12:21:17) _DIBILLO_ failed HitBox check | reach: 3.717 expected: 3.583 cb:false sw:false dv:-2.024 lt:1 (+1) | vl:1 ping:75 tps:19.93 component: hb.reach
+(12:25:20) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: 334.31,65.0,1084.772 v:-0.155 (+5) | vl:5 ping:75 tps:19.86 component: fly.fg.wl
+(12:25:54) _DIBILLO_ failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:74 tps:19.81 component: fly.main
+(12:26:49) _DIBILLO_ failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:74 tps:19.99 component: fly.main
+(12:27:39) _DIBILLO_ failed Speed check | (strafe) change direction in mid-air:0.327 a:104.484 lm:0.311 (+5) | vl:5 ping:74 tps:19.91 component: speed.strafe
+(12:27:39) _DIBILLO_ failed Speed check | suspicious movement:0.327 ar_t:12 lm:0.308 tag:ed (+15) | vl:20 ping:74 tps:19.91 component: speed.main
+(12:27:46) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -2696.689,75.0,1784.451 v:-0.155 (+5) | vl:5 ping:74 tps:19.97 component: fly.fg.wl
+(12:27:46) _DIBILLO_ failed Fly check | t: af (+5) | vl:10 ping:74 tps:19.97 component: nofall.air
+(12:28:08) _DIBILLO_ failed Speed check | suspicious movement:0.287 expect:0.2873 predict:0.28795622170301904 fr:0.6 tag:a (+9) | vl:9 ping:74 tps:19.93 component: speed.main
+(12:30:23) _DIBILLO_ failed Fly check | move unexpected: -0.024 -> -0.078 (+8) | vl:8 ping:75 tps:20.0 component: fly.fg.pattern.9plus.2
+(12:30:23) _DIBILLO_ failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 0.24918707874468282 val3: false (+10) | vl:18 ping:75 tps:20.0 component: nofall.packet
+(12:30:41) _DIBILLO_ failed HitBox check | attacking entities that are not in view:1.783 type:HORSE vec:0.425,1.08,1.353 hz:0.88 dst:2.459 (+2) | vl:2 ping:75 tps:19.96 component: hb.direction
+(12:31:18) _DIBILLO_ failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:74 tps:20.0 component: fly.main
+(12:31:21) _DIBILLO_ failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:15 ping:74 tps:19.98 component: fly.main
+(12:31:52) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -3995.602,71.0,-3786.345 v:-0.155 (+5) | vl:5 ping:74 tps:20.0 component: fly.fg.wl
+(12:31:53) _DIBILLO_ failed Fly check | suspicious movement:-0.078 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:++ tag:gn (+5) | vl:10 ping:74 tps:20.0 component: fly.main
+(12:32:08) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -3995.548,57.0,-3842.525 v:-0.155 (+5) | vl:5 ping:74 tps:20.0 component: fly.fg.wl
+(12:32:26) _DIBILLO_ failed FastUse check | fast use (+0) | vl:0 ping:74 tps:19.99 component: fastuse
+(12:32:47) _DIBILLO_ failed AutoBot check | bot like actions | like: Baritone (+4) | vl:4 ping:74 tps:19.96 component: bot.baritone
+(12:34:15) _DIBILLO_ failed FastHeal check | regen health too fast | difficulty: 3 delay: 441 protocol_ver: 12 (+0) | vl:0 ping:74 tps:20.0 component: heal
+(12:34:42) _DIBILLO_ failed FastUse check | fast use (+0) | vl:0 ping:74 tps:20.0 component: fastuse
+(12:35:07) _DIBILLO_ failed XRay check | xray analyser: 0.0% credibility, qze: 0 (+0) | vl:0 ping:75 tps:19.99 component: xray.analyser
+(12:35:26) _DIBILLO_ failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2884581723356034 fr:0.6 tag:a (+9) | vl:9 ping:75 tps:20.0 component: speed.main
+(12:38:38) _DIBILLO_ failed Fly check | ground spoof | tag: fake air packet | at: -338.417,72.0,-3374.881 t: -297.5,80.0,-3398.5 (+7) | vl:7 ping:76 tps:20.0 component: fly.fg.air
+(12:38:46) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -348.496,71.0,-3375.758 v:-0.155 (+5) | vl:12 ping:75 tps:20.0 component: fly.fg.wl
+(12:40:00) _DIBILLO_ failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.078 air_t:4 g:++ tag:gn (+5) | vl:5 ping:74 tps:20.0 component: fly.main
+(12:40:06) _DIBILLO_ failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28843217580905534 fr:0.6 tag:a (+9) | vl:9 ping:74 tps:20.0 component: speed.main
+(12:40:59) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -356.653,66.0,-3380.524 v:-0.155 (+5) | vl:5 ping:74 tps:20.0 component: fly.fg.wl
+(12:41:00) _DIBILLO_ failed Fly check | suspicious movement:-0.155 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:-+ tag:gn (+5) | vl:10 ping:74 tps:20.0 component: fly.main
+(12:41:41) _DIBILLO_ failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:74 tps:19.73 component: fly.main
+(12:43:43) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: 1243.433,80.0,-2946.322 v:-0.155 (+5) | vl:5 ping:74 tps:20.0 component: fly.fg.wl
+(12:44:49) _DIBILLO_ failed XRay check | xray analyser: 63.899% credibility, qze: 1 (+0) | vl:0 ping:74 tps:19.92 component: xray.analyser
+(12:49:54) _DIBILLO_ failed Speed check | (strafe) change direction in mid-air:0.209 a:102.021 lm:0.247 (+5) | vl:5 ping:75 tps:20.0 component: speed.strafe
+(13:01:39) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -220.327,54.0,-1020.023 v:-0.155 (+5) | vl:5 ping:74 tps:20.0 component: fly.fg.wl
+(13:02:16) turikhnax failed Fly check | ground spoof | tag: ai-wl | loc: -180.379,73.0,-1071.508 v:-0.155 (+5) | vl:5 ping:73 tps:20.0 component: fly.fg.wl
+(13:02:16) turikhnax failed Fly check | t: af (+5) | vl:10 ping:73 tps:20.0 component: nofall.air
+(13:02:34) turikhnax failed Fly check | ground spoof | tag: ai-wl | loc: -179.614,73.0,-1072.682 v:-0.155 (+5) | vl:5 ping:75 tps:20.0 component: fly.fg.wl
+(13:05:00) turikhnax failed Fly check | ground spoof | tag: ai-wl | loc: -201.529,73.0,-982.382 v:-0.155 (+5) | vl:5 ping:74 tps:19.99 component: fly.fg.wl
+(13:05:02) turikhnax failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28834701984955946 fr:0.6 tag:a (+9) | vl:9 ping:74 tps:20.0 component: speed.main
+(13:08:10) turikhnax failed Fly check | ground spoof | tag: ai-wl | loc: -183.525,72.188,-1078.179 v:-0.155 (+5) | vl:5 ping:80 tps:19.99 component: fly.fg.wl
+(13:08:10) turikhnax failed Fly check | t: af (+5) | vl:10 ping:80 tps:19.99 component: nofall.air
+(13:10:32) turikhnax failed XRay check | xray analyser: 0.0% credibility, qze: 0 (+0) | vl:0 ping:79 tps:20.0 component: xray.analyser
+(13:10:53) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:77 tps:19.92 component: fastuse
+(13:12:07) _DIBILLO_ failed HitBox check | reach: 3.873 expected: 3.716 cb:false sw:false dv:-3.0 lt:1 (+1) | vl:1 ping:52 tps:20.0 component: hb.reach
+(13:13:09) _DIBILLO_ failed Speed check | move no slow down while using/sneaking: m:0.136 a:20 (+4) | vl:4 ping:67 tps:20.0 component: speed.noslow.limit
+(13:14:12) Misti292 failed Fly check | ground spoof | tag: ai-wl | loc: 1209.7,48.0,10.34 v:-0.155 (+5) | vl:5 ping:111 tps:19.84 component: fly.fg.wl
+(13:15:15) _DIBILLO_ failed Speed check | suspicious movement:0.365 ar_t:12 lm:0.0 tag:ed (+15) | vl:15 ping:73 tps:20.0 component: speed.main
+(13:15:15) _DIBILLO_ failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:73 tps:20.0 component: fly.main
+(13:15:33) _DIBILLO_ failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:73 tps:19.99 component: fly.main
+(13:15:34) _DIBILLO_ failed Fly check | suspicious movement:-0.162 predict:-0.582 lm:-0.514 hard_pred:-0.582 sev_pred:-0.155 air_t:12 g:-- tag:gn (+5) | vl:10 ping:73 tps:19.99 component: fly.main
+(13:15:36) _DIBILLO_ failed Speed check | (strafe) change direction in mid-air:0.327 a:545.979 lm:0.299 (+5) | vl:5 ping:73 tps:19.97 component: speed.strafe
+(13:15:36) _DIBILLO_ failed Speed check | suspicious movement:0.327 ar_t:12 lm:0.299 tag:ed (+15) | vl:20 ping:73 tps:19.97 component: speed.main
+(13:15:38) turikhnax failed FastHeal check | regen health too fast | difficulty: 3 delay: 408 protocol_ver: 12 (+0) | vl:0 ping:78 tps:19.66 component: heal
+(13:17:26) _DIBILLO_ failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:74 tps:20.0 component: fly.main
+(13:19:41) Misti292 failed Fly check | ground spoof | tag: ai-wl | loc: 1316.698,108.0,56.39 v:-0.155 (+5) | vl:5 ping:120 tps:19.97 component: fly.fg.wl
+(13:19:59) turikhnax failed Fly check | move unexpected: -0.024 -> -0.078 (+8) | vl:8 ping:76 tps:20.0 component: fly.fg.pattern.9plus.2
+(13:19:59) turikhnax failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 0.24918707874468282 val3: false (+10) | vl:18 ping:76 tps:20.0 component: nofall.packet
+(13:21:52) turikhnax failed Speed check | move no slow down while using/sneaking: m:0.147 a:14 (+4) | vl:4 ping:75 tps:20.0 component: speed.noslow.limit
+(13:23:46) Misti292 failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.165 air_t:3 g:-- tag:gn (+5) | vl:5 ping:115 tps:20.0 component: fly.main
+(13:24:06) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:14 tps:19.99 component: speed.spin
+(13:25:33) turikhnax failed Fly check | suspicious movement:-0.078 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:-- tag:gn (+5) | vl:5 ping:78 tps:20.0 component: fly.main
+(13:25:35) Misti292 failed Speed check | move no slow down while using/sneaking: m:0.157 a:9 (+4) | vl:4 ping:124 tps:20.0 component: speed.noslow.limit
+(13:26:03) Artiko123 failed Speed check | move no slow down while using/sneaking: m:0.235 a:13 (+4) | vl:4 ping:53 tps:20.0 component: speed.noslow.limit
+(13:26:03) Artiko123 failed Speed check | move no slow down while using/sneaking: m:0.256 a:14 (+4) | vl:8 ping:53 tps:20.0 component: speed.noslow.limit
+(13:26:03) Artiko123 failed Speed check | move no slow down while using/sneaking: m:0.277 a:17 (+4) | vl:12 ping:53 tps:20.0 component: speed.noslow.limit
+(13:26:05) Artiko123 failed Speed check | move no slow down while using/sneaking: m:0.589 a:41 (+4) | vl:16 ping:53 tps:20.0 component: speed.noslow.limit
+(13:26:18) Misti292 failed HitBox check | attacking entities that are not in view:2.069 type:ENDERMAN vec:-0.309,0.326,-2.02 hz:0.756 dst:1.16 (+2) | vl:2 ping:118 tps:19.99 component: hb.direction
+(13:28:45) turikhnax failed Speed check | move no slow down while using/sneaking: m:0.145 a:100 (+4) | vl:4 ping:74 tps:19.98 component: speed.noslow.limit
+(13:29:02) Misti292 failed Speed check | move no slow down while using/sneaking: m:0.147 a:100 (+4) | vl:4 ping:119 tps:19.98 component: speed.noslow.limit
+(13:34:05) turikhnax failed Scaffold check | equal rotation: -314.76157, 29.657476 (+5) | vl:5 ping:0 tps:19.71 component: block.scaffold.er
+(13:34:17) turikhnax failed Fly check | suspicious movement:-0.078 predict:0.301 lm:0.388 hard_pred:0.301 sev_pred:0.333 air_t:1 g:-+ tag:gn (+5) | vl:5 ping:0 tps:20.0 component: fly.main
+(13:34:53) Misti292 failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28833961632239197 fr:0.6 tag:a (+9) | vl:9 ping:125 tps:19.97 component: speed.main
+(13:34:59) turikhnax failed Fly check | suspicious movement:-2.928 predict:-3.005 lm:-2.986 hard_pred:-3.005 sev_pred:-2.986 air_t:12 g:-- tag:gn (+5) | vl:5 ping:42 tps:20.0 component: fly.main
+(13:35:26) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:56 tps:20.0 component: fastuse
+(13:35:58) turikhnax failed Fly check | suspicious movement:-2.907 predict:-2.986 lm:-2.967 hard_pred:-2.986 sev_pred:-2.948 air_t:12 g:-- tag:gn (+5) | vl:5 ping:64 tps:19.97 component: fly.main
+(13:36:13) Misti292 failed Speed check | move no slow down while using/sneaking: m:0.14 a:41 (+4) | vl:4 ping:136 tps:20.0 component: speed.noslow.limit
+(13:36:52) Misti292 failed Speed check | move no slow down while using/sneaking: m:0.144 a:96 (+4) | vl:4 ping:123 tps:19.99 component: speed.noslow.limit
+(13:37:17) turikhnax failed Fly check | suspicious movement:-0.078 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:-- tag:gn (+5) | vl:5 ping:72 tps:20.0 component: fly.main
+(13:38:12) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:75 tps:20.0 component: fastuse
+(13:38:28) Misti292 failed Inventory check | inventory move | simple (+2) | vl:2 ping:115 tps:20.0 component: inv.move
+(13:39:57) turikhnax failed Speed check | fast climb | 0.167 > 0.118 / 20 (+5) | vl:5 ping:76 tps:20.0 component: speed.ladder
+(13:40:03) Misti292 failed FastUse check | fast use (+0) | vl:0 ping:116 tps:19.92 component: fastuse
+(13:41:47) turikhnax failed Fly check | ground spoof | tag: ai-wl | loc: 1669.076,72.0,-907.381 v:-0.155 (+5) | vl:5 ping:78 tps:19.99 component: fly.fg.wl
+(13:42:55) turikhnax failed Fly check | move unexpected: 0.0 -> -0.078 (+8) | vl:8 ping:76 tps:19.99 component: fly.fg.pattern.9plus.2
+(13:42:55) turikhnax failed Fly check | t: af (+5) | vl:13 ping:76 tps:19.99 component: nofall.air
+(13:43:38) turikhnax failed Fly check | suspicious movement:-0.078 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:-- tag:gn (+5) | vl:5 ping:77 tps:19.97 component: fly.main
+(13:44:06) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:76 tps:19.94 component: fastuse
+(13:48:46) Misti292 failed Fly check | ground spoof | tag: ai-wl | loc: 1668.529,33.0,-980.693 v:-0.155 (+5) | vl:5 ping:136 tps:19.99 component: fly.fg.wl
+(13:48:59) Misti292 failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.078 air_t:11 g:-+ tag:gn (+5) | vl:5 ping:136 tps:20.0 component: fly.main
+(13:49:26) turikhnax failed Fly check | move unexpected: 0.0 -> -0.078 (+8) | vl:8 ping:74 tps:20.0 component: fly.fg.pattern.9plus.2
+(13:49:26) turikhnax failed Fly check | t: af (+5) | vl:13 ping:74 tps:20.0 component: nofall.air
+(13:49:33) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -1219.487,62.0,221.983 v:-0.155 (+5) | vl:5 ping:0 tps:20.0 component: fly.fg.wl
+(13:49:48) turikhnax failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:++ tag:gn (+5) | vl:5 ping:74 tps:19.94 component: fly.main
+(13:50:27) turikhnax failed Speed check | move no slow down while using/sneaking: m:0.258 a:47 (+4) | vl:4 ping:74 tps:20.0 component: speed.noslow.limit
+(13:50:27) turikhnax failed Speed check | move no slow down while using/sneaking: m:0.27 a:48 (+4) | vl:8 ping:74 tps:20.0 component: speed.noslow.limit
+(13:50:27) turikhnax failed Speed check | move no slow down while using/sneaking: m:0.277 a:49 (+4) | vl:12 ping:74 tps:20.0 component: speed.noslow.limit
+(13:50:27) turikhnax failed Speed check | move no slow down while using/sneaking: m:0.281 a:50 (+4) | vl:16 ping:74 tps:20.0 component: speed.noslow.limit
+(13:50:30) turikhnax failed Speed check | move no slow down while using/sneaking: m:0.585 a:99 (+4) | vl:20 ping:74 tps:20.0 component: speed.noslow.limit
+(13:50:32) WerTual failed Speed check | (strafe) change direction in mid-air:0.208 a:91.761 lm:0.234 (+5) | vl:5 ping:93 tps:19.99 component: speed.strafe
+(13:50:40) turikhnax failed Speed check | move no slow down while using/sneaking: m:0.259 a:100 (+4) | vl:24 ping:74 tps:19.93 component: speed.noslow.limit
+(13:51:13) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -180.009,73.0,-1071.49 v:-0.155 (+5) | vl:5 ping:110 tps:20.0 component: fly.fg.wl
+(13:51:18) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -179.538,73.0,-1072.609 v:-0.155 (+5) | vl:10 ping:116 tps:20.0 component: fly.fg.wl
+(13:51:44) turikhnax failed Fly check | suspicious movement:-2.907 predict:-2.986 lm:-2.967 hard_pred:-2.986 sev_pred:-2.967 air_t:12 g:-- tag:gn (+5) | vl:5 ping:75 tps:19.98 component: fly.main
+(13:52:39) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: -196.69,72.5,-1041.373 v:-0.304 (+5) | vl:5 ping:55 tps:19.92 component: fly.fg.wl
+(13:52:43) WerTual failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:132 tps:20.0 component: fly.main
+(13:54:01) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -179.556,73.0,-1072.643 v:-0.155 (+5) | vl:5 ping:134 tps:19.85 component: fly.fg.wl
+(13:54:25) turikhnax failed Speed check | move no slow down while using/sneaking: m:0.14 a:100 (+4) | vl:4 ping:76 tps:19.86 component: speed.noslow.limit
+(13:55:04) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -3998.606,73.875,-382.304 v:-0.155 (+5) | vl:5 ping:69 tps:19.71 component: fly.fg.wl
+(13:55:10) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -3998.717,73.875,-383.246 v:-0.155 (+5) | vl:10 ping:69 tps:20.0 component: fly.fg.wl
+(13:55:17) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -3998.732,73.875,-382.625 v:-0.155 (+5) | vl:15 ping:69 tps:20.0 component: fly.fg.wl
+(13:55:40) Artiko123 failed Speed check | move no slow down while using/sneaking: m:0.593 a:100 (+4) | vl:4 ping:57 tps:19.98 component: speed.noslow.limit
+(13:55:41) Artiko123 failed Speed check | move no slow down while using/sneaking: m:0.609 a:100 (+4) | vl:8 ping:57 tps:19.98 component: speed.noslow.limit
+(13:55:41) Artiko123 failed Speed check | move no slow down while using/sneaking: m:0.611 a:100 (+4) | vl:12 ping:57 tps:19.88 component: speed.noslow.limit
+(13:55:43) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -203.31,72.188,-1075.3 v:-0.155 (+5) | vl:5 ping:135 tps:19.88 component: fly.fg.wl
+(13:55:43) Artiko123 failed Speed check | move no slow down while using/sneaking: m:0.598 a:100 (+4) | vl:16 ping:57 tps:19.94 component: speed.noslow.limit
+(13:55:44) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -203.608,73.0,-1072.472 v:-0.155 (+5) | vl:10 ping:135 tps:19.94 component: fly.fg.wl
+(13:55:44) WerTual failed Fly check | t: af (+5) | vl:15 ping:135 tps:19.94 component: nofall.air
+(13:55:44) Artiko123 failed Speed check | move no slow down while using/sneaking: m:0.598 a:100 (+4) | vl:20 ping:57 tps:19.94 component: speed.noslow.limit
+(13:55:45) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -200.566,73.0,-1069.11 v:-0.155 (+5) | vl:20 ping:135 tps:19.98 component: fly.fg.wl
+(13:56:47) MankaGrief failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.155 air_t:11 g:-- tag:gn (+5) | vl:5 ping:49 tps:20.0 component: fly.main
+(13:56:48) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:49 tps:20.0 component: fastuse
+(13:57:14) Misti292 failed Speed check | move no slow down while using/sneaking: m:0.264 a:58 (+4) | vl:4 ping:115 tps:20.0 component: speed.noslow.limit
+(13:57:14) Misti292 failed Speed check | move no slow down while using/sneaking: m:0.272 a:59 (+4) | vl:8 ping:115 tps:20.0 component: speed.noslow.limit
+(13:57:14) Misti292 failed Speed check | move no slow down while using/sneaking: m:0.276 a:60 (+4) | vl:12 ping:115 tps:20.0 component: speed.noslow.limit
+(13:57:22) Misti292 failed Fly check | suspicious movement:-0.58 predict:-0.649 lm:-0.582 hard_pred:-0.649 sev_pred:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:130 tps:20.0 component: fly.main
+(13:57:41) turikhnax failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:79 tps:19.95 component: fly.main
+(13:58:26) MankaGrief failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+4) | vl:4 ping:62 tps:20.0 component: speed.noslow.limit
+(13:59:21) _DIBILLO_ failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28819668283028516 fr:0.6 tag:a (+9) | vl:9 ping:43 tps:19.97 component: speed.main
+(13:59:50) turikhnax failed Speed check | (strafe) change direction in mid-air:0.233 a:120.435 lm:0.315 (+5) | vl:5 ping:76 tps:19.97 component: speed.strafe
+(14:00:42) MankaGrief failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+4) | vl:4 ping:62 tps:20.0 component: speed.noslow.limit
+(14:01:15) _DIBILLO_ failed Speed check | suspicious movement:0.287 expect:0.2873 predict:0.2879205312887666 fr:0.6 tag:a (+9) | vl:9 ping:69 tps:19.96 component: speed.main
+(14:01:33) _DIBILLO_ failed Jesus check | liquid speed:0.127 expect:0.12 dmg: false flw:false (+3) | vl:3 ping:69 tps:19.95 component: jesus.speed.in
+(14:01:33) _DIBILLO_ failed Jesus check | liquid speed:0.121 expect:0.12 dmg: false flw:false (+3) | vl:6 ping:69 tps:19.95 component: jesus.speed.in
+(14:02:03) MankaGrief failed Speed check | move no slow down while using/sneaking: m:0.138 a:100 (+4) | vl:4 ping:61 tps:19.99 component: speed.noslow.limit
+(14:02:10) _DIBILLO_ failed Fly check | suspicious movement:-0.162 predict:-0.582 lm:-0.514 hard_pred:-0.582 sev_pred:-0.078 air_t:12 g:+- tag:gn (+5) | vl:5 ping:75 tps:20.0 component: fly.main
+(14:02:36) MankaGrief failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2886659339634615 fr:0.6 tag:a (+9) | vl:9 ping:61 tps:19.97 component: speed.main
+(14:02:47) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -3472.085,66.938,-1344.42 v:-0.155 (+5) | vl:5 ping:73 tps:20.0 component: fly.fg.wl
+(14:02:47) _DIBILLO_ failed Fly check | t: af (+5) | vl:10 ping:73 tps:20.0 component: nofall.air
+(14:03:04) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:62 tps:20.0 component: fastuse
+(14:03:22) Misti292 failed Fly check | ground spoof | tag: ai-wl | loc: -200.635,73.0,-1069.697 v:-0.155 (+5) | vl:5 ping:118 tps:20.0 component: fly.fg.wl
+(14:03:22) turikhnax failed Fly check | move unexpected: -0.024 -> -0.078 (+8) | vl:8 ping:74 tps:20.0 component: fly.fg.pattern.9plus.2
+(14:03:22) turikhnax failed Fly check | send illegal packet to anti fall damage |  val1: 0.22777925 val2: 0.2522033402537289 val3: false (+10) | vl:18 ping:74 tps:20.0 component: nofall.packet
+(14:03:57) Misti292 failed Speed check | suspicious movement:0.47 expect:0.469 predict:0.34105201434778587 gt:1 fr:0.6 tag:b (+8) | vl:8 ping:116 tps:20.0 component: speed.main
+(14:08:38) Misti292 failed Speed check | (strafe) change direction in mid-air:0.229 a:99.071 lm:0.306 (+5) | vl:5 ping:119 tps:19.98 component: speed.strafe
+(14:09:18) turikhnax failed Fly check | ground spoof | tag: ai-wl | loc: -884.7,71.0,1858.307 v:-0.155 (+5) | vl:5 ping:256 tps:19.96 component: fly.fg.wl
+(14:09:29) _DIBILLO_ failed Fly check | suspicious movement:-0.58 predict:-0.649 lm:-0.582 hard_pred:-0.649 sev_pred:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:71 tps:19.87 component: fly.main
+(14:09:32) Misti292 failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2883321660150492 fr:0.6 tag:a (+9) | vl:9 ping:115 tps:19.9 component: speed.main
+(14:10:10) turikhnax failed Speed check | suspicious movement:0.481 expect:0.2873 predict:0.2833660033076991 fr:0.6 tag:a (+9) | vl:9 ping:132 tps:20.0 component: speed.main
+(14:10:10) turikhnax failed Fly check | ground spoof | tag: ai-wl | loc: -948.314,86.0,1848.166 v:-0.155 (+5) | vl:5 ping:132 tps:19.99 component: fly.fg.wl
+(14:10:42) turikhnax failed Fly check | ground spoof | tag: ai-wl | loc: -970.669,94.0,1831.64 v:-0.155 (+5) | vl:5 ping:107 tps:19.99 component: fly.fg.wl
+(14:11:07) Misti292 failed HitBox check | attacking entities that are not in view:2.407 type:PIG vec:2.182,-0.222,-0.991 hz:0.7 dst:2.179 (+2) | vl:2 ping:125 tps:19.71 component: hb.direction
+(14:11:46) Misti292 failed Fly check | suspicious movement:-0.155 predict:-0.763 lm:-0.698 hard_pred:-0.763 sev_pred:-0.447 air_t:1 g:-- tag:gn (+5) | vl:5 ping:125 tps:19.99 component: fly.main
+(14:12:12) Misti292 failed Fly check | suspicious movement:-0.078 predict:-0.231 lm:-0.155 hard_pred:-0.231 sev_pred:-0.304 air_t:2 g:-- tag:gn (+5) | vl:5 ping:127 tps:19.94 component: fly.main
+(14:12:15) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:80 tps:20.0 component: fastuse
+(14:13:55) Misti292 failed Fly check | ground spoof | tag: ai-wl | loc: -917.3,85.0,1671.39 v:-0.155 (+5) | vl:5 ping:117 tps:19.98 component: fly.fg.wl
+(14:13:59) Misti292 failed Fly check | ground spoof | tag: ai-wl | loc: -916.724,81.0,1676.324 v:-0.155 (+5) | vl:5 ping:117 tps:20.0 component: fly.fg.wl
+(14:15:31) turikhnax failed Jesus check | liquid speed:0.134 expect:0.12 dmg: false flw:false (+3) | vl:3 ping:74 tps:20.0 component: jesus.speed.in
+(14:15:32) turikhnax failed Jesus check | liquid speed:0.127 expect:0.12 dmg: false flw:false (+3) | vl:6 ping:74 tps:20.0 component: jesus.speed.in
+(14:15:32) turikhnax failed Jesus check | liquid speed:0.121 expect:0.12 dmg: false flw:false (+3) | vl:9 ping:74 tps:20.0 component: jesus.speed.in
+(14:15:32) Misti292 failed Fly check | ground spoof | tag: ai-wl | loc: -826.468,98.0,1697.337 v:-0.155 (+5) | vl:5 ping:119 tps:20.0 component: fly.fg.wl
+(14:15:32) Misti292 failed Fly check | t: af (+5) | vl:10 ping:119 tps:20.0 component: nofall.air
+(14:15:44) Misti292 failed Jesus check | liquid speed:0.134 expect:0.12 dmg: false flw:false (+3) | vl:3 ping:119 tps:19.94 component: jesus.speed.in
+(14:15:44) Misti292 failed Jesus check | liquid speed:0.127 expect:0.12 dmg: false flw:false (+3) | vl:6 ping:119 tps:19.94 component: jesus.speed.in
+(14:15:44) Misti292 failed Jesus check | liquid speed:0.121 expect:0.12 dmg: false flw:false (+3) | vl:9 ping:119 tps:19.94 component: jesus.speed.in
+(14:16:19) Misti292 failed Fly check | ground spoof | tag: ai-wl | loc: -748.618,64.0,1705.387 v:-0.155 (+5) | vl:5 ping:116 tps:19.93 component: fly.fg.wl
+(14:16:39) Misti292 failed Fly check | ground spoof | tag: ai-wl | loc: -761.7,75.0,1692.678 v:-0.155 (+5) | vl:5 ping:117 tps:20.0 component: fly.fg.wl
+(14:17:18) Misti292 failed Fly check | suspicious movement:-0.078 predict:-0.231 lm:-0.155 hard_pred:-0.231 sev_pred:-0.304 air_t:2 g:-- tag:gn (+5) | vl:5 ping:131 tps:20.0 component: fly.main
+(14:17:37) turikhnax failed Fly check | ground spoof | tag: ai-wl | loc: -794.389,90.0,1774.342 v:-0.155 (+5) | vl:5 ping:74 tps:19.99 component: fly.fg.wl
+(14:18:07) Misti292 failed Jesus check | liquid speed:0.124 expect:0.12 dmg: false flw:false (+3) | vl:3 ping:123 tps:20.0 component: jesus.speed.in
+(14:19:42) Misti292 failed Speed check | move no slow down while using/sneaking: m:0.136 a:32 (+4) | vl:4 ping:118 tps:19.99 component: speed.noslow.limit
+(14:22:03) turikhnax failed Fly check | suspicious movement:-0.58 predict:-0.649 lm:-0.582 hard_pred:-0.649 sev_pred:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:75 tps:20.0 component: fly.main
+(14:22:50) Misti292 failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:115 tps:20.0 component: fly.main
+(14:23:31) Misti292 failed Fly check | ground spoof | tag: ai-wl | loc: -634.724,67.0,1740.687 v:-0.155 (+5) | vl:5 ping:114 tps:20.0 component: fly.fg.wl
+(14:23:32) Misti292 failed Fly check | suspicious movement:-0.176 predict:-0.514 lm:-0.445 hard_pred:-0.514 sev_pred:-0.155 air_t:12 g:+- tag:gn (+5) | vl:10 ping:114 tps:20.0 component: fly.main
+(14:24:08) turikhnax failed KillAura check | (angle) suspicious angle:[104.13863, 177.4691] (+8) | vl:8 ping:75 tps:19.99 component: ka.angle
+(14:24:13) turikhnax failed KillAura check | (angle) suspicious angle:[94.386475, 177.4691] (+8) | vl:16 ping:75 tps:20.0 component: ka.angle
+(14:27:58) Misti292 failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:118 tps:20.0 component: fly.main
+(14:38:42) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:54 tps:20.0 component: speed.spin
+(14:41:16) Misti292 failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+4) | vl:4 ping:128 tps:20.0 component: speed.noslow.limit
+(14:42:45) Artiko123 failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:+- tag:gn (+5) | vl:5 ping:139 tps:19.99 component: fly.main
+(14:43:07) Misti292 failed Speed check | move no slow down while using/sneaking: m:0.135 a:100 (+4) | vl:4 ping:115 tps:20.0 component: speed.noslow.limit
+(14:47:07) turikhnax failed Speed check | (strafe) change direction in mid-air:3.652 a:446.696 lm:0.285 (+5) | vl:5 ping:74 tps:20.0 component: speed.strafe
+(14:47:07) turikhnax failed Speed check | suspicious movement:3.652 expect:0.365 predict:0.09114870883151653 fr:0.6 tag:ea (+20) | vl:25 ping:74 tps:20.0 component: speed.main
+(14:47:07) turikhnax failed Speed check | suspicious movement:3.652 ar_t:12 lm:0.072 tag:ed (+15) | vl:40 ping:74 tps:20.0 component: speed.main
+(14:47:39) turikhnax failed Speed check | suspicious movement:4.418 expect:0.365 predict:0.1001167108391732 fr:0.6 tag:ea (+20) | vl:20 ping:74 tps:20.0 component: speed.main
+(14:47:39) turikhnax failed Speed check | suspicious movement:4.418 ar_t:12 lm:0.082 tag:ed (+15) | vl:35 ping:74 tps:20.0 component: speed.main
+(14:47:44) turikhnax failed Jesus check | liquid speed:0.121 expect:0.12 dmg: false flw:false (+3) | vl:3 ping:74 tps:19.97 component: jesus.speed.in
+(14:47:54) _DIBILLO_ failed Fly check | ground spoof | tag: ai-wl | loc: -1995.5,68.0,-1177.205 v:-0.155 (+5) | vl:5 ping:39 tps:20.0 component: fly.fg.wl
+(14:47:54) _DIBILLO_ failed Fly check | t: af (+5) | vl:10 ping:39 tps:20.0 component: nofall.air
+(14:49:09) turikhnax failed Jesus check | liquid speed:0.122 expect:0.12 dmg: false flw:false (+3) | vl:3 ping:74 tps:20.0 component: jesus.speed.in
+(14:49:29) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: -202.569,73.0,-1071.358 v:-0.155 (+5) | vl:5 ping:59 tps:20.0 component: fly.fg.wl
+(14:50:02) _DIBILLO_ failed Speed check | suspicious movement:0.481 expect:0.2873 predict:0.28332673304361955 fr:0.6 tag:a (+9) | vl:9 ping:64 tps:19.92 component: speed.main
+(14:50:04) Misti292 failed Jesus check | liquid speed:0.124 expect:0.12 dmg: false flw:false (+3) | vl:3 ping:118 tps:19.94 component: jesus.speed.in
+(14:52:22) Misti292 failed Fly check | ground spoof | tag: ai-wl | loc: -733.7,45.0,1289.376 v:-0.231 (+5) | vl:5 ping:119 tps:20.0 component: fly.fg.wl
+(14:52:22) Misti292 failed Fly check | ground spoof | t:fgw a=0.41999998688697815 b=-0.231 (+4) | vl:9 ping:119 tps:20.0 component: fly.fg.w
+(14:53:05) Misti292 failed XRay check | xray analyser: 0.0% credibility, qze: 0 (+0) | vl:0 ping:120 tps:19.99 component: xray.analyser
+(14:53:14) turikhnax failed Fly check | suspicious movement:-0.02 predict:-0.128 lm:-0.051 hard_pred:-0.128 sev_pred:0.0 air_t:10 g:-- tag:gn (+5) | vl:5 ping:75 tps:20.0 component: fly.main
+(14:53:14) turikhnax failed Fly check | suspicious movement:-0.02 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:0.0 air_t:12 g:-- tag:gn (+5) | vl:10 ping:75 tps:20.0 component: fly.main
+(14:53:15) turikhnax failed Fly check | suspicious movement:-0.02 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:0.0 air_t:12 g:-- tag:gn (+5) | vl:15 ping:75 tps:20.0 component: fly.main
+(14:53:49) turikhnax failed Speed check | suspicious movement:0.481 expect:0.2873 predict:0.2833653420660508 fr:0.6 tag:a (+9) | vl:9 ping:74 tps:19.98 component: speed.main
+(14:55:13) turikhnax failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:76 tps:20.0 component: fly.main
+(14:55:14) turikhnax failed KillAura check | (angle) suspicious angle:[73.841866, 177.4691] (+8) | vl:8 ping:76 tps:19.9 component: ka.angle
+(14:55:52) Misti292 failed Speed check | move no slow down while using/sneaking: m:0.142 a:11 (+4) | vl:4 ping:147 tps:20.0 component: speed.noslow.limit
+(15:03:53) Artiko123 failed Interact check | interact block through walls ,o=STONE b=ENDER_CHEST (+1) | vl:1 ping:0 tps:20.0 component: interact.through
+(15:06:23) Artiko123 failed Speed check | sprint direction: 0.222 angle:363.741 (+5) | vl:5 ping:55 tps:20.0 component: speed.sprint
+(15:06:24) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: -3677.641,61.0,3581.629 v:-0.155 (+5) | vl:5 ping:55 tps:20.0 component: fly.fg.wl
+(17:32:29) Razer_Adam failed Interact check | interact block through walls ,o=GRASS b=ENDER_CHEST (+1) | vl:1 ping:0 tps:20.0 component: interact.through
+(17:33:14) Razer_Adam failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:8 g:-- tag:gn (+5) | vl:5 ping:35 tps:20.0 component: fly.main
+(17:33:16) Razer_Adam failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:8 g:-- tag:gn (+5) | vl:10 ping:35 tps:20.0 component: fly.main
+(17:58:32) YT_Diper_YT failed Speed check | suspicious movement:1.355 expect:1.1367771003474432 predict:0.115 fr:0.6 tag:c (+10) | vl:10 ping:196 tps:19.99 component: speed.main
+(17:58:32) YT_Diper_YT failed Speed check | suspicious movement:0.735 expect:0.6206753625964012 predict:1.2581510083417562 fr:0.6 tag:ea (+5) | vl:15 ping:196 tps:19.99 component: speed.main
+(17:58:32) YT_Diper_YT failed Speed check | suspicious movement:0.669 expect:0.6201645801115674 predict:0.694665532346769 fr:0.6 tag:ea (+5) | vl:20 ping:196 tps:19.99 component: speed.main
+(17:58:35) YT_Diper_YT failed FastBow check | fast bow (+0) | vl:0 ping:256 tps:20.0 component: fastbow
+(17:59:20) YT_Diper_YT failed FastUse check | fast use (+0) | vl:0 ping:334 tps:20.0 component: fastuse
+(18:00:28) YT_Diper_YT failed FastBow check | fast bow (+0) | vl:0 ping:398 tps:19.9 component: fastbow
+(18:00:30) YT_Diper_YT failed FastBow check | fast bow (+0) | vl:0 ping:398 tps:19.9 component: fastbow
+(18:00:30) YT_Diper_YT failed Fly check | suspicious movement:0.015 predict:-0.078 air_t:12 tag:m1 (+10) | vl:10 ping:398 tps:19.9 component: fly.main
+(18:00:43) YT_Diper_YT failed FastBow check | fast bow (+0) | vl:0 ping:449 tps:20.0 component: fastbow
+(19:54:32) Matrix Enabled!
+(19:54:32) Version: 2.4.4
+(19:58:32) Matrix Enabled!
+(19:58:32) Version: 2.4.4
+(19:59:23) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: -201.595,74.0,-1086.349 v:-0.155 (+5) | vl:5 ping:0 tps:20.0 component: fly.fg.wl
+(20:03:13) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: -202.679,74.0,-1084.7 v:-0.155 (+5) | vl:5 ping:49 tps:20.0 component: fly.fg.wl
+(20:19:58) OldMan failed Inventory check | inventory move | simple (+2) | vl:2 ping:53 tps:20.0 component: inv.move

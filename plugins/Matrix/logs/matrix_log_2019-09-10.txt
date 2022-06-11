@@ -1,0 +1,24 @@
+(12:32:55) Matrix Enabled!
+(12:32:55) Version: 2.3.3
+(13:00:25) Matrix Enabled!
+(13:00:25) Version: 2.3.8
+(13:01:16) Matrix Enabled!
+(13:01:16) Version: 2.3.8
+(13:03:45) JUSTSTUDIO failed Fly check | ground spoof | tag: ai-wl | loc: 761.581,73.875,592.715 v:-0.155 (+5) | vl:5 ping:0 tps:20.0 component: fly.fg.wl
+(13:03:49) JUSTSTUDIO failed Fly check | ground spoof | tag: ai-wl | loc: 760.132,73.875,594.6 v:-0.155 (+5) | vl:10 ping:0 tps:20.0 component: fly.fg.wl
+(13:53:03) Matrix Enabled!
+(13:53:03) Version: 2.3.8
+(13:56:53) Just failed Fly check | suspicious movement:-0.114 predict:-0.514 air_t:12 g:+- tag:gn (+5) | vl:5 ping:1 tps:20.0 component: fly.main
+(13:57:42) Just failed Speed check | (strafe) change direction in mid-air:0.205 a:96.435 lm:0.244 (+5) | vl:5 ping:2 tps:20.0 component: speed.strafe
+(14:21:45) Matrix Enabled!
+(14:21:45) Version: 2.3.8
+(14:44:05) Matrix Enabled!
+(14:44:05) Version: 2.3.8
+(15:11:37) Matrix Enabled!
+(15:11:37) Version: 2.3.8
+(15:14:31) __MrENOTIK__ failed Fly check | suspicious movement:-0.059 predict:-0.445 air_t:11 g:+- tag:gn (+5) | vl:5 ping:1 tps:20.0 component: fly.main
+(15:16:03) __MrENOTIK__ failed Jesus check | liquid speed | 0.126 >- 0.12 | d: false f:false (+3) | vl:3 ping:1 tps:20.0 component: jesus.speed.in
+(15:16:03) __MrENOTIK__ failed Jesus check | liquid speed | 0.12 >- 0.12 | d: false f:false (+3) | vl:6 ping:1 tps:20.0 component: jesus.speed.in
+(15:20:03) __MrENOTIK__ failed Fly check | move unexpected: -0.024 -> -0.078 (+8) | vl:8 ping:1 tps:20.0 component: fly.fg.pattern.9plus.2
+(15:20:03) __MrENOTIK__ failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 0.24918707874468282 val3: false (+10) | vl:18 ping:1 tps:20.0 component: nofall.packet
+(15:20:20) __MrENOTIK__ failed Speed check | move no slow down while using/sneaking: m:0.136 a:59 (+4) | vl:4 ping:1 tps:20.0 component: speed.noslow.limit

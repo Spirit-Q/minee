@@ -1,0 +1,296 @@
+Crate:
+  #Type of crate (CSGO/QuadCrate/QuickCrate/Roulette/CrateOnTheGo/FireCracker/Wonder/Wheel/War/Cosmic(This requires a additional info to work.)).
+  CrateType: Wonder
+  #Name of the Inventory if a GUI crate.
+  CrateName: '&dКейс с префиксами'
+  #The name of the inventory that will be in the preview GUI.
+  Preview-Name: '&dКейс с префиксами &7[Предпросмотр]'
+  #Starting amount of keys when the player 1st joins.
+  StartingKeys: 0
+  #If the crate shows in the /cc GUI. (If the crate type is QuickCrate/CrateOnTheGo/FireCracker then the Crate will not work. Quick Crate requires a Physical Crate.)
+  InGUI: true
+  #Slot the item is in the GUI.
+  Slot: 21
+  #Enables/Disables the Broadcasts message when they open a crate.
+  OpeningBroadCast: false
+  #Message that is broadcast when opening the crate.
+  BroadCast: '%Prefix%&6&l%Player% &7is opening a &7&lBasic Chest&7.'
+  #Item the crate is in the GUI
+  Item: 'CHEST'
+  #If the crate in the main /cc GUI is glowing or not.
+  Glowing: false
+  #Name of the item in the GUI.
+  Name: '&dКейс с префиксами'
+  #The lore of the item in the GUI.
+  Lore:
+    - '&7Этот кейс содержит разные предметы.'
+    - '&7У вас &6%Keys% ключей &7для открытия данного кейса.'
+  Preview:
+    #Turn on and off the preview for this crate.
+    Toggle: true
+    #How many lines the previewChest should have. Including Header and Bottom (Between 3 and 6)
+    ChestLines: 4
+    Glass:
+      #Turn the glass boarder in the preview on and off.
+      Toggle: true
+      #The item that shows in the boarder. Can be glass or any other item.
+      Item: 'STAINED_GLASS_PANE:7'
+  PhysicalKey:
+    #Name of the Key.
+    Name: '&bКлюч(а) &7к кейсу с префиксами'
+    #Lore of the Key.
+    Lore:
+      - '&7A special Key'
+      - '&7For a special Crate.'
+    #The item the key is.
+    Item: 'TRIPWIRE_HOOK'
+    #Makes the key look enchanted.
+    Glowing: true
+  #All the prizes that can be gotten in the Crate.
+  Prizes:
+    1:
+      DisplayName: '&f[&dМУНЕР&f]'
+      DisplayItem: '95'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a55%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 55
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.muner'
+        - 'tm message %Player% &7Вам выпал префикс\n&dМУНЕР'
+    2:
+      DisplayName: '&f[&3INSANE&f]'
+      DisplayItem: '95:1'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a60%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 60
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.insane'
+        - 'tm message %Player% &7Вам выпал префикс\n&3INSANE'
+    3:
+      DisplayName: '&f[&0NIGHT&f]'
+      DisplayItem: '95:2'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a50%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 50
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.night'
+        - 'tm message %Player% &7Вам выпал префикс\n&0NIGHT'
+    4:
+      DisplayName: '&f[&6ВАФЛЯ&f]'
+      DisplayItem: '95:3'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a45%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 45
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.waflya'
+        - 'tm message %Player% &7Вам выпал префикс\n&6ВАФЛЯ'
+    5:
+      DisplayName: '&f[&fВУЛЬФ&f]'
+      DisplayItem: '95:4'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a40%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 40
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.wolf'
+        - 'tm message %Player% &7Вам выпал префикс\n&fВУЛЬФ'
+    6:
+      DisplayName: '&f[&4ЛЮБИТЕЛЬ&f]'
+      DisplayItem: '95:5'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a35%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 35
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.lubitel'
+        - 'tm message %Player% &7Вам выпал префикс\n&4ЛЮБИТЕЛЬ'
+    7:
+      DisplayName: '&f[&f&l&o&lMOON&f]'
+      DisplayItem: '95:6'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a30%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 30
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.moon'
+        - 'tm message %Player% &7Вам выпал префикс\n&f&l&o&lMOON'
+    8:
+      DisplayName: '&f[&e&l&oLEGEND&f]'
+      DisplayItem: '95:7'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a25%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 25
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.legend'
+        - 'tm message %Player% &7Вам выпал префикс\n&e&l&oLEGEND'
+    9:
+      DisplayName: '&f[&d&l&oEZKA&f]'
+      DisplayItem: '95:8'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a20%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 20
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.ezka'
+        - 'tm message %Player% &7Вам выпал префикс\n&d&l&oEZKA'
+    10:
+      DisplayName: '&f[&f&lBE&b&lST&f]'
+      DisplayItem: '95:9'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a15%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 15
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.best'
+        - 'tm message %Player% &7Вам выпал префикс\n&&f&lBE&b&lST'
+    11:
+      DisplayName: '&f[&bO&fR&bE&fO&f]'
+      DisplayItem: '95:10'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a10%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 10
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.oreo'
+        - 'tm message %Player% &7Вам выпал префикс\n&bO&fR&bE&fO'
+    12:
+      DisplayName: '&f[&3&lSmurfs&f]'
+      DisplayItem: '95:11'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a5%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.smurfs'
+        - 'tm message %Player% &7Вам выпал префикс\n&3&lSmurfs'
+    13:
+      DisplayName: '&f[&c&lSpider&f]'
+      DisplayItem: '95:12'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a5%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.spider'
+        - 'tm message %Player% &7Вам выпал префикс\n&c&lSpider'
+    14:
+      DisplayName: '&f[&aᴱᴹᴱᴿᴬᴸᴰ&f]'
+      DisplayItem: '95:13'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a5%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.emerald'
+        - 'tm message %Player% &7Вам выпал префикс\n&aᴱᴹᴱᴿᴬᴸᴰ'
+    15:
+      DisplayName: '&f[&9ᴾᴸᴬᵀᴵᴺᵁᴹ&f]'
+      DisplayItem: '95:14'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a5%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.platinum'
+        - 'tm message %Player% &7Вам выпал префикс\n&9ᴾᴸᴬᵀᴵᴺᵁᴹ'
+    16:
+      DisplayName: '&f[&4ᴰ&cᴿ&6ᴱ&eᴬ&aᴹ&f]'
+      DisplayItem: '95:15'
+      DisplayAmount: 1
+      Lore:
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - '&b> &eШанс выпада: &a5%'
+        - '&7▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'pex user %Player% add uprefix.dream'
+        - 'tm message %Player% &7Вам выпал префикс\n&4ᴰ&cᴿ&6ᴱ&eᴬ&aᴹ'
+      Alternative-Prize:
+        Toggle: false
+        Messages:
+          - '&8[&bCrazyCrates&8]: &7You have already won that prize, so enjoy some gold nuggets.'
+        Commands:
+          - 'give %player% 371 16'

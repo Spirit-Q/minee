@@ -1,0 +1,68 @@
+# ----------------------------------------------- #
+#                                                 #
+# При поддержке JUSTSTUDIO: vk.com/juststudio_mc  #
+# Техническая поддержка сборки: vk.com/unfix1337  #
+#                                                 #
+# ----------------------------------------------- #
+Menu-Name: '&0Выбор сервер:'
+Open-Sound: BLOCK_COMPARATOR_CLICK
+Open-Sound-Pitch: 3
+Rows: 3
+Command: 'griefmoon'
+Items:
+- Slot: 3, 2
+  Material: stained_glass:1:2
+  Name: '&dGRIEF-1'
+  Lore:
+  - ''
+  - '&d▶ &7Нажмите, чтобы телепортироваться на &dGRIEF-1'
+  - '&d▶ &7Онлайн режима: &d%animatedmenu_onlineplayers_survival%&8/&d250'
+  - ''
+  Hide-Flags: 63
+  Close: always
+  Commands:
+  - 'sound: BLOCK_COMPARATOR_CLICK 3 3'
+- Slot: 4, 2
+  Material: stained_glass:2:2
+  Name: '&dGRIEF-2'
+  Lore:
+  - ''
+  - '&4▶ &cДанный сервер недоступен.'
+  - ''
+  Hide-Flags: 63
+  Close: always
+  Commands:
+  - 'sound: BLOCK_COMPARATOR_CLICK 3 3'
+- Slot: 5, 2
+  Material: stained_glass:3:2
+  Name: '&dGRIEF-3'
+  Lore:
+  - ''
+  - '&4▶ &cДанный сервер недоступен.'
+  - ''
+  Hide-Flags: 63
+  Close: always
+  Commands:
+  - 'sound: BLOCK_COMPARATOR_CLICK 3 3'
+- Slot: 6, 2
+  Material: stained_glass:4:2
+  Name: '&dGRIEF-4'
+  Lore:
+  - ''
+  - '&4▶ &cДанный сервер недоступен.'
+  - ''
+  Hide-Flags: 63
+  Close: always
+  Commands:
+  - 'sound: BLOCK_COMPARATOR_CLICK 3 3'
+- Slot: 7, 2
+  Material: stained_glass:5:2
+  Name: '&dGRIEF-5'
+  Lore:
+  - ''
+  - '&4▶ &cДанный сервер недоступен.'
+  - ''
+  Hide-Flags: 63
+  Close: always
+  Commands:
+  - 'sound: BLOCK_COMPARATOR_CLICK 3 3'

@@ -1,0 +1,62 @@
+help:
+- '&6&m─────────'
+- '&fMOONPREFIX'
+#- '&7/prefix chat &c[префикс]'
+#- '&7/prefix tab &c[префикс]'
+#- '&7/prefix reset'
+#- '&7/prefix clear'
+#- '&7/prefix reload'
+- '&6&m─────────'
+connect_economy: false
+actionbar: false
+title: false
+chat:
+ fine:
+ - '&7&l<&f&l!&7&l> &7Вы успешно себе сменили префикс на %prefix%%player%'
+ no_perm: 
+ - '&7&l<&f&l!&7&l> &7У вас недостаточно прав, что-бы сменить префикс в чате.'
+ exit_var:
+ - '&7&l<&f&l!&7&l> &7Префикс должен содержать больше &a&l%min% &7и меньше &4&l%max% &7символов'
+ not_money:
+ - '&7&l<&f&l!&7&l> &7У вас недостаточно денег что-бы установить префикс в чате.'
+ - '&7&l<&f&l!&7&l> &7Необходимо: %money%'
+ cost: 0
+ min: 3
+ max: 50
+ permission: prefix.chat
+tab:
+ fine:
+ - '&fВы успешно себе сменили префикс на %prefix%%player%'
+ no_perm: 
+ - '&7&l<&f&l!&7&l> &7У вас недостаточно прав, что-бы сменить префикс в табе.'
+ exit_var:
+ - '&eПрефикс должен содержать больше &a&l%min% &eи меньше &4&l%max% &eсимволов'
+ not_money:
+ - '&eУ вас недостаточно денег что-бы установить префикс в чате.'
+ - '&cНеобходимо: %money%'
+ command_hook: 'ctags player %player% %prefix%'
+ cost: 900000000
+ min: 3
+ max: 7
+ permission: prefix.tab
+clear:
+ no_perm:
+ - '&7&l<&f&l!&7&l> &7У вас недостаточно прав что-бы удалить все префиксы.'
+ fine:
+ - '&7&l<&f&l!&7&l> &7Вы успешно &cсбросили &7все текущие префиксы.'
+ tab_hook: 'ctags player %player% ""'
+ permission: xprefix.clear
+restore:
+ no_perm:
+ - '&7&l<&f&l!&7&l> &7У вас недостаточно прав, что-бы вернуть свой предыдущий префикс'
+ fine:
+ - '&7&l<&f&l!&7&l> &7Вы успешно &fсбросили &7свой предыдущий префикс.'
+ error:
+ - '&7&l<&f&l!&7&l> &7Вы не можете вернуть свой префикс.'
+ permission: prefix.restore
+
+
+
+ 
+ 
+ 

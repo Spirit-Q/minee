@@ -1,0 +1,236 @@
+#Плагин разработан командой кодеров JustStudio.
+#Если Вы обнаружите какой-либо баг, незамедлительно сообщите нам. 
+#Vk: vk.com/juststudio_mc
+
+#Права:
+#moonangel.[имя из конфига]
+#moonangel.Panda
+#moonangel.Lamp
+
+Angels:
+  Lamp:
+    CustomName:
+      Allow: true
+      Messages:
+      - '&eКак же ярко я свечусь!'
+      - '&eГде мое электричество?'
+    SkullTexture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ViNGIzNDUxOWZlMTU4NDdkYmVhNzIyOTE3OWZlZWI2ZWE1NzcxMmQxNjVkY2M4ZmY2Yjc4NWJiNTg5MTFiMCJ9fX0='
+    Chestplate:
+      R: 255
+      G: 0
+      B: 0
+    Item:
+      HasPermission:
+        Message: '&7&l<&f&l!&7&l> &7Вы успешно заспавнили ангела &eЛампа'
+        DisplayName: '&aЛампа'
+        Lores:
+        - ''
+        - '&7Что это за чудо такое? Пархающая лампочка?'
+        - '&7Это точно 2019 год?'
+        - ''
+        - '&aНажмите, чтобы взять этого ангелочка!'
+      NoPermission:
+        Message: '&cУ Вас недостаточно прав!'
+        DisplayName: '&cЛампа'
+        Lores:
+        - ''
+        - '&7Что это за чудо такое? Пархающая лампочка?'
+        - '&7Это точно 2019 год?'
+        - ''
+        - '&cУ Вас нет данного ангела в коллекции!'
+      Selected:
+        Message: '&7&l<&f&l!&7&l> &7Вы успешно убрали ангела &eЛампа'
+        DisplayName: '&eЛампа &7(Выбрано)'
+        Lores:
+        - ''
+        - '&7Что это за чудо такое? Пархающая лампочка?'
+        - '&7Это точно 2019 год?'
+        - ''
+        - '&eДанный ангел уже выбран. Нажмите, чтобы снять!'
+  Panda:
+    CustomName:
+      Allow: true
+      Messages:
+      - '&eОтдайте мой бамбук!'
+      - '&eКогда-нибудь я изучу кунг-фу...'
+      - '&eИ что во мне нашел CYGO?'
+    SkullTexture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDhjZGQ0ZjI4NTYzMmMyNWQ3NjJlY2UyNWY0MTkzYjk2NmMyNjQxYjE1ZDliZGJjMGExMTMwMjNkZTc2YWIifX19'
+    Chestplate:
+      R: 255
+      G: 255
+      B: 255
+    Item:
+      HasPermission:
+        Message: '&7&l<&f&l!&7&l> &7Вы успешно заспавнили ангела &eПанда'
+        DisplayName: '&aПанда'
+        Lores:
+        - ''
+        - '&7О господи, Вы только взляните на эту мордашку!'
+        - '&7Она просто прелесть...'
+        - ''
+        - '&aНажмите, чтобы взять этого ангелочка!'
+      NoPermission:
+        Message: '&cУ Вас недостаточно прав!'
+        DisplayName: '&cПанда'
+        Lores:
+        - ''
+        - '&7О господи, Вы только взляните на эту мордашку!'
+        - '&7Она просто прелесть...'
+        - ''
+        - '&cУ Вас нет данного ангела в коллекции!'
+      Selected:
+        Message: '&7&l<&f&l!&7&l> &7Вы успешно убрали ангела &eПанда'
+        DisplayName: '&eПанда &7(Выбрано)'
+        Lores:
+        - ''
+        - '&7О господи, Вы только взляните на эту мордашку!'
+        - '&7Она просто прелесть...'
+        - ''
+        - '&eДанный ангел уже выбран. Нажмите, чтобы снять!'
+  Creeper:
+    CustomName:
+      Allow: true
+      Messages:
+      - '&aПсс-сс-сс...'
+      - '&cВЗРЫЫЫВ!'
+    SkullTexture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODMxYmEzOWExNmNhNDQyY2FiOTM1MDQwZGRjNzI2ZWRhZDlkZDI3NmVjZmFmNmZlZTk5NzY3NjhiYjI3NmJjMCJ9fX0='
+    Chestplate:
+      R: 0
+      G: 255
+      B: 0
+    Item:
+      HasPermission:
+        Message: '&7&l<&f&l!&7&l> &7Вы успешно заспавнили ангела &eКрипер'
+        DisplayName: '&aКрипер'
+        Lores:
+        - ''
+        - '&7Осторожно! это существо взрывоопасно!'
+        - ''
+        - '&aНажмите, чтобы взять этого ангелочка!'
+      NoPermission:
+        Message: '&cУ Вас недостаточно прав!'
+        DisplayName: '&cКрипер'
+        Lores:
+        - ''
+        - '&7Осторожно! это существо взрывоопасно!'
+        - ''
+        - '&cУ Вас нет данного ангела в коллекции!'
+      Selected:
+        Message: '&7&l<&f&l!&7&l> &7Вы успешно убрали ангела &eКрипер'
+        DisplayName: '&eКрипер'
+        Lores:
+        - ''
+        - '&7Осторожно! это существо взрывоопасно!'
+        - ''
+        - '&eДанный ангел уже выбран. Нажмите, чтобы снять!'
+  Mushroom:
+    CustomName:
+      Allow: true
+      Messages:
+      - '&eЯ типа гриб!'
+      - '&eЛюбишь быть под грибами?'
+    SkullTexture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzU3MTk1MmEzNWMzMTYzYjhjMzNhMDkxOGQ2ZTlhNDUzM2Y2MjA1M2FkNGU2Y2ZjYjFmYTI3ZjU1MWFlZjIifX19'
+    Chestplate:
+      R: 255
+      G: 255
+      B: 255
+    Item:
+      HasPermission:
+        Message: '&7&l<&f&l!&7&l> &7Вы успешно заспавнили ангела &eСкелет'
+        DisplayName: '&aГрибочек'
+        Lores:
+        - ''
+        - '&7Главное не стой под ним...'
+        - ''
+        - '&aНажмите, чтобы взять этого ангелочка!'
+      NoPermission:
+        Message: '&cУ Вас недостаточно прав!'
+        DisplayName: '&cГрибочек'
+        Lores:
+        - ''
+        - '&7Главное не стой под ним...'
+        - ''
+        - '&cУ Вас нет данного ангела в коллекции!'
+      Selected:
+        Message: '&7&l<&f&l!&7&l> &7Вы успешно убрали ангела &eСкелет'
+        DisplayName: '&aГрибочек'
+        Lores:
+        - ''
+        - '&7Главное не стой под ним...'
+        - ''
+        - '&eДанный ангел уже выбран. Нажмите, чтобы снять!'
+  Satana:
+    CustomName:
+      Allow: true
+      Messages:
+      - '&c666'
+      - '&cНенавижу этот яркий мир...'
+      - '&cВсе сожгу на своем пути!'
+      - '&cДля меня нет слова "Пощада"!'
+    SkullTexture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWMyOTc4NDRhNzIyY2M4MGM3NDcxNTJiMjk2Y2Q3NTEzMzhkMzYzMjcxOTQxZmI3ZmIzZWJiOTNjOWFjZjI3In19fQ=='
+    Chestplate:
+      R: 210
+      G: 0
+      B: 0
+    Item:
+      HasPermission:
+        Message: '&7&l<&f&l!&7&l> &7Вы успешно заспавнили ангела &eСатана'
+        DisplayName: '&aСатана'
+        Lores:
+        - ''
+        - '&7Та-а-ак, у кого тут много грешков'
+        - '&7накопилось? А ну, ко мне!'
+        - ''
+        - '&aНажмите, чтобы взять этого ангелочка!'
+      NoPermission:
+        Message: '&cУ Вас недостаточно прав!'
+        DisplayName: '&cСатана'
+        Lores:
+        - ''
+        - '&7Та-а-ак, у кого тут много грешков'
+        - '&7накопилось? А ну, ко мне!'
+        - ''
+        - '&cУ Вас нет данного ангела в коллекции!'
+      Selected:
+        Message: '&7&l<&f&l!&7&l> &7Вы успешно убрали ангела &eСатана'
+        DisplayName: '&eСатана'
+        Lores:
+        - ''
+        - '&7Та-а-ак, у кого тут много грешков'
+        - '&7накопилось? А ну, ко мне!'
+        - ''
+        - '&eДанный ангел уже выбран. Нажмите, чтобы снять!'
+  Ocelot:
+    CustomName:
+      Allow: false
+      Messages: []
+    SkullTexture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTY1N2NkNWMyOTg5ZmY5NzU3MGZlYzRkZGNkYzY5MjZhNjhhMzM5MzI1MGMxYmUxZjBiMTE0YTFkYjEifX19=='
+    Chestplate:
+      R: 255
+      G: 255
+      B: 100
+    Item:
+      HasPermission:
+        Message: '&7&l<&f&l!&7&l> &7Вы успешно заспавнили ангела &eОцелот'
+        DisplayName: '&aОцелот'
+        Lores:
+        - ''
+        - '&7Так и хочется накормит его рыбкой :('
+        - ''
+        - '&aНажмите, чтобы взять этого ангелочка!'
+      NoPermission:
+        Message: '&cУ Вас недостаточно прав!'
+        DisplayName: '&cОцелот'
+        Lores:
+        - ''
+        - '&7Так и хочется накормит его рыбкой :('
+        - ''
+        - '&cУ Вас нет данного ангела в коллекции!'
+      Selected:
+        Message: '&7&l<&f&l!&7&l> &7Вы успешно убрали ангела &eОцелот'
+        DisplayName: '&eОцелот'
+        Lores:
+        - ''
+        - '&7Так и хочется накормит его рыбкой :('
+        - ''
+        - '&eДанный ангел уже выбран. Нажмите, чтобы снять!'      

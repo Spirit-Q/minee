@@ -1,0 +1,56 @@
+limits:
+    allow-extra-data-values: false
+    max-blocks-changed:
+        default: 3000
+        maximum: 3000
+    max-polygonal-points:
+        default: 3000
+        maximum: 20
+    max-radius: -1
+    max-super-pickaxe-size: 5
+    max-brush-radius: 5
+    butcher-radius:
+        default: -1
+        maximum: -1
+    disallowed-blocks: [23, 149, 158, 146, 6, 7, 14, 15, 16, 26, 27, 28, 29, 39, 31, 32, 33, 34, 36, 37, 38, 39, 40, 46, 50, 51, 56, 59, 69, 73, 74, 75, 76, 77, 81, 83, 57, 122, 138, 145, 137, 52, 41, 42, 133, 8, 9, 10, 11, 12, 14, 15, 90, 52, 13, 166, 328, 342, 343, 122, 407,408, 137, 119, 255, 54, 154, 120, 175, 127, 131, 132, 115, 141, 142, 143, 106, 150, 151, 65, 211]
+
+use-inventory:
+    enable: false
+    allow-override: true
+    creative-mode-overrides: false
+
+logging:
+    log-commands: true
+    file: worldedit.log
+
+super-pickaxe:
+    drop-items: true
+    many-drop-items: false
+
+snapshots:
+    directory:
+
+navigation-wand:
+    item: 345
+    max-distance: 100
+
+scripting:
+    timeout: 3000
+    dir: craftscripts
+
+saving:
+    dir: schematics
+
+files:
+    allow-symbolic-links: false
+
+history:
+    size: 15
+    expiration: 10
+
+wand-item: 271
+shell-save-type:
+no-double-slash: false
+no-op-permissions: false
+debug: false
+show-help-on-first-use: true

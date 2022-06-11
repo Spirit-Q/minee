@@ -1,0 +1,16 @@
+(15:30:18) Matrix Enabled!
+(15:30:18) Version: 2.4.4
+(15:34:02) unfiXxx failed Speed check | t: spin (+1) | vl:1 ping:0 tps:20.0 component: speed.spin
+(17:38:23) Matrix Enabled!
+(17:38:23) Version: 2.4.4
+(17:46:52) Matrix Enabled!
+(17:46:52) Version: 2.4.4
+(17:56:51) Matrix Enabled!
+(17:56:51) Version: 2.4.4
+(17:57:46) Matrix Enabled!
+(17:57:46) Version: 2.4.4
+(18:55:53) Matrix Enabled!
+(18:55:53) Version: 2.4.4
+(18:57:12) __MrENOTIK__ failed Speed check | suspicious movement:0.51 ve:0.42 tag:gs (+5) | vl:5 ping:0 tps:20.0 component: speed.ground
+(18:59:03) __MrENOTIK__ failed Speed check | move no slow down while using/sneaking: m:0.469 a:12 (+4) | vl:4 ping:0 tps:20.0 component: speed.noslow.limit
+(19:03:18) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: -217.516,71.0,-1065.958 v:-0.155 (+5) | vl:5 ping:0 tps:20.0 component: fly.fg.wl

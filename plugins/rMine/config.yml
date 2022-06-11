@@ -1,0 +1,39 @@
+Messages:
+  noperms: '&7&l<&f&l!&7&l> &7Нет прав!'
+  getMoney: '&7&l<&f&l!&7&l> &7Вы получили &d%money &7монет'
+  nobreak: '&7&l<&f&l!&7&l> &7Вы еще не сломали ни одной руды!'
+  broke: '&7&l<&f&l!&7&l> &7Вы выкопали руду'
+  TitleEnter: ''
+  SubtitleEnter: ''
+  TitleLeave: ''
+  SubtitleLeave: ''
+  TitleCantBreak: '&7Войдите в шахту что бы ломать блоки!'
+  SubtitleCantBreak: ''
+  Help:
+  - ''
+  - '&b|&f Команды плагина:'
+  - '&b|&b /rmine create&f/&bc &f❯ Создать шахту'
+  - '&b|&b /rmine gm&f/&bgetmoney &f❯ Получить зарплату'
+  - ''
+Blocks:
+  COAL_ORE:
+    earn: 5
+  DIAMOND_ORE:
+    earn: 15
+  EMERALD_ORE:
+    earn: 20
+  IRON_ORE:
+    earn: 8
+  GOLD_ORE:
+    earn: 10
+  REDSTONE_ORE:
+    earn: 5
+  LAPIS_ORE:
+    earn: 15
+Mine:
+  maxx: -200.0
+  minx: -246.0
+  maxy: 81.0
+  miny: 45.0
+  maxz: -997.0
+  minz: -1028.0

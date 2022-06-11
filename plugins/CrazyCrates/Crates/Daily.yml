@@ -1,0 +1,212 @@
+Crate:
+  #Type of crate (CSGO/QuadCrate/QuickCrate/Roulette/CrateOnTheGo/FireCracker/Wonder/Wheel/War/Cosmic(This requires a additional info to work.)).
+  CrateType: QuickCrate
+  #Name of the Inventory if a GUI crate.
+  CrateName: '&0Ежедневный кейс:'
+  #The name of the inventory that will be in the preview GUI.
+  Preview-Name: '&dЕжедневный кейс &7[Предпросмотр]'
+  #Starting amount of keys when the player 1st joins.
+  StartingKeys: 0
+  #If the crate shows in the /cc GUI. (If the crate type is QuickCrate/CrateOnTheGo/FireCracker then the Crate will not work. Quick Crate requires a Physical Crate.)
+  InGUI: true
+  #Slot the item is in the GUI.
+  Slot: 21
+  #Enables/Disables the Broadcasts message when they open a crate.
+  OpeningBroadCast: false
+  #Message that is broadcast when opening the crate.
+  BroadCast: '%Prefix%&6&l%Player% &7is opening a &7&lBasic Chest&7.'
+  #Item the crate is in the GUI
+  Item: 'CHEST'
+  #If the crate in the main /cc GUI is glowing or not.
+  Glowing: false
+  #Name of the item in the GUI.
+  Name: '&dЕжедневный кейс'
+  #The lore of the item in the GUI.
+  Lore:
+    - '&7Этот кейс содержит разные предметы.'
+    - '&7У вас &6%Keys% ключей &7для открытия данного кейса.'
+  Preview:
+    #Turn on and off the preview for this crate.
+    Toggle: true
+    #How many lines the previewChest should have. Including Header and Bottom (Between 3 and 6)
+    ChestLines: 4
+    Glass:
+      #Turn the glass boarder in the preview on and off.
+      Toggle: true
+      #The item that shows in the boarder. Can be glass or any other item.
+      Item: 'STAINED_GLASS_PANE:7'
+  PhysicalKey:
+    #Name of the Key.
+    Name: '&bКлюч(а) &7к ежедневному кейсу'
+    #Lore of the Key.
+    Lore:
+      - '&7A special Key'
+      - '&7For a special Crate.'
+    #The item the key is.
+    Item: 'TRIPWIRE_HOOK'
+    #Makes the key look enchanted.
+    Glowing: true
+  #All the prizes that can be gotten in the Crate.
+  Prizes:
+    1:
+      DisplayName: '&eТотем бессмертия'
+      DisplayItem: '449'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l5%'
+      MaxRange: 100
+      Chance: 1
+      Items:
+        - 'Item:449, Amount:1'
+    2:
+      DisplayName: '&fКристал энда'
+      DisplayItem: 'END_CRYSTAL'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l5%'
+      MaxRange: 100
+      Chance: 1
+      Items:
+        - 'Item:END_CRYSTAL, Amount:1'
+    3:
+      DisplayName: '&e&l$1,000'
+      DisplayItem: 'DOUBLE_PLANT:0'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l20%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Commands:
+        - 'eco give %Player% 1000'
+      # - 'pex user %player% add crazycrates.blacklist.basic.3' #This is the line where you would give the user the permission.
+    4:
+      DisplayName: '&fЯблоко &8x32'
+      DisplayItem: 'APPLE'
+      DisplayAmount: 32
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l50%'
+      MaxRange: 100
+      Chance: 50
+      Items:
+        - 'Item:APPLE, Amount:32'
+    5:
+      DisplayName: '&fТортик ложь'
+      DisplayItem: 'CAKE'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l65%'
+      MaxRange: 100
+      Chance: 65
+      Items:
+        - 'Item:CAKE, Amount:1'
+    6:
+      DisplayName: '&fДуб &8x64'
+      DisplayItem: 'LOG'
+      DisplayAmount: 64
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l70%'
+      MaxRange: 100
+      Chance: 70
+      Items:
+        - 'Item:LOG, Amount:64'
+    7:
+      DisplayName: '&bЗолотое яблоко'
+      DisplayItem: 'GOLDEN_APPLE'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l5%'
+      MaxRange: 100
+      Chance: 5
+      Items:
+        - 'Item:GOLDEN_APPLE, Amount:1'
+    8:
+      DisplayName: '&fДраконье дыхание &8x16'
+      DisplayItem: '437'
+      DisplayAmount: 16
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l15%'
+      MaxRange: 100
+      Chance: 15
+      Items:
+        - 'Item:437, Amount:16'
+    9:
+      DisplayName: '&fЭндер-Жемчуг &8x8'
+      DisplayItem: '368'
+      DisplayAmount: 8
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l25%'
+      MaxRange: 100
+      Chance: 25
+      Items:
+        - 'Item:368, Amount:8'
+    10:
+      DisplayName: '&fЗолотая морковь &8x8'
+      DisplayItem: '396'
+      DisplayAmount: 8
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l15%'
+      MaxRange: 100
+      Chance: 15
+      Items:
+        - 'Item:396, Amount:8'
+    11:
+      DisplayName: '&fПузырёк опыта &8x16'
+      DisplayItem: '384'
+      DisplayAmount: 16
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l25%'
+      MaxRange: 100
+      Chance: 25
+      Items:
+        - 'Item:384, Amount:16'
+    12:
+      DisplayName: '&fПузырёк опыта &8x32'
+      DisplayItem: '384'
+      DisplayAmount: 32
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l15%'
+      MaxRange: 100
+      Chance: 15
+      Items:
+        - 'Item:384, Amount:32'
+    13:
+      DisplayName: '&fПлод хоруса &8x16'
+      DisplayItem: '432'
+      DisplayAmount: 16
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l15%'
+      MaxRange: 100
+      Chance: 15
+      Items:
+        - 'Item:432, Amount:16'
+    14:
+      DisplayName: '&fСтейк &8x32'
+      DisplayItem: '364'
+      DisplayAmount: 32
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l55%'
+      MaxRange: 100
+      Chance: 55
+      Items:
+        - 'Item:364, Amount:32'
+      Alternative-Prize:
+        Toggle: false
+        Messages:
+          - '&8[&bCrazyCrates&8]: &7You have already won that prize, so enjoy some gold nuggets.'
+        Commands:
+          - 'give %player% 371 16'

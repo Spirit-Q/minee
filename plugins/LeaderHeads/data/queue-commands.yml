@@ -1,0 +1,36 @@
+2dfedcb4-49c2-3821-b622-f112ab93d31a:
+- broadcast &fИгрок &a{name} &fтекущий &cубийца недели&f, у него &c&l4 убийств
+- give {name} minecraft:diamond 10
+f28746de-a491-33c0-9c67-81d2c9f8e68c:
+- broadcast {name} is the second best voter of the month with 3 kills
+- give {name} minecraft:diamond 8
+f43e8f44-9a9d-3cfe-8c83-594343e0935c:
+- broadcast {name} is the fourth best killer of the month with 1 kills
+- give {name} minecraft:diamond 4
+fa084522-55e3-38e8-b72c-c9571b2b2a49:
+- broadcast {name} is the fifth best killer of the month with 0 kills
+- give {name} minecraft:diamond 2
+fea39b6a-580c-3c81-a75c-fecb723e32cc:
+- broadcast {name} is the second best voter of the month with 10 kills
+- give {name} minecraft:diamond 8
+a29791a7-6e8a-35c9-89bf-6b2568d13de2:
+- broadcast {name} is the fifth best killer of the month with 9 kills
+- give {name} minecraft:diamond 2
+cd15c199-51c7-3622-8ea5-6ae2c4140375:
+- broadcast {name} is the third best voter of the month with 37 kills
+- give {name} minecraft:diamond 6
+799b430d-8eef-3c23-b4ef-f877635b6ae0:
+- broadcast {name} is the fourth best killer of the month with 35 kills
+- give {name} minecraft:diamond 4
+bd5537f8-d62f-3ff6-a331-36a147a8d8bf:
+- broadcast &fИгрок &a{name} &fтекущий &cубийца недели&f, у него &c&l39 убийств
+- give {name} minecraft:diamond 10
+abdb3306-09a0-3d98-9e90-579aef26abfb:
+- broadcast {name} is the second best voter of the month with 32 kills
+- give {name} minecraft:diamond 8
+72b20acf-9bf5-320a-9e92-ad19825eef39:
+- broadcast {name} is the third best voter of the month with 28 kills
+- give {name} minecraft:diamond 6
+227f5dc7-c15b-32e4-8561-94961c66b472:
+- broadcast {name} is the fourth best killer of the month with 24 kills
+- give {name} minecraft:diamond 4

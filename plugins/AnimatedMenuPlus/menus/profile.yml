@@ -1,0 +1,61 @@
+# ----------------------------------------------- #
+#                                                 #
+# При поддержке JUSTSTUDIO: vk.com/juststudio_mc  #
+# Техническая поддержка сборки: vk.com/unfix1337  #
+#                                                 #
+# ----------------------------------------------- #
+Menu-Name: '&0Профиль:'
+Open-Sound: BLOCK_COMPARATOR_CLICK
+Open-Sound-Pitch: 2
+Rows: 3
+Command: 
+  Name: profile
+  Fallback: '123'
+Items:
+- Slot: 3, 2
+  Material: skull:1:3
+  Skull-Owner: 'eyJ0aW1lc3RhbXAiOjE0OTkxMDExMjY5NzUsInByb2ZpbGVJZCI6ImI0NDgwMzNkM2FjZTRmOGFhYWU4ZDg0ODg1M2QxMzIwIiwicHJvZmlsZU5hbWUiOiJWeWRlbl8iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VkZDNjNTE0YTFhYTE0NGQ2ZDk2ZGRhMWEyYmJhNjUzNmE1ZDYyYmIxZjRjNjA5NGRkMDg4OTc3ZGM0NiJ9fX0='
+  Name: '&fАнгелы'
+  Lore:
+  - '&8Ангелы (/angels)'
+  - ''
+  - '&f⤷ &7На сервере доступны ангелы'
+  - '&f⤷ &7которые будут с Вами всегда,'
+  - '&f⤷ &7выбить ангела можно из секретного сундука.'
+  - ''
+  - '&a▶ &7Клик, чтобы открыть.'
+  Close: always
+  Commands:
+  - 'angels'
+- Slot: 5, 2
+  Material: skull:1:3
+  Skull-Owner: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTk4YzFiYzY4ZDEzYjg2NTY0MzQ0MzlmZDYyOTYyODc4ZjlhNjRiZmZjOGFlNDA5MmFmZGI1MGQ0ZTc4OTM3In19fQ=='
+  Name: '&fПрефиксы'
+  Lore:
+  - '&8Префиксы (/prefix)'
+  - ''
+  - '&f⤷ &7Различные красивые префиксы'
+  - '&f⤷ &7которые можно выбить из кейса с префиксами,'
+  - '&f⤷ &7доступны для всех игроков.'
+  - ''
+  - '&a▶ &7Клик, чтобы открыть.'
+  Commands:
+  - 'chestcommands open prefix'
+- Slot: 7, 2
+  Material: skull:1:3
+  Skull-Owner: '%player_name%'
+  Name: '&fИнформация'
+  Lore:
+  - '&8moonpixel.ru'
+  - ''
+  - '&7Ваша привилегия: %vault_rankprefix%'
+  - '&7Ваш префикс: %vault_prefix%'
+  - '&7Ваш клан: %clan_tag%'
+  - '&7Ваш баланс: &f%vault_eco_balance_fixed%&d$'
+  - ''
+  - '&7Время проведённое на сервере: &f%statistic_hours_played_remaining%ч. %statistic_minutes_played_remaining%мин. %statistic_seconds_played_remaining%сек.'
+  - ''
+  - '&7Убийств: &f%statistic_player_kills%'
+  - '&7Смертей: &f%statistic_deaths%'
+  Commands:
+  - ''

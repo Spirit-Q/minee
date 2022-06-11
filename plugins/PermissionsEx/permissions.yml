@@ -1,0 +1,536 @@
+# MOONPIXEL
+groups:
+  default:
+    options:
+      default: true
+      prefix: §7
+      suffix: §7
+      weight: 1
+    permissions:
+    - chatty.chat.local
+    - chatty.chat.global
+    - chatty.chat.local.see
+    - chatty.chat.global.see
+    - chatty.command.ignore
+    - moon.menu.user
+    - rmine.getmoney
+    - moonkits.default
+    - bclans.user
+    - art.self
+    - dr.claim
+    - auction.limit.2
+    - crazycrates.menu
+    - auctionhouse.use
+    - auctionhouse.sell
+    - auctionhouse.limit.2
+    - nte.default
+    - poll.command.list
+    - poll.command.vote
+    - poll.command.results
+    - poll.command.view
+    - modifyworld.*
+    - essentials.spawn
+    - essentials.kit
+    - essentials.kits.default
+    - essentials.sethome
+    - essentials.home
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.tpahere
+    - essentials.motd
+    - essentials.rules
+    - essentials.pay
+    - essentials.msg
+    - essentials.balance
+    - essentials.signs.use.buy
+    - essentials.signs.use.sell
+    - essentials.signs.use.balance
+    - essentials.signs.use.weather
+    - essentials.signs.use.time
+    - essentials.signs.use.kit
+    - essentials.signs.use.repair
+    - essentials.signs.use.color
+    - essentials.signs.use.heal
+    - essentials.signs.use.enchant
+    - essentials.signs.use.warp
+    - essentials.signs.use.spawnmob
+    - essentials.balancetop
+    - essentials.sethome.multiple.Player
+    - worldedit.wand
+    - worldedit.selection.*
+    - worldguard.region.wand
+    - worldedit.selection.expand
+    - worldguard.region.remove.own.*
+    - worldguard.region.claim
+    - worldguard.region.info.*
+    - worldguard.region.info.member.*
+    - worldguard.region.info.own.*
+    - worldguard.region.addowner.own.*
+    - worldguard.region.removeowner.own.*
+    - worldguard.region.addmember.own.*
+    - worldguard.region.removemember.own.*
+    - worldguard.region.list.own
+    - worldguard.region.flag.regions.own.*
+    - essentials.delhome
+    - -coloredanvils.*
+    - -bukkit.command.plugins
+    - -bukkit.command.me
+    - -bukkit.tell
+    - -essentials.tell
+  iron:
+    options:
+      prefix: §8Iron §7
+      suffix: §8
+      weight: 2
+    inheritance:
+    - default
+    permissions:
+    - -moonkits.default
+    - moonkits.iron
+    - art.cooldown.iron
+    - auction.limit.4
+    - auctionhouse.limit.4
+    - -nte.default
+    - nte.iron
+    - essentials.enderchest
+    - essentials.kits.iron
+    - essentials.hat
+    - essentials.workbench
+    - essentials.sethome.multiple.iron
+  blaze:
+    inheritance:
+    - iron
+    permissions:
+    - -moonkits.default
+    - -moonkits.iron
+    - moonkits.blaze
+    - art.cooldown.blaze
+    - auction.limit.6
+    - auctionhouse.limit.6
+    - -nte.default
+    - -nte.iron
+    - nte.blaze
+    - -essentials.kits.iron
+    - essentials.kits.blaze
+    - essentials.ptime
+    - essentials.invsee
+    - essentials.sethome.multiple.blaze
+    options:
+      default: false
+      prefix: §6Blaze §7
+      suffix: §6
+      weight: 3
+  gold:
+    inheritance:
+    - blaze
+    permissions:
+    - -moonkits.default
+    - -moonkits.iron
+    - -moonkits.blaze
+    - moonkits.gold
+    - art.cooldown.gold
+    - auction.limit.8
+    - auctionhouse.limit.8
+    - -nte.default
+    - -nte.iron
+    - -nte.blaze
+    - nte.gold
+    - -essentials.kits.iron
+    - -essentials.kits.blaze
+    - essentials.kits.gold
+    - essentials.near
+    - essentials.sethome.multiple.gold
+    options:
+      default: false
+      prefix: §eGold §7
+      suffix: §e
+      weight: 4
+  elder:
+    inheritance:
+    - gold
+    permissions:
+    - -moonkits.default
+    - -moonkits.iron
+    - -moonkits.blaze
+    - -moonkits.gold
+    - moonkits.elder
+    - art.cooldown.elder
+    - auction.limit.10
+    - auctionhouse.limit.10
+    - -nte.default
+    - -nte.iron
+    - -nte.blaze
+    - -nte.gold
+    - nte.elder
+    - -essentials.kits.iron
+    - -essentials.kits.blaze
+    - -essentials.kits.gold
+    - essentials.kits.elder
+    - essentials.socialspy
+    - essentials.sethome.multiple.elder
+    options:
+      default: false
+      prefix: §7Elder §7
+      suffix: §7
+      weight: 5
+  wither:
+    inheritance:
+    - elder
+    permissions:
+    - -moonkits.default
+    - -moonkits.iron
+    - -moonkits.blaze
+    - -moonkits.gold
+    - -moonkits.elder
+    - moonkits.wither
+    - art.cooldown.wither
+    - auction.limit.12
+    - auctionhouse.limit.12
+    - -nte.default
+    - -nte.iron
+    - -nte.blaze
+    - -nte.gold
+    - -nte.elder
+    - nte.wither
+    - -essentials.kits.iron
+    - -essentials.kits.blaze
+    - -essentials.kits.gold
+    - -essentials.kits.elder
+    - essentials.kits.wither
+    - essentials.time
+    - essentials.time.set
+    - essentials.sethome.multiple.wither
+    options:
+      default: false
+      prefix: §dWither §7
+      suffix: §d
+      weight: 5
+  dragon:
+    inheritance:
+    - wither
+    permissions:
+    - -moonkits.default
+    - -moonkits.iron
+    - -moonkits.blaze
+    - -moonkits.gold
+    - -moonkits.elder
+    - -moonkits.wither
+    - moonkits.dragon
+    - art.cooldown.dragon
+    - auction.limit.17
+    - auctionhouse.limit.17
+    - -nte.default
+    - -nte.iron
+    - -nte.blaze
+    - -nte.gold
+    - -nte.elder
+    - -nte.wither
+    - nte.dragon
+    - -essentials.kits.iron
+    - -essentials.kits.blaze
+    - -essentials.kits.gold
+    - -essentials.kits.elder
+    - -essentials.kits.wither
+    - essentials.kits.dragon
+    - essentials.time
+    - essentials.time.set
+    - essentials.sethome.multiple.dragon
+    - essentials.weather
+    options:
+      default: false
+      prefix: §5Dragon §7
+      suffix: §5
+      weight: 6
+  moon:
+    inheritance:
+    - dragon
+    permissions:
+    - grant.use
+    - granter.give
+    - granter.list
+    - -moonkits.default
+    - -moonkits.iron
+    - -moonkits.blaze
+    - -moonkits.gold
+    - -moonkits.elder
+    - -moonkits.wither
+    - -moonkits.dragon
+    - moonkits.moon
+    - art.cooldown.moon
+    - auction.limit.22
+    - auctionhouse.limit.22
+    - -nte.default
+    - -nte.iron
+    - -nte.blaze
+    - -nte.gold
+    - -nte.elder
+    - -nte.wither
+    - -nte.dragon
+    - nte.moon
+    - -essentials.kits.iron
+    - -essentials.kits.blaze
+    - -essentials.kits.gold
+    - -essentials.kits.elder
+    - -essentials.kits.wither
+    - -essentials.kits.dragon
+    - essentials.kits.moon
+    - essentials.sethome.multiple.moon
+    - essentials.nick
+    - essentials.invsee.equip
+    options:
+      default: false
+      prefix: '§f§l§o§nMOON§7 '
+      suffix: §f
+      weight: 7
+  youtube:
+    inheritance:
+    - moon
+    permissions:
+    - -moonkits.default
+    - -moonkits.iron
+    - -moonkits.blaze
+    - -moonkits.gold
+    - -moonkits.elder
+    - -moonkits.wither
+    - -moonkits.dragon
+    - -moonkits.moon
+    - moonkits.youtube
+    - art.cooldown.youtube
+    - auction.limit.22
+    - auctionhouse.limit.22
+    - -nte.default
+    - -nte.iron
+    - -nte.blaze
+    - -nte.gold
+    - -nte.elder
+    - -nte.wither
+    - -nte.dragon
+    - -nte.moon
+    - nte.yt
+    - -essentials.kits.iron
+    - -essentials.kits.blaze
+    - -essentials.kits.gold
+    - -essentials.kits.elder
+    - -essentials.kits.wither
+    - -essentials.kits.dragon
+    - -essentials.kits.moon
+    - essentials.kits.youtube
+    - essentials.sethome.multiple.moon
+    - essentials.broadcast
+    - worldguard.region.flag.flags.entry.*
+    options:
+      default: false
+      prefix: §4§lYou§8§lTube §7
+      suffix: §c
+      weight: 8
+  helper:
+    inheritance:
+    - youtube
+    permissions:
+    - -moonkits.default
+    - -moonkits.hero
+    - -moonkits.master
+    - -moonkits.guardian
+    - -moonkits.ghast
+    - moonkits.wither
+    - -moonkits.youtube
+    - moneymobs.multiplier.wither
+    - chestcommands.open.*
+    - art.cooldown.wither
+    - auction.limit.22
+    - auctionhouse.limit.22
+    - -nte.default
+    - -nte.iron
+    - -nte.blaze
+    - -nte.gold
+    - -nte.elder
+    - -nte.wither
+    - -nte.dragon
+    - -nte.moon
+    - -nte.yt
+    - nte.helper
+    - -essentials.kits.hero
+    - -essentials.kits.master
+    - -essentials.kits.guardian
+    - -essentials.kits.ghast
+    - -essentials.kits.wither
+    - -essentials.kits.youtube
+    - -essentials.kits.top
+    - essentials.kits.helper
+    - essentials.time
+    - essentials.time.set
+    - Bans.tempmute
+    - Bans.mute
+    - Bans.kick
+    - Bans.unmute
+    - Bans.rules
+    - essentials.sethome.multiple.wither
+    - -prefix.chat
+    - prefix.restore
+    - essentials.chat.url
+    options:
+      default: false
+      prefix: §6§lHelper §7
+      suffix: §6
+      weight: 9
+  moder:
+    inheritance:
+    - helper
+    permissions:
+    - -moonkits.default
+    - -moonkits.hero
+    - -moonkits.master
+    - -moonkits.guardian
+    - -moonkits.ghast
+    - moonkits.wither
+    - -moonkits.youtube
+    - moneymobs.multiplier.wither
+    - chestcommands.open.*
+    - art.cooldown.wither
+    - auction.limit.22
+    - auctionhouse.limit.22
+    - -nte.default
+    - -nte.iron
+    - -nte.blaze
+    - -nte.gold
+    - -nte.elder
+    - -nte.wither
+    - -nte.dragon
+    - -nte.moon
+    - -nte.yt
+    - -nte.helper
+    - nte.moder
+    - -essentials.kits.hero
+    - -essentials.kits.master
+    - -essentials.kits.guardian
+    - -essentials.kits.ghast
+    - -essentials.kits.wither
+    - -essentials.kits.youtube
+    - -essentials.kits.top
+    - -essentials.kits.helper
+    - essentials.kits.moder
+    - essentials.time
+    - essentials.time.set
+    - Bans.tempmute
+    - Bans.kick
+    - Bans.unmute
+    - Bans.mute
+    - Bans.unban
+    - Bans.ban
+    - Bans.tempban
+    - Bans.tempmute
+    - essentials.sethome.multiple.wither
+    - -essentials.fly
+    - -essentials.god
+    - -essentials.tp
+    - -essentials.vanish
+    - -prefix.chat
+    - prefix.restore
+    - essentials.chat.url
+    options:
+      default: false
+      prefix: §2§lМодератор §7
+      suffix: §2
+      weight: 10
+  stmoder:
+    inheritance:
+    - moder
+    permissions:
+    - -moonkits.default
+    - -moonkits.hero
+    - -moonkits.master
+    - -moonkits.guardian
+    - -moonkits.ghast
+    - -moonkits.wither
+    - -moonkits.youtube
+    - moneymobs.multiplier.wither
+    - chestcommands.open.*
+    - art.cooldown.wither
+    - auction.limit.22
+    - auctionhouse.limit.22
+    - -nte.default
+    - -nte.hero
+    - -nte.master
+    - -nte.guardian
+    - -nte.ghast
+    - -nte.wither
+    - -nte.helper
+    - -nte.moder
+    - nte.stmoder
+    - Bans.tempmute
+    - Bans.kick
+    - Bans.unmute
+    - Bans.mute
+    - Bans.unban
+    - Bans.ban
+    - Bans.tempban
+    - Bans.tempmute
+    - essentials.sethome.multiple.wither
+    - essentials.fly
+    - essentials.god
+    - essentials.tp
+    - essentials.vanish
+    - essentials.gamemode.*
+    - essentials.chat.url
+    - essentials.*
+    - worldguard.region.*
+    options:
+      default: false
+      prefix: §3§lСт.Модератор §7
+      suffix: §3
+      weight: 11
+  Support:
+    options:
+      prefix: §c§lSupport §7
+      suffix: §c
+      weight: 12
+    permissions:
+    - bclans.admin
+    - -nte.default
+    - -nte.hero
+    - -nte.enigma
+    - -nte.guardian
+    - -nte.magma
+    - -nte.wither
+    - nte.admin
+    - '*'
+schema-version: 1
+users:
+  cb463296-72a4-3015-828a-1660669ca64f:
+    group:
+    - default
+    options:
+      name: SonicGames
+      prefix: ''
+      suffix: ''
+  99d457a6-575b-387a-a3ea-cad1da823244:
+    group:
+    - moon
+    options:
+      name: Lolipup228
+  acf469e7-94ee-386a-a019-25c4d92ba168:
+    permissions:
+    - uprefix.lubitel
+    - moonangel.Lamp
+    - uprefix.waflya
+    - moonangel.Satana
+    - moonangel.Creeper
+    - uprefix.wolf
+    - uprefix.moon
+    options:
+      name: DarkRage
+      prefix: ''
+      suffix: ''
+  d34f8442-d1fd-350b-b509-6fc14a9b2bf7:
+    options:
+      prefix: '&f[&4ЛЮБИТЕЛЬ&f] &7'
+      name: wither
+      suffix: '&7'
+    permissions:
+    - uprefix.moon
+    - uprefix.insane
+    - moonangel.Mushroom
+    - moonangel.Panda

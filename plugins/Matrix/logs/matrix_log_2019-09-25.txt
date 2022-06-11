@@ -1,0 +1,20 @@
+(17:49:45) Matrix Enabled!
+(17:49:45) Version: 2.4.4
+(20:54:03) Matrix Enabled!
+(20:54:03) Version: 2.4.4
+(21:25:08) Matrix Enabled!
+(21:25:08) Version: 2.4.4
+(21:36:25) Matrix Enabled!
+(21:36:25) Version: 2.4.4
+(21:39:55) OldMan failed Speed check | suspicious movement:0.458 expect:0.2873 predict:0.28401818458303596 fr:0.6 tag:a (+9) | vl:9 ping:0 tps:20.0 component: speed.main
+(21:40:34) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: -199.649,72.188,-1075.91 v:-0.155 (+5) | vl:5 ping:0 tps:20.0 component: fly.fg.wl
+(21:51:27) Matrix Enabled!
+(21:51:27) Version: 2.4.4
+(21:51:54) OldMan failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2886058429088425 fr:0.6 tag:a (+9) | vl:9 ping:0 tps:20.0 component: speed.main
+(22:06:00) Matrix Enabled!
+(22:06:00) Version: 2.4.4
+(22:17:54) Matrix Enabled!
+(22:17:54) Version: 2.4.4
+(22:18:48) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: -190.248,73.188,-995.695 v:-0.155 (+5) | vl:5 ping:0 tps:20.0 component: fly.fg.wl
+(22:20:59) OldMan failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.078 air_t:4 g:++ tag:gn (+5) | vl:5 ping:0 tps:20.0 component: fly.main
+(22:21:00) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: -173.3,72.0,-1082.464 v:-0.155 (+5) | vl:10 ping:0 tps:20.0 component: fly.fg.wl

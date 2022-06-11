@@ -1,0 +1,617 @@
+[10:40:55] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[10:40:55] [Server thread/INFO]: Loading properties
+[10:40:55] [Server thread/INFO]: Default game type: SURVIVAL
+[10:40:55] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-dcd1643-e60fc34 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[10:40:55] [Server thread/INFO]: Debug logging is disabled
+[10:40:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:40:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:40:56] [Server thread/INFO]: Generating keypair
+[10:40:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:40:59] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[10:40:59] [Server thread/INFO]: [ReflectionHelper] Version is v1_12_R1 (11201)
+[10:41:10] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.9.2
+[10:41:10] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.6
+[10:41:10] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.4.0
+[10:41:10] [Server thread/INFO]: [MoonClans] Loading MoonClans v1.0
+[10:41:10] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.6.1-SNAPSHOT
+[10:41:10] [Server thread/INFO]: [EnderPearlCooldown] Loading EnderPearlCooldown v1.2
+[10:41:10] [Server thread/INFO]: [TitleAPI] Loading TitleAPI v1.7.7
+[10:41:10] [Server thread/INFO]: [BungeeGuard] Loading BungeeGuard v1.0-SNAPSHOT
+[10:41:10] [Server thread/INFO]: [BossBarAPI] Loading BossBarAPI v1.0
+[10:41:10] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.0.0
+[10:41:10] [Server thread/INFO]: [ViaVersion] ViaVersion 4.0.0 is now loaded, waiting for boot. (late-bind)
+[10:41:10] [Server thread/INFO]: [FixPistons] Loading FixPistons v1.0
+[10:41:10] [Server thread/INFO]: [HideStream] Loading HideStream v3.8
+[10:41:10] [Server thread/INFO]: [AnimationLib] Loading AnimationLib v1.6.9
+[10:41:10] [Server thread/INFO]: [Case] Loading Case v0.1
+[10:41:10] [Server thread/INFO]: [SuperDonations] Loading SuperDonations v1.0
+[10:41:10] [Server thread/INFO]: [BlockSyntax] Loading BlockSyntax v1.1.0-SNAPSHOT
+[10:41:10] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.4.0-SNAPSHOT-b399
+[10:41:11] [Server thread/INFO]: [ACooldown] Loading ACooldown v1.0
+[10:41:11] [Server thread/INFO]: [mRestart] Loading mRestart v1.0
+[10:41:11] [Server thread/INFO]: [FiguresFix] Loading FiguresFix v1.0
+[10:41:11] [Server thread/INFO]: [eZProtector] Loading eZProtector v4.4.2
+[10:41:11] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v18.12.19-d131fa6-1241-22.0.3
+[10:41:11] [Server thread/INFO]: [MoonAngel] Loading MoonAngel v1.0
+[10:41:11] [Server thread/INFO]: [EssentialsBackup] Loading EssentialsBackup v3.5.8
+[10:41:11] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[10:41:11] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[10:41:11] [Server thread/INFO]: [Vault] Loading Vault v1.6.1
+[10:41:11] [Server thread/INFO]: [MoneyMobs] Loading MoneyMobs v3.532
+[10:41:11] [Server thread/INFO]: [CrazyCrates] Loading CrazyCrates v1.7.4.4
+[10:41:11] [Server thread/INFO]: [rMine] Loading rMine v1.0
+[10:41:11] [Server thread/INFO]: [Matrix] Loading Matrix v2.4.4
+[10:41:11] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[10:41:11] [Server thread/INFO]: [AuctionHouse] Loading AuctionHouse v3.3
+[10:41:11] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.2.0
+[10:41:11] [Server thread/INFO]: [MoonPoint] Loading MoonPoint v1.1
+[10:41:11] [Server thread/INFO]: [Chatty] Loading Chatty v2.15.1
+[10:41:11] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9-SNAPSHOT;
+[10:41:11] [Server thread/INFO]: [Essentials] Loading Essentials v2.15.0.9
+[10:41:11] [Server thread/INFO]: [ItemFixer] Loading ItemFixer v3.1
+[10:41:11] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.24-SNAPSHOT (build 1605)
+[10:41:11] [Server thread/INFO]: [AnimatedMenuPlus] Loading AnimatedMenuPlus v3.2.6
+[10:41:11] [Server thread/INFO]: [xPrefixes] Loading xPrefixes v1.3(BETA)
+[10:41:11] [Server thread/INFO]: [MoonKit] Loading MoonKit v0.1
+[10:41:11] [Server thread/INFO]: [AntiRelog] Loading AntiRelog v2.4.3
+[10:41:11] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.2-SNAPSHOT;
+[10:41:11] [Server thread/INFO]: [MobStacker] Loading MobStacker v1.0
+[10:41:11] [Server thread/INFO]: [LeaderHeads] Loading LeaderHeads v3.0.0
+[10:41:11] [Server thread/INFO]: [CommandNPC] Loading CommandNPC v1.9.1
+[10:41:11] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.15.0.9
+[10:41:11] [Server thread/INFO]: [mJobs] Loading mJobs v1.0
+[10:41:11] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.1.5
+[10:41:11] [Server thread/INFO]: [AdvancedRandomTeleport] Loading AdvancedRandomTeleport v1.01
+[10:41:11] [Server thread/INFO]: [InfoBoardReloaded] Loading InfoBoardReloaded v1.6.2
+[10:41:11] [Server thread/INFO]: [WGExtender] Loading WGExtender v1.0
+[10:41:11] [Server thread/INFO]: [ItemJoin] Loading ItemJoin v5.0.1-SNAPSHOT
+[10:41:11] [Server thread/INFO]: [AnimationLib] Enabling AnimationLib v1.6.9
+[10:41:11] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.4.0-SNAPSHOT-b399
+[10:41:11] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[10:41:11] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v18.12.19-d131fa6-1241-22.0.3
+[10:41:16] [Server thread/INFO]: ====== USE PAPER ======[m
+[10:41:16] [Server thread/INFO]: DOWNLOAD: https://ci.destroystokyo.com/job/PaperSpigot/[m
+[10:41:16] [Server thread/INFO]: GUIDE: https://www.spigotmc.org/threads/21726/[m
+[10:41:16] [Server thread/INFO]:  - This is only a recommendation[m
+[10:41:16] [Server thread/INFO]: ==============================[m
+[10:41:16] [Server thread/INFO]: [Vault] Enabling Vault v1.6.1
+[10:41:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[10:41:16] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[10:41:16] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[10:41:16] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[10:41:16] [Server thread/INFO]: [Vault] Plugin enabled (293ms)
+[10:41:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:41:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:41:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:41:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:41:16] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[10:41:16] [Server thread/INFO]: Preparing level "world"
+[10:41:16] [Server thread/INFO]: -------- World Settings For [world] --------
+[10:41:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:41:16] [Server thread/INFO]: Item Merge Radius: 4.0
+[10:41:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:41:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:41:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:41:16] [Server thread/INFO]: View Distance: 4
+[10:41:16] [Server thread/INFO]: Experience Merge Radius: 6.0
+[10:41:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:41:16] [Server thread/INFO]: Mob Spawn Range: 4
+[10:41:16] [Server thread/INFO]: Structure Info Saving: true
+[10:41:16] [Server thread/INFO]: Random Lighting Updates: false
+[10:41:16] [Server thread/INFO]: Cactus Growth Modifier: 800%
+[10:41:16] [Server thread/INFO]: Cane Growth Modifier: 800%
+[10:41:16] [Server thread/INFO]: Melon Growth Modifier: 800%
+[10:41:16] [Server thread/INFO]: Mushroom Growth Modifier: 800%
+[10:41:16] [Server thread/INFO]: Pumpkin Growth Modifier: 800%
+[10:41:16] [Server thread/INFO]: Sapling Growth Modifier: 800%
+[10:41:16] [Server thread/INFO]: Wheat Growth Modifier: 800%
+[10:41:16] [Server thread/INFO]: NetherWart Growth Modifier: 800%
+[10:41:16] [Server thread/INFO]: Vine Growth Modifier: 800%
+[10:41:16] [Server thread/INFO]: Cocoa Growth Modifier: 800%
+[10:41:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 8
+[10:41:16] [Server thread/INFO]: Entity Activation Range: An 8 / Mo 10 / Mi 2 / Tiv true
+[10:41:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:41:16] [Server thread/INFO]: Max TNT Explosions: 100
+[10:41:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:41:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[10:41:17] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[10:41:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:41:17] [Server thread/INFO]: Item Merge Radius: 4.0
+[10:41:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:41:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:41:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:41:17] [Server thread/INFO]: View Distance: 4
+[10:41:17] [Server thread/INFO]: Experience Merge Radius: 6.0
+[10:41:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:41:17] [Server thread/INFO]: Mob Spawn Range: 4
+[10:41:17] [Server thread/INFO]: Structure Info Saving: true
+[10:41:17] [Server thread/INFO]: Random Lighting Updates: false
+[10:41:17] [Server thread/INFO]: Cactus Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Cane Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Melon Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Mushroom Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Pumpkin Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Sapling Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Wheat Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: NetherWart Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Vine Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Cocoa Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 8
+[10:41:17] [Server thread/INFO]: Entity Activation Range: An 8 / Mo 10 / Mi 2 / Tiv true
+[10:41:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:41:17] [Server thread/INFO]: Max TNT Explosions: 100
+[10:41:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:41:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[10:41:17] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[10:41:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[10:41:17] [Server thread/INFO]: Item Merge Radius: 4.0
+[10:41:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:41:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:41:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:41:17] [Server thread/INFO]: View Distance: 4
+[10:41:17] [Server thread/INFO]: Experience Merge Radius: 6.0
+[10:41:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:41:17] [Server thread/INFO]: Mob Spawn Range: 4
+[10:41:17] [Server thread/INFO]: Structure Info Saving: true
+[10:41:17] [Server thread/INFO]: Random Lighting Updates: false
+[10:41:17] [Server thread/INFO]: Cactus Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Cane Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Melon Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Mushroom Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Pumpkin Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Sapling Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Wheat Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: NetherWart Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Vine Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Cocoa Growth Modifier: 800%
+[10:41:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 8
+[10:41:17] [Server thread/INFO]: Entity Activation Range: An 8 / Mo 10 / Mi 2 / Tiv true
+[10:41:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:41:17] [Server thread/INFO]: Max TNT Explosions: 100
+[10:41:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:41:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[10:41:17] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4438724504229534725)
+[10:41:18] [Server thread/INFO]: Preparing spawn area: 0%
+[10:41:19] [Server thread/INFO]: Preparing spawn area: 25%
+[10:41:20] [Server thread/INFO]: Preparing spawn area: 65%
+[10:41:21] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5006803412006883681)
+[10:41:22] [Server thread/INFO]: Preparing spawn area: 60%
+[10:41:23] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5006803412006883681)
+[10:41:23] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.9.2
+[10:41:23] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[10:41:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: essentials
+[10:41:24] [Server thread/INFO]: [PlaceholderAPI] %javascript_example% has been loaded!
+[10:41:24] [Server thread/INFO]: [PlaceholderAPI] %javascript_prefux% has been loaded!
+[10:41:24] [Server thread/INFO]: [PlaceholderAPI] %javascript_donate% has been loaded!
+[10:41:24] [Server thread/INFO]: [PlaceholderAPI] %javascript_kd% has been loaded!
+[10:41:24] [Server thread/WARN]: [PlaceholderAPI] Javascript placeholder: millionaire does not have a file specified
+[10:41:24] [Server thread/WARN]: [PlaceholderAPI] Javascript placeholder: is_staff does not have a file specified
+[10:41:24] [Server thread/WARN]: [PlaceholderAPI] Javascript placeholder: health_rounded does not have a file specified
+[10:41:24] [Server thread/WARN]: [PlaceholderAPI] Javascript placeholder: staff_online does not have a file specified
+[10:41:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: javascript
+[10:41:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player
+[10:41:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server
+[10:41:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: statistic
+[10:41:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault
+[10:41:24] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[10:41:24] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.6
+[10:41:24] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.4.0
+[10:41:24] [Server thread/INFO]: [NametagEdit] Found PermissionsEx! Hooking in.
+[10:41:24] [Server thread/INFO]: [MoonClans] Enabling MoonClans v1.0
+[10:41:24] [Server thread/INFO]: [MoonClans] Loading database..[m
+[10:41:24] [Server thread/INFO]: [MoonClans] Database loaded![m
+[10:41:24] [Server thread/INFO]: [MoonClans] Type database: YAML FILE[m
+[10:41:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.6.1-SNAPSHOT
+[10:41:24] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_12_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
+[10:41:25] [Server thread/INFO]: [EnderPearlCooldown] Enabling EnderPearlCooldown v1.2
+[10:41:25] [Server thread/INFO]: [0;32;1mPearlCoolDown[0;37;1m enabled![m
+[10:41:25] [Server thread/INFO]: [TitleAPI] Enabling TitleAPI v1.7.7
+[10:41:25] [Server thread/INFO]: [0;36;1mTitleAPI V1.7.7 has been enabled![m
+[10:41:25] [Server thread/INFO]: [BungeeGuard] Enabling BungeeGuard v1.0-SNAPSHOT
+[10:41:25] [Server thread/INFO]: [BungeeGuard] Using Paper PlayerHandshakeEvent
+[10:41:25] [Server thread/ERROR]: [BungeeGuard] Plugin BungeeGuard v1.0-SNAPSHOT has failed to register events for class me.lucko.bungeeguard.backend.BungeeGuardBackendPlugin because com/destroystokyo/paper/event/player/PlayerHandshakeEvent does not exist.
+[10:41:25] [Server thread/INFO]: [BossBarAPI] Enabling BossBarAPI v1.0
+[10:41:25] [Server thread/INFO]: [BossBarAPI] Metrics started
+[10:41:25] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.0.0
+[10:41:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[10:41:26] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[10:41:26] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[10:41:26] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[10:41:26] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[10:41:27] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[10:41:27] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[10:41:27] [Server thread/INFO]: [FixPistons] Enabling FixPistons v1.0
+[10:41:27] [Server thread/INFO]: [HideStream] Enabling HideStream v3.8
+[10:41:27] [Server thread/INFO]: [HideStream] Version 3.8 enabled.
+[10:41:27] [Server thread/INFO]: [Case] Enabling Case v0.1
+[10:41:27] [Server thread/WARN]: [Case] Could not save ru_RU.yml to plugins\Case\lang\ru_RU.yml because ru_RU.yml already exists.
+[10:41:27] [Server thread/WARN]: [Case] Could not save en_US.yml to plugins\Case\lang\en_US.yml because en_US.yml already exists.
+[10:41:27] [Server thread/INFO]: [SuperDonations] Enabling SuperDonations v1.0
+[10:41:27] [Server thread/INFO]: [BlockSyntax] Enabling BlockSyntax v1.1.0-SNAPSHOT
+[10:41:27] [Server thread/INFO]: [ACooldown] Enabling ACooldown v1.0
+[10:41:27] [Server thread/INFO]: [ACooldown] Vault hooked
+[10:41:27] [Server thread/INFO]: [mRestart] Enabling mRestart v1.0
+[10:41:27] [Server thread/INFO]: [0;32;1m[mRestart] Рестарт запланирован на 26.06.2021 01:45:00[m
+[10:41:27] [Server thread/INFO]: [0;32;1m[mRestart] Плагин включен. ([0;33;1m21 ms[0;32;1m)[m
+[10:41:27] [Server thread/INFO]: [FiguresFix] Enabling FiguresFix v1.0
+[10:41:27] [Server thread/INFO]: [eZProtector] Enabling eZProtector v4.4.2
+[10:41:27] [Server thread/INFO]: [MoonAngel] Enabling MoonAngel v1.0
+[10:41:27] [Server thread/INFO]: [EssentialsBackup] Enabling EssentialsBackup v3.5.8
+[10:41:29] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[10:41:29] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[10:41:29] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[10:41:29] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[10:41:29] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[10:41:29] [Server thread/INFO]: [MoneyMobs] Enabling MoneyMobs v3.532
+[10:41:36] [Server thread/INFO]: [0;36;22m[[0;32;1mMoneyMobs[0;36;22m] [0;32;1mChecking for updates...[m
+[10:41:36] [Server thread/INFO]: &3[&aMoneyMobs&3] &6Failed to check for a update on spigot.
+[10:41:36] [Server thread/INFO]: [0;36;22m[[0;32;1mMoneyMobs[0;36;22m] [0;32;1mNo updates found.[m
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Enabling CrazyCrates v1.7.4.4
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Loading the Messages.yml
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Successfully loaded Messages.yml
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Loading the Locations.yml
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Successfully loaded Locations.yml
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Loaded custom file: /Crates/Angels.yml.
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Loaded custom file: /Crates/Daily.yml.
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Loaded custom file: /Crates/MoneyCase.yml.
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Loaded custom file: /Crates/Prefix.yml.
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[10:41:36] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[10:41:36] [Server thread/INFO]: [CrazyCrates] All physical crate locations have been loaded.
+[10:41:36] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[10:41:36] [Server thread/INFO]: [CrazyCrates] 1 player's data has been marked to be removed.
+[10:41:36] [Server thread/INFO]: [CrazyCrates] All empty player data has been removed.
+[10:41:36] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[10:41:36] [Server thread/INFO]: [rMine] Enabling rMine v1.0
+[10:41:36] [Server thread/INFO]: [Matrix] Enabling Matrix v2.4.4
+[10:41:36] [Server thread/INFO]: [0;35;22m   _____[m
+[10:41:36] [Server thread/INFO]: [0;35;22m[21m  |  |  |   [0;32;1mMatrix AntiCheat [0;36;1mv2.4.4[m
+[10:41:36] [Server thread/INFO]: [0;35;22m[21m  |  |  |   [0;30;1mEnvironment: git-Spigot-dcd1643-e60fc34 (MC: 1.12.2)[m
+[10:41:36] [Server thread/INFO]: [m
+[10:41:36] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22mEnabled 13 checks, Disabled 3 checks[m
+[10:41:36] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22mLoaded all config files[m
+[10:41:37] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22mLoaded 8 Placeholders[m
+[10:41:38] [Server thread/WARN]: java.lang.NullPointerException
+[10:41:38] [Server thread/WARN]: 	at me.rerere.matrix.iiIIIIIiii.iIiiiIiIII(um)
+[10:41:38] [Server thread/WARN]: 	at me.rerere.matrix.IIiiiiIIiI.iIiiiIiIII(wn)
+[10:41:38] [Server thread/WARN]: 	at java.util.ArrayList.forEach(Unknown Source)
+[10:41:38] [Server thread/WARN]: 	at me.rerere.matrix.iIIIIiiIiI.<init>(ke)
+[10:41:38] [Server thread/WARN]: 	at me.rerere.matrix.iiIiiiiIII.<init>(mk)
+[10:41:38] [Server thread/WARN]: 	at me.rerere.matrix.Matrix.onEnable(qf)
+[10:41:38] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[10:41:38] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+[10:41:38] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403)
+[10:41:38] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:381)
+[10:41:38] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:330)
+[10:41:38] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422)
+[10:41:38] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383)
+[10:41:38] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338)
+[10:41:38] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272)
+[10:41:38] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545)
+[10:41:38] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[10:41:38] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22mError when load checks, please check your config files![m
+[10:41:38] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22m(Machine Learning) ML Model Version: #6[m
+[10:41:38] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22m(Machine Learning) Loaded 96 models[m
+[10:41:38] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22mHooked with PlaceholderAPI[m
+[10:41:38] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[10:41:38] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
+[10:41:38] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[10:41:38] [Server thread/INFO]: [AuctionHouse] Enabling AuctionHouse v3.3
+[10:42:02] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.2.0
+[10:42:03] [Server thread/INFO]: [MoonPoint] Enabling MoonPoint v1.1
+[10:42:03] [Server thread/INFO]: [Chatty] Enabling Chatty v2.15.1
+[10:42:03] [Server thread/INFO]: [Chatty] Vault has successful hooked.
+[10:42:03] [Server thread/INFO]: [Chatty] PlaceholderAPI has successful hooked.
+[10:42:03] [Server thread/INFO]: [Chatty] NametagEdit has successful hooked.
+[10:42:03] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9-SNAPSHOT;
+[10:42:04] [Server thread/INFO]: WEPIF: PermissionsEx обнаружен! Использую PermissionEx для разрешений.
+[10:42:04] [Server thread/INFO]: [WorldEdit] Logging WorldEdit commands to C:\Users\Вадим\Desktop\Sborka 1.12.2\plugins\WorldEdit\worldedit.log
+[10:42:04] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m Replacing commands is currently undefined behavior: { image,color }[m
+[10:42:05] [Server thread/INFO]: [WorldEdit] Использую com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 для Bukkit адаптеров
+[10:42:05] [Server thread/INFO]: [Essentials] Enabling Essentials v2.15.0.9
+[10:42:05] [Server thread/WARN]: [Essentials] §4Version mismatch! Please update EssentialsBackup to the same version.
+[10:42:06] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[10:42:07] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[10:42:07] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[10:42:08] [Server thread/INFO]: Using locale ru
+[10:42:08] [Server thread/INFO]: [Essentials] Using Spigot 1.7.10+ ServerListPingEvent iterator
+[10:42:08] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[10:42:08] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[10:42:09] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[10:42:09] [Server thread/INFO]: [ItemFixer] Enabling ItemFixer v3.1
+[10:42:09] [Server thread/INFO]: [0;36;1m[ItemFixer] [0;32;1menabled[m
+[10:42:09] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.24-SNAPSHOT (build 1605)
+[10:42:09] [Server thread/ERROR]: [Citizens] Missing preferred location bundle.
+[10:42:11] [Server thread/INFO]: [AnimatedMenuPlus] Enabling AnimatedMenuPlus v3.2.6
+[10:42:12] [Server thread/INFO]: [xPrefixes] Enabling xPrefixes v1.3(BETA)
+[10:42:14] [Server thread/INFO]: [0;32;1mPlugin enabled success![m
+[10:42:14] [Server thread/INFO]: [MoonKit] Enabling MoonKit v0.1
+[10:42:15] [Server thread/INFO]: [AntiRelog] Enabling AntiRelog v2.4.3
+[10:42:16] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.2-SNAPSHOT;
+[10:42:17] [Server thread/INFO]: [WorldGuard] (world) Поджигание TNT РАЗРЕШЕНО.
+[10:42:17] [Server thread/INFO]: [WorldGuard] (world) Зажигалки РАЗРЕШЕНЫ.
+[10:42:17] [Server thread/INFO]: [WorldGuard] (world) Огонь лавы отключен.
+[10:42:17] [Server thread/INFO]: [WorldGuard] (world) Все распространение огня отключено.
+[10:42:17] [Server thread/INFO]: [WorldGuard] Загрузка конфигурации для мира 'world'
+[10:42:17] [Server thread/INFO]: [WorldGuard] (world_nether) Поджигание TNT РАЗРЕШЕНО.
+[10:42:17] [Server thread/INFO]: [WorldGuard] (world_nether) Зажигалки РАЗРЕШЕНЫ.
+[10:42:17] [Server thread/INFO]: [WorldGuard] (world_nether) Огонь лавы отключен.
+[10:42:17] [Server thread/INFO]: [WorldGuard] (world_nether) Все распространение огня отключено.
+[10:42:17] [Server thread/INFO]: [WorldGuard] Загрузка конфигурации для мира 'world_nether'
+[10:42:17] [Server thread/INFO]: [WorldGuard] (world_the_end) Поджигание TNT РАЗРЕШЕНО.
+[10:42:17] [Server thread/INFO]: [WorldGuard] (world_the_end) Зажигалки РАЗРЕШЕНЫ.
+[10:42:17] [Server thread/INFO]: [WorldGuard] (world_the_end) Огонь лавы отключен.
+[10:42:17] [Server thread/INFO]: [WorldGuard] (world_the_end) Все распространение огня отключено.
+[10:42:17] [Server thread/INFO]: [WorldGuard] Загрузка конфигурации для мира 'world_the_end'
+[10:42:17] [Server thread/INFO]: [WorldGuard] Загрузка данных региона...
+[10:42:19] [Server thread/INFO]: [MobStacker] Enabling MobStacker v1.0
+[10:42:19] [Server thread/INFO]: [MobStacker] Config.yml found, loading!
+[10:42:19] [Server thread/INFO]: [LeaderHeads] Enabling LeaderHeads v3.0.0
+[10:42:24] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: va-illusioner
+[10:42:25] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: va-parrot
+[10:42:25] [Server thread/INFO]: [LeaderHeads] Loaded automatic reward: kills
+[10:42:25] [Server thread/INFO]: [LeaderHeads] Loaded automatic reward: votes
+[10:42:25] [Server thread/INFO]: [LeaderHeads] Hooked into Citizens
+[10:42:26] [Server thread/INFO]: [LeaderHeads] Correctly initialized skin manager
+[10:42:26] [Server thread/INFO]: [LeaderHeads] Hooked into HolographicDisplays
+[10:42:26] [Server thread/INFO]: [CommandNPC] Enabling CommandNPC v1.9.1
+[10:42:26] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mVault compatible economy found! Economy support for CommandNPC has been enabled.[m
+[10:42:26] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mInitiating Database[m
+[10:42:26] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mInjecting command info into Citizens.[m
+[10:42:26] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mCommandNPC successfully loaded![m
+[10:42:26] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.15.0.9
+[10:42:26] [Thread-37/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mLoading commands complete![m
+[10:42:26] [Server thread/INFO]: [mJobs] Enabling mJobs v1.0
+[10:42:26] [Server thread/WARN]: [mJobs] Could not save messages.properties to plugins\mJobs\messages.properties because messages.properties already exists.
+[10:42:26] [Server thread/INFO]: [0;32;1m[mJobs] Плагин включен. (237 ms)[m
+[10:42:26] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.1.5
+[10:42:31] [Server thread/INFO]: [AdvancedRandomTeleport] Enabling AdvancedRandomTeleport v1.01
+[10:42:31] [Server thread/INFO]: [InfoBoardReloaded] Enabling InfoBoardReloaded v1.6.2
+[10:42:32] [Server thread/INFO]: [InfoBoardReloaded] InfoBoardReloaded has been enabled (V.1.6.2)
+[10:42:32] [Server thread/INFO]: [WGExtender] Enabling WGExtender v1.0
+[10:42:32] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v5.0.1-SNAPSHOT
+[10:42:32] [Server thread/INFO]: [0;37;22m[[0;33;1mItemJoin[0;37;22m] [0;32;1mHooked into Vault![m
+[10:42:32] [Server thread/INFO]: [0;37;22m[[0;33;1mItemJoin[0;37;22m] [0;32;1mHooked into PlaceholderAPI![m
+[10:42:32] [Server thread/INFO]: [0;37;22m[[0;33;1mItemJoin[0;37;22m] [0;31;22mCould not find Multiverse-Core.[m
+[10:42:32] [Server thread/INFO]: [0;37;22m[[0;33;1mItemJoin[0;37;22m] [0;31;22mCould not find AuthMe.[m
+[10:42:32] [Server thread/INFO]: [0;37;22m[[0;33;1mItemJoin[0;37;22m] [0;32;1mHooked into WorldGuard![m
+[10:42:32] [Server thread/INFO]: [0;37;22m[[0;33;1mItemJoin[0;37;22m] [0;31;22mCould not find HeadDatabase.[m
+[10:42:33] [Server thread/INFO]: [0;37;22m[[0;33;1mItemJoin[0;37;22m] [0;32;1mhas been Enabled![m
+[10:42:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:42:34] [Server thread/INFO]: Done (78,123s)! For help, type "help" or "?"
+[10:42:34] [Server thread/INFO]: Using default channel type
+[10:42:44] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m Plugin 'WorldGuard' found. Using it now.[m
+[10:42:45] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m Detected class org.bukkit.event.block.BlockExplodeEvent[m
+[10:42:45] [Server thread/WARN]: [MoonClans] Task #16 for MoonClans v1.0 generated an exception
+java.lang.NullPointerException: null
+	at ru.blackgoodnether.clans.Manager.lambda$sh$4(Manager.java:218) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[10:42:45] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2 (340)
+[10:42:45] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[10:42:45] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 16 (your version is 1.8.0_121). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[10:42:45] [Craft Scheduler Thread - 0/INFO]: [Vault] You are running the latest version
+[10:42:45] [Craft Scheduler Thread - 0/INFO]: [HideStream] Running updater ..
+[10:42:46] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.4.8
+[10:42:46] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[10:42:46] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[10:42:46] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mFound a new version: v4.0.3[0;37;1m (yours: v3.2.0)[m
+[10:42:46] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mDownload it on Bukkit Dev:[m
+[10:42:46] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mdev.bukkit.org/bukkit-plugins/chest-commands[m
+[10:42:46] [Server thread/INFO]: [AnimatedMenuPlus] Loading menus...
+[10:42:46] [Craft Scheduler Thread - 2/INFO]: [PlaceholderAPI] 185 placeholder expansions are available on the cloud.
+[10:42:46] [Craft Scheduler Thread - 11/INFO]: [0;36;1m[Matrix] [0;37;22mStart checking update....[m
+[10:42:46] [Craft Scheduler Thread - 2/INFO]: [PlaceholderAPI] 6 installed expansions have updates available.
+[10:42:46] [Craft Scheduler Thread - 11/INFO]: [0;31;1mMatrix has an update: [0;37;1m4.3.5[0;31;1m, Please download it from spigotmc.org[m
+[10:42:46] [Craft Scheduler Thread - 11/INFO]: [0;31;1mMatrix has an update: [0;37;1m4.3.5[0;31;1m, Please download it from spigotmc.org[m
+[10:42:46] [Craft Scheduler Thread - 11/INFO]: [0;31;1mMatrix has an update: [0;37;1m4.3.5[0;31;1m, Please download it from spigotmc.org[m
+[10:42:46] [Craft Scheduler Thread - 4/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[10:42:46] [Craft Scheduler Thread - 4/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[10:42:46] [Craft Scheduler Thread - 4/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
+[10:42:46] [Craft Scheduler Thread - 4/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[10:42:46] [Craft Scheduler Thread - 4/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[10:42:46] [Craft Scheduler Thread - 4/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;31;1m13.6.1-SNAPSHOT[m
+[10:42:46] [Craft Scheduler Thread - 4/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;33;1m    A new version is available! Download it at:[m
+[10:42:46] [Craft Scheduler Thread - 4/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;33;1m    https://spigotmc.org/resources/skinsrestorer.2124/download?version=404319[m
+[10:42:46] [Craft Scheduler Thread - 4/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[10:42:47] [Craft Scheduler Thread - 12/INFO]: [0;36;1m[Matrix] [0;37;22mPlugin Enabled[m
+[10:42:47] [Server thread/INFO]: [AnimatedMenuPlus] 7 menus loaded
+[10:42:47] [Craft Scheduler Thread - 9/INFO]: [0;36;1m[Matrix] [0;37;22m(!) Error while connecting internet -> FileNotFoundException[m
+[10:42:47] [Server thread/INFO]: [InfoBoardReloaded] Checking for updates...
+[10:42:47] [Server thread/WARN]: [InfoBoardReloaded] Could not connect to Spigot!
+[10:42:47] [Server thread/WARN]: java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.spigotmc.org/api/general.php
+[10:42:47] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[10:42:47] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[10:42:47] [Server thread/WARN]: 	at com.pixar02.infoboard.Utils.UpdateChecker.getVersion(UpdateChecker.java:66)
+[10:42:47] [Server thread/WARN]: 	at com.pixar02.infoboard.Utils.UpdateChecker.checkUpdate(UpdateChecker.java:38)
+[10:42:47] [Server thread/WARN]: 	at com.pixar02.infoboard.Timers$5.run(Timers.java:136)
+[10:42:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76)
+[10:42:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361)
+[10:42:47] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739)
+[10:42:47] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406)
+[10:42:47] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679)
+[10:42:47] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577)
+[10:42:47] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[10:42:47] [Server thread/INFO]: [InfoBoardReloaded] online: null
+[10:42:47] [Server thread/INFO]: [InfoBoardReloaded] plugin: 1.6.2
+[10:42:47] [Server thread/WARN]: [InfoBoardReloaded] Failed to check for updates, because: java.lang.NullPointerException
+[10:42:48] [WebSocketConnectReadThread-108/WARN]: java.net.UnknownHostException: cloud.bestcraft.xyz
+[10:42:48] [WebSocketConnectReadThread-108/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+[10:42:48] [WebSocketConnectReadThread-108/WARN]: 	at java.net.PlainSocketImpl.connect(Unknown Source)
+[10:42:48] [WebSocketConnectReadThread-108/WARN]: 	at java.net.Socket.connect(Unknown Source)
+[10:42:48] [WebSocketConnectReadThread-108/WARN]: 	at me.rerere.matrix.IIIiIIIIii.run(uh)
+[10:42:48] [WebSocketConnectReadThread-108/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[10:42:48] [WebSocketConnectReadThread-108/INFO]: [0;36;1m[Matrix] [0;37;22m[Cloud] Error: java.net.UnknownHostException[m
+[10:42:48] [Craft Scheduler Thread - 0/INFO]: [HideStream] ------------------------------------
+[10:42:48] [Craft Scheduler Thread - 0/INFO]: [HideStream] HideStream v3.10 is now available!
+[10:42:48] [Craft Scheduler Thread - 0/INFO]: [HideStream] Run '/hs update' to update now.
+[10:42:48] [Craft Scheduler Thread - 0/INFO]: [HideStream] ------------------------------------
+[10:42:48] [WebSocketConnectReadThread-108/INFO]: [0;36;1m[Matrix] [0;37;22m[Cloud] Connection closed: -1[m
+[10:42:49] [Server thread/INFO]: [Citizens] Loaded 3 NPCs.
+[10:42:49] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[10:42:49] [Server thread/INFO]: [TitleAPI] No update was found, you are running the latest version.
+[10:42:52] [Server thread/WARN]: [MoonClans] Task #15 for MoonClans v1.0 generated an exception
+java.lang.NullPointerException: null
+	at ru.blackgoodnether.clans.Manager.lambda$sh4$3(Manager.java:156) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[10:45:52] [Server thread/WARN]: [MoonClans] Task #16 for MoonClans v1.0 generated an exception
+java.lang.NullPointerException: null
+	at ru.blackgoodnether.clans.Manager.lambda$sh$4(Manager.java:218) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[10:48:46] [Server thread/WARN]: [MoonClans] Task #16 for MoonClans v1.0 generated an exception
+java.lang.NullPointerException: null
+	at ru.blackgoodnether.clans.Manager.lambda$sh$4(Manager.java:218) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[10:49:14] [User Authenticator #1/INFO]: UUID of player wither is d34f8442-d1fd-350b-b509-6fc14a9b2bf7
+[10:49:14] [Netty Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[10:49:14] [Netty Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: schematica
+[10:49:14] [Netty Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: mNetwork
+[10:49:14] [Netty Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: 5zig_Set
+[10:49:14] [Netty Server IO #2/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: BSM
+[10:49:16] [Server thread/INFO]: wither[/127.0.0.1:1944] logged in with entity id 200 at ([world]-73.95640523513754, 110.39197650925809, -1088.7162496850156)
+[10:50:00] [Server thread/INFO]: wither issued server command: /вфн
+[10:50:02] [Server thread/INFO]: wither issued server command: /day
+[10:50:09] [Server thread/INFO]: wither issued server command: /menu
+[10:51:53] [Server thread/WARN]: [MoonClans] Task #16 for MoonClans v1.0 generated an exception
+java.lang.NullPointerException: null
+	at ru.blackgoodnether.clans.Manager.lambda$sh$4(Manager.java:218) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[10:54:53] [Server thread/WARN]: [MoonClans] Task #16 for MoonClans v1.0 generated an exception
+java.lang.NullPointerException: null
+	at ru.blackgoodnether.clans.Manager.lambda$sh$4(Manager.java:218) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[10:57:57] [Server thread/WARN]: [MoonClans] Task #16 for MoonClans v1.0 generated an exception
+java.lang.NullPointerException: null
+	at ru.blackgoodnether.clans.Manager.lambda$sh$4(Manager.java:218) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-dcd1643-e60fc34]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[10:57:58] [Server thread/INFO]: wither lost connection: Disconnected
+[10:58:01] [User Authenticator #2/INFO]: UUID of player wither is d34f8442-d1fd-350b-b509-6fc14a9b2bf7
+[10:58:01] [Netty Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[10:58:01] [Netty Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: schematica
+[10:58:01] [Netty Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: mNetwork
+[10:58:01] [Netty Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: 5zig_Set
+[10:58:01] [Netty Server IO #0/WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: BSM
+[10:58:02] [Server thread/INFO]: wither[/127.0.0.1:2100] logged in with entity id 5011 at ([world]-229.20251225911304, 113.39897386279601, -1046.96041743667)
+[10:58:46] [Server thread/INFO]: wither lost connection: Disconnected
+[10:58:53] [Server thread/INFO]: Stopping the server
+[10:58:53] [Server thread/INFO]: Stopping server
+[10:58:53] [Server thread/INFO]: [ItemJoin] Disabling ItemJoin v5.0.1-SNAPSHOT
+[10:58:53] [Server thread/INFO]: [0;37;22m[[0;33;1mItemJoin[0;37;22m] [0;31;22mhas been Disabled![m
+[10:58:53] [Server thread/INFO]: [WGExtender] Disabling WGExtender v1.0
+[10:58:53] [Server thread/INFO]: [InfoBoardReloaded] Disabling InfoBoardReloaded v1.6.2
+[10:58:53] [Server thread/INFO]: [InfoBoardReloaded] InfoBoardReloaded has been disabled (V.1.6.2)
+[10:58:53] [Server thread/INFO]: [AdvancedRandomTeleport] Disabling AdvancedRandomTeleport v1.01
+[10:58:53] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.1.5
+[10:58:53] [Server thread/INFO]: [mJobs] Disabling mJobs v1.0
+[10:58:53] [Server thread/INFO]: [0;32;1m[mJobs] [0;32;1mПлагин выключен.[m
+[10:58:53] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.15.0.9
+[10:58:53] [Server thread/INFO]: [CommandNPC] Disabling CommandNPC v1.9.1
+[10:58:53] [Server thread/INFO]: [LeaderHeads] Disabling LeaderHeads v3.0.0
+[10:58:53] [Server thread/INFO]: [LeaderHeads] Shutting down database connection.
+[10:58:53] [Server thread/INFO]: [MobStacker] Disabling MobStacker v1.0
+[10:58:53] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.2-SNAPSHOT;
+[10:58:53] [Server thread/INFO]: [WorldGuard] Завершение работы исполнителя и ожидание каких-либо незавершенных задач...
+[10:58:53] [Server thread/INFO]: [AntiRelog] Disabling AntiRelog v2.4.3
+[10:58:53] [Server thread/INFO]: [MoonKit] Disabling MoonKit v0.1
+[10:58:53] [Server thread/INFO]: [xPrefixes] Disabling xPrefixes v1.3(BETA)
+[10:58:53] [Server thread/INFO]: [AnimatedMenuPlus] Disabling AnimatedMenuPlus v3.2.6
+[10:58:53] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.24-SNAPSHOT (build 1605)
+[10:58:53] [Server thread/INFO]: [ItemFixer] Disabling ItemFixer v3.1
+[10:58:53] [Server thread/INFO]: [Essentials] Disabling Essentials v2.15.0.9
+[10:58:53] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: essentials
+[10:58:53] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[10:58:53] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9-SNAPSHOT;
+[10:58:53] [Server thread/INFO]: [Chatty] Disabling Chatty v2.15.1
+[10:58:53] [Server thread/INFO]: [MoonPoint] Disabling MoonPoint v1.1
+[10:58:53] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.2.0
+[10:58:53] [Server thread/INFO]: [AuctionHouse] Disabling AuctionHouse v3.3
+[10:58:53] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.6
+[10:58:53] [Server thread/INFO]: [Matrix] Disabling Matrix v2.4.4
+[10:58:54] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22mDisabled Matrix AntiCheat.[m
+[10:58:54] [Server thread/INFO]: [rMine] Disabling rMine v1.0
+[10:58:54] [Server thread/INFO]: [CrazyCrates] Disabling CrazyCrates v1.7.4.4
+[10:58:54] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder hook for placeholder: crazycrates
+[10:58:54] [Server thread/INFO]: [MoneyMobs] Disabling MoneyMobs v3.532
+[10:58:56] [Server thread/INFO]: [Vault] Disabling Vault v1.6.1
+[10:58:56] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: vault
+[10:58:56] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[10:58:56] [Server thread/INFO]: [EssentialsBackup] Disabling EssentialsBackup v3.5.8
+[10:58:56] [Server thread/INFO]: [MoonAngel] Disabling MoonAngel v1.0
+[10:58:56] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v18.12.19-d131fa6-1241-22.0.3
+[10:58:56] [Server thread/INFO]: [eZProtector] Disabling eZProtector v4.4.2
+[10:58:56] [Server thread/INFO]: [FiguresFix] Disabling FiguresFix v1.0
+[10:58:56] [Server thread/INFO]: [mRestart] Disabling mRestart v1.0
+[10:58:56] [Server thread/INFO]: [0;32;1m[mRestart] Плагин выключен.[m
+[10:58:56] [Server thread/INFO]: [ACooldown] Disabling ACooldown v1.0
+[10:58:56] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.4.0-SNAPSHOT-b399
+[10:58:56] [Server thread/INFO]: [BlockSyntax] Disabling BlockSyntax v1.1.0-SNAPSHOT
+[10:58:56] [Server thread/INFO]: [SuperDonations] Disabling SuperDonations v1.0
+[10:58:56] [Server thread/INFO]: [Case] Disabling Case v0.1
+[10:58:56] [Server thread/INFO]: [AnimationLib] Disabling AnimationLib v1.6.9
+[10:58:56] [Server thread/INFO]: [HideStream] Disabling HideStream v3.8
+[10:58:56] [Server thread/INFO]: [HideStream] Version 3.8 disabled.
+[10:58:56] [Server thread/INFO]: [FixPistons] Disabling FixPistons v1.0
+[10:58:56] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.0.0
+[10:58:56] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[10:58:56] [Server thread/INFO]: [BossBarAPI] Disabling BossBarAPI v1.0
+[10:58:56] [Server thread/INFO]: [BungeeGuard] Disabling BungeeGuard v1.0-SNAPSHOT
+[10:58:56] [Server thread/INFO]: [TitleAPI] Disabling TitleAPI v1.7.7
+[10:58:56] [Server thread/INFO]: [EnderPearlCooldown] Disabling EnderPearlCooldown v1.2
+[10:58:56] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.6.1-SNAPSHOT
+[10:58:56] [Server thread/INFO]: [MoonClans] Disabling MoonClans v1.0
+[10:58:56] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.4.0
+[10:58:56] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.6
+[10:58:56] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.9.2
+[10:58:56] [Server thread/INFO]: Saving players
+[10:58:56] [Server thread/INFO]: Saving worlds
+[10:58:56] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[10:58:56] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[10:58:56] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end

@@ -1,0 +1,36 @@
+# ----------------------------------------------- #
+#                                                 #
+# При поддержке JUSTSTUDIO: vk.com/juststudio_mc  #
+# Техническая поддержка сборки: vk.com/unfix1337  #
+#                                                 #
+# ----------------------------------------------- #
+Menu-Name: '&0Работы:'
+Open-Sound: BLOCK_COMPARATOR_CLICK
+Open-Sound-Pitch: 2
+Rows: 3
+Command: 
+  Name: jobs
+  Fallback: '123'
+Items:
+- Slot: 3, 2
+  Material: wooden_pickaxe:1
+  Name: '&fШахтёр'
+  Lore:
+  - '&8Заработок (/warp mine)'
+  - ''
+  - '&d◆ &7Зарабатывайте деньги'
+  - '&d◆ &7копая руду в шахте.'
+  Close: always
+  Commands:
+  - 'warp mine'
+- Slot: 7, 2
+  Material: wooden_axe:1
+  Name: '&fДровосек'
+  Lore:
+  - '&8Заработок (/warp wood)'
+  - ''
+  - '&d◆ &7Вы сможете зарабатывать деньги,'
+  - '&d◆ &7рубя дерево на лесопилке.'
+  Close: always
+  Commands:
+  - 'warp wood'

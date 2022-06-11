@@ -1,0 +1,114 @@
+# Citizens NPC Storage
+
+
+
+last-created-npc-id: 11
+npc:
+  '11':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Njg0MDM5OTI5NDAsInByb2ZpbGVJZCI6IjRlOTRmNDVjNzU5YzQyOTNhZjE2ZmRmMjE5MjM3YTVkIiwicHJvZmlsZU5hbWUiOiJNaW5lciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDQ4ODcwY2E3N2FhNjk5ZDAxNzA5M2I4Mjc3OWQwYTU5OGRjNGYzZjQ5ZDM1MTUzMmFlNGQ5NjMzZGNjMmE1YSJ9fX0=
+      cached-skin-uuid-name: miner
+      cached-skin-uuid: 4e94f45c-759c-4293-af16-fdf219237a5d
+      player-skin-name: miner
+      player-skin-signature: X/DvzRsAgBdZT4Riez85VeVbtsYm63X2SIETky243RWbNjPYpA/k2pwGg6IJyyy3ZuzpTaVegvszTIYySU2C+zwmCbNt0SU3AOmtry2sjwvIQUZUiIRsGoU+KebnSpDQvUpyBjb2WYQ+BMt3vu0nBqZ/xF/nZ3B7XVlklFs4XpIb4F4qc/GleJVENugg9lUhffzNZu9Jw9ykUM3gWYEkwOregMOsOIpkPdY1GyECnSjxAg1H0cV0acsl3Z90U8KswOXMtlzPSmn9UUYAP1ZN41MgHPqoz2HNMNbtGrPi8Q6k8/ZtMs8CbRFAmECUphDj1qWGSz1WCUp5Y41Bj0G+1tG3JbcH7SzdhfQc+GrU/c4vP87Ud4oBMf/O8AFTuy+AJB4/M4Az3viGUn0s/HPjHZIt2bjTpTWtZ8GetRqicCwpcowacego5kXcfFMFoVs0WPIE/c4C4TMpNG+pOMZzKDkYIQCpKxZ5watqE21600C5MlBovzi2MfyAX+ywRHj3aUnli0GDtlMhyafbkhI5SeeZ5VHFTnreRJ8fz1CP0b0SphwHsAlOsqK88Zg7vV0hWHSpQSsukcuBHFzI/nWaZO09vMetAhTkqfFN93vgFNmOzr4uFsbn/4+N6wNZaeo7d05+/sLPkSsu20yDmuaz2J9vKXOQQ7dR9uQc5Zz7lHA=
+    name: §6Шахтёр
+    uuid: 27d37edc-abeb-40b1-b731-10c5ac92af26
+    traits:
+      type: PLAYER
+      inventory:
+        '0':
+          type: DIAMOND_PICKAXE
+          amount: 1
+          durability: 0
+          mdata: 0
+        '39':
+          type: GOLD_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type: DIAMOND_PICKAXE
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: GOLD_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      gravity:
+        enabled: false
+      location:
+        world: world
+        x: '-203.2127'
+        y: '72.0'
+        z: '-1009.0901'
+        yaw: '-71.44912719726562'
+        pitch: '0.0'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      owner:
+        owner: unfiXxx
+        uuid: f83bce0e-e670-3d7a-9e3f-db8bfd7f7bce
+    traitnames: mounttrait,spawned,type,owner,equipment,lookclose,gravity,location,inventory
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '10':
+    name: §6Аукционист
+    uuid: 62934f33-cea2-434e-b35a-fffc328f1c2c
+    traits:
+      type: VILLAGER
+      spawned: true
+      location:
+        world: world
+        x: '-191.5175'
+        y: '73.0625'
+        z: '-997.5238'
+        yaw: '-100.06918334960938'
+        pitch: '0.0'
+      age:
+        age: 0
+        locked: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      owner:
+        owner: unfiXxx
+        uuid: f83bce0e-e670-3d7a-9e3f-db8bfd7f7bce
+    traitnames: mounttrait,spawned,type,owner,lookclose,location,age
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    name: §dЕжедневная награда
+    uuid: 85796944-8d5f-41a1-a2a2-13b195a766f7
+    traits:
+      type: CREEPER
+      spawned: true
+      location:
+        world: world
+        x: '747.49'
+        y: '62.0'
+        z: '585.4596'
+        yaw: '-19.391151428222656'
+        pitch: '0.0'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      owner:
+        owner: unfiXxx
+        uuid: f83bce0e-e670-3d7a-9e3f-db8bfd7f7bce
+    traitnames: mounttrait,spawned,type,owner,lookclose,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

@@ -1,0 +1,124 @@
+(11:00:29) Matrix Enabled!
+(11:00:29) Version: 2.4.4
+(11:04:56) OldMan failed Speed check | suspicious movement:0.48 expect:0.2873 predict:0.2835014725936955 fr:0.6 tag:a (+9) | vl:9 ping:99 tps:20.0 component: speed.main
+(11:05:40) OldMan failed Speed check | suspicious movement:0.449 expect:0.2873 predict:0.2485852019889671 fr:0.6 tag:a (+9) | vl:9 ping:192 tps:19.97 component: speed.main
+(11:06:14) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: -148.45,71.0,-1033.138 v:-0.155 (+5) | vl:5 ping:131 tps:20.0 component: fly.fg.wl
+(11:06:25) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: -181.114,69.188,-1040.346 v:-0.155 (+5) | vl:10 ping:111 tps:20.0 component: fly.fg.wl
+(11:12:33) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: -143.479,71.0,-1030.975 v:-0.155 (+5) | vl:5 ping:89 tps:19.97 component: fly.fg.wl
+(11:18:46) MoonPixel failed Fly check | ground spoof | tag: ai-wl | loc: -199.382,72.0,-1067.666 v:-0.155 (+5) | vl:5 ping:51 tps:20.0 component: fly.fg.wl
+(11:20:38) _ShadowPriestok_ failed HitBox check | attacking entities that are not in view:1.747 type:SHEEP vec:0.905,-0.316,1.461 hz:0.871 dst:2.103 (+2) | vl:2 ping:48 tps:20.0 component: hb.direction
+(11:20:52) _ShadowPriestok_ failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:49 tps:20.0 component: fly.main
+(11:20:55) _ShadowPriestok_ failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:10 ping:49 tps:20.0 component: fly.main
+(11:21:58) _ShadowPriestok_ failed HitBox check | attacking entities that are not in view:2.134 type:COW vec:0.806,0.381,-1.939 hz:0.651 dst:2.047 (+2) | vl:2 ping:50 tps:19.95 component: hb.direction
+(11:22:05) _ShadowPriestok_ failed HitBox check | attacking entities that are not in view:1.251 type:COW vec:-0.102,0.69,-1.038 hz:0.499 dst:0.591 (+2) | vl:2 ping:50 tps:20.0 component: hb.direction
+(11:24:30) Artiko123 failed Speed check | (strafe) change direction in mid-air:0.206 a:126.983 lm:0.271 (+5) | vl:5 ping:53 tps:20.0 component: speed.strafe
+(11:24:40) _ShadowPriestok_ failed Fly check | suspicious movement:-0.162 predict:-0.582 lm:-0.514 hard_pred:-0.582 sev_pred:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:54 tps:19.9 component: fly.main
+(11:26:10) MoonPixel failed KillAura check | (npc) force field (+5) | vl:5 ping:53 tps:20.0 component: ka.ff
+(11:26:11) MoonPixel failed KillAura check | (npc) force field (+5) | vl:10 ping:53 tps:20.0 component: ka.ff
+(11:26:11) MoonPixel failed Interact check | interact block through walls ,o=SMOOTH_BRICK b=ENDER_CHEST (+1) | vl:1 ping:53 tps:20.0 component: interact.through
+(11:26:11) MoonPixel failed Inventory check | inventory move | simple (+2) | vl:2 ping:53 tps:19.99 component: inv.move
+(11:26:14) MoonPixel failed KillAura check | (npc) force field (+5) | vl:15 ping:53 tps:20.0 component: ka.ff
+(11:26:14) MoonPixel failed KillAura check | (npc) force field (+5) | vl:20 ping:53 tps:20.0 component: ka.ff
+(11:26:14) MoonPixel failed KillAura check | (npc) force field (+5) | vl:25 ping:53 tps:20.0 component: ka.ff
+(11:26:18) MoonPixel failed KillAura check | (npc) force field (+5) | vl:30 ping:53 tps:20.0 component: ka.ff
+(11:26:21) MoonPixel failed KillAura check | (npc) force field (+5) | vl:35 ping:53 tps:20.0 component: ka.ff
+(11:26:22) MoonPixel failed KillAura check | (npc) force field (+5) | vl:40 ping:53 tps:20.0 component: ka.ff
+(11:28:19) MoonPixel failed Fly check | ground spoof | tag: ai-wl | loc: -240.443,71.0,-1054.394 v:-0.155 (+5) | vl:5 ping:50 tps:20.0 component: fly.fg.wl
+(11:30:16) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:71 tps:19.97 component: speed.spin
+(11:32:53) Artiko123 failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.078 air_t:4 g:++ tag:gn (+5) | vl:5 ping:96 tps:20.0 component: fly.main
+(11:33:21) _DIBILLO_ failed KillAura check | (npc) force field (+5) | vl:5 ping:73 tps:19.95 component: ka.ff
+(11:33:22) _DIBILLO_ failed KillAura check | (npc) force field (+5) | vl:10 ping:73 tps:20.0 component: ka.ff
+(11:35:37) Artiko123 failed Fly check | ground spoof | tag: ai-wl | loc: -183.494,72.0,-1067.38 v:-0.155 (+5) | vl:5 ping:53 tps:19.99 component: fly.fg.wl
+(11:35:37) Artiko123 failed Fly check | t: af (+5) | vl:10 ping:53 tps:19.99 component: nofall.air
+(11:43:25) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:51 tps:20.0 component: speed.spin
+(11:50:58) Artiko123 failed Speed check | sprint direction: 0.267 angle:325.629 (+5) | vl:5 ping:54 tps:20.0 component: speed.sprint
+(11:52:46) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:52 tps:20.0 component: speed.spin
+(11:55:01) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:1786 tps:20.0 component: speed.spin
+(12:20:07) sovikon failed KillAura check | (angle) suspicious angle:[136.41263, 136.41263] (+8) | vl:8 ping:207 tps:20.0 component: ka.angle
+(12:20:09) sovikon failed KillAura check | (angle) suspicious angle:[94.2865, 136.41263] (+8) | vl:16 ping:207 tps:20.0 component: ka.angle
+(12:20:16) sovikon failed KillAura check | (angle) suspicious angle:[63.525463, 136.41263] (+8) | vl:24 ping:191 tps:19.99 component: ka.angle
+(12:20:18) sovikon failed KillAura check | (angle) suspicious angle:[62.66979, 136.41263] (+8) | vl:32 ping:191 tps:19.99 component: ka.angle
+(12:20:40) sovikon failed Fly check | suspicious movement:0.191 predict:0.191 air_t:12 tag:m1 (+10) | vl:10 ping:214 tps:20.0 component: fly.main
+(12:20:40) sovikon failed Fly check | suspicious movement:0.109 predict:0.109 air_t:12 tag:m1 (+10) | vl:20 ping:214 tps:20.0 component: fly.main
+(12:20:40) sovikon failed Fly check | suspicious movement:0.028 predict:-0.078 air_t:12 tag:m1 (+10) | vl:30 ping:214 tps:20.0 component: fly.main
+(12:21:00) sovikon failed KillAura check | (angle) suspicious angle:[65.76643, 118.10961] (+8) | vl:30 ping:262 tps:20.0 component: ka.angle
+(12:23:48) sovikon failed Fly check | suspicious movement:-0.078 predict:-0.304 lm:-0.231 hard_pred:-0.304 sev_pred:-0.377 air_t:3 g:-- tag:gn (+5) | vl:5 ping:298 tps:19.98 component: fly.main
+(12:24:49) sovikon failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:266 tps:20.0 component: fly.main
+(12:30:07) sovikon failed Fly check | move unexpected: 0.0 -> -0.078 (+8) | vl:8 ping:245 tps:20.0 component: fly.fg.pattern.9plus.2
+(12:30:07) sovikon failed Fly check | t: af (+5) | vl:13 ping:245 tps:20.0 component: nofall.air
+(12:30:14) sovikon failed Fly check | move unexpected: -0.024 -> -0.078 (+8) | vl:21 ping:245 tps:20.0 component: fly.fg.pattern.9plus.2
+(12:30:14) sovikon failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 0.24918707874468282 val3: false (+10) | vl:31 ping:245 tps:20.0 component: nofall.packet
+(12:30:16) sovikon failed Fly check | suspicious movement:-1.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:0.083 air_t:4 g:-+ tag:gn (+5) | vl:36 ping:232 tps:20.0 component: fly.main
+(12:33:28) sovikon failed Fly check | suspicious movement:0.165 predict:0.165 air_t:12 tag:m1 (+10) | vl:10 ping:155 tps:19.98 component: fly.main
+(12:33:28) sovikon failed Fly check | suspicious movement:0.083 predict:-0.078 air_t:12 tag:m1 (+10) | vl:20 ping:155 tps:19.98 component: fly.main
+(12:33:50) sovikon failed Fly check | suspicious movement:0.165 predict:0.165 air_t:12 tag:m1 (+10) | vl:10 ping:151 tps:20.0 component: fly.main
+(12:33:50) sovikon failed Fly check | suspicious movement:0.083 predict:-0.078 air_t:12 tag:m1 (+10) | vl:20 ping:151 tps:20.0 component: fly.main
+(12:41:43) sovikon failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.304 air_t:12 g:++ tag:gn (+5) | vl:5 ping:158 tps:19.99 component: fly.main
+(12:44:35) sovikon failed Fly check | ground spoof | tag: ai-wl | loc: -556.7,112.0,1351.615 v:-0.155 (+5) | vl:5 ping:331 tps:20.0 component: fly.fg.wl
+(12:44:38) sovikon failed Fly check | suspicious movement:-0.447 predict:-0.447 air_t:12 tag:g9 (+6) | vl:6 ping:331 tps:19.99 component: fly.main
+(12:44:38) sovikon failed Fly check | suspicious movement:-0.517 predict:-0.517 air_t:12 tag:g9 (+6) | vl:12 ping:331 tps:20.0 component: fly.main
+(12:45:30) sovikon failed Fly check | ground spoof | tag: ai-wl | loc: -557.308,137.0,1375.495 v:-0.155 (+5) | vl:5 ping:301 tps:19.99 component: fly.fg.wl
+(13:18:34) Razer_Adam failed Speed check | suspicious movement:0.553 ve:0.42 tag:gs (+5) | vl:5 ping:51 tps:20.0 component: speed.ground
+(13:18:52) Razer_Adam failed Inventory check | inventory move | simple (+2) | vl:2 ping:51 tps:20.0 component: inv.move
+(13:19:01) Razer_Adam failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.288219499203644 fr:0.6 tag:a (+9) | vl:9 ping:52 tps:20.0 component: speed.main
+(13:19:06) Razer_Adam failed HitBox check | attacking entities that are not in view:1.593 type:ENDERMAN vec:-1.184,0.606,-0.876 hz:0.471 dst:1.278 (+2) | vl:2 ping:52 tps:20.0 component: hb.direction
+(13:19:10) Razer_Adam failed HitBox check | attacking entities that are not in view:1.347 type:ENDERMAN vec:-0.983,0.722,0.573 hz:0.524 dst:1.185 (+2) | vl:2 ping:53 tps:20.0 component: hb.direction
+(13:19:44) Razer_Adam failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28870216305922497 fr:0.6 tag:a (+9) | vl:9 ping:54 tps:19.97 component: speed.main
+(13:23:16) Razer_Adam failed Fly check | ground spoof | tag: ai-wl | loc: -581.743,64.0,1369.413 v:-0.155 (+5) | vl:5 ping:55 tps:19.97 component: fly.fg.wl
+(13:23:22) Razer_Adam failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28861141845747285 fr:0.6 tag:a (+9) | vl:9 ping:55 tps:20.0 component: speed.main
+(13:23:58) Razer_Adam failed Speed check | (strafe) change direction in mid-air:0.259 a:94.075 lm:0.309 (+5) | vl:5 ping:58 tps:19.97 component: speed.strafe
+(13:24:41) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.163 a:100 (+4) | vl:4 ping:56 tps:19.99 component: speed.noslow.limit
+(13:24:59) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.266 a:100 (+4) | vl:8 ping:55 tps:19.99 component: speed.noslow.limit
+(13:24:59) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.272 a:100 (+4) | vl:12 ping:55 tps:19.99 component: speed.noslow.limit
+(13:24:59) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.276 a:100 (+4) | vl:16 ping:55 tps:19.99 component: speed.noslow.limit
+(13:24:59) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.278 a:100 (+4) | vl:20 ping:55 tps:19.99 component: speed.noslow.limit
+(13:25:05) Razer_Adam failed Fly check | suspicious movement:-0.078 predict:-0.149 lm:-0.072 hard_pred:-0.149 sev_pred:-0.231 air_t:6 g:-- tag:gn (+5) | vl:5 ping:55 tps:19.97 component: fly.main
+(13:25:19) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.136 a:76 (+4) | vl:4 ping:54 tps:19.89 component: speed.noslow.limit
+(13:25:34) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+4) | vl:8 ping:56 tps:20.0 component: speed.noslow.limit
+(13:26:53) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+4) | vl:4 ping:61 tps:20.0 component: speed.noslow.limit
+(13:28:24) Razer_Adam failed Fly check | ground spoof | tag: ai-wl | loc: -1222.7,69.0,-3906.657 v:-0.155 (+5) | vl:5 ping:60 tps:19.97 component: fly.fg.wl
+(13:28:55) Razer_Adam failed Fly check | ground spoof | tag: ai-wl | loc: -182.3,72.0,-1068.496 v:-0.155 (+5) | vl:5 ping:59 tps:19.96 component: fly.fg.wl
+(13:28:55) Razer_Adam failed Fly check | t: af (+5) | vl:10 ping:59 tps:19.96 component: nofall.air
+(13:32:02) Razer_Adam failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.155 air_t:11 g:-- tag:gn (+5) | vl:5 ping:54 tps:19.97 component: fly.main
+(13:32:27) Razer_Adam failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:56 tps:20.0 component: fly.main
+(13:33:18) Razer_Adam failed HitBox check | attacking entities that are not in view:1.48 type:ENDERMAN vec:0.158,0.832,1.213 hz:0.55 dst:1.201 (+2) | vl:2 ping:55 tps:19.97 component: hb.direction
+(13:33:19) Razer_Adam failed HitBox check | attacking entities that are not in view:1.217 type:ENDERMAN vec:-0.866,0.842,0.15 hz:0.53 dst:1.317 (+2) | vl:4 ping:55 tps:19.97 component: hb.direction
+(13:33:33) Razer_Adam failed Fly check | ground spoof | tag: ai-wl | loc: -527.663,63.0,1200.129 v:-0.155 (+5) | vl:5 ping:56 tps:19.98 component: fly.fg.wl
+(13:34:24) Razer_Adam failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2886950106878816 fr:0.6 tag:a (+9) | vl:9 ping:56 tps:19.95 component: speed.main
+(13:35:47) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+4) | vl:4 ping:55 tps:20.0 component: speed.noslow.limit
+(13:36:19) Razer_Adam failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:55 tps:20.0 component: fly.main
+(13:36:52) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.572 a:23 (+4) | vl:4 ping:57 tps:20.0 component: speed.noslow.limit
+(13:36:53) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.406 a:36 (+4) | vl:8 ping:57 tps:20.0 component: speed.noslow.limit
+(13:36:53) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.282 a:43 (+4) | vl:12 ping:57 tps:20.0 component: speed.noslow.limit
+(13:36:54) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.594 a:55 (+4) | vl:16 ping:57 tps:20.0 component: speed.noslow.limit
+(13:36:55) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.609 a:67 (+4) | vl:20 ping:57 tps:20.0 component: speed.noslow.limit
+(13:36:57) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.566 a:91 (+4) | vl:24 ping:57 tps:20.0 component: speed.noslow.limit
+(13:37:00) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.607 a:100 (+4) | vl:28 ping:57 tps:20.0 component: speed.noslow.limit
+(13:37:01) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.586 a:100 (+4) | vl:32 ping:57 tps:20.0 component: speed.noslow.limit
+(13:37:03) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.586 a:100 (+4) | vl:36 ping:57 tps:19.97 component: speed.noslow.limit
+(13:37:04) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.585 a:100 (+4) | vl:40 ping:57 tps:19.98 component: speed.noslow.limit
+(13:37:08) Razer_Adam failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:58 tps:20.0 component: fly.main
+(13:38:51) CTNB failed Speed check | t: spin (+1) | vl:1 ping:21 tps:19.98 component: speed.spin
+(13:38:58) CTNB failed Speed check | suspicious movement:0.471 expect:0.469 predict:0.3414568964690696 gt:1 fr:0.6 tag:b (+8) | vl:9 ping:36 tps:19.93 component: speed.main
+(13:39:48) Razer_Adam failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:58 tps:19.87 component: fly.main
+(13:40:54) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.138 a:93 (+4) | vl:4 ping:58 tps:19.97 component: speed.noslow.limit
+(13:43:39) Razer_Adam failed Speed check | (strafe) change direction in mid-air:0.238 a:95.87 lm:0.287 (+5) | vl:5 ping:66 tps:19.98 component: speed.strafe
+(13:44:39) Razer_Adam failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:65 tps:20.0 component: fly.main
+(13:45:11) Razer_Adam failed HitBox check | attacking entities that are not in view:1.577 type:ENDERMAN vec:-0.234,0.705,1.391 hz:0.624 dst:1.241 (+2) | vl:2 ping:64 tps:19.99 component: hb.direction
+(13:45:57) Razer_Adam failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28831484027008436 fr:0.6 tag:a (+9) | vl:9 ping:61 tps:20.0 component: speed.main
+(13:47:00) Razer_Adam failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2886465210270805 fr:0.6 tag:a (+9) | vl:9 ping:58 tps:20.0 component: speed.main
+(13:47:28) Razer_Adam failed Speed check | (strafe) change direction in mid-air:0.202 a:125.707 lm:0.286 (+5) | vl:5 ping:60 tps:20.0 component: speed.strafe
+(13:52:49) Razer_Adam failed FastBow check | t: bow aim bot [s] a=312.74462890625 (+2) | vl:2 ping:59 tps:20.0 component: bow.aim.1
+(13:52:49) Razer_Adam failed FastBow check | t: bow aim bot [r] a=312.74462890625 (+1) | vl:3 ping:59 tps:20.0 component: bot.aim.2
+(13:53:28) Razer_Adam failed Inventory check | inventory move | simple (+2) | vl:2 ping:58 tps:20.0 component: inv.move
+(13:54:20) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.136 a:38 (+4) | vl:4 ping:55 tps:20.0 component: speed.noslow.limit
+(13:58:45) Razer_Adam failed KillAura check | (style) non-human like combat style | confidence: 20.833333333333332 (+10) | vl:10 ping:60 tps:19.93 component: ka.style
+(14:00:01) Razer_Adam failed FastUse check | fast use (+0) | vl:0 ping:60 tps:20.0 component: fastuse
+(14:00:57) Razer_Adam failed Fly check | ground spoof | tag: ai-wl | loc: -2149.7,106.0,3006.366 v:-0.155 (+5) | vl:5 ping:57 tps:19.98 component: fly.fg.wl
+(14:02:18) Razer_Adam failed Fly check | ground spoof | tag: ai-wl | loc: -2241.464,61.0,3045.406 v:-0.155 (+5) | vl:5 ping:60 tps:20.0 component: fly.fg.wl
+(14:57:57) Just failed Chat check | send the same chat content (+1) | vl:1 ping:49 tps:20.0 component: chat.same
+(17:29:49) Dep3kiu_TpoJlb failed Fly check | suspicious movement:0.083 predict:-0.078 air_t:12 tag:m1 (+10) | vl:10 ping:31 tps:20.0 component: fly.main
+(18:38:32) l3addiGaming failed FastUse check | fast use (+0) | vl:0 ping:50 tps:20.0 component: fastuse
+(18:42:23) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: -179.7,73.0,-1072.674 v:-0.155 (+5) | vl:5 ping:0 tps:20.0 component: fly.fg.wl
+(18:42:29) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: -200.56,72.0,-1068.397 v:-0.155 (+5) | vl:10 ping:13 tps:19.98 component: fly.fg.wl
+(18:42:29) OldMan failed Fly check | t: af (+5) | vl:15 ping:13 tps:19.98 component: nofall.air

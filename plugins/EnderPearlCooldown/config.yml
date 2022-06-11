@@ -1,0 +1,28 @@
+#                                                              #
+#~-~-~-~-~-~ENDERPEARLCOOLDOWN~-~-~-~-~-~
+#                                                                 #
+#~-~-~-~-~-~Configuration versioN~-~-~-~-~-~
+configVersion: 1
+#~-~-~-~-~-~EnderPearlCooldown~-~-~-~-~-~
+#Enable ActionBar Message? true - yes | false - no
+EnableMessage: true
+#Plural
+OneSecod: 'second'
+TwoSecod: 'seconds'
+SixSecod: 'seconds'
+#Message configuration
+Message: '&fInterval usage of EnderPearl:&c %time%&f. Please wait &c%cooldown%&f.'
+#Cooldown settings
+CooldownTime: 10
+#Sound settings
+Sound: 'ENTITY_ITEM_BREAK'
+#Permission(ByPass) settings
+Permission: 'EPC.Bypass'
+#====================
+#Mode of ActionBar Messages
+Mode:
+#Lost Mode
+  Lost: false
+#Eternal Mode
+  Eternal: true
+#====================

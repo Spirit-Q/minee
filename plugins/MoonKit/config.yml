@@ -1,0 +1,54 @@
+#Плейсхолдеры CHEST/EMPTY/COOLDOWN - %name%
+#Плейсхолдеры для UP - %page%/%maxpage%/%nextpage%
+#Плейсхолдеры для DOWN - %page%/%maxpage%/%previouspage%
+replace-cmd:
+  - ekits
+  - kits
+  - kit
+  - ekit
+chest:
+  id: 54
+  data: 0
+  lore:
+    - ""
+    - "&d&lЛКМ &8| &7Забрать набор"
+    - "&d&lПКМ &8| &7Посмотреть содержимое"
+  displayname: "&fЗабрать набор"
+empty:
+  id: 166
+  data: 0
+  lore:
+    - ""
+  displayname: "EMPTY %name%"
+cooldown:
+  id: 166
+  data: 0
+  lore:
+    - ""
+    - "&8&lЛКМ &8| &7Забрать набор"
+    - "&d&lПКМ &8| &7Посмотреть содержимое"
+  displayname: "&fВы уже забрали свой набор"
+up:
+  id: 339
+  data: 0
+  lore:
+    - ""
+  displayname: "&6>>"
+down:
+  id: 339
+  data: 0
+  lore:
+    - ""
+  displayname: "&6<<"
+close:
+  id: 160
+  data: 14
+  lore:
+    - ""
+  displayname: "&4✖ &cЗакрыть &4✖"
+return:
+  id: 160
+  data: 1
+  lore:
+    - ""
+  displayname: "&c<<"

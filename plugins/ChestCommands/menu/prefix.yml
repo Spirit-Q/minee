@@ -1,0 +1,382 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&0Префиксы:'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 4
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'prefix'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: wool:1
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+1:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 1
+2:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  POSITION-X: 2
+  POSITION-Y: 1
+3:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 1
+4:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 1
+5:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 1
+6:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 1
+7:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  POSITION-X: 7
+  POSITION-Y: 1
+8:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 1
+9:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 1
+1d:
+  COMMAND: 'animatedmenu open profile'
+  NAME: '&7Вернутся в &fменю'
+  LORE:
+    - ''
+  ID: '160:14'
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 4
+2d:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  POSITION-X: 2
+  POSITION-Y: 4
+3d:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 4
+4d:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 4
+'40':
+  COMMAND: 'console:tm message {player} §aУспешно! \n§r      §e§l❖ §fВы вернули свой префикс §e§l❖;console:pex user {player} prefix "";console:nte player {player} clear;console:nte reload;console:pex user {player} suffix ""'
+  NAME: '§a❖ §fВернуть префикс'
+  ID: '166'
+  LORE:
+  POSITION-X: 5
+  POSITION-Y: 4
+  KEEP-OPEN: true
+6d:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 4
+7d:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  POSITION-X: 7
+  POSITION-Y: 4
+8d:
+  COMMAND: ''
+  NAME: '&fУникальные &7префиксы'
+  LORE:
+    - ''
+  ID: '160:10'
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 4
+9d:
+  COMMAND: 'animatedmenu open profile'
+  NAME: '&7Вернутся в &fменю'
+  LORE:
+    - ''
+  ID: '160:14'
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 4
+prefix1:
+  COMMAND: 'prefix chat &f[&dМУНЕР&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &dМУНЕР'
+  LORE:
+    - ''
+    - '&7Редкость: &7Классический'
+  ID: '351:10'
+  PERMISSION: 'uprefix.muner'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 1
+  POSITION-Y: 2
+prefix2:
+  COMMAND: 'prefix chat &f[&3INSANE&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &3INSANE'
+  LORE:
+    - ''
+    - '&7Редкость: &7Классический'
+  ID: '351:10'
+  PERMISSION: 'uprefix.insane'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 2
+  POSITION-Y: 2
+prefix3:
+  COMMAND: 'prefix chat &f[&0NIGHT&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &0NIGHT'
+  LORE:
+    - ''
+    - '&7Редкость: &7Классический'
+  ID: '351:10'
+  PERMISSION: 'uprefix.night'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 3
+  POSITION-Y: 2
+prefix4:
+  COMMAND: 'prefix chat &f[&6ВАФЛЯ&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &6ВАФЛЯ'
+  LORE:
+    - ''
+    - '&7Редкость: &7Классический'
+  ID: '351:10'
+  PERMISSION: 'uprefix.waflya'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 4
+  POSITION-Y: 2
+prefix5:
+  COMMAND: 'prefix chat &f[&fВУЛЬФ&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &fВУЛЬФ'
+  LORE:
+    - ''
+    - '&7Редкость: &7Классический'
+  ID: '351:10'
+  PERMISSION: 'uprefix.wolf'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 5
+  POSITION-Y: 2
+prefix6:
+  COMMAND: 'prefix chat &f[&4ЛЮБИТЕЛЬ&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &4ЛЮБИТЕЛЬ'
+  LORE:
+    - ''
+    - '&7Редкость: &7Классический'
+  ID: '351:10'
+  PERMISSION: 'uprefix.lubitel'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 6
+  POSITION-Y: 2
+prefix7:
+  COMMAND: 'prefix chat &f[&f&l&o&lMOON&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &f&l&o&lMOON'
+  LORE:
+    - ''
+    - '&7Редкость: &2Специальный'
+  ID: '351:10'
+  PERMISSION: 'uprefix.moon'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 7
+  POSITION-Y: 2
+prefix8:
+  COMMAND: 'prefix chat &f[&e&l&oLEGEND&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &e&l&oLEGEND'
+  LORE:
+    - ''
+    - '&7Редкость: &2Специальный'
+  ID: '351:10'
+  PERMISSION: 'uprefix.legend'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 8
+  POSITION-Y: 2
+prefix9:
+  COMMAND: 'prefix chat &f[&d&l&oEZKA&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &d&l&oEZKA'
+  LORE:
+    - ''
+    - '&7Редкость: &2Специальный'
+  ID: '351:10'
+  PERMISSION: 'uprefix.ezka'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 9
+  POSITION-Y: 2
+prefix10:
+  COMMAND: 'prefix chat &f[&f&lBE&b&lST&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &f&lBE&b&lST'
+  LORE:
+    - ''
+    - '&7Редкость: &1Редкий'
+  ID: '351:10'
+  PERMISSION: 'uprefix.best'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 1
+  POSITION-Y: 3
+prefix11:
+  COMMAND: 'prefix chat &f[&bO&fR&bE&fO&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &bO&fR&bE&fO'
+  LORE:
+    - ''
+    - '&7Редкость: &1Редкий'
+  ID: '351:10'
+  PERMISSION: 'uprefix.oreo'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 2
+  POSITION-Y: 3
+prefix12:
+  COMMAND: 'prefix chat &f[&3&lSmurfs&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &3&lSmurfs'
+  LORE:
+    - ''
+    - '&7Редкость: &5Эпический'
+  ID: '351:10'
+  PERMISSION: 'uprefix.smurfs'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 3
+  POSITION-Y: 3
+prefix13:
+  COMMAND: 'prefix chat &f[&c&lSpider&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &c&lSpider'
+  LORE:
+    - ''
+    - '&7Редкость: &5Эпический'
+  ID: '351:10'
+  PERMISSION: 'uprefix.spider'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 4
+  POSITION-Y: 3
+prefix14:
+  COMMAND: 'prefix chat &f[&aᴱᴹᴱᴿᴬᴸᴰ&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &aᴱᴹᴱᴿᴬᴸᴰ'
+  LORE:
+    - ''
+    - '&7Редкость: &4Легендарный'
+  ID: '351:10'
+  PERMISSION: 'uprefix.emerald'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 5
+  POSITION-Y: 3
+prefix15:
+  COMMAND: 'prefix chat &f[&9ᴾᴸᴬᵀᴵᴺᵁᴹ&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &9ᴾᴸᴬᵀᴵᴺᵁᴹ'
+  LORE:
+    - ''
+    - '&7Редкость: &4Легендарный'
+  ID: '351:10'
+  PERMISSION: 'uprefix.platinum'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 6
+  POSITION-Y: 3
+prefix15:
+  COMMAND: 'prefix chat &f[&4ᴰ&cᴿ&6ᴱ&eᴬ&aᴹ&f] &7;console: pex user {player} suffix &7'
+  NAME: '&7Префикс: &4ᴰ&cᴿ&6ᴱ&eᴬ&aᴹ'
+  LORE:
+    - ''
+    - '&7Редкость: &eУльтимативный'
+  ID: '351:10'
+  PERMISSION: 'uprefix.dream'
+  PERMISSION-MESSAGE: "&7&l<&f&l!&7&l> &7Вам недоступен данный префикс"
+  POSITION-X: 6
+  POSITION-Y: 3
+#   ██╗ ██╗   ██╗ █████═╗  ████████████╗   █████═╗  ████████████╗ ██╗   ██╗ ██████╗  ██╗  ██████╗
+#   ██║ ██║   ██║ ██ ╔══╝   ╚═══██╔════╝   ██ ╔══╝   ╚═══██╔════╝ ██║   ██║ ██╔══██╗ ╚═╝ ██    ██╗
+#   ██║ ██║   ██║ ██ ║          ██║        ██ ║          ██║      ██║   ██║ ██║  ██║ ██╗ ██    ██║
+#   ██║ ██║   ██║  ╚═╝██╗       ██║         ╚═╝██╗       ██║      ██║   ██║ ██║  ██║ ██║ ██    ██║
+#   ██║ ██║   ██║     ██║       ██║            ██║       ██║      ██║   ██║ ██║  ██║ ██║ ██    ██║
+#█████║ ████████║  █████║       ██║         █████║       ██║      ████████║ ██████╔╝ ██║ ╚██████╔╝
+#╚════╝ ╚═══════╝  ╚════╝       ╚═╝         ╚════╝       ╚═╝      ╚═══════╝ ╚═════╝  ╚═╝  ╚═════╝

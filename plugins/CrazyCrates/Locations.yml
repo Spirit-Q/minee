@@ -1,0 +1,19 @@
+Locations:
+  '1':
+    Crate: Prefix
+    World: world
+    X: -228
+    Y: 70
+    Z: -1089
+  '2':
+    Crate: MoneyCase
+    World: world
+    X: -218
+    Y: 70
+    Z: -1089
+  '3':
+    Crate: Angels
+    World: world
+    X: -216
+    Y: 70
+    Z: -1062

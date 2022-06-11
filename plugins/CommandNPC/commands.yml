@@ -1,0 +1,27 @@
+NPCS:
+  '0':
+    Commands: []
+  '1':
+    Commands: []
+  '2':
+    Commands: []
+  '3':
+    Commands: []
+  '4':
+    Commands:
+    - 1~~~auc~~~noPerm~~~RIGHT~~~~~~false~~~false~~~false~~~0.0~~~0~~~0~~~false~~~false
+  '5':
+    Commands:
+    - 1~~~reward~~~noPerm~~~RIGHT~~~~~~false~~~false~~~false~~~0.0~~~0~~~0~~~false~~~false
+  '6':
+    Commands:
+    - 1~~~rmine getmoney~~~noPerm~~~RIGHT~~~~~~false~~~false~~~false~~~0.0~~~0~~~0~~~false~~~false
+  '9':
+    Commands:
+    - 1~~~reward~~~noPerm~~~RIGHT~~~~~~false~~~false~~~false~~~0.0~~~0~~~0~~~false~~~false
+  '10':
+    Commands:
+    - 1~~~auc~~~noPerm~~~RIGHT~~~~~~false~~~false~~~false~~~0.0~~~0~~~0~~~false~~~false
+  '11':
+    Commands:
+    - 1~~~rmine gm~~~noPerm~~~RIGHT~~~~~~false~~~false~~~false~~~0.0~~~0~~~0~~~false~~~false

@@ -1,0 +1,67 @@
+# Настроил sdir01 специально для сборки FreshBreath, копирование конфигурации запрещено.
+Groups:
+  admin:
+    Permission: nte.admin
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 1
+  stmoder:
+    Permission: nte.stmoder
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 2
+  moder:
+    Permission: nte.moder
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 3
+  helper:
+    Permission: nte.helper
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 4
+  yt:
+    Permission: nte.yt
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 5
+  moon:
+    Permission: nte.moon
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 6
+  dragon:
+    Permission: nte.dragon
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 7
+  wither:
+    Permission: nte.wither
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 8
+  elder:
+    Permission: nte.elder
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 9
+  gold:
+    Permission: nte.gold
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 44
+  blaze:
+    Permission: nte.blaze
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 55
+  iron:
+    Permission: nte.iron
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 69
+  default:
+    Permission: nte.default
+    Prefix: '%vault_prefix%'
+    Suffix: '%clan_tag_tab%'
+    SortPriority: 99

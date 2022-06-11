@@ -1,0 +1,631 @@
+mob-arena-drops-enabled: false
+percent-needed:
+  enabled: false
+  percent: 10
+BAT:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+BLAZE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+CAVE_SPIDER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+CHICKEN:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 2
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+COW:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 2
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+CREEPER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 30
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+DONKEY:
+  enabled: false
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+ELDER_GUARDIAN:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+ENDER_DRAGON:
+  enabled: true
+  chance: 100
+  drop:
+    min: 100
+    max: 2000
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+ENDERMAN:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 15
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+ENDERMITE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+EVOKER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+GHAST:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 50
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+GIANT:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20000
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+GUARDIAN:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+HORSE:
+  enabled: false
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+HUSK:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+IRON_GOLEM:
+  enabled: false
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+KILLER_RABBIT:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+LLAMA:
+  enabled: false
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+MAGMA_CUBE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+MULE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+MUSHROOM_COW:
+  enabled: false
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+OCELOT:
+  enabled: false
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+PIG:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+PIG_ZOMBIE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+PLAYER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  take-money-from-dead:
+    enabled: true
+    percent:
+      enabled: false
+      percent: 10
+  drop-money-if-killer-not-player: false
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+POLAR_BEAR:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+RABBIT:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+SHEARED_MUSHROOM:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+SHEEP:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+SHULKER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+SILVERFISH:
+  enabled: false
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+SKELETON:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+SLIME:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+SNOWMAN:
+  enabled: false
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+SPIDER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+SQUID:
+  enabled: true
+  chance: 100
+  drop:
+    min: 50
+    max: 200
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+STRAY:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+VEX:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+VILLAGER:
+  enabled: false
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+VINDICATOR:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+WITCH:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+WITHER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 200
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+WITHER_SKELETON:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 50
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+WOLF:
+  enabled: false
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+ZOMBIE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+ZOMBIE_VILLAGER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 1
+    max: 5
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0
+spawn-reasons:
+  NATURAL:
+    enabled: true
+    chance: 100
+  JOCKEY:
+    enabled: true
+    chance: 100
+  CHUNK_GEN:
+    enabled: true
+    chance: 100
+  SPAWNER:
+    enabled: true
+    chance: 100
+  EGG:
+    enabled: true
+    chance: 100
+  SPAWNER_EGG:
+    enabled: true
+    chance: 100
+  LIGHTNING:
+    enabled: true
+    chance: 100
+  BUILD_SNOWMAN:
+    enabled: true
+    chance: 100
+  BUILD_IRONGOLEM:
+    enabled: true
+    chance: 100
+  BUILD_WITHER:
+    enabled: true
+    chance: 100
+  VILLAGE_DEFENSE:
+    enabled: true
+    chance: 100
+  VILLAGE_INVASION:
+    enabled: true
+    chance: 100
+  BREEDING:
+    enabled: true
+    chance: 100
+  SLIME_SPLIT:
+    enabled: true
+    chance: 100
+  REINFORCEMENTS:
+    enabled: true
+    chance: 100
+  NETHER_PORTAL:
+    enabled: true
+    chance: 100
+  DISPENSE_EGG:
+    enabled: true
+    chance: 100
+  INFECTION:
+    enabled: true
+    chance: 100
+  CURED:
+    enabled: true
+    chance: 100
+  OCELOT_BABY:
+    enabled: true
+    chance: 100
+  SILVERFISH_BLOCK:
+    enabled: true
+    chance: 100
+  MOUNT:
+    enabled: true
+    chance: 100
+  TRAP:
+    enabled: true
+    chance: 100
+  ENDER_PEARL:
+    enabled: true
+    chance: 100
+  CUSTOM:
+    enabled: true
+    chance: 100
+  DEFAULT:
+    enabled: true
+    chance: 100
+  SHOULDER_ENTITY:
+    enabled: true
+    chance: 100
+PARROT:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  sound:
+    enabled: true
+    type: CLICK
+    volume: 5.0
+    pitch: 0.0

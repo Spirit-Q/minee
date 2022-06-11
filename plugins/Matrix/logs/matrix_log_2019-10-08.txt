@@ -1,0 +1,8 @@
+(16:51:36) Matrix Enabled!
+(16:51:36) Version: 2.4.4
+(16:53:37) LenelYT failed Speed check | (strafe) change direction in mid-air:0.568 a:565.485 lm:0.284 (+5) | vl:5 ping:0 tps:20.0 component: speed.strafe
+(16:53:37) LenelYT failed Speed check | suspicious movement:0.568 expect:0.40499999999999997 predict:0.28397755603684977 fr:0.6 tag:ea (+5) | vl:10 ping:0 tps:20.0 component: speed.main
+(16:53:38) LenelYT failed Fly check | suspicious movement:-0.078 predict:-0.163 lm:-0.086 hard_pred:-0.163 sev_pred:-0.228 air_t:7 g:-- tag:gn (+5) | vl:5 ping:0 tps:20.0 component: fly.main
+(16:57:16) LenelYT failed Speed check | suspicious movement:0.485 expect:0.469 predict:0.35097871962355753 gt:1 fr:0.6 tag:b (+8) | vl:8 ping:12 tps:20.0 component: speed.main
+(19:57:42) Matrix Enabled!
+(19:57:42) Version: 2.4.4

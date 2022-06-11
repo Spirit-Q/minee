@@ -1,0 +1,21 @@
+(11:19:24) Matrix Enabled!
+(11:19:24) Version: 2.3.3
+(11:22:53) Matrix Enabled!
+(11:22:53) Version: 2.3.3
+(11:24:16) Matrix Enabled!
+(11:24:16) Version: 2.3.3
+(11:34:31) Matrix Enabled!
+(11:34:31) Version: 2.3.3
+(11:36:59) Matrix Enabled!
+(11:36:59) Version: 2.3.3
+(11:42:13) Matrix Enabled!
+(11:42:13) Version: 2.3.3
+(11:47:25) Matrix Enabled!
+(11:47:25) Version: 2.3.3
+(12:30:18) Matrix Enabled!
+(12:30:18) Version: 2.3.3
+(15:40:33) Matrix Enabled!
+(15:40:33) Version: 2.3.3
+(15:53:07) JUSTSTUDIO failed Chat check | send the same chat content (+1) | vl:1 ping:2 tps:20.0 component: chat.same
+(15:53:16) JUSTSTUDIO failed Chat check | send the same chat content (+1) | vl:2 ping:2 tps:20.0 component: chat.same
+(15:53:35) JUSTSTUDIO failed Chat check | send the same chat content (+1) | vl:1 ping:10 tps:20.0 component: chat.same

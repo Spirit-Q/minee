@@ -1,0 +1,14 @@
+(16:58:16) Matrix Enabled!
+(16:58:16) Version: 2.4.4
+(16:59:53) Matrix Enabled!
+(16:59:53) Version: 2.4.4
+(17:01:47) SonicGames failed Speed check | sprint direction: 0.245 angle:325.827 (+5) | vl:5 ping:1 tps:20.0 component: speed.sprint
+(17:04:49) SonicGames failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28823436686189974 fr:0.6 tag:a (+9) | vl:9 ping:6 tps:20.0 component: speed.main
+(19:34:10) Matrix Enabled!
+(19:34:10) Version: 2.4.4
+(19:38:11) Matrix Enabled!
+(19:38:11) Version: 2.4.4
+(19:44:18) Matrix Enabled!
+(19:44:18) Version: 2.4.4
+(20:16:05) Matrix Enabled!
+(20:16:05) Version: 2.4.4

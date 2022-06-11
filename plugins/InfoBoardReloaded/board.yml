@@ -1,0 +1,21 @@
+InfoBoard:
+  '1':
+    ShowTime: 50
+    global:
+      default: 
+        Title: '&e▶ &dMINEPIXEL &e◀'
+        Rows:
+        - ''
+        - '&fВы: &7%player_name%'
+        - '&fДонат: &7%javascript_donate%'
+        - '&fПрефикс: &7%javascript_prefux%'     
+        - ''
+        - '&7Статистика '
+        - ' &fВаш клан: &7%javascript_example%'  
+        - ' &fБаланс: &e%vault_eco_balance_formatted%'
+        - ' &fКиллов: &6%statistic_player_kills%'
+        - ' &fСмертей: &c%statistic_deaths%'
+        - ''
+        - '&fСервер: &dGRIEF-1'       
+        - '&fПинг: &c%player_ping%'
+        - '&fОнлайн мира: &a&l%server_online%'          

@@ -1,0 +1,206 @@
+(10:30:12) MankaGrief failed Fly check | suspicious movement:-0.44 predict:-0.44 air_t:12 tag:g9 (+6) | vl:6 ping:54 tps:19.94 component: fly.main
+(10:30:15) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:54 tps:19.99 component: speed.spin
+(10:30:20) MankaGrief failed Fly check | suspicious movement:-0.716 predict:-0.779 air_t:12 g:-- tag:gn (+5) | vl:11 ping:54 tps:20.0 component: fly.main
+(10:30:43) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:60 tps:20.0 component: fastuse
+(10:33:21) MankaGrief failed Speed check | suspicious movement:0.476 expect:0.469 predict:0.34514703992229107 gt:1 fr:0.6 tag:b (+8) | vl:8 ping:73 tps:20.0 component: speed.main
+(11:10:33) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GLASS b=TRAPPED_CHEST (+1) | vl:1 ping:0 tps:20.0 component: interact.through
+(11:11:19) _CJLaDoCTb_ failed Fly check | move unexpected: 0.2 -> -0.781 (+8) | vl:8 ping:70 tps:20.0 component: fly.fg.pattern.9plus.2
+(11:11:19) _CJLaDoCTb_ failed Fly check | illegal midair packets | var: true (+4) | vl:12 ping:70 tps:20.0 component: fly.fg.pattern.9plus
+(11:11:19) _CJLaDoCTb_ failed Fly check | ground spoof | t:fgw a=0.20000004768371582 b=-0.7811331932098841 (+4) | vl:16 ping:70 tps:20.0 component: fly.fg.w
+(11:11:19) _CJLaDoCTb_ failed Fly check | t: af (+5) | vl:21 ping:70 tps:20.0 component: nofall.air
+(11:12:01) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.894 predict:-0.894 air_t:12 tag:g9 (+6) | vl:6 ping:117 tps:19.97 component: fly.main
+(11:13:40) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.166 predict:-0.078 air_t:4 g:++ tag:gn (+5) | vl:5 ping:129 tps:19.96 component: fly.main
+(11:14:31) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GLASS b=CHEST (+1) | vl:1 ping:119 tps:19.95 component: interact.through
+(11:14:37) _CJLaDoCTb_ failed Inventory check | inventory move | simple (+2) | vl:2 ping:119 tps:19.96 component: inv.move
+(11:14:48) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=TRAPPED_CHEST (+1) | vl:1 ping:122 tps:19.99 component: interact.through
+(11:15:54) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:116 tps:20.0 component: interact.through
+(11:17:23) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:137 tps:19.96 component: fastuse
+(11:17:35) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.304 predict:-0.517 air_t:6 g:-- tag:gn (+5) | vl:5 ping:137 tps:19.97 component: fly.main
+(11:17:37) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.854 predict:-0.717 air_t:12 g:++ tag:gn (+5) | vl:10 ping:132 tps:19.59 component: fly.main
+(11:20:43) _CJLaDoCTb_ failed Inventory check | inventory move | simple (+2) | vl:2 ping:140 tps:20.0 component: inv.move
+(11:23:33) _CJLaDoCTb_ failed FastBow check | fast bow (+0) | vl:0 ping:130 tps:20.0 component: fastbow
+(11:23:35) _CJLaDoCTb_ failed FastBow check | fast bow (+0) | vl:0 ping:130 tps:20.0 component: fastbow
+(11:24:33) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:127 tps:19.97 component: fastuse
+(11:31:57) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:127 tps:19.99 component: fastuse
+(16:30:46) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:77 tps:19.98 component: fastuse
+(16:33:07) turikhnax failed Speed check | move no slow down while using/sneaking: m:0.194 a:11 (+4) | vl:4 ping:19 tps:20.0 component: speed.noslow.limit
+(16:34:33) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:135 tps:19.96 component: interact.through
+(16:34:36) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GLASS b=TRAPPED_CHEST (+1) | vl:2 ping:135 tps:19.99 component: interact.through
+(16:34:39) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GLASS b=CHEST (+1) | vl:3 ping:135 tps:20.0 component: interact.through
+(16:36:50) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:116 tps:20.0 component: fastuse
+(16:37:19) _CJLaDoCTb_ failed Speed check | suspicious movement:0.476 expect:0.2873 predict:0.27831332874219017 fr:0.6 tag:a (+9) | vl:9 ping:128 tps:20.0 component: speed.main
+(16:39:13) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:145 tps:19.98 component: fastuse
+(16:42:42) _CJLaDoCTb_ failed AutoBot check | bot like actions | like: Baritone (+4) | vl:4 ping:196 tps:19.98 component: bot.baritone
+(16:44:45) _CJLaDoCTb_ failed Fly check | move unexpected: -0.072 -> -0.228 (+8) | vl:8 ping:130 tps:20.0 component: fly.fg.pattern.9plus.2
+(16:44:45) _CJLaDoCTb_ failed Fly check | send illegal packet to anti fall damage |  val1: 0.44952598 val2: 0.07242780368044066 val3: false (+10) | vl:18 ping:130 tps:20.0 component: nofall.packet
+(16:44:59) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:131 tps:19.99 component: fastuse
+(16:45:42) _CJLaDoCTb_ failed Speed check | suspicious movement:0.736 expect:0.6235 predict:0.14090412005296957 fr:0.6 tag:c (+10) | vl:10 ping:128 tps:20.0 component: speed.main
+(16:45:42) _CJLaDoCTb_ failed Speed check | suspicious movement:0.421 expect:0.365 predict:0.6955811986082128 fr:0.6 tag:ea (+5) | vl:15 ping:128 tps:20.0 component: speed.main
+(16:45:42) _CJLaDoCTb_ failed Speed check | suspicious movement:0.403 expect:0.365 predict:0.4088985997757833 fr:0.6 tag:ea (+5) | vl:20 ping:128 tps:20.0 component: speed.main
+(16:45:42) _CJLaDoCTb_ failed Speed check | suspicious movement:0.386 expect:0.365 predict:0.39195477658891464 fr:0.6 tag:ea (+5) | vl:25 ping:128 tps:20.0 component: speed.main
+(16:45:42) _CJLaDoCTb_ failed Speed check | suspicious movement:0.37 expect:0.365 predict:0.376562278666075 fr:0.6 tag:ea (+5) | vl:30 ping:128 tps:20.0 component: speed.main
+(16:45:42) _CJLaDoCTb_ failed Speed check | suspicious movement:0.356 expect:0.342 predict:0.36257995372719054 fr:0.6 tag:eb (+6) | vl:36 ping:128 tps:20.0 component: speed.main
+(16:47:06) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:123 tps:20.0 component: fastuse
+(16:48:29) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:119 tps:20.0 component: fastuse
+(16:48:45) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:116 tps:20.0 component: fastuse
+(16:48:46) _CJLaDoCTb_ failed FastBow check | fast bow (+0) | vl:0 ping:116 tps:20.0 component: fastbow
+(16:49:14) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.301 predict:0.333 air_t:1 g:++ tag:gn (+5) | vl:5 ping:133 tps:19.99 component: fly.main
+(16:49:24) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:133 tps:19.98 component: fastuse
+(16:49:35) _CJLaDoCTb_ failed FastBow check | fast bow (+0) | vl:0 ping:127 tps:19.99 component: fastbow
+(16:50:00) _CJLaDoCTb_ failed FastBow check | fast bow (+0) | vl:0 ping:126 tps:20.0 component: fastbow
+(16:50:10) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:126 tps:20.0 component: fastuse
+(16:51:23) _CJLaDoCTb_ failed Inventory check | inventory move | simple (+2) | vl:2 ping:130 tps:19.9 component: inv.move
+(16:51:41) _CJLaDoCTb_ failed FastBow check | fast bow (+0) | vl:0 ping:123 tps:19.99 component: fastbow
+(16:51:43) _CJLaDoCTb_ failed FastBow check | fast bow (+0) | vl:0 ping:176 tps:20.0 component: fastbow
+(16:51:44) _CJLaDoCTb_ failed Speed check | suspicious movement:0.624 expect:0.429 predict:0.19599270118348688 gt:3 fr:0.6 tag:b (+8) | vl:8 ping:176 tps:20.0 component: speed.main
+(16:53:01) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:145 tps:20.0 component: fastuse
+(16:53:15) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:142 tps:19.99 component: fastuse
+(16:53:50) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=TRAPPED_CHEST (+1) | vl:1 ping:518 tps:20.0 component: interact.through
+(16:54:36) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.152 predict:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:339 tps:20.0 component: fly.main
+(16:54:48) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:285 tps:20.0 component: fastuse
+(17:02:34) _CJLaDoCTb_ failed Speed check | sprint direction: 0.281 angle:512.55 (+5) | vl:5 ping:1905 tps:19.95 component: speed.sprint
+(17:02:34) _CJLaDoCTb_ failed Speed check | sprint direction: 0.278 angle:454.145 (+5) | vl:10 ping:1905 tps:19.95 component: speed.sprint
+(17:02:34) _CJLaDoCTb_ failed Speed check | sprint direction: 0.279 angle:452.059 (+5) | vl:15 ping:1905 tps:19.95 component: speed.sprint
+(17:24:14) Matrix Enabled!
+(17:24:14) Version: 2.3.1
+(17:32:17) Matrix Enabled!
+(17:32:17) Version: 2.3.3
+(18:35:26) turikhnax failed KillAura check | t: f (+5) | vl:5 ping:21 tps:19.96 component: ka.f
+(18:36:37) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:163 tps:20.0 component: fastuse
+(18:37:27) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:108 tps:20.0 component: fastuse
+(18:37:54) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:101 tps:20.0 component: fastuse
+(18:44:07) MemasGelya failed Speed check | (strafe) change direction in mid-air:0.275 a:405.231 lm:0.167 (+5) | vl:5 ping:136 tps:19.99 component: speed.strafe
+(18:45:38) MemasGelya failed Speed check | suspicious movement:0.121 expect:0.392 predict:0.13008019140867655vet:-0.11 fr:0.6 tag:f (+5) | vl:5 ping:144 tps:19.97 component: speed.main
+(18:46:45) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:191 tps:20.0 component: fastuse
+(18:51:46) MemasGelya failed Interact check | interact block through walls ,o=NETHER_WARTS b=CHEST (+1) | vl:1 ping:154 tps:19.98 component: interact.through
+(18:51:46) MemasGelya failed Interact check | interact block through walls ,o=NETHER_WARTS b=CHEST (+1) | vl:2 ping:154 tps:19.98 component: interact.through
+(18:52:07) MemasGelya failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:5 ping:146 tps:19.91 component: fly.main
+(20:11:45) ValWar failed Interact check | interact block through walls ,o=LONG_GRASS b=CHEST (+1) | vl:1 ping:50 tps:19.98 component: interact.through
+(20:11:48) ValWar failed Interact check | interact block through walls ,o=BARRIER b=CHEST (+1) | vl:2 ping:50 tps:19.95 component: interact.through
+(20:14:40) EUFANI228 failed Speed check | t: spin (+1) | vl:1 ping:66 tps:19.96 component: speed.spin
+(20:26:01) ValWar failed Fly check | suspicious movement:-0.078 predict:0.118 air_t:1 g:++ tag:gn (+5) | vl:5 ping:76 tps:20.0 component: fly.main
+(20:26:02) ValWar failed Fly check | move unexpected: -0.024 -> -0.078 (+8) | vl:13 ping:76 tps:20.0 component: fly.fg.pattern.9plus.2
+(20:26:02) ValWar failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 0.24918707874468282 val3: false (+10) | vl:23 ping:76 tps:20.0 component: nofall.packet
+(20:34:54) Mottedzik failed Fly check | suspicious movement:-0.078 predict:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:68 tps:20.0 component: fly.main
+(20:36:05) Mottedzik failed HitBox check | attacking entities that are not in view:1.261 type:CHICKEN vec:0.272,-0.165,1.22 hz:0.499 dst:3.021 (+2) | vl:2 ping:63 tps:20.0 component: hb.direction
+(20:36:29) Mottedzik failed HitBox check | attacking entities that are not in view:1.078 type:CHICKEN vec:0.308,-0.044,1.032 hz:0.679 dst:3.194 (+2) | vl:2 ping:71 tps:19.96 component: hb.direction
+(20:37:45) Mottedzik failed KillAura check | machine learning | m: #1,27,10 | amount: 2 | version: 6 (+0) | vl:0 ping:63 tps:20.0 component: ka.ml
+(20:37:46) Mottedzik failed KillAura check | non-human like combat style | confidence: 50.0 (cp) (+10) | vl:10 ping:74 tps:19.88 component: ka.style
+(20:37:58) Mottedzik failed KillAura check | non-human like combat style | confidence: 51.61290322580645 (cp) (+10) | vl:20 ping:74 tps:19.99 component: ka.style
+(20:38:01) Mottedzik failed KillAura check | machine learning | m: #1,10,49 | amount: 2 | version: 6 (+0) | vl:20 ping:74 tps:19.78 component: ka.ml
+(20:45:30) Mottedzik failed Speed check | (strafe) change direction in mid-air:0.227 a:115.301 lm:0.284 (+5) | vl:5 ping:69 tps:19.85 component: speed.strafe
+(20:46:13) ValWar failed Jesus check | jesus | exit liquid | val: 0.098 val2: 0.083 val3: -1.4207429979918809 (+3) | vl:3 ping:77 tps:19.69 component: jesus.exit
+(20:46:19) ValWar failed Jesus check | jesus | solid | t2 val1: -1.176693284347352 (+3) | vl:6 ping:77 tps:19.71 component: jesus.solid.2
+(20:46:24) ValWar failed Jesus check | jesus | exit liquid | val: 0.098 val2: 0.084 val3: -1.2757121804185085 (+3) | vl:9 ping:77 tps:19.96 component: jesus.exit
+(20:51:57) ValWar failed Fly check | suspicious movement:0.333 predict:0.326 air_t:3 tag:vt (+5) | vl:5 ping:68 tps:19.95 component: fly.main
+(20:51:57) ValWar failed Fly check | suspicious movement:0.248 predict:0.248 air_t:4 tag:vt (+5) | vl:10 ping:68 tps:19.95 component: fly.main
+(20:53:55) ValWar failed Fly check | suspicious movement:-0.078 predict:0.248 air_t:2 g:-- tag:gn (+5) | vl:5 ping:68 tps:20.0 component: fly.main
+(20:54:27) ValWar failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:67 tps:19.95 component: fly.main
+(20:54:59) ValWar failed Fly check | suspicious movement:-0.078 predict:-0.155 air_t:1 g:-- tag:gn (+5) | vl:5 ping:77 tps:19.98 component: fly.main
+(20:57:20) Mottedzik failed FastUse check | fast use (+0) | vl:0 ping:105 tps:20.0 component: fastuse
+(20:58:26) ValWar failed KillAura check | extremely suspicious rotation feature (+15) | vl:15 ping:68 tps:19.88 component: ka.rotation
+(21:00:27) ValWar failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:3 ping:74 tps:19.99 component: jesus.2
+(21:00:27) ValWar failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:6 ping:74 tps:19.99 component: jesus.2
+(21:00:27) ValWar failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:9 ping:74 tps:19.99 component: jesus.2
+(21:00:27) ValWar failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:12 ping:74 tps:19.99 component: jesus.2
+(21:00:28) ValWar failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:15 ping:74 tps:20.0 component: jesus.2
+(21:00:28) ValWar failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:18 ping:74 tps:20.0 component: jesus.2
+(21:00:28) ValWar failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:21 ping:74 tps:20.0 component: jesus.2
+(21:00:28) ValWar failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:24 ping:74 tps:20.0 component: jesus.2
+(21:00:28) ValWar failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:27 ping:74 tps:20.0 component: jesus.2
+(21:02:09) ValWar failed Speed check | (strafe) change direction in mid-air:0.194 a:103.556 lm:0.248 (+5) | vl:5 ping:53 tps:19.8 component: speed.strafe
+(21:04:33) ValWar failed HitBox check | attacking entities that are not in view:1.413 type:SKELETON vec:0.737,0.291,-1.17 hz:0.656 dst:0.807 (+2) | vl:2 ping:66 tps:19.84 component: hb.direction
+(21:05:02) Mottedzik failed Speed check | t: spin (+1) | vl:1 ping:68 tps:19.97 component: speed.spin
+(21:05:02) Mottedzik failed Speed check | t: spin (+1) | vl:2 ping:68 tps:19.97 component: speed.spin
+(21:07:14) Mottedzik failed KillAura check | non-human like combat style | confidence: 43.75 (cp) (+10) | vl:10 ping:94 tps:20.0 component: ka.style
+(21:08:35) ValWar failed Fly check | suspicious movement:-0.216 predict:-0.216 air_t:12 tag:g9 (+6) | vl:6 ping:83 tps:19.93 component: fly.main
+(21:09:05) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:3 ping:98 tps:20.0 component: jesus.2
+(21:09:05) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:6 ping:98 tps:20.0 component: jesus.2
+(21:09:05) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:9 ping:98 tps:20.0 component: jesus.2
+(21:09:05) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:12 ping:98 tps:20.0 component: jesus.2
+(21:09:05) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:15 ping:98 tps:20.0 component: jesus.2
+(21:09:22) ValWar failed Speed check | t: spin (+1) | vl:1 ping:78 tps:19.98 component: speed.spin
+(21:10:14) ValWar failed Fly check | suspicious movement:0.083 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:78 tps:20.0 component: fly.main
+(21:10:21) ValWar failed Fly check | suspicious movement:-0.407 predict:-0.517 air_t:6 g:-- tag:gn (+5) | vl:15 ping:78 tps:20.0 component: fly.main
+(21:10:28) Mottedzik failed KillAura check | extremely suspicious rotation feature (+15) | vl:15 ping:82 tps:20.0 component: ka.rotation
+(21:11:39) ValWar failed Fly check | suspicious movement:-0.216 predict:-0.216 air_t:12 tag:g9 (+6) | vl:6 ping:188 tps:19.76 component: fly.main
+(21:11:48) ValWar failed Fly check | suspicious movement:-0.216 predict:-0.216 air_t:12 tag:g9 (+6) | vl:6 ping:159 tps:19.97 component: fly.main
+(21:13:15) ValWar failed FastUse check | fast use (+0) | vl:0 ping:85 tps:19.72 component: fastuse
+(21:13:37) Mottedzik failed Jesus check | jesus | solid | t2 val1: -1.041087943398032 (+3) | vl:3 ping:68 tps:19.98 component: jesus.solid.2
+(21:13:37) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:6 ping:68 tps:19.98 component: jesus.2
+(21:13:37) Mottedzik failed Jesus check | jesus | solid | t2 val1: -1.098666205913127 (+3) | vl:9 ping:68 tps:19.98 component: jesus.solid.2
+(21:13:37) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:12 ping:68 tps:19.98 component: jesus.2
+(21:13:37) Mottedzik failed Jesus check | jesus | solid | t2 val1: -1.1550929042761382 (+3) | vl:15 ping:68 tps:19.98 component: jesus.solid.2
+(21:13:37) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:18 ping:68 tps:19.98 component: jesus.2
+(21:13:37) Mottedzik failed Jesus check | jesus | solid | t2 val1: -1.210391069748143 (+3) | vl:21 ping:68 tps:19.98 component: jesus.solid.2
+(21:13:37) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:24 ping:68 tps:19.98 component: jesus.2
+(21:13:37) Mottedzik failed Jesus check | jesus | solid | t2 val1: -1.2645832729654367 (+3) | vl:27 ping:68 tps:19.98 component: jesus.solid.2
+(21:13:37) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:30 ping:0 tps:19.98 component: jesus.2
+(21:13:37) Mottedzik failed Jesus check | jesus | solid | t2 val1: -1.2645832729654367 (+3) | vl:33 ping:0 tps:19.98 component: jesus.solid.2
+(21:13:37) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:36 ping:0 tps:19.98 component: jesus.2
+(21:13:52) ValWar failed Speed check | t: spin (+1) | vl:1 ping:90 tps:20.0 component: speed.spin
+(21:13:53) ValWar failed Speed check | t: spin (+1) | vl:2 ping:90 tps:19.97 component: speed.spin
+(21:16:34) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:3 ping:47 tps:19.93 component: jesus.2
+(21:16:34) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:6 ping:47 tps:19.93 component: jesus.2
+(21:16:34) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:9 ping:47 tps:19.93 component: jesus.2
+(21:16:34) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:12 ping:47 tps:19.93 component: jesus.2
+(21:16:34) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:15 ping:47 tps:19.93 component: jesus.2
+(21:16:34) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:18 ping:47 tps:19.93 component: jesus.2
+(21:16:34) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:21 ping:47 tps:19.93 component: jesus.2
+(21:16:34) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:24 ping:47 tps:19.93 component: jesus.2
+(21:16:34) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:27 ping:47 tps:19.93 component: jesus.2
+(21:16:34) Mottedzik failed Jesus check | jesus | pattern: #2 | var1=20 var2=40.0 var3=0.0 (+3) | vl:30 ping:0 tps:19.93 component: jesus.2
+(21:47:20) ValWar failed Speed check | (strafe) change direction in mid-air:0.216 a:125.286 lm:0.305 (+5) | vl:5 ping:68 tps:19.98 component: speed.strafe
+(21:48:08) Mottedzik failed KillAura check | non-human like combat style | confidence: 61.53846153846154 (cp) (+10) | vl:10 ping:62 tps:20.0 component: ka.style
+(21:48:25) Mottedzik failed KillAura check | non-human like combat style | confidence: 50.0 (cp) (+10) | vl:10 ping:61 tps:20.0 component: ka.style
+(21:49:10) Mottedzik failed FastUse check | fast use (+0) | vl:0 ping:71 tps:20.0 component: fastuse
+(21:52:04) ValWar failed Speed check | (strafe) change direction in mid-air:0.219 a:90.323 lm:0.266 (+5) | vl:5 ping:73 tps:20.0 component: speed.strafe
+(22:00:43) ValWar failed Speed check | t: spin (+1) | vl:1 ping:71 tps:20.0 component: speed.spin
+(22:07:57) Mottedzik failed Fly check | suspicious movement:-0.078 predict:0.333 air_t:1 g:++ tag:gn (+5) | vl:5 ping:109 tps:19.98 component: fly.main
+(22:13:36) ValWar failed Fly check | suspicious movement:-0.078 predict:0.248 air_t:2 g:-- tag:gn (+5) | vl:5 ping:70 tps:19.91 component: fly.main
+(22:14:09) ValWar failed FastUse check | fast use (+0) | vl:0 ping:83 tps:20.0 component: fastuse
+(22:14:19) ValWar failed KillAura check | t: g (+10) | vl:10 ping:89 tps:19.97 component: ka.g
+(22:14:23) ValWar failed HitBox check | attacking entities that are not in view:1.185 type:COW vec:0.136,0.441,1.092 hz:0.559 dst:2.874 (+2) | vl:2 ping:89 tps:19.97 component: hb.direction
+(22:16:49) Mottedzik failed KillAura check | snap | tag: b (+0) | vl:0 ping:106 tps:20.0 component: ka.snap
+(22:16:51) Mottedzik failed HitBox check | attacking entities that are not in view:1.844 type:PIG vec:1.17,0.531,1.324 hz:0.492 dst:1.703 (+2) | vl:2 ping:106 tps:19.99 component: hb.direction
+(22:16:52) Mottedzik failed HitBox check | attacking entities that are not in view:1.358 type:PIG vec:-0.362,-0.004,1.309 hz:0.682 dst:3.768 (+2) | vl:4 ping:106 tps:19.97 component: hb.direction
+(22:16:57) Mottedzik failed HitBox check | attacking entities that are not in view:1.438 type:PIG vec:-0.417,0.477,1.291 hz:0.684 dst:2.603 (+2) | vl:6 ping:106 tps:20.0 component: hb.direction
+(22:17:01) Mottedzik failed HitBox check | attacking entities that are not in view:1.84 type:PIG vec:1.402,-0.767,-0.912 hz:0.737 dst:2.346 (+2) | vl:8 ping:115 tps:19.96 component: hb.direction
+(22:17:18) Mottedzik failed HitBox check | attacking entities that are not in view:1.979 type:PIG vec:1.434,0.064,-1.362 hz:0.646 dst:2.584 (+2) | vl:2 ping:104 tps:19.99 component: hb.direction
+(22:17:27) ValWar failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:80 tps:20.0 component: fly.main
+(22:17:27) ValWar failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:20 ping:80 tps:20.0 component: fly.main
+(22:17:28) ValWar failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:30 ping:80 tps:20.0 component: fly.main
+(22:17:28) ValWar failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:40 ping:80 tps:20.0 component: fly.main
+(22:17:29) ValWar failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:50 ping:80 tps:20.0 component: fly.main
+(22:19:23) Mottedzik failed FastUse check | fast use (+0) | vl:0 ping:96 tps:19.9 component: fastuse
+(22:19:26) Mottedzik failed FastUse check | fast use (+0) | vl:0 ping:96 tps:20.0 component: fastuse
+(22:19:29) Mottedzik failed FastUse check | fast use (+0) | vl:0 ping:96 tps:19.95 component: fastuse
+(22:19:31) Mottedzik failed FastUse check | fast use (+0) | vl:0 ping:90 tps:19.98 component: fastuse
+(22:19:36) ValWar failed Fly check | suspicious movement:-0.407 predict:-0.517 air_t:6 g:-- tag:gn (+5) | vl:5 ping:83 tps:19.99 component: fly.main
+(22:19:51) ValWar failed Speed check | t: spin (+1) | vl:1 ping:86 tps:19.99 component: speed.spin
+(22:31:10) ValWar failed Interact check | interact block through walls ,o=TORCH b=CHEST (+1) | vl:1 ping:94 tps:20.0 component: interact.through
+(22:31:11) ValWar failed Interact check | interact block through walls ,o=TORCH b=CHEST (+1) | vl:2 ping:94 tps:20.0 component: interact.through
+(22:31:11) ValWar failed Interact check | interact block through walls ,o=TORCH b=CHEST (+1) | vl:3 ping:94 tps:20.0 component: interact.through
+(22:31:12) ValWar failed Interact check | interact block through walls ,o=TORCH b=CHEST (+1) | vl:4 ping:94 tps:20.0 component: interact.through
+(22:31:13) ValWar failed Interact check | interact block through walls ,o=RED_MUSHROOM b=CHEST (+1) | vl:5 ping:94 tps:20.0 component: interact.through
+(22:47:21) Mottedzik failed Speed check | (strafe) change direction in mid-air:0.231 a:101.081 lm:0.286 (+5) | vl:5 ping:69 tps:19.92 component: speed.strafe
+(22:51:46) Mottedzik failed FastUse check | fast use (+0) | vl:0 ping:72 tps:20.0 component: fastuse
+(22:51:56) Mottedzik failed FastUse check | fast use (+0) | vl:0 ping:70 tps:20.0 component: fastuse
+(22:52:57) ValWar failed FastUse check | fast use (+0) | vl:0 ping:69 tps:19.99 component: fastuse
+(23:05:06) ValWar failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2886046320163504 fr:0.6 tag:a (+9) | vl:9 ping:74 tps:19.89 component: speed.main
+(23:06:18) ValWar failed Speed check | (strafe) change direction in mid-air:0.219 a:104.954 lm:0.279 (+5) | vl:5 ping:79 tps:20.0 component: speed.strafe
+(23:10:43) Mottedzik failed Inventory check | inventory move | simple (+2) | vl:2 ping:73 tps:19.99 component: inv.move
+(23:10:47) Mottedzik failed Inventory check | inventory move | simple (+2) | vl:2 ping:73 tps:19.99 component: inv.move
+(23:11:30) ValWar failed KillAura check | extremely suspicious rotation feature (+15) | vl:15 ping:77 tps:19.98 component: ka.rotation
+(23:11:32) ValWar failed HitBox check | attacking entities that are not in view:1.424 type:COW vec:-1.112,0.643,0.614 hz:0.489 dst:1.116 (+2) | vl:2 ping:77 tps:20.0 component: hb.direction
+(23:11:36) ValWar failed KillAura check | non-human like combat style | confidence: 26.666666666666668 (sp) (+10) | vl:25 ping:77 tps:20.0 component: ka.style
+(23:11:56) ValWar failed Fly check | suspicious movement:-0.078 predict:0.333 air_t:1 g:++ tag:gn (+5) | vl:5 ping:78 tps:20.0 component: fly.main
+(23:23:11) ValWar failed Speed check | t: spin (+1) | vl:1 ping:80 tps:20.0 component: speed.spin
+(23:28:29) ValWar failed Jesus check | jesus | solid | t2 val1: -1.0986629889876964 (+3) | vl:3 ping:70 tps:19.96 component: jesus.solid.2
+(23:41:18) ValWar failed Jesus check | jesus | exit liquid | val: 0.098 val2: 0.083 val3: -1.0840254262432627 (+3) | vl:3 ping:64 tps:20.0 component: jesus.exit
+(23:41:18) ValWar failed Jesus check | jesus | solid | t2 val1: -1.1407449399204206 (+3) | vl:6 ping:64 tps:20.0 component: jesus.solid.2
+(23:44:06) ValWar failed FastUse check | fast use (+0) | vl:0 ping:61 tps:20.0 component: fastuse
+(23:53:14) ValWar failed Speed check | t: spin (+1) | vl:1 ping:63 tps:20.0 component: speed.spin
+(23:53:36) ValWar failed HitBox check | attacking entities that are not in view:0.706 type:RABBIT vec:0.057,-0.048,-0.702 hz:0.484 dst:3.287 (+2) | vl:2 ping:61 tps:19.97 component: hb.direction
+(23:54:18) ValWar failed Jesus check | jesus | exit liquid | val: 0.098 val2: 0.072 val3: -1.2107414804631556 (+3) | vl:3 ping:62 tps:20.0 component: jesus.exit
+(23:58:37) ValWar failed Speed check | t: spin (+1) | vl:1 ping:80 tps:19.92 component: speed.spin

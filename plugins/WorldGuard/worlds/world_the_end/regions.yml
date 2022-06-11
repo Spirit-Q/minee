@@ -1,0 +1,37 @@
+#
+# Файл регионов WorldGuard
+#
+# ПРЕДУПРЕЖДЕНИЕ: ЭТОТ ФАЙЛ АВТОМАТИЧЕСКИ СГЕНЕРИРОВАН. Если изменить этот файл
+# вручную, имейте в виду, ЧТО ОДИН НЕПРАВИЛЬНО ВВЕДЕННЫЙ СИМВОЛ МОЖЕТ ПОВЕРЕДИТЬ ФАЙЛ. Если
+# WorldGuard будет неспособен разобрать файл, ваши регионы НЕ ЗАГРУЗЯТСЯ, и
+# содержимое этого файла будет сброшено. Пожалуйста, используйте валидатор YAML, такой как
+# http://yaml-online-parser.appspot.com (для небольших файлов).
+#
+# НЕ ЗАБУДЬТЕ ПЕРИОДИЧЕСКИ ДЕЛАТЬ РЕЗЕРВНЫЕ КОПИИ.
+#
+regions:
+    end:
+        min: {x: 54.0, y: 0.0, z: -29.0}
+        max: {x: 122.0, y: 255.0, z: 63.0}
+        members: {}
+        flags: {lightning: deny, pvp: deny}
+        owners:
+            unique-ids: [f83bce0e-e670-3d7a-9e3f-db8bfd7f7bce]
+        type: cuboid
+        priority: 0
+    righ:
+        min: {x: 34.0, y: 61.0, z: 21.0}
+        max: {x: 46.0, y: 66.0, z: 33.0}
+        members: {}
+        flags: {lightning: deny}
+        owners:
+            unique-ids: [3f645540-85ce-3386-84c1-8cb975c71c8f]
+        type: cuboid
+        priority: 0
+    __global__:
+        members: {}
+        flags:
+            blocked-cmds: [/rg, /rg claim, /region claim, /region]
+        owners: {}
+        type: global
+        priority: 0

@@ -1,0 +1,25 @@
+effect_time: 30
+effects:
+  speed:
+    effect: "SPEED"
+    level: 2
+  jump:
+    effect: "JUMP"
+    level: 2
+  night_vision:
+    effect: "NIGHT_VISION"
+    level: 2
+  fast_digging:
+    effect: "FAST_DIGGING"
+    level: 2
+commands:
+NO_PERMISSION_MESSAGE: "&cУ вас нет разрешения на использования этой команды!"
+USAGE_MESSAGE: "&cИспользование: %usage%"
+DONATE_MESSAGE:
+  - " "
+  - "       &f&l&m      &d&l&m      &5&l&m      &d&l&m      &f&l&m      &r"
+  - " &d>>&5>> &7>> &f&lНОВЫЙ ДОНАТЕР &8&l- &f&lСПАСИБО ТЕБЕ &7<< &5<<&d<<&r"
+  - "       &f&l&m      &d&l&m      &5&l&m      &d&l&m      &f&l&m      &r"
+  - "           &d&l%player% &7купил &f&l%item%&r"
+  - "           &7на сайте &dwww.MoonPixel.ru&r"
+  - " "

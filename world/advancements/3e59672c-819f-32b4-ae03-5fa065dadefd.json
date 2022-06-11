@@ -1,0 +1,20 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "roofed_forest": "2019-09-29 11:57:41 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-09-29 11:57:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-09-29 11:57:41 +0200"
+    },
+    "done": true
+  }
+}

@@ -1,0 +1,182 @@
+Crate:
+  #Type of crate (CSGO/QuadCrate/QuickCrate/Roulette/CrateOnTheGo/FireCracker/Wonder/Wheel/War/Cosmic(This requires a additional info to work.)).
+  CrateType: CSGO
+  #Name of the Inventory if a GUI crate.
+  CrateName: '&0Кейс с валютой'
+  #The name of the inventory that will be in the preview GUI.
+  Preview-Name: '&dКейс с валютой &7[Предпросмотр]'
+  #Starting amount of keys when the player 1st joins.
+  StartingKeys: 0
+  #If the crate shows in the /cc GUI. (If the crate type is QuickCrate/CrateOnTheGo/FireCracker then the Crate will not work. Quick Crate requires a Physical Crate.)
+  InGUI: true
+  #Slot the item is in the GUI.
+  Slot: 21
+  #Enables/Disables the Broadcasts message when they open a crate.
+  OpeningBroadCast: false
+  #Message that is broadcast when opening the crate.
+  BroadCast: '%Prefix%&6&l%Player% &7is opening a &7&lBasic Chest&7.'
+  #Item the crate is in the GUI
+  Item: 'CHEST'
+  #If the crate in the main /cc GUI is glowing or not.
+  Glowing: false
+  #Name of the item in the GUI.
+  Name: '&0Кейс с валютой:'
+  #The lore of the item in the GUI.
+  Lore:
+    - '&7Этот кейс содержит разные предметы.'
+    - '&7У вас &6%Keys% ключей &7для открытия данного кейса.'
+  Preview:
+    #Turn on and off the preview for this crate.
+    Toggle: true
+    #How many lines the previewChest should have. Including Header and Bottom (Between 3 and 6)
+    ChestLines: 3
+    Glass:
+      #Turn the glass boarder in the preview on and off.
+      Toggle: true
+      #The item that shows in the boarder. Can be glass or any other item.
+      Item: 'STAINED_GLASS_PANE:7'
+  PhysicalKey:
+    #Name of the Key.
+    Name: '&bКлюч(а) &7к кейсу с валютой'
+    #Lore of the Key.
+    Lore:
+      - '&7A special Key'
+      - '&7For a special Crate.'
+    #The item the key is.
+    Item: 'TRIPWIRE_HOOK'
+    #Makes the key look enchanted.
+    Glowing: true
+  #All the prizes that can be gotten in the Crate.
+  Prizes:
+    1:
+      DisplayName: '&a$&f1000'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l55%'
+      MaxRange: 100
+      Chance: 55
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 1000'
+        - 'tm message %Player% &7Вам выпало\n&a$&f1000'
+    2:
+      DisplayName: '&a$&f3000'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l45%'
+      MaxRange: 100
+      Chance: 45
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 3000'
+        - 'tm message %Player% &7Вам выпало\n&a$&f3000'
+    3:
+      DisplayName: '&a$&f5000'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l35%'
+      MaxRange: 100
+      Chance: 35
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 5000'
+        - 'tm message %Player% &7Вам выпало\n&a$&f5000'
+    4:
+      DisplayName: '&a$&f9000'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l25%'
+      MaxRange: 100
+      Chance: 25
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 9000'
+        - 'tm message %Player% &7Вам выпало\n&a$&f9000'
+    5:
+      DisplayName: '&a$&f15000'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&ll5%'
+      MaxRange: 100
+      Chance: 15
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 15000'
+        - 'tm message %Player% &7Вам выпало\n&a$&f15000'
+    6:
+      DisplayName: '&a$&f20000'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&ll0%'
+      MaxRange: 100
+      Chance: 10
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 20000'
+        - 'tm message %Player% &7Вам выпало\n&a$&f20000'
+    7:
+      DisplayName: '&a$&f30000'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l5%'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 30000'
+        - 'tm message %Player% &7Вам выпало\n&a$&f30000'
+    8:
+      DisplayName: '&a$&f40000'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l4%'
+      MaxRange: 100
+      Chance: 4
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 40000'
+        - 'tm message %Player% &7Вам выпало\n&a$&f40000'
+    9:
+      DisplayName: '&a$&f50000'
+      DisplayItem: '388'
+      DisplayAmount: 1
+      Lore:
+        - ''
+        - '&7Шанс&8: &f&l3%'
+      MaxRange: 100
+      Chance: 3
+      Firework: true
+      Glowing: true
+      Commands:
+        - 'eco give %Player% 50000'
+        - 'tm message %Player% &7Вам выпало\n&a$&f50000'
+      Alternative-Prize:
+        Toggle: false
+        Messages:
+          - '&8[&bCrazyCrates&8]: &7You have already won that prize, so enjoy some gold nuggets.'
+        Commands:
+          - 'give %player% 371 16'

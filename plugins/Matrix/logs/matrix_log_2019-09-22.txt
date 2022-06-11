@@ -1,0 +1,47 @@
+(10:09:12) Matrix Enabled!
+(10:09:12) Version: 2.4.0
+(10:13:02) Matrix Enabled!
+(10:13:02) Version: 2.4.0
+(10:18:32) Matrix Enabled!
+(10:18:32) Version: 2.4.0
+(10:18:45) unfiXxx failed Speed check | t: spin (+1) | vl:1 ping:0 tps:20.0 component: speed.spin
+(10:37:59) Matrix Enabled!
+(10:37:59) Version: 2.4.0
+(11:06:35) Matrix Enabled!
+(11:06:35) Version: 2.4.0
+(11:19:10) Matrix Enabled!
+(11:19:10) Version: 2.4.0
+(15:01:19) Matrix Enabled!
+(15:01:19) Version: 2.4.0
+(16:37:15) Matrix Enabled!
+(16:37:15) Version: 2.4.0
+(16:37:41) OldMan failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:0 tps:20.0 component: fly.main
+(16:38:58) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: 691.532,66.0,566.92 v:-0.155 (+5) | vl:5 ping:0 tps:20.0 component: fly.fg.wl
+(16:39:32) OldMan failed Fly check | suspicious movement:-0.162 predict:-0.582 lm:-0.514 hard_pred:-0.582 sev_pred:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:0 tps:20.0 component: fly.main
+(16:42:36) OldMan failed Chat check | send the same chat content (+1) | vl:1 ping:0 tps:20.0 component: chat.same
+(16:50:44) Matrix Enabled!
+(16:50:44) Version: 2.4.0
+(17:06:17) Matrix Enabled!
+(17:06:17) Version: 2.4.4
+(17:07:41) Matrix Enabled!
+(17:07:41) Version: 2.4.4
+(17:28:37) Matrix Enabled!
+(17:28:37) Version: 2.4.4
+(17:30:11) OldMan failed Fly check | ground spoof | tag: ai-wl | loc: 716.59,66.0,579.432 v:-0.155 (+5) | vl:5 ping:0 tps:20.0 component: fly.fg.wl
+(17:30:48) OldMan failed Chat check | send the same chat content (+1) | vl:1 ping:0 tps:20.0 component: chat.same
+(17:40:19) Matrix Enabled!
+(17:40:19) Version: 2.4.4
+(17:43:41) Matrix Enabled!
+(17:43:41) Version: 2.4.4
+(17:45:38) Matrix Enabled!
+(17:45:38) Version: 2.4.4
+(17:50:06) Matrix Enabled!
+(17:50:06) Version: 2.4.4
+(18:33:06) Matrix Enabled!
+(18:33:06) Version: 2.4.4
+(19:37:27) Matrix Enabled!
+(19:37:27) Version: 2.4.4
+(19:45:00) Matrix Enabled!
+(19:45:00) Version: 2.4.4
+(19:45:50) Matrix Enabled!
+(19:45:50) Version: 2.4.4

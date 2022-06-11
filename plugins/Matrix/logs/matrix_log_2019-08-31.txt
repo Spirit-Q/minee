@@ -1,0 +1,851 @@
+(00:01:45) MemasGelya failed Block check | abort breaking | dig | block at: 652.0,68.0,226.0 type: GRASS (+0) | vl:0 ping:140 tps:19.96 component: block.abort
+(00:10:46) MemasGelya failed Block check | abort breaking | dig | block at: -806.0,56.0,-1693.0 type: NETHER_BRICK (+0) | vl:0 ping:137 tps:20.0 component: block.abort
+(00:11:31) MemasGelya failed Velocity check | suspicious reduce the knockback distance | type: delay | val: 0.034 val2: true val3: true (+0) | vl:0 ping:141 tps:19.95 component: vel.delay
+(00:11:36) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:141 tps:19.99 component: fastuse
+(00:11:51) MemasGelya failed Velocity check | suspicious reduce the knockback distance | type: delay | val: 0.035 val2: true val3: true (+0) | vl:0 ping:139 tps:20.0 component: vel.delay
+(00:11:57) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:139 tps:19.99 component: fastuse
+(00:12:12) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:140 tps:19.89 component: fastuse
+(00:15:18) MemasGelya failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:130 tps:19.72 component: bot.baritone
+(00:18:49) MemasGelya failed Fly check | flight | tag:e | a:0.37870315946080524 b:11 c:5 d:-0.0784000015258789 (+4) | vl:4 ping:139 tps:19.94 component: fly.main
+(00:19:14) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:134 tps:20.0 component: fastuse
+(00:19:48) MemasGelya failed Fly check | simple flight | tag:#4 | val1:false val2:0.033890786745502055 val3:-0.1552320045166016 val4:0 (+5) | vl:5 ping:130 tps:19.49 component: fly.main
+(00:19:49) MemasGelya failed Fly check | ground spoof | tag: fake air packet | loc: -813.5,61.0,-1678.5 (+4) | vl:9 ping:130 tps:19.49 component: fly.fg.air
+(00:19:58) MemasGelya failed Block check | abort breaking | dig | block at: -799.0,63.0,-1656.0 type: NETHER_BRICK (+0) | vl:0 ping:130 tps:19.98 component: block.abort
+(00:21:11) MemasGelya failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:146 tps:20.0 component: speed.main
+(00:22:36) MemasGelya failed Block check | abort breaking | dig | block at: -795.0,61.0,-1663.0 type: NETHER_BRICK (+0) | vl:0 ping:140 tps:19.99 component: block.abort
+(00:22:37) MemasGelya failed Block check | abort breaking | dig | block at: -795.0,61.0,-1664.0 type: NETHER_BRICK (+0) | vl:0 ping:140 tps:19.99 component: block.abort
+(00:22:55) MemasGelya failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:137 tps:20.0 component: speed.main
+(00:35:28) velvet failed Block check | fast break | type: b | a:5 b:21 (+0) | vl:0 ping:62 tps:19.96 component: block.fastbreak.time
+(00:35:38) velvet failed Block check | fast break | type: b | a:6 b:21 (+0) | vl:0 ping:62 tps:19.98 component: block.fastbreak.time
+(00:35:52) velvet failed Block check | abort breaking | dig | block at: 4798.0,22.0,609.0 type: STONE (+0) | vl:0 ping:61 tps:19.92 component: block.abort
+(00:35:54) velvet failed Block check | fast break | type: b | a:4 b:21 (+0) | vl:0 ping:61 tps:20.0 component: block.fastbreak.time
+(00:49:33) Matrix Enabled!
+(00:49:33) Version: 2.1.2
+(01:04:19) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:48 tps:20.0 component: fastuse
+(01:58:42) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:67 tps:20.0 component: fastuse
+(01:58:59) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:73 tps:20.0 component: fastuse
+(02:09:18) MaksUCU failed Interact check | interact block through walls ,o=COBBLESTONE b=CHEST (+1) | vl:1 ping:58 tps:19.97 component: interact.through
+(02:10:20) MaksUCU failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:57 tps:20.0 component: interact.through
+(02:10:21) MaksUCU failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:2 ping:57 tps:20.0 component: interact.through
+(02:17:02) MaksUCU failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+3) | vl:3 ping:54 tps:20.0 component: speed.noslow.limit
+(02:19:28) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:54 tps:19.93 component: fastuse
+(02:19:28) MaksUCU failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:54 tps:19.93 component: bot.baritone
+(02:19:29) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:54 tps:19.97 component: fastuse
+(02:20:42) MaksUCU failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:51 tps:19.99 component: bot.baritone
+(02:22:14) MaksUCU failed Speed check | faster than expected | t-a | 0.348 > 0.2873 | val: false (+9) | vl:9 ping:53 tps:19.98 component: speed.main
+(02:23:05) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:49 tps:19.89 component: fastuse
+(02:24:26) MaksUCU failed Jesus check | liquid speed | 0.124 >- 0.12 | d: false (+3) | vl:3 ping:65 tps:19.99 component: jesus.speed.in
+(02:24:56) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:61 tps:19.99 component: fastuse
+(02:26:17) MaksUCU failed Speed check | t: spin (+1) | vl:1 ping:54 tps:19.97 component: speed.spin
+(02:42:00) MaksUCU failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:1 ping:39 tps:20.0 component: interact.through
+(02:42:00) MaksUCU failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:39 tps:20.0 component: bot.baritone
+(02:43:21) MaksUCU failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:48 tps:19.96 component: bot.baritone
+(02:52:38) MaksUCU failed Inventory check | inventory move | simple (+2) | vl:2 ping:52 tps:20.0 component: inv.move
+(02:56:18) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:48 tps:19.96 component: fastuse
+(02:56:21) MaksUCU failed Interact check | interact block through walls ,o=FURNACE b=CHEST (+1) | vl:1 ping:48 tps:19.97 component: interact.through
+(03:00:31) MaksUCU failed Fly check | ground spoof | tag: fake air packet | loc: -7687.5,41.0,5378.5 (+4) | vl:4 ping:49 tps:19.9 component: fly.fg.air
+(03:00:57) MaksUCU failed Block check | (fast break) nuker  | block: LOG (+1) | vl:1 ping:48 tps:19.94 component: block.nuker
+(03:04:49) MaksUCU failed Fly check | ground spoof | tag: fake air packet | loc: 4803.222,75.0,674.295 (+4) | vl:4 ping:53 tps:19.98 component: fly.fg.air
+(03:06:15) MaksUCU failed Fly check | fast fall | var1:1 var2:0.37662500000000065 (+10) | vl:10 ping:59 tps:19.95 component: fly.fastfall
+(03:07:12) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:66 tps:20.0 component: fastuse
+(03:09:19) MaksUCU failed Jesus check | t:jesus-5 (+5) | vl:5 ping:50 tps:19.98 component: jesus.5
+(03:10:22) MaksUCU failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+3) | vl:3 ping:48 tps:19.99 component: speed.noslow.limit
+(03:14:40) MaksUCU failed Inventory check | inventory move | simple (+2) | vl:2 ping:55 tps:19.94 component: inv.move
+(03:16:50) MaksUCU failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:49 tps:19.96 component: bot.baritone
+(03:17:15) MaksUCU failed Fly check | ground spoof | tag: fake air packet | loc: 4803.288,75.0,674.188 (+4) | vl:4 ping:52 tps:19.99 component: fly.fg.air
+(03:19:54) MaksUCU failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+3) | vl:3 ping:46 tps:19.68 component: speed.noslow.limit
+(03:23:57) MaksUCU failed Fly check | fast fall | var1:1 var2:0.781125000000003 (+10) | vl:10 ping:50 tps:19.96 component: fly.fastfall
+(03:23:57) MaksUCU failed Fly check | ground spoof | tag: fake air packet | loc: 4791.5,73.0,691.5 (+4) | vl:14 ping:50 tps:19.96 component: fly.fg.air
+(03:39:24) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:52 tps:20.0 component: fastuse
+(03:58:03) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:52 tps:19.88 component: fastuse
+(07:37:09) Dirty_ezz failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:147 tps:19.96 component: speed.main
+(08:18:36) Dirty_ezz failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+3) | vl:3 ping:157 tps:19.98 component: speed.noslow.limit
+(08:21:58) Dirty_ezz failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:198 tps:19.99 component: speed.main
+(08:23:11) Dirty_ezz failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:180 tps:19.89 component: speed.main
+(08:23:18) Dirty_ezz failed Fly check | ground spoof | send illegal ground moving packets | location: -4134.035,67.0,3015.245 (+3) | vl:3 ping:171 tps:19.99 component: fly.fg.ground.fast
+(08:23:18) Dirty_ezz failed Fly check | t: af (+5) | vl:8 ping:171 tps:19.99 component: nofall.air
+(08:26:19) Dirty_ezz failed FastUse check | fast use (+0) | vl:0 ping:218 tps:19.99 component: fastuse
+(08:27:19) Dirty_ezz failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:353 tps:19.97 component: speed.main
+(08:27:43) Dirty_ezz failed Fly check | fast fall | var1:1 var2:0.2304225044846504 (+10) | vl:10 ping:274 tps:19.99 component: fly.fastfall
+(08:28:11) Dirty_ezz failed Speed check | faster than expected | t-a | 0.441 (+5) | vl:5 ping:300 tps:19.95 component: speed.ground
+(08:28:23) Dirty_ezz failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:257 tps:19.99 component: speed.main
+(08:32:18) Dirty_ezz failed FastUse check | fast use (+0) | vl:0 ping:184 tps:19.99 component: fastuse
+(08:32:39) Dirty_ezz failed Speed check | sprint direction | move: 0.26626231804703887 angle: 395.8652973175049 (+5) | vl:5 ping:182 tps:19.96 component: speed.sprint
+(08:33:07) Dirty_ezz failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:236 tps:20.0 component: bot.baritone
+(08:35:24) Dirty_ezz failed Fly check | simple flight | tag:#4 | val1:false val2:0.1647732818260721 val3:-0.1552320045166016 val4:0 (+5) | vl:5 ping:202 tps:19.96 component: fly.main
+(08:35:24) Dirty_ezz failed KillAura check | critical hit without correct jumping | tag: ground spoof (+5) | vl:5 ping:202 tps:19.96 component: ka.critical.ground
+(08:38:16) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:124 tps:19.83 component: interact.through
+(08:40:14) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=WOOL b=CHEST (+1) | vl:1 ping:139 tps:19.91 component: interact.through
+(08:40:18) _CJLaDoCTb_ failed HitBox check | angle (angle:117.77279734611511 ,reach: 2.07619626265031,sweep: false) (+0) | vl:0 ping:152 tps:19.93 component: hb.angle
+(08:40:18) ArturCekci failed Speed check | faster than expected | t-b | 0.473 > 0.429 | t: 4 | vd: 0.0 (+8) | vl:8 ping:155 tps:19.93 component: speed.main
+(08:40:23) _CJLaDoCTb_ failed Speed check | faster than expected | t-b | 0.498 > 0.429 | t: 5 | vd: 0.06013966737475745 (+8) | vl:8 ping:152 tps:19.97 component: speed.main
+(08:40:28) _CJLaDoCTb_ failed HitBox check | angle (angle:142.4139368534088 ,reach: 3.6693076204990387,sweep: false) (+0) | vl:0 ping:152 tps:19.94 component: hb.angle
+(08:40:30) _CJLaDoCTb_ failed HitBox check | angle (angle:169.42121744155884 ,reach: 2.810723108319842,sweep: false) (+0) | vl:0 ping:152 tps:20.0 component: hb.angle
+(08:41:05) ArturCekci failed HitBox check | angle (angle:96.00526571273804 ,reach: 1.836657193028823,sweep: false) (+0) | vl:0 ping:140 tps:20.0 component: hb.angle
+(08:42:17) ArturCekci failed Interact check | interact block through walls ,o=STAINED_CLAY b=CHEST (+1) | vl:1 ping:132 tps:19.95 component: interact.through
+(08:45:13) Danila2004 failed Speed check | faster than expected | t-a | 0.287 > 0.2873 | val: true (+9) | vl:9 ping:78 tps:19.97 component: speed.main
+(08:50:02) Danila2004 failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:98 tps:19.98 component: speed.main
+(08:51:26) Danila2004 failed Fly check | fast fall | var1:1 var2:0.21887499999999704 (+10) | vl:10 ping:95 tps:19.96 component: fly.fastfall
+(08:57:00) Danila2004 failed FastUse check | fast use (+0) | vl:0 ping:83 tps:19.94 component: fastuse
+(08:57:30) Danila2004 failed Speed check | sprint direction | move: 0.23610053139331394 angle: 354.65620279312134 (+5) | vl:5 ping:82 tps:19.96 component: speed.sprint
+(08:57:30) Danila2004 failed Speed check | sprint direction | move: 0.256307892689487 angle: 355.5209255218506 (+5) | vl:10 ping:82 tps:19.96 component: speed.sprint
+(08:59:50) Danila2004 failed Speed check | move no slow down while using/sneaking: m:0.138 a:95 (+3) | vl:3 ping:192 tps:20.0 component: speed.noslow.limit
+(09:00:22) Danila2004 failed Speed check | move no slow down while using/sneaking: m:0.136 a:61 (+3) | vl:3 ping:143 tps:19.98 component: speed.noslow.limit
+(09:44:34) GBR failed Fly check | ground spoof | tag: fake air packet | loc: -5053.117,149.0,1456.994 (+4) | vl:4 ping:0 tps:20.0 component: fly.fg.air
+(09:48:11) GBR failed Fly check | flight | tag:e | a:0.475575911786315 b:8 c:5 d:-0.22768848754498797 (+4) | vl:4 ping:67 tps:19.99 component: fly.main
+(09:48:42) GBR failed Fly check | ground spoof | tag: fake air packet | loc: -5081.0,160.0,1460.0 (+4) | vl:4 ping:68 tps:19.92 component: fly.fg.air
+(09:54:50) M3tty failed FastUse check | fast use (+0) | vl:0 ping:174 tps:19.96 component: fastuse
+(09:57:07) QwertShow failed Speed check | t: spin (+1) | vl:1 ping:89 tps:20.0 component: speed.spin
+(09:57:08) QwertShow failed KillAura check | rotation check | val: 12.0 (+3) | vl:3 ping:89 tps:19.99 component: ka.rot
+(09:58:59) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:672 tps:19.96 component: interact.through
+(09:59:00) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:2 ping:672 tps:20.0 component: interact.through
+(09:59:09) M3tty failed Interact check | interact block through walls ,o=WOOD b=CHEST (+1) | vl:3 ping:542 tps:20.0 component: interact.through
+(09:59:26) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:444 tps:20.0 component: interact.through
+(10:03:04) M3tty failed Fly check | ground spoof | tag: fake air packet | loc: 100.0,49.0,0.0 (+4) | vl:4 ping:280 tps:19.97 component: fly.fg.air
+(10:04:09) xreyx failed Fly check | ground spoof | tag: fake air packet | loc: -5084.165,151.0,1449.127 (+4) | vl:4 ping:119 tps:19.98 component: fly.fg.air
+(10:04:11) xreyx failed Speed check | teleport move (+25) | vl:25 ping:119 tps:20.0 component: speed.tp
+(10:04:11) xreyx failed Speed check | faster than expected | t-e | 5388.091 > 0.365 | tag: a (+20) | vl:45 ping:119 tps:20.0 component: speed.main
+(10:04:11) xreyx failed Speed check | faster than expected | t-e | a: 5388.091 c: 12 lm: 0.13282274164373736 | tag: d (+15) | vl:60 ping:119 tps:20.0 component: speed.main
+(10:04:13) xreyx failed Fly check | ground spoof | tag: fake air packet | loc: 100.0,49.0,0.0 (+4) | vl:8 ping:118 tps:19.98 component: fly.fg.air
+(10:05:05) xreyx failed Fly check | ground spoof | tag: fake air packet | loc: 100.0,49.0,0.0 (+4) | vl:4 ping:109 tps:19.83 component: fly.fg.air
+(10:05:09) xreyx failed FastUse check | fast use (+0) | vl:0 ping:109 tps:20.0 component: fastuse
+(10:05:29) QwertShow failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:127 tps:19.96 component: speed.main
+(10:06:33) xreyx failed Chat check | send the same chat content (+1) | vl:1 ping:104 tps:20.0 component: chat.same
+(10:07:02) xreyx failed Chat check | send the same chat content (+1) | vl:1 ping:106 tps:19.96 component: chat.same
+(10:07:04) QwertShow failed Speed check | faster than expected | t-a | 0.481 > 0.2873 | val: true (+9) | vl:9 ping:113 tps:19.95 component: speed.main
+(10:07:59) xreyx failed Chat check | send the same chat content (+1) | vl:1 ping:107 tps:19.98 component: chat.same
+(10:08:03) xreyx failed Chat check | send the same chat content (+1) | vl:2 ping:107 tps:19.97 component: chat.same
+(10:08:24) QwertShow failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:106 tps:20.0 component: bot.baritone
+(10:31:56) M3tty failed Fly check | ground spoof | tag: fake air packet | loc: -5085.43,149.0,1451.218 (+4) | vl:4 ping:0 tps:19.93 component: fly.fg.air
+(11:04:01) M3tty failed Speed check | faster than expected | t-a | 0.486 (+5) | vl:5 ping:75 tps:20.0 component: speed.ground
+(11:21:56) M3tty failed Fly check | ground spoof | tag: fake air packet | loc: -5054.034,149.0,1465.717 (+4) | vl:4 ping:0 tps:19.69 component: fly.fg.air
+(11:30:29) MoonTest failed Speed check | faster than expected | t-e | 0.484 > 0.365 | tag: a (+5) | vl:5 ping:0 tps:19.98 component: speed.main
+(11:30:29) MoonTest failed Fly check | flight | tag:e | a:0.41999998688697815 b:10 c:5 d:-0.3739040364667221 (+4) | vl:4 ping:0 tps:19.98 component: fly.main
+(11:30:29) MoonTest failed Speed check | faster than expected | t-e | 0.466 > 0.365 | tag: a (+5) | vl:10 ping:0 tps:19.98 component: speed.main
+(11:30:29) MoonTest failed Speed check | faster than expected | t-e | 0.466 > 0.315 | tag: c (+10) | vl:20 ping:0 tps:19.98 component: speed.main
+(11:30:29) MoonTest failed Fly check | flight | tag:e | a:0.33319999363422426 b:11 c:5 d:-0.4448259643949201 (+4) | vl:8 ping:0 tps:19.98 component: fly.main
+(11:30:29) MoonTest failed Speed check | faster than expected | t-e | 0.45 > 0.365 | tag: a (+5) | vl:25 ping:0 tps:19.98 component: speed.main
+(11:30:29) MoonTest failed Fly check | simple flight | tag:#1 | val1:false val2:0.24813599859093927 val3:-0.5824428773508716 val4:0 (+5) | vl:13 ping:0 tps:19.98 component: fly.main
+(11:30:29) MoonTest failed Fly check | flight | tag:e | a:0.24813599859093927 b:12 c:5 d:-0.5824428773508716 (+4) | vl:17 ping:0 tps:19.98 component: fly.main
+(11:30:29) MoonTest failed Speed check | faster than expected | t-e | 0.435 > 0.365 | tag: a (+5) | vl:30 ping:0 tps:19.98 component: speed.main
+(11:30:29) MoonTest failed Fly check | simple flight | tag:#1 | val1:false val2:0.1647732818260721 val3:-0.5824428773508716 val4:0 (+5) | vl:22 ping:0 tps:19.98 component: fly.main
+(11:30:29) MoonTest failed Fly check | flight | tag:e | a:0.1647732818260721 b:12 c:5 d:-0.5824428773508716 (+4) | vl:26 ping:0 tps:19.98 component: fly.main
+(11:30:29) MoonTest failed Speed check | faster than expected | t-e | 0.421 > 0.365 | tag: a (+5) | vl:35 ping:0 tps:19.98 component: speed.main
+(11:30:29) MoonTest failed Fly check | simple flight | tag:#1 | val1:false val2:0.08307781780646906 val3:-0.6491940324389494 val4:0 (+5) | vl:31 ping:0 tps:19.98 component: fly.main
+(11:30:29) MoonTest failed Fly check | flight | tag:e | a:0.08307781780646906 b:12 c:5 d:-0.6491940324389494 (+4) | vl:35 ping:0 tps:19.98 component: fly.main
+(11:30:30) MoonTest failed Speed check | faster than expected | t-e | 0.478 > 0.365 | tag: a (+5) | vl:40 ping:0 tps:19.97 component: speed.main
+(11:30:30) MoonTest failed Fly check | flight | tag:e | a:0.41999998688697815 b:10 c:5 d:-0.3739040364667221 (+4) | vl:39 ping:0 tps:19.97 component: fly.main
+(11:30:30) MoonTest failed Speed check | faster than expected | t-e | 0.484 > 0.365 | tag: a (+5) | vl:45 ping:0 tps:19.97 component: speed.main
+(11:30:30) MoonTest failed Fly check | flight | tag:e | a:0.41999998688697815 b:8 c:5 d:-0.22768848754498797 (+4) | vl:43 ping:0 tps:19.97 component: fly.main
+(11:30:31) MoonTest failed Speed check | faster than expected | t-e | 0.462 > 0.365 | tag: a (+5) | vl:50 ping:0 tps:19.97 component: speed.main
+(11:30:31) MoonTest failed Speed check | faster than expected | t-e | a: 0.462 c: 12 lm: 0.25949096181596 | tag: d (+15) | vl:65 ping:0 tps:19.97 component: speed.main
+(11:30:31) MoonTest failed Speed check | faster than expected | t-e | 0.459 > 0.365 | tag: a (+5) | vl:70 ping:0 tps:19.97 component: speed.main
+(11:30:31) MoonTest failed Speed check | faster than expected | t-e | a: 0.459 c: 12 lm: 0.257154896252442 | tag: d (+15) | vl:85 ping:0 tps:19.97 component: speed.main
+(11:30:32) MoonTest failed Speed check | faster than expected | t-e | 0.442 > 0.365 | tag: a (+5) | vl:90 ping:0 tps:19.97 component: speed.main
+(11:30:32) MoonTest failed Fly check | vertical | val1: 0.41999998688697815 val2: 4 val3: 0.08307781780646721 (+8) | vl:51 ping:0 tps:19.97 component: fly.main
+(11:30:32) MoonTest failed Speed check | faster than expected | t-e | 0.459 > 0.365 | tag: a (+5) | vl:95 ping:0 tps:19.97 component: speed.main
+(11:30:34) MoonTest failed Speed check | faster than expected | t-e | 0.484 > 0.365 | tag: a (+5) | vl:100 ping:0 tps:20.0 component: speed.main
+(11:30:34) MoonTest failed Fly check | flight | tag:e | a:0.41999998688697815 b:7 c:5 d:-0.15233518685055708 (+4) | vl:55 ping:0 tps:20.0 component: fly.main
+(11:30:34) MoonTest failed Fly check | ground spoof | tag: fake air packet | loc: -5348.5,70.0,5853.5 (+4) | vl:59 ping:0 tps:20.0 component: fly.fg.air
+(11:30:34) MoonTest failed Speed check | faster than expected | t-e | 0.483 > 0.365 | tag: a (+5) | vl:105 ping:0 tps:20.0 component: speed.main
+(11:30:34) MoonTest failed Fly check | vertical | val1: 0.41999998688697815 val2: 4 val3: 0.08307781780646721 (+8) | vl:67 ping:0 tps:20.0 component: fly.main
+(11:30:35) MoonTest failed Fly check | ground spoof | tag: fake air packet | loc: -5346.5,70.0,5854.5 (+4) | vl:71 ping:0 tps:20.0 component: fly.fg.air
+(11:30:35) MoonTest failed Speed check | faster than expected | t-e | 0.484 > 0.365 | tag: a (+5) | vl:110 ping:0 tps:20.0 component: speed.main
+(11:30:35) MoonTest failed Speed check | faster than expected | t-e | 0.484 > 0.342 | tag: b (+5) | vl:115 ping:0 tps:20.0 component: speed.main
+(11:30:35) MoonTest failed Speed check | faster than expected | t-f | mv: 0.41999998688697815 (+3) | vl:118 ping:0 tps:20.0 component: speed.main
+(11:30:35) MoonTest failed Fly check | ground spoof | tag: fake air packet | loc: -5345.363,70.0,5855.016 (+4) | vl:75 ping:0 tps:20.0 component: fly.fg.air
+(11:30:36) MoonTest failed Speed check | faster than expected | t-e | 0.483 > 0.365 | tag: a (+5) | vl:123 ping:0 tps:20.0 component: speed.main
+(11:30:36) MoonTest failed Speed check | faster than expected | t-e | 0.483 > 0.342 | tag: b (+5) | vl:128 ping:0 tps:20.0 component: speed.main
+(11:30:36) MoonTest failed Fly check | ground spoof | tag: fake air packet | loc: -5344.465,70.0,5855.405 (+4) | vl:79 ping:0 tps:20.0 component: fly.fg.air
+(11:30:37) MoonTest failed Fly check | flight | tag:e | a:0.41999998688697815 b:7 c:5 d:-0.15233518685055708 (+4) | vl:83 ping:0 tps:20.0 component: fly.main
+(11:30:37) MoonTest failed Fly check | ground spoof | tag: fake air packet | loc: -5341.5,70.0,5856.5 (+4) | vl:87 ping:0 tps:20.0 component: fly.fg.air
+(11:30:39) MoonTest failed Speed check | faster than expected | t-e | 0.407 > 0.365 | tag: a (+5) | vl:133 ping:18 tps:19.95 component: speed.main
+(11:30:39) MoonTest failed Fly check | ground spoof | tag: fake air packet | loc: -5335.468,71.0,5857.7 (+4) | vl:91 ping:18 tps:19.95 component: fly.fg.air
+(11:30:40) MoonTest failed Speed check | faster than expected | t-e | 0.475 > 0.365 | tag: a (+5) | vl:138 ping:18 tps:19.98 component: speed.main
+(11:30:40) MoonTest failed Fly check | flight | tag:e | a:0.41999998688697815 b:10 c:5 d:-0.9054323524772837 (+4) | vl:95 ping:18 tps:19.98 component: fly.main
+(11:30:40) MoonTest failed Speed check | faster than expected | t-e | 0.48 > 0.365 | tag: a (+5) | vl:143 ping:18 tps:19.98 component: speed.main
+(11:30:41) MoonTest failed Speed check | faster than expected | t-e | 0.428 > 0.365 | tag: a (+5) | vl:148 ping:18 tps:20.0 component: speed.main
+(11:30:42) MoonTest failed Fly check | ground spoof | tag: fake air packet | loc: -5329.719,69.0,5858.7 (+4) | vl:99 ping:18 tps:20.0 component: fly.fg.air
+(11:37:01) QwertShow failed Fly check | simple flight | tag:#4 | val1:false val2:0.033890786745502055 val3:-0.1552320045166016 val4:0 (+5) | vl:5 ping:27 tps:19.72 component: fly.main
+(11:37:01) QwertShow failed Fly check | ground spoof | tag: fake air packet | loc: 1059.5,64.0,2267.5 (+4) | vl:9 ping:27 tps:19.72 component: fly.fg.air
+(11:42:06) QwertShow failed Jesus check | t:jesus-5 (+5) | vl:5 ping:104 tps:19.97 component: jesus.5
+(11:43:57) QwertShow failed FastUse check | fast use (+0) | vl:0 ping:105 tps:20.0 component: fastuse
+(11:45:04) QwertShow failed Speed check | t: spin (+1) | vl:1 ping:107 tps:19.94 component: speed.spin
+(11:46:46) QwertShow failed FastUse check | fast use (+0) | vl:0 ping:107 tps:19.93 component: fastuse
+(11:49:01) Dark_volk_top failed Fly check | ground spoof | tag: fake air packet | loc: -5049.483,67.0,1530.811 (+4) | vl:4 ping:0 tps:19.98 component: fly.fg.air
+(11:54:32) Dark_volk_top failed Fly check | ground spoof | tag: fake air packet | loc: -5034.409,122.0,1472.985 (+4) | vl:4 ping:109 tps:19.98 component: fly.fg.air
+(11:54:32) Dark_volk_top failed Speed check | faster than expected | t-e | 0.49 > 0.3825 | tag: a (+5) | vl:5 ping:109 tps:19.98 component: speed.main
+(11:55:50) Dark_volk_top failed Fly check | flight | tag:e | a:0.4203014563238696 b:12 c:5 d:-0.5824428773508716 (+4) | vl:4 ping:109 tps:20.0 component: fly.main
+(11:55:56) Dark_volk_top failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:109 tps:20.0 component: bot.baritone
+(11:56:52) Dark_volk_top failed Speed check | faster than expected | t-f | mv: -0.07242780368044066 (+3) | vl:3 ping:83 tps:20.0 component: speed.main
+(11:56:56) Dark_volk_top failed Chat check | send the same chat content (+1) | vl:1 ping:83 tps:20.0 component: chat.same
+(11:56:59) Dark_volk_top failed Chat check | send the same chat content (+1) | vl:2 ping:79 tps:20.0 component: chat.same
+(11:58:07) Dark_volk_top failed Fly check | up | val1: 3 val2: false val3: AIR val4: 0.4166666666666714 val5: 0.08307781780646721 (+5) | vl:5 ping:108 tps:20.0 component: fly.main
+(11:58:07) Dark_volk_top failed Fly check | vertical | val1: 0.4166666666666714 val2: 3 val3: 0.08307781780646721 (+8) | vl:13 ping:108 tps:20.0 component: fly.main
+(12:00:36) Dark_volk_top failed Speed check | faster than expected | t-e | 0.49 > 0.3825 | tag: a (+5) | vl:5 ping:73 tps:19.99 component: speed.main
+(12:00:36) Dark_volk_top failed Speed check | faster than expected | t-e | 0.49 > 0.3825 | tag: a (+5) | vl:10 ping:73 tps:19.99 component: speed.main
+(12:00:36) Dark_volk_top failed Fly check | up | val1: 3 val2: false val3: AIR val4: 0.4166666666666714 val5: 0.16477328182606651 (+5) | vl:5 ping:73 tps:19.99 component: fly.main
+(12:00:36) Dark_volk_top failed Fly check | vertical | val1: 0.4166666666666714 val2: 3 val3: 0.16477328182606651 (+8) | vl:13 ping:73 tps:19.99 component: fly.main
+(12:00:37) Dark_volk_top failed Fly check | flight | tag:e | a:0.4166666666666714 b:6 c:5 d:-0.3739040364667221 (+4) | vl:17 ping:73 tps:19.99 component: fly.main
+(12:00:37) Dark_volk_top failed Fly check | up | val1: 7 val2: false val3: AIR val4: 0.4166666666666714 val5: -0.4448259643949201 (+5) | vl:22 ping:73 tps:19.99 component: fly.main
+(12:00:37) Dark_volk_top failed Fly check | flight | tag:e | a:0.4166666666666714 b:7 c:5 d:-0.4448259643949201 (+4) | vl:26 ping:73 tps:19.99 component: fly.main
+(12:00:44) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:15 ping:73 tps:19.97 component: speed.main
+(12:00:44) Dark_volk_top failed Fly check | vertical | val1: 0.4166666666666714 val2: 4 val3: 0.08307781780646721 (+8) | vl:34 ping:73 tps:19.97 component: fly.main
+(12:00:44) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:20 ping:73 tps:19.97 component: speed.main
+(12:00:44) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.35300000000000004 | tag: b (+5) | vl:25 ping:73 tps:19.97 component: speed.main
+(12:00:44) Dark_volk_top failed Fly check | up | val1: 5 val2: false val3: AIR val4: 0.4166666666666714 val5: 0.0030162615090425808 (+5) | vl:39 ping:73 tps:19.97 component: fly.main
+(12:00:44) Dark_volk_top failed Fly check | ground spoof | tag: fake air packet | loc: -5034.5,122.0,1474.5 (+4) | vl:43 ping:73 tps:19.97 component: fly.fg.air
+(12:00:44) Dark_volk_top failed Speed check | faster than expected | t-e | 0.49 > 0.3825 | tag: a (+5) | vl:30 ping:73 tps:19.97 component: speed.main
+(12:00:44) Dark_volk_top failed Fly check | up | val1: 10 val2: false val3: AIR val4: 0.4166666666666714 val5: 0.16477328182606651 (+5) | vl:48 ping:73 tps:19.97 component: fly.main
+(12:00:49) Dark_volk_top failed Speed check | faster than expected | t-e | 0.49 > 0.3825 | tag: a (+5) | vl:35 ping:73 tps:19.97 component: speed.main
+(12:00:49) Dark_volk_top failed Speed check | faster than expected | t-e | 0.49 > 0.35300000000000004 | tag: b (+5) | vl:40 ping:73 tps:19.97 component: speed.main
+(12:00:49) Dark_volk_top failed Fly check | up | val1: 9 val2: false val3: AIR val4: 0.4166666666666714 val5: 0.16477328182606651 (+5) | vl:53 ping:73 tps:19.97 component: fly.main
+(12:00:49) Dark_volk_top failed Fly check | ground spoof | tag: fake air packet | loc: -5032.5,122.0,1475.5 (+4) | vl:57 ping:73 tps:19.97 component: fly.fg.air
+(12:00:49) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:45 ping:73 tps:19.97 component: speed.main
+(12:00:50) Dark_volk_top failed Fly check | ground spoof | tag: fake air packet | loc: -5032.731,122.0,1475.013 (+4) | vl:61 ping:73 tps:19.97 component: fly.fg.air
+(12:00:51) Dark_volk_top failed Fly check | vertical | val1: 0.4166666666666714 val2: 3 val3: 0.16477328182606651 (+8) | vl:69 ping:73 tps:20.0 component: fly.main
+(12:00:52) Dark_volk_top failed Fly check | up | val1: 7 val2: false val3: AIR val4: 0.4166666666666714 val5: 0.16477328182606651 (+5) | vl:74 ping:73 tps:20.0 component: fly.main
+(12:01:12) Dark_volk_top failed Fly check | up | val1: 9 val2: false val3: AIR val4: 0.4166666666666714 val5: -0.30153472366278034 (+5) | vl:39 ping:72 tps:20.0 component: fly.main
+(12:01:12) Dark_volk_top failed Fly check | flight | tag:e | a:0.4166666666666714 b:12 c:5 d:-0.07544406518948656 (+4) | vl:43 ping:72 tps:20.0 component: fly.main
+(12:01:12) Dark_volk_top failed Fly check | flight | tag:e | a:0.4166666666666714 b:12 c:5 d:-0.07544406518948656 (+4) | vl:47 ping:72 tps:20.0 component: fly.main
+(12:01:12) Dark_volk_top failed Fly check | simple flight | tag:#4 | val1:false val2:0.4166666666666714 val3:-0.22768848754498797 val4:0 (+5) | vl:52 ping:72 tps:20.0 component: fly.main
+(12:01:13) Dark_volk_top failed Fly check | simple flight | tag:#4 | val1:false val2:0.4166666666666714 val3:-0.3739040364667221 val4:0 (+5) | vl:57 ping:72 tps:20.0 component: fly.main
+(12:01:13) Dark_volk_top failed Fly check | flight | tag:e | a:0.4166666666666714 b:12 c:5 d:-0.07544406518948656 (+4) | vl:61 ping:71 tps:20.0 component: fly.main
+(12:01:26) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:5 ping:71 tps:19.99 component: speed.main
+(12:01:27) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:10 ping:71 tps:19.99 component: speed.main
+(12:01:27) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:15 ping:71 tps:19.99 component: speed.main
+(12:01:27) Dark_volk_top failed Fly check | up | val1: 3 val2: false val3: AIR val4: 0.4166666666666714 val5: 0.08307781780646721 (+5) | vl:26 ping:71 tps:19.99 component: fly.main
+(12:01:27) Dark_volk_top failed Fly check | vertical | val1: 0.4166666666666714 val2: 3 val3: 0.08307781780646721 (+8) | vl:34 ping:71 tps:19.99 component: fly.main
+(12:01:27) Dark_volk_top failed Fly check | ground spoof | tag: fake air packet | loc: -5031.5,123.0,1470.5 (+4) | vl:38 ping:71 tps:19.99 component: fly.fg.air
+(12:01:27) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:20 ping:71 tps:19.99 component: speed.main
+(12:01:27) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:25 ping:71 tps:19.99 component: speed.main
+(12:01:27) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.35300000000000004 | tag: b (+5) | vl:30 ping:71 tps:19.99 component: speed.main
+(12:01:27) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:35 ping:71 tps:19.99 component: speed.main
+(12:01:27) Dark_volk_top failed Fly check | ground spoof | tag: fake air packet | loc: -5032.108,123.0,1471.864 (+4) | vl:42 ping:71 tps:19.99 component: fly.fg.air
+(12:01:27) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:40 ping:71 tps:19.99 component: speed.main
+(12:01:27) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:45 ping:71 tps:19.99 component: speed.main
+(12:01:27) Dark_volk_top failed Fly check | ground spoof | tag: fake air packet | loc: -5032.108,123.0,1471.864 (+4) | vl:46 ping:71 tps:19.99 component: fly.fg.air
+(12:01:27) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:50 ping:71 tps:19.99 component: speed.main
+(12:01:27) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:55 ping:71 tps:19.99 component: speed.main
+(12:01:27) Dark_volk_top failed Fly check | ground spoof | tag: fake air packet | loc: -5032.108,123.0,1471.864 (+4) | vl:50 ping:71 tps:19.99 component: fly.fg.air
+(12:01:28) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.3825 | tag: a (+5) | vl:60 ping:71 tps:19.99 component: speed.main
+(12:01:28) Dark_volk_top failed Speed check | faster than expected | t-e | 0.5 > 0.375 | tag: c (+10) | vl:70 ping:71 tps:19.99 component: speed.main
+(12:01:28) Dark_volk_top failed Fly check | ground spoof | tag: fake air packet | loc: -5032.108,123.0,1471.864 (+4) | vl:54 ping:71 tps:20.0 component: fly.fg.air
+(12:36:17) Matrix Enabled!
+(12:36:17) Version: 2.1.2
+(12:44:18) Matrix Enabled!
+(12:44:18) Version: 2.1.2
+(12:46:16) Matrix Enabled!
+(12:46:16) Version: 2.1.2
+(13:39:43) Matrix Enabled!
+(13:39:43) Version: 2.1.2
+(13:41:06) M3tty failed Chat check | send the same chat content (+1) | vl:1 ping:131 tps:19.95 component: chat.same
+(13:42:00) M3tty failed Fly check | flight | tag:e | a:0.20326439933128881 b:9 c:5 d:-0.0784000015258789 (+4) | vl:4 ping:225 tps:19.92 component: fly.main
+(13:42:32) Kyrama failed Interact check | interact block through walls ,o=BOOKSHELF b=ENDER_CHEST (+1) | vl:1 ping:61 tps:19.97 component: interact.through
+(13:44:28) M3tty failed Fly check | flight | tag:e | a:0.47557591178630787 b:8 c:5 d:-0.0784000015258789 (+4) | vl:4 ping:302 tps:19.95 component: fly.main
+(13:44:29) M3tty failed Speed check | sprint direction | move: 0.256184052292225 angle: 526.2111711502075 (+5) | vl:5 ping:302 tps:19.95 component: speed.sprint
+(13:45:06) Kyrama failed FastUse check | fast use (+0) | vl:0 ping:89 tps:19.97 component: fastuse
+(13:46:03) Kyrama failed Speed check | faster than expected | t-a | 0.246 (+5) | vl:5 ping:77 tps:20.0 component: speed.ground
+(13:47:14) M3tty failed FastUse check | fast use (+0) | vl:0 ping:195 tps:19.95 component: fastuse
+(13:49:26) M3tty failed Speed check | faster than expected | t-a | 0.266 (+5) | vl:5 ping:202 tps:19.98 component: speed.ground
+(13:51:28) Kyrama failed HitBox check | angle (angle:91.65146112442017 ,reach: 1.5409815827815754,sweep: false) (+0) | vl:0 ping:115 tps:20.0 component: hb.angle
+(13:51:34) Kyrama failed KillAura check | snap | tag: b (+0) | vl:0 ping:115 tps:20.0 component: ka.snap
+(13:52:09) Kyrama failed KillAura check | snap | tag: b (+0) | vl:0 ping:109 tps:19.97 component: ka.snap
+(13:53:55) Kyrama failed Fly check | flight | tag:e | a:0.0 b:11 c:5 d:-0.0784000015258789 (+4) | vl:4 ping:107 tps:20.0 component: fly.main
+(13:55:51) M3tty failed Speed check | faster than expected | t-a | 0.48 > 0.2873 | val: true (+9) | vl:9 ping:154 tps:19.98 component: speed.main
+(13:55:55) Kyrama failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:79 tps:19.99 component: bot.baritone
+(13:56:29) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:153 tps:19.78 component: interact.through
+(13:56:40) Kyrama failed FastUse check | fast use (+0) | vl:0 ping:74 tps:19.99 component: fastuse
+(13:57:15) M3tty failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:150 tps:19.99 component: bot.baritone
+(14:01:15) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:143 tps:19.73 component: bot.baritone
+(14:03:01) Tankbenz failed Fly check | glide | strict | (-1.484 < -0.078) -> 1.405 / 54 | d: 81.516136 (+3) | vl:3 ping:0 tps:19.82 component: fly.main.glide
+(14:04:28) Kyrama failed FastBow check | fast bow (+0) | vl:0 ping:63 tps:19.96 component: fastbow
+(14:12:23) Kyrama failed Interact check | liquid (+1) | vl:1 ping:59 tps:19.99 component: interact.liquid
+(14:12:50) Kyrama failed Fly check | simple flight | tag:#4 | val1:false val2:0.033890786745487844 val3:-0.1552320045166016 val4:0 (+5) | vl:5 ping:59 tps:20.0 component: fly.main
+(14:17:11) Kyrama failed HitBox check | reach: 3.9805982812351655 expected: 3.5622768041886768 cb:false sw:false dv:-0.055 lt:1 (+2) | vl:2 ping:58 tps:19.99 component: hb.reach
+(14:17:57) Kyrama failed KillAura check | snap | tag: b (+0) | vl:0 ping:62 tps:19.99 component: ka.snap
+(14:18:09) Kyrama failed KillAura check | t: ka.yaw.ag | val1: 1.4851904287934303 val2: 1.83836929500103 (+2) | vl:2 ping:62 tps:19.99 component: ka.yaw.ag
+(14:18:25) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: -4988.041,63.0,1554.652 (+4) | vl:4 ping:123 tps:19.95 component: fly.fg.air
+(14:18:53) M3tty failed Speed check | faster than expected | t-a | 0.454 (+5) | vl:5 ping:125 tps:19.95 component: speed.ground
+(14:19:00) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:125 tps:19.99 component: interact.through
+(14:19:02) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:2 ping:125 tps:19.68 component: interact.through
+(14:19:04) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:3 ping:125 tps:19.96 component: interact.through
+(14:19:05) M3tty failed Interact check | interact block through walls ,o=COAL_ORE b=CHEST (+1) | vl:4 ping:125 tps:19.96 component: interact.through
+(14:19:20) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:132 tps:20.0 component: interact.through
+(14:19:31) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:2 ping:135 tps:19.98 component: interact.through
+(14:19:52) M3tty failed Inventory check | inventory move | simple (+2) | vl:2 ping:139 tps:20.0 component: inv.move
+(14:21:07) Kyrama failed FastUse check | fast use (+0) | vl:0 ping:71 tps:19.99 component: fastuse
+(14:23:49) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:133 tps:20.0 component: bot.baritone
+(14:25:35) Kyrama failed Speed check | faster than expected | t-e | 0.322 > 0.315 | tag: c (+10) | vl:10 ping:61 tps:19.94 component: speed.main
+(14:29:17) Kyrama failed HitBox check | reach: 4.035227163437691 expected: 3.8110887289657334 cb:false sw:false dv:-1.177 lt:1 (+1) | vl:1 ping:81 tps:19.99 component: hb.reach
+(14:30:53) Kyrama failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.1552320045166016 ~ 0.41999998688697815 ~ 63.09375 (+5) | vl:5 ping:65 tps:20.0 component: jesus.solid
+(14:31:00) Kyrama failed FastUse check | fast use (+0) | vl:0 ping:65 tps:19.99 component: fastuse
+(14:31:43) Kyrama failed FastUse check | fast use (+0) | vl:0 ping:66 tps:20.0 component: fastuse
+(14:37:18) ZloyTuke failed Chat check | send the same chat content (+1) | vl:1 ping:119 tps:20.0 component: chat.same
+(14:38:00) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7925.235 (+4) | vl:4 ping:114 tps:20.0 component: fly.fg.air
+(14:38:24) ZloyTuke failed FastUse check | fast use (+0) | vl:0 ping:118 tps:19.99 component: fastuse
+(14:38:42) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,67.0,7921.417 (+4) | vl:4 ping:117 tps:20.0 component: fly.fg.air
+(14:38:42) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,67.0,7921.568 (+4) | vl:8 ping:117 tps:20.0 component: fly.fg.air
+(14:38:43) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,67.0,7921.682 (+4) | vl:12 ping:117 tps:20.0 component: fly.fg.air
+(14:40:01) Dep3kiu_TpoJlb failed Inventory check | inventory move | simple (+2) | vl:2 ping:45 tps:19.99 component: inv.move
+(14:40:01) Dep3kiu_TpoJlb failed Inventory check | inventory move | simple (+2) | vl:4 ping:45 tps:19.99 component: inv.move
+(14:44:35) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,68.0,7917.3 (+4) | vl:4 ping:107 tps:20.0 component: fly.fg.air
+(14:44:35) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,68.0,7917.3 (+4) | vl:8 ping:107 tps:20.0 component: fly.fg.air
+(14:44:36) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,68.0,7917.3 (+4) | vl:12 ping:108 tps:20.0 component: fly.fg.air
+(14:44:36) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,68.0,7917.3 (+4) | vl:16 ping:108 tps:20.0 component: fly.fg.air
+(14:44:37) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,68.0,7917.3 (+4) | vl:20 ping:108 tps:20.0 component: fly.fg.air
+(14:44:38) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,68.0,7917.325 (+4) | vl:24 ping:108 tps:20.0 component: fly.fg.air
+(14:44:39) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,68.0,7917.351 (+4) | vl:28 ping:108 tps:20.0 component: fly.fg.air
+(14:45:52) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:134 tps:19.95 component: bot.baritone
+(14:46:11) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,66.0,7917.7 (+4) | vl:4 ping:108 tps:20.0 component: fly.fg.air
+(14:46:12) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,66.0,7917.7 (+4) | vl:8 ping:108 tps:20.0 component: fly.fg.air
+(14:48:04) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,67.0,7919.3 (+4) | vl:4 ping:107 tps:20.0 component: fly.fg.air
+(14:49:35) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 7997.5,64.0,7923.5 (+4) | vl:4 ping:106 tps:20.0 component: fly.fg.air
+(14:50:35) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7923.519 (+4) | vl:4 ping:107 tps:20.0 component: fly.fg.air
+(14:50:36) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7923.576 (+4) | vl:8 ping:107 tps:20.0 component: fly.fg.air
+(14:50:38) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7924.019 (+4) | vl:12 ping:109 tps:20.0 component: fly.fg.air
+(14:50:40) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7924.221 (+4) | vl:16 ping:109 tps:20.0 component: fly.fg.air
+(14:50:41) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7924.423 (+4) | vl:20 ping:109 tps:20.0 component: fly.fg.air
+(14:50:44) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7924.365 (+4) | vl:24 ping:109 tps:20.0 component: fly.fg.air
+(14:50:44) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7924.308 (+4) | vl:28 ping:109 tps:20.0 component: fly.fg.air
+(14:50:45) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7924.3 (+4) | vl:32 ping:109 tps:19.97 component: fly.fg.air
+(14:50:45) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7924.304 (+4) | vl:36 ping:109 tps:19.97 component: fly.fg.air
+(14:50:45) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7924.307 (+4) | vl:40 ping:109 tps:19.97 component: fly.fg.air
+(14:50:46) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7924.311 (+4) | vl:44 ping:109 tps:19.97 component: fly.fg.air
+(14:50:46) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7924.315 (+4) | vl:48 ping:109 tps:19.97 component: fly.fg.air
+(14:50:46) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7924.318 (+4) | vl:52 ping:109 tps:20.0 component: fly.fg.air
+(14:50:48) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.683 (+4) | vl:56 ping:109 tps:20.0 component: fly.fg.air
+(14:51:00) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7926.963 (+4) | vl:20 ping:111 tps:19.99 component: fly.fg.air
+(14:51:01) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.528 (+4) | vl:24 ping:111 tps:19.94 component: fly.fg.air
+(14:51:01) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.613 (+4) | vl:28 ping:111 tps:19.94 component: fly.fg.air
+(14:51:02) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.487 (+4) | vl:32 ping:111 tps:19.94 component: fly.fg.air
+(14:51:02) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.502 (+4) | vl:36 ping:111 tps:19.94 component: fly.fg.air
+(14:51:02) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.517 (+4) | vl:40 ping:111 tps:20.0 component: fly.fg.air
+(14:51:04) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.524 (+4) | vl:44 ping:111 tps:20.0 component: fly.fg.air
+(14:51:04) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.539 (+4) | vl:48 ping:111 tps:19.99 component: fly.fg.air
+(14:51:05) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.554 (+4) | vl:52 ping:111 tps:19.99 component: fly.fg.air
+(14:51:05) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.569 (+4) | vl:56 ping:111 tps:19.99 component: fly.fg.air
+(14:51:06) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.584 (+4) | vl:60 ping:111 tps:19.99 component: fly.fg.air
+(14:51:06) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.599 (+4) | vl:64 ping:111 tps:19.99 component: fly.fg.air
+(14:51:06) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.614 (+4) | vl:68 ping:110 tps:20.0 component: fly.fg.air
+(14:51:07) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.629 (+4) | vl:72 ping:110 tps:20.0 component: fly.fg.air
+(14:51:14) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7927.844 (+4) | vl:76 ping:110 tps:19.98 component: fly.fg.air
+(14:51:15) ZloyTuke failed KillAura check | strange aim (+5) | vl:5 ping:110 tps:20.0 component: ka.aim
+(14:51:17) ZloyTuke failed KillAura check | strange aim (+5) | vl:10 ping:110 tps:19.98 component: ka.aim
+(14:51:18) ZloyTuke failed KillAura check | strange aim (+5) | vl:15 ping:110 tps:19.98 component: ka.aim
+(14:51:26) WerTual failed Fly check | flight | tag:e | a:0.1647732818260721 b:6 c:5 d:-0.5169479491049732 (+4) | vl:4 ping:136 tps:20.0 component: fly.main
+(14:51:26) WerTual failed Fly check | flight | tag:e | a:0.08307781780646906 b:7 c:5 d:-0.5169479491049732 (+4) | vl:8 ping:136 tps:20.0 component: fly.main
+(14:51:29) WerTual failed KillAura check | strange aim (+5) | vl:5 ping:136 tps:20.0 component: ka.aim
+(14:51:30) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7928.157 (+4) | vl:40 ping:109 tps:20.0 component: fly.fg.air
+(14:51:32) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7928.165 (+4) | vl:44 ping:109 tps:19.98 component: fly.fg.air
+(14:51:36) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7928.09 (+4) | vl:48 ping:108 tps:20.0 component: fly.fg.air
+(14:51:36) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7928.098 (+4) | vl:52 ping:108 tps:19.99 component: fly.fg.air
+(14:51:37) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 8000.0,64.0,7928.102 (+4) | vl:56 ping:108 tps:19.99 component: fly.fg.air
+(14:53:40) ZloyTuke failed Fly check | ground spoof | tag: fake air packet | loc: 7985.626,65.0,7993.495 (+4) | vl:4 ping:115 tps:19.98 component: fly.fg.air
+(14:57:26) Dep3kiu_TpoJlb failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:69 tps:20.0 component: speed.main
+(14:59:45) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:52 tps:20.0 component: interact.through
+(15:01:15) MemasGelya failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:0 tps:20.0 component: bot.baritone
+(15:01:19) Dep3kiu_TpoJlb failed Fly check | ground spoof | tag: fake air packet | loc: -4995.653,61.0,1574.76 (+4) | vl:4 ping:56 tps:20.0 component: fly.fg.air
+(15:04:45) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=COBBLESTONE b=CHEST (+1) | vl:1 ping:65 tps:20.0 component: interact.through
+(15:05:17) Dep3kiu_TpoJlb failed FastUse check | fast use (+0) | vl:0 ping:61 tps:19.94 component: fastuse
+(15:05:37) Kyrama failed HitBox check | reach: 4.318768889767417 expected: 3.712142261359132 cb:false sw:false dv:-1.024 lt:1 (+3) | vl:3 ping:60 tps:19.98 component: hb.reach
+(15:05:49) Kyrama failed HitBox check | reach: 4.029262430313338 expected: 3.741706744202225 cb:false sw:false dv:-1.024 lt:1 (+2) | vl:5 ping:59 tps:19.99 component: hb.reach
+(15:05:54) Kyrama failed HitBox check | reach: 3.968612348310869 expected: 3.596916794998529 cb:false sw:false dv:-0.177 lt:1 (+2) | vl:2 ping:59 tps:20.0 component: hb.reach
+(15:09:29) ZloyTuke failed Fly check | flight | tag:e | a:0.0 b:9 c:5 d:-0.30153472366278034 (+4) | vl:4 ping:111 tps:19.98 component: fly.main
+(15:09:33) WerTual failed HitBox check | angle (angle:127.6166296005249 ,reach: 4.545500962147232,sweep: false) (+0) | vl:0 ping:159 tps:20.0 component: hb.angle
+(15:09:49) ZloyTuke failed Speed check | faster than expected | t-e | 0.331 > 0.315 | tag: c (+10) | vl:10 ping:112 tps:20.0 component: speed.main
+(15:09:50) ZloyTuke failed Speed check | faster than expected | t-e | 0.348 > 0.315 | tag: c (+10) | vl:20 ping:112 tps:20.0 component: speed.main
+(15:10:31) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=LEAVES b=CHEST (+1) | vl:1 ping:59 tps:19.97 component: interact.through
+(15:11:54) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=FURNACE b=CHEST (+1) | vl:1 ping:57 tps:19.96 component: interact.through
+(15:13:41) Dep3kiu_TpoJlb failed Fly check | ground spoof | tag: fake air packet | loc: -4984.441,62.0,1541.581 (+4) | vl:4 ping:62 tps:20.0 component: fly.fg.air
+(15:15:29) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=LEAVES b=CHEST (+1) | vl:1 ping:54 tps:20.0 component: interact.through
+(15:16:09) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=LEAVES b=CHEST (+1) | vl:1 ping:55 tps:20.0 component: interact.through
+(15:16:33) ZloyTuke failed Speed check | faster than expected | t-a | 0.28 (+5) | vl:5 ping:112 tps:19.97 component: speed.ground
+(15:18:41) Dep3kiu_TpoJlb failed Speed check | faster than expected | t-f | mv: -0.07242780368044066 (+3) | vl:3 ping:60 tps:20.0 component: speed.main
+(15:20:47) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=FURNACE b=CHEST (+1) | vl:1 ping:61 tps:19.99 component: interact.through
+(15:22:10) ZloyTuke failed HitBox check | reach: 4.996521217903325 expected: 4.973120738550746 cb:false sw:false dv:0.201 lt:3 (+1) | vl:1 ping:108 tps:20.0 component: hb.reach
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:4 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:6 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:8 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:10 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:12 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:14 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:16 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:18 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:20 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:22 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:24 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:26 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:28 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:30 ping:135 tps:20.0 component: bot.baritone
+(15:22:20) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:32 ping:135 tps:20.0 component: bot.baritone
+(15:22:21) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:34 ping:135 tps:20.0 component: bot.baritone
+(15:22:21) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:36 ping:135 tps:20.0 component: bot.baritone
+(15:22:21) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:38 ping:135 tps:20.0 component: bot.baritone
+(15:22:21) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:40 ping:135 tps:20.0 component: bot.baritone
+(15:22:21) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:42 ping:135 tps:20.0 component: bot.baritone
+(15:22:21) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:44 ping:135 tps:20.0 component: bot.baritone
+(15:22:21) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:46 ping:135 tps:20.0 component: bot.baritone
+(15:22:21) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:48 ping:135 tps:20.0 component: bot.baritone
+(15:22:21) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:50 ping:135 tps:20.0 component: bot.baritone
+(15:22:21) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:52 ping:135 tps:20.0 component: bot.baritone
+(15:22:22) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:54 ping:135 tps:20.0 component: bot.baritone
+(15:22:22) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:56 ping:135 tps:20.0 component: bot.baritone
+(15:22:22) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:58 ping:135 tps:20.0 component: bot.baritone
+(15:22:22) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:60 ping:135 tps:20.0 component: bot.baritone
+(15:22:22) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:62 ping:135 tps:20.0 component: bot.baritone
+(15:22:22) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:64 ping:135 tps:20.0 component: bot.baritone
+(15:22:22) WerTual failed AutoBot check | bot like actions | like: baritone (+2) | vl:66 ping:135 tps:20.0 component: bot.baritone
+(15:22:25) ZloyTuke failed Speed check | faster than expected | t-b | 0.451 > 0.429 | t: 2 | vd: 0.0 (+8) | vl:8 ping:108 tps:20.0 component: speed.main
+(15:23:38) ZloyTuke failed Fly check | flight | tag:e | a:0.22892801043701638 b:6 c:5 d:-0.07544406518948656 (+4) | vl:4 ping:189 tps:20.0 component: fly.main
+(15:23:38) ZloyTuke failed Fly check | flight | tag:e | a:0.14594945306885165 b:7 c:5 d:-0.15233518685055708 (+4) | vl:8 ping:189 tps:20.0 component: fly.main
+(15:23:38) ZloyTuke failed Fly check | flight | tag:e | a:0.06463046526535265 b:8 c:5 d:-0.22768848754498797 (+4) | vl:12 ping:189 tps:20.0 component: fly.main
+(15:27:09) Dep3kiu_TpoJlb failed Fly check | ground spoof | tag: fake air packet | loc: -4385.402,72.0,-2506.502 (+4) | vl:4 ping:56 tps:19.98 component: fly.fg.air
+(15:31:01) Dep3kiu_TpoJlb failed Speed check | faster than expected | t-a | 0.482 > 0.2873 | val: true (+9) | vl:9 ping:56 tps:20.0 component: speed.main
+(15:36:28) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:1 ping:55 tps:20.0 component: interact.through
+(15:38:43) Dep3kiu_TpoJlb failed Speed check | faster than expected | t-a | 0.479 > 0.2873 | val: true (+9) | vl:9 ping:58 tps:19.99 component: speed.main
+(15:39:20) Dep3kiu_TpoJlb failed Speed check | faster than expected | t-a | 0.478 > 0.2873 | val: true (+9) | vl:9 ping:56 tps:19.98 component: speed.main
+(15:42:17) Dep3kiu_TpoJlb failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:58 tps:19.99 component: speed.main
+(15:43:37) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.0 b:8 c:5 d:-0.0784000015258789 (+4) | vl:4 ping:97 tps:20.0 component: fly.main
+(15:44:10) Dep3kiu_TpoJlb failed Fly check | simple flight | tag:#4 | val1:false val2:0.033890786745502055 val3:-0.1552320045166016 val4:0 (+5) | vl:5 ping:81 tps:20.0 component: fly.main
+(15:48:52) Y_MeH9_JlaTTku failed Fly check | ground spoof | tag: fake air packet | loc: -5041.353,59.0,1476.404 (+4) | vl:4 ping:0 tps:20.0 component: fly.fg.air
+(15:50:09) da_9I_TOP failed Interact check | interact block through walls ,o=SAND b=CHEST (+1) | vl:1 ping:109 tps:20.0 component: interact.through
+(15:52:05) da_9I_TOP failed Speed check | sprint direction | move: 0.2312711217224561 angle: 362.317214012146 (+5) | vl:5 ping:96 tps:19.95 component: speed.sprint
+(15:52:41) da_9I_TOP failed Fly check | flight | tag:e | a:0.10083860080418106 b:6 c:5 d:-0.21126544506751865 (+4) | vl:4 ping:94 tps:20.0 component: fly.main
+(15:52:41) da_9I_TOP failed Fly check | flight | tag:e | a:0.020421829185565343 b:7 c:5 d:-0.2854401417216158 (+4) | vl:8 ping:94 tps:20.0 component: fly.main
+(15:52:45) da_9I_TOP failed Fly check | glide | strict | (-0.877 < -0.078) -> 0.799 / 27 | d: 23.37485 (+3) | vl:11 ping:91 tps:20.0 component: fly.main.glide
+(15:54:21) da_9I_TOP failed Interact check | interact block through walls ,o=SAND b=CHEST (+1) | vl:1 ping:101 tps:20.0 component: interact.through
+(15:54:51) da_9I_TOP failed Speed check | faster than expected | t-f | mv: -0.07242780368044066 (+3) | vl:3 ping:960 tps:19.98 component: speed.main
+(15:54:51) da_9I_TOP failed Speed check | t: spin (+1) | vl:4 ping:960 tps:19.98 component: speed.spin
+(15:55:03) da_9I_TOP failed Interact check | interact block through walls ,o=SMOOTH_BRICK b=ENDER_CHEST (+1) | vl:1 ping:743 tps:19.96 component: interact.through
+(15:55:23) da_9I_TOP failed Interact check | interact block through walls ,o=WOOD b=CHEST (+1) | vl:2 ping:579 tps:20.0 component: interact.through
+(15:56:11) da_9I_TOP failed FastUse check | fast use (+0) | vl:0 ping:292 tps:20.0 component: fastuse
+(16:10:38) ZloyTuke failed Fly check | move unexpected: 0.0 -> -0.078 (+8) | vl:8 ping:0 tps:20.0 component: fly.fg.pattern.9plus.2
+(16:28:17) Dep3kiu_TpoJlb failed Fly check | glide | strict | (-0.176 < -0.905) -> 0.729 / 11 | d: 2.6945615 (+3) | vl:3 ping:38 tps:19.99 component: fly.main.glide
+(17:05:56) edichkaaa failed Speed check | faster than expected | t-a | 0.481 > 0.2873 | val: true (+9) | vl:9 ping:110 tps:19.66 component: speed.main
+(17:06:31) edichkaaa failed Speed check | faster than expected | t-a | 0.287 > 0.2873 | val: true (+9) | vl:9 ping:111 tps:19.84 component: speed.main
+(17:56:41) Sparda88 failed Speed check | faster than expected | t-e | 0.366 > 0.365 | tag: a (+5) | vl:5 ping:68 tps:19.9 component: speed.main
+(17:56:41) Sparda88 failed Speed check | faster than expected | t-e | 0.315 > 0.315 | tag: c (+10) | vl:15 ping:68 tps:20.0 component: speed.main
+(17:57:52) Sparda88 failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:83 tps:20.0 component: bot.baritone
+(17:58:13) Sparda88 failed FastUse check | fast use (+0) | vl:0 ping:81 tps:20.0 component: fastuse
+(17:59:09) Sparda88 failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:71 tps:19.99 component: bot.baritone
+(17:59:33) Sparda88 failed FastUse check | fast use (+0) | vl:0 ping:82 tps:19.97 component: fastuse
+(18:01:48) kykareky failed Speed check | faster than expected | t-e | 2.025 > 0.40499999999999997 | tag: a (+20) | vl:20 ping:0 tps:19.98 component: speed.main
+(18:02:06) kykareky failed Jesus check | liquid speed | t: normal-1 | 2.02 >- 1.96 d: false (+4) | vl:4 ping:42 tps:19.99 component: jesus.out
+(18:02:06) kykareky failed Speed check | faster than expected | t-e | 2.02 > 0.365 | tag: a (+20) | vl:20 ping:42 tps:19.99 component: speed.main
+(18:02:06) kykareky failed Speed check | faster than expected | t-e | a: 2.02 c: 12 lm: 1.9420026377965827 | tag: d (+15) | vl:35 ping:42 tps:19.99 component: speed.main
+(18:02:08) kykareky failed Fly check | flight | tag:e | a:0.08307781780646906 b:12 c:5 d:-0.6491940324389494 (+4) | vl:4 ping:42 tps:20.0 component: fly.main
+(18:02:08) kykareky failed Fly check | flight | tag:e | a:0.003016261509046103 b:12 c:5 d:-0.7146101656984427 (+4) | vl:8 ping:42 tps:20.0 component: fly.main
+(18:02:10) kykareky failed Speed check | faster than expected | t-e | 0.495 > 0.365 | tag: a (+5) | vl:40 ping:42 tps:20.0 component: speed.main
+(18:02:10) kykareky failed Speed check | faster than expected | t-e | 0.495 > 0.315 | tag: c (+10) | vl:50 ping:42 tps:20.0 component: speed.main
+(18:02:11) kykareky failed Speed check | faster than expected | t-e | 0.51 > 0.365 | tag: a (+5) | vl:55 ping:42 tps:20.0 component: speed.main
+(18:02:11) kykareky failed Fly check | flight | tag:e | a:0.41999998688697815 b:8 c:5 d:-0.22768848754498797 (+4) | vl:12 ping:42 tps:20.0 component: fly.main
+(18:02:12) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -4956.774,63.0,1539.239 (+4) | vl:16 ping:42 tps:20.0 component: fly.fg.air
+(18:02:15) kykareky failed Speed check | faster than expected | t-e | 0.39 > 0.342 | tag: b (+5) | vl:60 ping:118 tps:20.0 component: speed.main
+(18:02:15) kykareky failed Speed check | faster than expected | t-f | mv: -0.015604500656962728 (+3) | vl:63 ping:118 tps:20.0 component: speed.main
+(18:02:15) kykareky failed Speed check | faster than expected | t-c | 0.811 > 0.7235 (+10) | vl:73 ping:118 tps:19.96 component: speed.main
+(18:02:16) kykareky failed Speed check | faster than expected | t-e | 0.457 > 0.40499999999999997 | tag: a (+5) | vl:78 ping:118 tps:19.96 component: speed.main
+(18:02:18) kykareky failed Fly check | flight | tag:e | a:0.0 b:8 c:5 d:-0.15233518685055708 (+4) | vl:20 ping:118 tps:19.97 component: fly.main
+(18:02:18) kykareky failed Fly check | flight | tag:e | a:0.0 b:9 c:5 d:-0.22768848754498797 (+4) | vl:24 ping:118 tps:19.97 component: fly.main
+(18:02:18) kykareky failed Fly check | flight | tag:e | a:0.0 b:10 c:5 d:-0.30153472366278034 (+4) | vl:28 ping:118 tps:19.97 component: fly.main
+(18:02:18) kykareky failed Fly check | flight | tag:e | a:0.0 b:11 c:5 d:-0.4448259643949201 (+4) | vl:32 ping:118 tps:19.97 component: fly.main
+(18:02:18) kykareky failed Fly check | simple flight | tag:#1 | val1:false val2:0.0 val3:-0.5143294551172826 val4:0 (+5) | vl:37 ping:118 tps:19.97 component: fly.main
+(18:02:18) kykareky failed Fly check | flight | tag:e | a:0.0 b:12 c:5 d:-0.5143294551172826 (+4) | vl:41 ping:118 tps:19.97 component: fly.main
+(18:02:18) kykareky failed Fly check | simple flight | tag:#4 | val1:false val2:0.0 val3:-0.5824428773508716 val4:0 (+5) | vl:46 ping:118 tps:19.97 component: fly.main
+(18:02:18) kykareky failed Fly check | simple flight | tag:#4 | val1:false val2:0.0 val3:-0.6491940324389494 val4:0 (+5) | vl:51 ping:118 tps:19.97 component: fly.main
+(18:02:18) kykareky failed Fly check | simple flight | tag:#4 | val1:false val2:0.0 val3:-0.7146101656984427 val4:0 (+5) | vl:56 ping:118 tps:19.97 component: fly.main
+(18:02:18) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -4957.5,62.0,1575.5 (+4) | vl:60 ping:118 tps:19.97 component: fly.fg.air
+(18:02:20) kykareky failed Speed check | faster than expected | t-a | 0.314 > 0.2873 | val: false (+9) | vl:87 ping:118 tps:20.0 component: speed.main
+(18:02:31) kykareky failed Fly check | flight | tag:e | a:0.3199999928474426 b:7 c:5 d:-0.15233518685055708 (+4) | vl:24 ping:140 tps:20.0 component: fly.main
+(18:02:31) kykareky failed Fly check | up | val1: 8 val2: false val3: AIR val4: 0.3199999928474426 val5: -0.30153472366278034 (+5) | vl:29 ping:140 tps:20.0 component: fly.main
+(18:02:31) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -4964.5,62.0,1578.5 (+4) | vl:33 ping:140 tps:20.0 component: fly.fg.air
+(18:02:32) kykareky failed Speed check | faster than expected | t-a | 0.314 > 0.2873 | val: true (+9) | vl:46 ping:140 tps:20.0 component: speed.main
+(18:02:35) kykareky failed Speed check | faster than expected | t-e | a: 0.314 c: 12 lm: 0.1501087317280161 | tag: d (+15) | vl:61 ping:140 tps:19.96 component: speed.main
+(18:02:39) kykareky failed Fly check | step | p: 1 | m:2.0 ev:-0.152 (+8) | vl:41 ping:140 tps:20.0 component: speed.step
+(18:02:39) kykareky failed Fly check | step | p:4 (+3) | vl:44 ping:140 tps:20.0 component: speed.step
+(18:02:39) kykareky failed Fly check | step | p: 1 | m:2.0 ev:0.42 (+8) | vl:52 ping:140 tps:20.0 component: speed.step
+(18:02:40) kykareky failed Speed check | faster than expected | t-e | 2.02 > 0.365 | tag: a (+20) | vl:81 ping:140 tps:19.92 component: speed.main
+(18:02:40) kykareky failed Fly check | step | p: 1 | m:2.000000000000007 ev:-0.228 (+8) | vl:60 ping:140 tps:19.92 component: speed.step
+(18:02:40) kykareky failed Fly check | step | p:4 (+3) | vl:63 ping:140 tps:19.92 component: speed.step
+(18:02:40) kykareky failed Fly check | flight | tag:e | a:2.000000000000007 b:8 c:5 d:-0.22768848754498797 (+4) | vl:67 ping:140 tps:19.92 component: fly.main
+(18:02:41) kykareky failed Speed check | faster than expected | t-e | 2.02 > 0.40499999999999997 | tag: a (+20) | vl:101 ping:140 tps:19.92 component: speed.main
+(18:02:41) kykareky failed Speed check | faster than expected | t-e | a: 2.02 c: 12 lm: 0.15848969745173083 | tag: d (+15) | vl:116 ping:140 tps:19.92 component: speed.main
+(18:02:41) kykareky failed Fly check | step | p: 1 | m:2.0 ev:-0.374 (+8) | vl:75 ping:140 tps:19.92 component: speed.step
+(18:02:41) kykareky failed Fly check | step | p:4 (+3) | vl:78 ping:140 tps:19.92 component: speed.step
+(18:02:42) kykareky failed Speed check | faster than expected | t-e | 2.02 > 0.40499999999999997 | tag: a (+20) | vl:136 ping:140 tps:19.96 component: speed.main
+(18:02:42) kykareky failed Speed check | faster than expected | t-e | a: 2.02 c: 12 lm: 0.10305470005859917 | tag: d (+15) | vl:151 ping:140 tps:19.96 component: speed.main
+(18:02:42) kykareky failed Fly check | step | p: 1 | m:2.000000000000007 ev:0.165 (+8) | vl:86 ping:140 tps:19.96 component: speed.step
+(18:02:42) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -4972.129,62.0,1577.089 (+4) | vl:90 ping:140 tps:19.96 component: fly.fg.air
+(18:02:42) kykareky failed Speed check | faster than expected | t-e | 2.02 > 0.365 | tag: a (+20) | vl:171 ping:140 tps:19.96 component: speed.main
+(18:02:42) kykareky failed Fly check | step | p: 1 | m:2.0 ev:0.333 (+8) | vl:98 ping:140 tps:19.96 component: speed.step
+(18:02:42) kykareky failed Speed check | faster than expected | t-e | 2.02 > 0.365 | tag: a (+20) | vl:191 ping:140 tps:19.96 component: speed.main
+(18:02:42) kykareky failed Fly check | step | p: 1 | m:2.0 ev:0.003 (+8) | vl:106 ping:140 tps:19.96 component: speed.step
+(18:02:49) kykareky failed Fly check | flight | tag:e | a:0.3199999928474426 b:7 c:5 d:-0.15233518685055708 (+4) | vl:110 ping:143 tps:20.0 component: fly.main
+(18:03:25) kykareky failed Fly check | step | p: 1 | m:2.0 ev:0.083 (+8) | vl:78 ping:154 tps:20.0 component: speed.step
+(18:03:25) kykareky failed Fly check | vertical | val1: 2.0 val2: 4 val3: 0.08307781780646721 (+8) | vl:86 ping:154 tps:20.0 component: fly.main
+(18:03:27) kykareky failed Fly check | step | p: 1 | m:2.0 ev:0.003 (+8) | vl:94 ping:154 tps:19.96 component: speed.step
+(18:03:29) kykareky failed Speed check | faster than expected | t-e | 2.02 > 0.365 | tag: a (+20) | vl:161 ping:154 tps:20.0 component: speed.main
+(18:03:29) kykareky failed Fly check | step | p: 1 | m:2.0 ev:-0.152 (+8) | vl:102 ping:154 tps:20.0 component: speed.step
+(18:03:29) kykareky failed Fly check | step | p:4 (+3) | vl:105 ping:154 tps:20.0 component: speed.step
+(18:03:29) kykareky failed Fly check | flight | tag:e | a:2.0 b:7 c:5 d:-0.15233518685055708 (+4) | vl:109 ping:154 tps:20.0 component: fly.main
+(18:03:32) Sparda88 failed Speed check | faster than expected | t-a | 0.458 > 0.2873 | val: true (+9) | vl:9 ping:79 tps:20.0 component: speed.main
+(18:03:48) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -723.652,68.0,6618.7 (+4) | vl:73 ping:157 tps:19.94 component: fly.fg.air
+(18:03:49) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -723.801,68.0,6618.7 (+4) | vl:77 ping:157 tps:19.94 component: fly.fg.air
+(18:03:50) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -723.875,68.0,6618.7 (+4) | vl:81 ping:157 tps:20.0 component: fly.fg.air
+(18:03:50) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -723.967,68.0,6618.7 (+4) | vl:85 ping:157 tps:20.0 component: fly.fg.air
+(18:03:50) kykareky failed Speed check | faster than expected | t-e | 1.468 > 0.365 | tag: a (+20) | vl:131 ping:157 tps:20.0 component: speed.main
+(18:03:50) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -723.584,68.0,6618.7 (+4) | vl:89 ping:157 tps:20.0 component: fly.fg.air
+(18:03:50) kykareky failed Speed check | faster than expected | t-e | 1.583 > 0.365 | tag: a (+20) | vl:151 ping:157 tps:20.0 component: speed.main
+(18:03:50) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -723.584,68.0,6618.7 (+4) | vl:93 ping:157 tps:20.0 component: fly.fg.air
+(18:03:50) kykareky failed Speed check | faster than expected | t-e | 1.57 > 0.365 | tag: a (+20) | vl:171 ping:157 tps:20.0 component: speed.main
+(18:03:51) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -723.816,68.0,6618.7 (+4) | vl:97 ping:157 tps:20.0 component: fly.fg.air
+(18:03:51) kykareky failed Speed check | faster than expected | t-e | a: 0.294 c: 12 lm: 0.23223722137879577 | tag: d (+15) | vl:186 ping:157 tps:20.0 component: speed.main
+(18:03:51) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -723.584,68.0,6618.7 (+4) | vl:101 ping:157 tps:20.0 component: fly.fg.air
+(18:03:51) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -723.814,68.0,6618.7 (+4) | vl:105 ping:157 tps:20.0 component: fly.fg.air
+(18:03:52) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -723.814,68.0,6618.7 (+4) | vl:109 ping:157 tps:20.0 component: fly.fg.air
+(18:03:52) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -723.481,68.0,6618.7 (+4) | vl:113 ping:157 tps:20.0 component: fly.fg.air
+(18:03:52) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -723.26,68.0,6618.7 (+4) | vl:117 ping:157 tps:20.0 component: fly.fg.air
+(18:03:53) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -722.817,68.0,6618.7 (+4) | vl:121 ping:157 tps:20.0 component: fly.fg.air
+(18:03:53) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -722.375,68.0,6618.7 (+4) | vl:125 ping:157 tps:20.0 component: fly.fg.air
+(18:03:53) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -722.043,68.0,6618.7 (+4) | vl:129 ping:157 tps:20.0 component: fly.fg.air
+(18:03:53) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -721.7,68.0,6618.7 (+4) | vl:133 ping:157 tps:20.0 component: fly.fg.air
+(18:03:54) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -721.266,68.0,6618.7 (+4) | vl:137 ping:157 tps:20.0 component: fly.fg.air
+(18:03:54) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -720.92,68.0,6618.7 (+4) | vl:141 ping:157 tps:20.0 component: fly.fg.air
+(18:03:54) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -720.464,68.0,6618.7 (+4) | vl:145 ping:157 tps:20.0 component: fly.fg.air
+(18:03:54) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -720.044,68.0,6618.7 (+4) | vl:149 ping:157 tps:20.0 component: fly.fg.air
+(18:03:55) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -719.518,68.0,6618.7 (+4) | vl:153 ping:157 tps:20.0 component: fly.fg.air
+(18:03:55) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -718.992,68.0,6618.7 (+4) | vl:157 ping:157 tps:20.0 component: fly.fg.air
+(18:03:55) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -718.572,68.0,6618.7 (+4) | vl:161 ping:157 tps:20.0 component: fly.fg.air
+(18:03:55) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -717.943,68.0,6618.7 (+4) | vl:165 ping:157 tps:20.0 component: fly.fg.air
+(18:03:55) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -717.297,68.0,6618.7 (+4) | vl:169 ping:157 tps:20.0 component: fly.fg.air
+(18:03:56) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -716.652,68.0,6618.7 (+4) | vl:173 ping:157 tps:20.0 component: fly.fg.air
+(18:03:56) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -715.938,68.0,6618.7 (+4) | vl:177 ping:157 tps:20.0 component: fly.fg.air
+(18:03:56) kykareky failed Fly check | ground spoof | tag: fake air packet | loc: -715.289,68.0,6618.7 (+4) | vl:181 ping:157 tps:20.0 component: fly.fg.air
+(18:12:52) Sparda88 failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:63 tps:20.0 component: bot.baritone
+(18:18:16) Sparda88 failed Speed check | faster than expected | t-a | 0.479 > 0.2873 | val: true (+9) | vl:9 ping:69 tps:20.0 component: speed.main
+(18:18:48) Sparda88 failed Speed check | t: spin (+1) | vl:1 ping:66 tps:19.96 component: speed.spin
+(18:35:45) _NIZILI_ failed Chat check | send the same chat content (+1) | vl:1 ping:32 tps:20.0 component: chat.same
+(18:38:34) Sparda88 failed Fly check | ground spoof | tag: fake air packet | loc: -5058.5,92.0,-227.5 (+4) | vl:4 ping:66 tps:19.95 component: fly.fg.air
+(18:40:22) Sparda88 failed FastUse check | fast use (+0) | vl:0 ping:85 tps:20.0 component: fastuse
+(18:40:24) Sparda88 failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.1552320045166016 ~ 0.41999998688697815 ~ 63.09375 (+5) | vl:5 ping:85 tps:19.95 component: jesus.solid
+(18:41:16) Sparda88 failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.1552320045166016 ~ -0.07840000152587834 ~ 63.09375 (+5) | vl:5 ping:74 tps:19.99 component: jesus.solid
+(18:42:25) Sparda88 failed FastUse check | fast use (+0) | vl:0 ping:105 tps:20.0 component: fastuse
+(18:46:51) MemasGelya failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:134 tps:20.0 component: interact.through
+(18:47:12) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:133 tps:19.96 component: fastuse
+(18:49:57) unfiXxx failed Fly check | ground spoof | tag: fake air packet | loc: -5038.188,44.0,1523.634 (+4) | vl:4 ping:0 tps:20.0 component: fly.fg.air
+(18:49:58) unfiXxx failed Speed check | t: spin (+1) | vl:1 ping:0 tps:20.0 component: speed.spin
+(18:57:49) yulikotik failed Speed check | faster than expected | t-b | 0.605 > 0.469 | t: 1 | vd: 0.042025248271258205 (+8) | vl:8 ping:0 tps:20.0 component: speed.main
+(18:58:02) yulikotik failed Speed check | t: spin (+1) | vl:9 ping:17 tps:19.99 component: speed.spin
+(18:59:56) yulikotik failed Chat check | send the same chat content (+1) | vl:1 ping:79 tps:19.98 component: chat.same
+(19:00:11) Sparda88 failed Speed check | faster than expected | t-a | 0.278 (+5) | vl:5 ping:81 tps:19.99 component: speed.ground
+(19:01:56) Sparda88 failed FastUse check | fast use (+0) | vl:0 ping:70 tps:20.0 component: fastuse
+(19:02:50) _NIZILI_ failed Fly check | ground spoof | tag: fake air packet | loc: -4982.596,63.0,1533.749 (+4) | vl:4 ping:46 tps:20.0 component: fly.fg.air
+(19:03:03) MemasGelya failed Speed check | faster than expected | t-a | 0.287 > 0.2873 | val: true (+9) | vl:9 ping:136 tps:20.0 component: speed.main
+(19:03:07) Sparda88 failed Fly check | step | p:3 (+4) | vl:4 ping:76 tps:19.99 component: speed.step
+(19:06:30) Sparda88 failed Inventory check | inventory move | simple (+2) | vl:2 ping:74 tps:19.92 component: inv.move
+(19:07:22) sqdTheMaxBest failed Fly check | flight | tag:e | a:0.08307781780646906 b:6 c:5 d:-0.37663049823865513 (+4) | vl:4 ping:46 tps:19.99 component: fly.main
+(19:08:14) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:133 tps:20.0 component: fastuse
+(19:08:55) MemasGelya failed Fly check | flight | tag:e | a:0.475575911786315 b:8 c:5 d:-0.0784000015258789 (+4) | vl:4 ping:139 tps:19.97 component: fly.main
+(19:15:14) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:138 tps:20.0 component: fastuse
+(19:15:52) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:135 tps:20.0 component: fastuse
+(19:16:42) MemasGelya failed Speed check | faster than expected | t-a | 0.321 (+5) | vl:5 ping:150 tps:20.0 component: speed.ground
+(19:19:41) MemasGelya failed Fly check | simple flight | tag:#4 | val1:false val2:0.1647732818260721 val3:-0.1552320045166016 val4:0 (+5) | vl:5 ping:144 tps:20.0 component: fly.main
+(19:29:51) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:159 tps:19.98 component: interact.through
+(19:31:07) M3tty failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.1552320045166016 ~ 0.41999998688697815 ~ 63.09375 (+5) | vl:5 ping:152 tps:20.0 component: jesus.solid
+(19:31:12) M3tty failed Fly check | glide | strict | (-0.747 < -0.078) -> 0.669 / 21 | d: 14.505015 (+3) | vl:3 ping:152 tps:20.0 component: fly.main.glide
+(19:31:39) M3tty failed FastBow check | t: bow aim bot [s] a=259.6258544921875 (+2) | vl:2 ping:160 tps:19.98 component: bow.aim.1
+(19:31:39) M3tty failed FastBow check | t: bow aim bot [r] a=259.6258544921875 (+1) | vl:3 ping:160 tps:19.98 component: bot.aim.2
+(19:31:42) M3tty failed FastBow check | t: bow aim bot [s] a=295.8255615234375 (+2) | vl:5 ping:160 tps:19.96 component: bow.aim.1
+(19:31:42) M3tty failed FastBow check | t: bow aim bot [r] a=295.8255615234375 (+1) | vl:6 ping:160 tps:19.96 component: bot.aim.2
+(19:33:58) M3tty failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:152 tps:19.99 component: speed.main
+(19:34:43) M3tty failed Speed check | faster than expected | t-a | 0.302 (+5) | vl:5 ping:151 tps:19.97 component: speed.ground
+(19:35:10) M3tty failed Speed check | faster than expected | t-a | 0.286 (+5) | vl:5 ping:153 tps:20.0 component: speed.ground
+(19:39:00) M3tty failed Fly check | flight | tag:e | a:0.0 b:8 c:5 d:-0.22768848754498797 (+4) | vl:4 ping:173 tps:19.95 component: fly.main
+(19:39:28) Fox_ failed KillAura check | snap | tag: b (+0) | vl:0 ping:0 tps:20.0 component: ka.snap
+(19:40:08) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:158 tps:19.77 component: interact.through
+(19:41:16) Fox_ failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:53 tps:19.91 component: bot.baritone
+(19:41:26) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:154 tps:19.97 component: interact.through
+(19:43:11) Fox_ failed Fly check | ground spoof | tag: fake air packet | loc: 488.107,59.0,-1588.618 (+4) | vl:4 ping:62 tps:19.94 component: fly.fg.air
+(19:43:51) Fox_ failed Fly check | vertical | val1: 0.1647732818260721 val2: 4 val3: -0.1552320045166016 (+8) | vl:8 ping:66 tps:19.07 component: fly.main
+(19:44:04) M3tty failed Speed check | faster than expected | t-a | 0.287 > 0.2873 | val: true (+9) | vl:9 ping:170 tps:20.0 component: speed.main
+(19:46:34) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.024323956221948606 b:6 c:5 d:-0.15233518685055708 (+4) | vl:4 ping:37 tps:20.0 component: fly.main
+(19:48:18) Dep3kiu_TpoJlb failed Fly check | ground spoof | tag: fake air packet | loc: -4985.3,67.0,1504.304 (+4) | vl:4 ping:0 tps:20.0 component: fly.fg.air
+(19:48:27) Fox_ failed Fly check | flight | tag:e | a:0.0030000000000001137 b:7 c:5 d:-0.15233518685055708 (+4) | vl:4 ping:60 tps:19.92 component: fly.main
+(19:48:34) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:16 tps:20.0 component: interact.through
+(19:49:05) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:68 tps:19.99 component: interact.through
+(19:49:39) Fox_ failed Fly check | ground spoof | tag: fake air packet | loc: 4484.501,62.0,6212.475 (+4) | vl:4 ping:59 tps:20.0 component: fly.fg.air
+(19:52:40) Fox_ failed HitBox check | angle (angle:113.2952356338501 ,reach: 2.294221260093909,sweep: false) (+0) | vl:0 ping:66 tps:20.0 component: hb.angle
+(19:53:22) M3tty failed Interact check | interact block through walls ,o=WOOD b=FURNACE (+1) | vl:1 ping:160 tps:20.0 component: interact.through
+(19:53:25) M3tty failed Interact check | interact block through walls ,o=FURNACE b=FURNACE (+1) | vl:2 ping:160 tps:20.0 component: interact.through
+(19:53:27) M3tty failed Interact check | interact block through walls ,o=WOOD b=FURNACE (+1) | vl:3 ping:160 tps:20.0 component: interact.through
+(19:53:31) M3tty failed Interact check | interact block through walls ,o=BURNING_FURNACE b=FURNACE (+1) | vl:4 ping:172 tps:19.99 component: interact.through
+(19:53:37) M3tty failed Interact check | interact block through walls ,o=FURNACE b=FURNACE (+1) | vl:5 ping:172 tps:19.97 component: interact.through
+(19:53:51) M3tty failed Interact check | interact block through walls ,o=STONE b=FURNACE (+1) | vl:1 ping:166 tps:20.0 component: interact.through
+(19:55:17) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:169 tps:20.0 component: interact.through
+(19:55:31) M3tty failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:2 ping:166 tps:20.0 component: interact.through
+(19:56:31) Fox_ failed Fly check | simple flight | tag:#4 | val1:false val2:0.033890786745502055 val3:-0.1552320045166016 val4:0 (+5) | vl:5 ping:59 tps:19.99 component: fly.main
+(19:56:31) Fox_ failed Fly check | ground spoof | tag: fake air packet | loc: -77.5,32.0,5229.5 (+4) | vl:9 ping:59 tps:19.99 component: fly.fg.air
+(19:56:39) Fox_ failed Interact check | interact block through walls ,o=FURNACE b=BURNING_FURNACE (+1) | vl:1 ping:59 tps:20.0 component: interact.through
+(19:56:39) Fox_ failed Interact check | interact block through walls ,o=FURNACE b=FURNACE (+1) | vl:2 ping:59 tps:20.0 component: interact.through
+(19:56:39) Fox_ failed Interact check | interact block through walls ,o=FURNACE b=FURNACE (+1) | vl:3 ping:59 tps:20.0 component: interact.through
+(19:56:53) Fox_ failed Speed check | sprint direction | move: 0.3175591741373513 angle: 447.8149223327637 (+5) | vl:5 ping:60 tps:19.99 component: speed.sprint
+(19:56:53) Fox_ failed KillAura check | snap | tag: b (+0) | vl:0 ping:60 tps:19.99 component: ka.snap
+(19:57:39) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:167 tps:19.99 component: interact.through
+(19:57:53) M3tty failed Interact check | interact block through walls ,o=FURNACE b=FURNACE (+1) | vl:2 ping:163 tps:20.0 component: interact.through
+(19:58:06) M3tty failed Interact check | interact block through walls ,o=STONE b=FURNACE (+1) | vl:3 ping:159 tps:19.98 component: interact.through
+(19:58:14) M3tty failed Interact check | interact block through walls ,o=WOOD b=FURNACE (+1) | vl:1 ping:159 tps:20.0 component: interact.through
+(19:58:17) M3tty failed Interact check | interact block through walls ,o=STONE b=FURNACE (+1) | vl:2 ping:156 tps:19.99 component: interact.through
+(19:58:28) M3tty failed Interact check | interact block through walls ,o=FURNACE b=FURNACE (+1) | vl:3 ping:156 tps:20.0 component: interact.through
+(19:58:40) M3tty failed Interact check | interact block through walls ,o=FURNACE b=CHEST (+1) | vl:1 ping:155 tps:19.99 component: interact.through
+(19:58:46) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:2 ping:153 tps:19.98 component: interact.through
+(20:00:23) Fox_ failed HitBox check | angle (angle:122.59775876998901 ,reach: 2.043074958336248,sweep: false) (+0) | vl:0 ping:60 tps:19.96 component: hb.angle
+(20:01:13) Fox_ failed Speed check | faster than expected | t-a | 0.287 > 0.2873 | val: true (+9) | vl:9 ping:59 tps:20.0 component: speed.main
+(20:01:48) Fox_ failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:82 tps:19.98 component: speed.main
+(20:02:40) Fox_ failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:77 tps:20.0 component: speed.main
+(20:03:27) Fox_ failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:69 tps:20.0 component: speed.main
+(20:03:29) Fox_ failed Speed check | faster than expected | t-a | 0.283 (+5) | vl:14 ping:69 tps:19.87 component: speed.ground
+(20:03:50) Fox_ failed Fly check | flight | tag:e | a:0.37870315946080524 b:11 c:5 d:-0.0784000015258789 (+4) | vl:4 ping:67 tps:19.99 component: fly.main
+(20:03:52) Fox_ failed Fly check | flight | tag:e | a:0.20326439933130303 b:9 c:5 d:-0.30153472366278034 (+4) | vl:8 ping:67 tps:19.99 component: fly.main
+(20:04:27) M3tty failed Interact check | interact block through walls ,o=NETHERRACK b=CHEST (+1) | vl:1 ping:156 tps:20.0 component: interact.through
+(20:04:31) Fox_ failed Fly check | ground spoof | tag: fake air packet | loc: -79.5,32.0,5240.5 (+4) | vl:4 ping:62 tps:20.0 component: fly.fg.air
+(20:04:34) M3tty failed Interact check | interact block through walls ,o=WOOD b=CHEST (+1) | vl:2 ping:156 tps:20.0 component: interact.through
+(20:05:05) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=COBBLESTONE b=CHEST (+1) | vl:1 ping:53 tps:19.96 component: interact.through
+(20:05:07) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:2 ping:53 tps:19.97 component: interact.through
+(20:05:16) Fox_ failed HitBox check | angle (angle:115.3181540966034 ,reach: 2.825281161800709,sweep: false) (+0) | vl:0 ping:59 tps:19.93 component: hb.angle
+(20:05:51) M3tty failed Chat check | send the same chat content (+1) | vl:1 ping:156 tps:20.0 component: chat.same
+(20:06:21) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.262 a:100 (+3) | vl:3 ping:648 tps:19.68 component: speed.noslow.limit
+(20:06:21) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.27 a:100 (+3) | vl:6 ping:648 tps:19.68 component: speed.noslow.limit
+(20:06:21) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.275 a:100 (+3) | vl:9 ping:648 tps:19.68 component: speed.noslow.limit
+(20:06:21) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.277 a:100 (+3) | vl:12 ping:648 tps:19.68 component: speed.noslow.limit
+(20:06:22) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.279 a:100 (+3) | vl:15 ping:648 tps:19.68 component: speed.noslow.limit
+(20:06:22) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.279 a:100 (+3) | vl:18 ping:648 tps:19.68 component: speed.noslow.limit
+(20:06:22) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.279 a:100 (+3) | vl:21 ping:648 tps:19.68 component: speed.noslow.limit
+(20:06:22) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.278 a:100 (+3) | vl:24 ping:648 tps:19.68 component: speed.noslow.limit
+(20:06:22) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.279 a:100 (+3) | vl:27 ping:648 tps:19.68 component: speed.noslow.limit
+(20:06:22) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.279 a:100 (+3) | vl:30 ping:648 tps:19.68 component: speed.noslow.limit
+(20:06:22) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.28 a:100 (+3) | vl:33 ping:648 tps:19.68 component: speed.noslow.limit
+(20:06:25) M3tty failed Chat check | send the same chat content (+1) | vl:1 ping:154 tps:19.74 component: chat.same
+(20:06:29) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.263 a:100 (+3) | vl:36 ping:792 tps:20.0 component: speed.noslow.limit
+(20:06:33) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.381 a:100 (+3) | vl:39 ping:792 tps:20.0 component: speed.noslow.limit
+(20:06:34) Fox_ failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:74 tps:19.76 component: speed.main
+(20:06:35) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.46 a:100 (+3) | vl:42 ping:792 tps:19.76 component: speed.noslow.limit
+(20:06:35) __Meythet__ failed Fly check | ground spoof | tag: fake air packet | loc: 4254.298,87.0,-2981.577 (+4) | vl:4 ping:792 tps:19.76 component: fly.fg.air
+(20:06:36) __Meythet__ failed Speed check | move no slow down while using/sneaking: m:0.572 a:100 (+3) | vl:45 ping:792 tps:19.76 component: speed.noslow.limit
+(20:06:36) __Meythet__ failed Fly check | vertical | val1: 0.1647732818260721 val2: 4 val3: -0.22768848754498797 (+8) | vl:12 ping:792 tps:19.76 component: fly.main
+(20:06:57) __Meythet__ failed FastUse check | fast use (+0) | vl:0 ping:477 tps:19.99 component: fastuse
+(20:07:43) __Meythet__ failed Speed check | faster than expected | t-d | move: 0.408 mv: 0.09375 (+7) | vl:7 ping:323 tps:19.99 component: speed.main
+(20:07:51) __Meythet__ failed Speed check | faster than expected | t-d | move: 0.313 mv: 0.09375 (+7) | vl:14 ping:323 tps:19.99 component: speed.main
+(20:08:55) Fox_ failed HitBox check | angle (angle:153.38609218597412 ,reach: 2.834404890127655,sweep: false) (+0) | vl:0 ping:85 tps:19.99 component: hb.angle
+(20:08:56) Fox_ failed HitBox check | angle (angle:131.43510818481445 ,reach: 5.515732082267013,sweep: false) (+0) | vl:0 ping:85 tps:19.99 component: hb.angle
+(20:09:10) M3tty failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:258 tps:20.0 component: speed.main
+(20:09:24) __Meythet__ failed Speed check | faster than expected | t-a | 0.479 > 0.2873 | val: true (+9) | vl:9 ping:336 tps:19.98 component: speed.main
+(20:09:34) __Meythet__ failed FastHeal check | regen health too fast | difficulty: 3 delay: 164 protocol_ver: 12 (+0) | vl:0 ping:266 tps:19.99 component: heal
+(20:09:38) M3tty failed FastUse check | fast use (+0) | vl:0 ping:211 tps:20.0 component: fastuse
+(20:10:44) Fox_ failed Speed check | faster than expected | t-a | 0.286 (+5) | vl:5 ping:79 tps:20.0 component: speed.ground
+(20:10:51) Dep3kiu_TpoJlb failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:64 tps:19.96 component: bot.baritone
+(20:12:21) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:61 tps:19.97 component: interact.through
+(20:12:23) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=COBBLESTONE b=CHEST (+1) | vl:2 ping:61 tps:20.0 component: interact.through
+(20:14:16) Dep3kiu_TpoJlb failed Fly check | simple flight | tag:#4 | val1:false val2:0.08300723439376156 val3:-0.15233518685055708 val4:0 (+5) | vl:5 ping:55 tps:19.98 component: fly.main
+(20:16:21) Fox_ failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:63 tps:19.97 component: speed.main
+(20:16:25) M3tty failed Interact check | interact block through walls ,o=COBBLESTONE b=CHEST (+1) | vl:1 ping:154 tps:19.79 component: interact.through
+(20:16:48) Fox_ failed Fly check | flight | tag:e | a:0.003016261509046103 b:12 c:5 d:-0.07544406518948656 (+4) | vl:4 ping:61 tps:19.89 component: fly.main
+(20:18:30) M3tty failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:157 tps:19.99 component: speed.main
+(20:19:40) Fox_ failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:61 tps:19.95 component: bot.baritone
+(20:19:40) Fox_ failed AutoBot check | bot like actions | like: baritone (+2) | vl:4 ping:61 tps:19.95 component: bot.baritone
+(20:19:43) Fox_ failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:61 tps:20.0 component: bot.baritone
+(20:19:43) Fox_ failed AutoBot check | bot like actions | like: baritone (+2) | vl:4 ping:61 tps:20.0 component: bot.baritone
+(20:20:00) M3tty failed FastUse check | fast use (+0) | vl:0 ping:155 tps:19.99 component: fastuse
+(20:20:15) Dep3kiu_TpoJlb failed Fly check | ground spoof | tag: fake air packet | loc: -4385.5,72.0,-2506.5 (+4) | vl:4 ping:64 tps:20.0 component: fly.fg.air
+(20:20:22) Fox_ failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:60 tps:19.97 component: bot.baritone
+(20:20:33) Dep3kiu_TpoJlb failed HitBox check | angle (angle:91.55449032783508 ,reach: 2.3810184729408808,sweep: false) (+0) | vl:0 ping:62 tps:20.0 component: hb.angle
+(20:20:35) Dep3kiu_TpoJlb failed HitBox check | angle (angle:103.5307788848877 ,reach: 2.4561801623995274,sweep: false) (+0) | vl:0 ping:62 tps:19.95 component: hb.angle
+(20:20:36) Fox_ failed HitBox check | angle (angle:164.74243640899658 ,reach: 3.1608973505234035,sweep: false) (+0) | vl:0 ping:59 tps:19.99 component: hb.angle
+(20:20:36) Dep3kiu_TpoJlb failed HitBox check | angle (angle:130.0089454650879 ,reach: 3.7006580730548673,sweep: false) (+0) | vl:0 ping:62 tps:19.99 component: hb.angle
+(20:20:38) M3tty failed Chat check | send the same chat content (+1) | vl:1 ping:157 tps:19.92 component: chat.same
+(20:21:09) M3tty failed Chat check | send the same chat content (+1) | vl:1 ping:157 tps:19.99 component: chat.same
+(20:21:15) M3tty failed FastUse check | fast use (+0) | vl:0 ping:157 tps:19.96 component: fastuse
+(20:22:16) Dep3kiu_TpoJlb failed Speed check | t:sneak a (+2) | vl:2 ping:63 tps:19.96 component: speed.noslow.a
+(20:22:17) M3tty failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:159 tps:19.96 component: bot.baritone
+(20:26:18) Fox_ failed HitBox check | angle (angle:105.40963411331177 ,reach: 3.4703956581276376,sweep: false) (+0) | vl:0 ping:60 tps:19.98 component: hb.angle
+(20:26:25) Dep3kiu_TpoJlb failed Inventory check | inventory move | simple (+2) | vl:2 ping:74 tps:20.0 component: inv.move
+(20:28:11) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:0 tps:19.94 component: speed.spin
+(20:29:02) Artiko123 failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:54 tps:19.99 component: bot.baritone
+(20:30:46) M3tty failed Chat check | send the same chat content (+1) | vl:1 ping:184 tps:20.0 component: chat.same
+(20:32:41) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:60 tps:20.0 component: speed.spin
+(20:33:14) M3tty failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:162 tps:19.97 component: bot.baritone
+(20:33:17) Artiko123 failed Speed check | faster than expected | t-a | 0.232 (+5) | vl:5 ping:62 tps:19.99 component: speed.ground
+(20:33:58) Dep3kiu_TpoJlb failed Speed check | faster than expected | t-a | 0.48 > 0.2873 | val: true (+9) | vl:9 ping:63 tps:20.0 component: speed.main
+(20:35:04) Fox_ failed Speed check | faster than expected | t-a | 0.28 (+5) | vl:5 ping:59 tps:19.93 component: speed.ground
+(20:35:06) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=LOG b=CHEST (+1) | vl:1 ping:65 tps:20.0 component: interact.through
+(20:35:20) M3tty failed FastUse check | fast use (+0) | vl:0 ping:180 tps:19.97 component: fastuse
+(20:35:24) M3tty failed FastBow check | fast bow (+0) | vl:0 ping:180 tps:19.97 component: fastbow
+(20:35:32) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:65 tps:20.0 component: interact.through
+(20:35:53) M3tty failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:198 tps:20.0 component: bot.baritone
+(20:36:12) Fox_ failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.1552320045166016 ~ -0.07840000152587834 ~ 42.09375 (+5) | vl:5 ping:58 tps:19.99 component: jesus.solid
+(20:36:52) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.1647732818260721 b:10 c:5 d:-0.30431682745754424 (+4) | vl:4 ping:66 tps:19.98 component: fly.main
+(20:36:52) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.08307781780646906 b:11 c:5 d:-0.37663049823865513 (+4) | vl:8 ping:66 tps:19.98 component: fly.main
+(20:36:52) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.003016261509046103 b:12 c:5 d:-0.6517088341626173 (+4) | vl:12 ping:66 tps:19.98 component: fly.main
+(20:36:58) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.1647732818260721 b:12 c:5 d:-0.30431682745754424 (+4) | vl:16 ping:66 tps:19.97 component: fly.main
+(20:36:59) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.08307781780646906 b:12 c:5 d:-0.37663049823865513 (+4) | vl:20 ping:66 tps:19.97 component: fly.main
+(20:36:59) Artiko123 failed Speed check | faster than expected | t-a | 0.28 (+5) | vl:5 ping:60 tps:19.97 component: speed.ground
+(20:37:06) Dep3kiu_TpoJlb failed Fly check | simple flight | tag:#1 | val1:false val2:0.1647732818260721 val3:-0.44749789698341763 val4:0 (+5) | vl:25 ping:66 tps:20.0 component: fly.main
+(20:37:06) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.1647732818260721 b:12 c:5 d:-0.44749789698341763 (+4) | vl:29 ping:66 tps:20.0 component: fly.main
+(20:37:06) Dep3kiu_TpoJlb failed Fly check | simple flight | tag:#1 | val1:false val2:0.08307781780646906 val3:-0.5169479491049732 val4:0 (+5) | vl:34 ping:66 tps:20.0 component: fly.main
+(20:37:06) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.08307781780646906 b:12 c:5 d:-0.5169479491049732 (+4) | vl:38 ping:66 tps:20.0 component: fly.main
+(20:37:06) Dep3kiu_TpoJlb failed Fly check | simple flight | tag:#1 | val1:false val2:0.003016261509046103 val3:-0.5850090015087522 val4:0 (+5) | vl:43 ping:66 tps:20.0 component: fly.main
+(20:37:06) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.003016261509046103 b:12 c:5 d:-0.5850090015087522 (+4) | vl:47 ping:66 tps:20.0 component: fly.main
+(20:37:29) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.1647732818260721 b:12 c:5 d:-0.30431682745754424 (+4) | vl:11 ping:63 tps:20.0 component: fly.main
+(20:37:29) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.08307781780646906 b:12 c:5 d:-0.30431682745754424 (+4) | vl:15 ping:63 tps:20.0 component: fly.main
+(20:37:41) Dep3kiu_TpoJlb failed Fly check | simple flight | tag:#1 | val1:false val2:0.1647732818260721 val3:-0.44749789698341763 val4:0 (+5) | vl:20 ping:61 tps:19.93 component: fly.main
+(20:37:41) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.1647732818260721 b:12 c:5 d:-0.44749789698341763 (+4) | vl:24 ping:61 tps:19.93 component: fly.main
+(20:37:41) Dep3kiu_TpoJlb failed Fly check | simple flight | tag:#1 | val1:false val2:0.08307781780646906 val3:-0.44749789698341763 val4:0 (+5) | vl:29 ping:61 tps:19.93 component: fly.main
+(20:37:41) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.08307781780646906 b:12 c:5 d:-0.44749789698341763 (+4) | vl:33 ping:61 tps:19.93 component: fly.main
+(20:37:45) Dep3kiu_TpoJlb failed Fly check | simple flight | tag:#1 | val1:false val2:0.1647732818260721 val3:-0.44749789698341763 val4:0 (+5) | vl:5 ping:61 tps:20.0 component: fly.main
+(20:37:45) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.1647732818260721 b:12 c:5 d:-0.44749789698341763 (+4) | vl:9 ping:61 tps:20.0 component: fly.main
+(20:37:45) Dep3kiu_TpoJlb failed Fly check | simple flight | tag:#1 | val1:false val2:0.08307781780646906 val3:-0.5169479491049732 val4:0 (+5) | vl:14 ping:61 tps:20.0 component: fly.main
+(20:37:45) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.08307781780646906 b:12 c:5 d:-0.5169479491049732 (+4) | vl:18 ping:61 tps:20.0 component: fly.main
+(20:37:48) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.1647732818260721 b:8 c:5 d:-0.30431682745754424 (+4) | vl:22 ping:61 tps:19.99 component: fly.main
+(20:37:48) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.08307781780646906 b:9 c:5 d:-0.37663049823865513 (+4) | vl:26 ping:61 tps:19.99 component: fly.main
+(20:37:53) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.1647732818260721 b:12 c:5 d:-0.30431682745754424 (+4) | vl:30 ping:61 tps:20.0 component: fly.main
+(20:37:53) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.08307781780646906 b:12 c:5 d:-0.37663049823865513 (+4) | vl:34 ping:61 tps:20.0 component: fly.main
+(20:37:53) Dep3kiu_TpoJlb failed Fly check | flight | tag:e | a:0.003016261509046103 b:12 c:5 d:-0.44749789698341763 (+4) | vl:38 ping:61 tps:20.0 component: fly.main
+(20:38:00) MaksUCU failed Chat check | send the same chat content (+1) | vl:1 ping:22 tps:20.0 component: chat.same
+(20:38:14) Fox_ failed Speed check | faster than expected | t-a | 0.222 (+5) | vl:5 ping:59 tps:20.0 component: speed.ground
+(20:38:20) Dep3kiu_TpoJlb failed Fly check | fast fall | var1:0.30424999999999613 var2:0.30424999999999613 (+5) | vl:5 ping:59 tps:19.99 component: fly.fastfall
+(20:38:56) MaksUCU failed Speed check | faster than expected | t-f | mv: 0.08307781780646906 (+3) | vl:3 ping:39 tps:19.96 component: speed.main
+(20:42:03) MemasGelya failed Chat check | send the same chat content (+1) | vl:1 ping:130 tps:19.97 component: chat.same
+(20:42:30) Fox_ failed FastUse check | fast use (+0) | vl:0 ping:57 tps:20.0 component: fastuse
+(20:47:08) Artiko123 failed Fly check | simple flight | tag:#4 | val1:false val2:0.033890786745502055 val3:-0.1552320045166016 val4:0 (+5) | vl:5 ping:52 tps:19.99 component: fly.main
+(20:49:06) Artiko123 failed Speed check | move no slow down while using/sneaking: m:0.137 a:100 (+3) | vl:3 ping:31 tps:20.0 component: speed.noslow.limit
+(20:51:11) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:145 tps:19.95 component: interact.through
+(20:51:13) KeroCiN failed KillAura check | auto block (+4) | vl:4 ping:0 tps:19.88 component: ka.ab
+(20:51:13) KeroCiN failed Speed check | faster than expected | t-a | 0.585 (+5) | vl:5 ping:0 tps:19.88 component: speed.ground
+(20:51:16) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:145 tps:19.97 component: interact.through
+(20:51:17) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:2 ping:145 tps:19.97 component: interact.through
+(20:51:17) MaksUCU failed Speed check | sprint direction | move: 0.22570757433457939 angle: 343.34588527679443 (+5) | vl:5 ping:12 tps:19.97 component: speed.sprint
+(20:51:22) M3tty failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:3 ping:171 tps:19.44 component: interact.through
+(20:51:35) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:50 tps:19.98 component: interact.through
+(20:51:48) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:51 tps:20.0 component: interact.through
+(20:51:49) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:2 ping:51 tps:20.0 component: interact.through
+(20:52:25) MaksUCU failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:43 tps:19.98 component: speed.main
+(20:54:11) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:46 tps:20.0 component: fastuse
+(20:55:13) MaksUCU failed Speed check | sprint direction | move: 0.2100474180805846 angle: 327.37659215927124 (+5) | vl:5 ping:63 tps:19.86 component: speed.sprint
+(20:56:20) M3tty failed Fly check | step | p:2 | val: 0.4020261163794743 (+7) | vl:7 ping:157 tps:19.96 component: speed.step
+(20:57:22) M3tty failed Elytra check | move unexpected: 0.285 -> -0.2 / pb (+2) | vl:2 ping:148 tps:20.0 component: elytra.y
+(20:57:22) M3tty failed Elytra check | move unexpected: 0.401 -> -0.145 / pb (+2) | vl:4 ping:148 tps:20.0 component: elytra.y
+(20:57:24) M3tty failed Elytra check | move unexpected: 0.023 -> -0.128 / pb (+2) | vl:6 ping:148 tps:19.99 component: elytra.y
+(20:57:37) M3tty failed Elytra check | move faster than expect | tag: pt-st-s | s: 61 | move: 0.705 expect: 0.338 (+1) | vl:7 ping:308 tps:20.0 component: elytra.xz
+(20:57:39) M3tty failed Fly check | step | p:2 | val: 0.4665471819243976 (+7) | vl:7 ping:308 tps:19.97 component: speed.step
+(20:58:26) M3tty failed FastUse check | fast use (+0) | vl:0 ping:236 tps:19.97 component: fastuse
+(20:58:34) MemasGelya failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:129 tps:19.95 component: interact.through
+(20:59:03) MemasGelya failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:129 tps:20.0 component: interact.through
+(20:59:16) MemasGelya failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:129 tps:19.98 component: interact.through
+(20:59:16) M3tty failed FastUse check | fast use (+0) | vl:0 ping:195 tps:20.0 component: fastuse
+(20:59:31) Artiko123 failed Speed check | sprint direction | move: 0.2835540911364195 angle: 483.33457946777344 (+5) | vl:5 ping:93 tps:20.0 component: speed.sprint
+(21:00:11) M3tty failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:163 tps:20.0 component: bot.baritone
+(21:02:42) M3tty failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:211 tps:19.99 component: bot.baritone
+(21:03:29) M3tty failed Inventory check | inventory move | simple (+2) | vl:2 ping:172 tps:19.96 component: inv.move
+(21:03:29) M3tty failed Inventory check | inventory move | simple (+2) | vl:4 ping:172 tps:19.96 component: inv.move
+(21:03:29) M3tty failed Inventory check | inventory move | simple (+2) | vl:6 ping:172 tps:19.96 component: inv.move
+(21:03:50) M3tty failed Interact check | interact block through walls ,o=COBBLESTONE b=CHEST (+1) | vl:1 ping:165 tps:20.0 component: interact.through
+(21:04:05) MemasGelya failed Fly check | ground spoof | tag: fake air packet | loc: -5362.034,46.0,5801.338 (+4) | vl:4 ping:128 tps:19.99 component: fly.fg.air
+(21:05:39) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:138 tps:19.97 component: fastuse
+(21:06:53) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:83 tps:20.0 component: interact.through
+(21:07:14) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:75 tps:19.96 component: interact.through
+(21:07:38) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:2 ping:67 tps:20.0 component: interact.through
+(21:09:30) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:151 tps:19.99 component: fastuse
+(21:09:40) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:57 tps:20.0 component: interact.through
+(21:12:17) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:65 tps:19.99 component: interact.through
+(21:12:24) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:2 ping:63 tps:19.96 component: interact.through
+(21:12:26) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:3 ping:63 tps:19.99 component: interact.through
+(21:12:35) __Meythet__ failed Speed check | faster than expected | t-a | 0.23 (+5) | vl:5 ping:268 tps:20.0 component: speed.ground
+(21:12:42) __Meythet__ failed Fly check | vertical | val1: 0.4641593749554431 val2: 3 val3: -0.0784000015258789 (+8) | vl:8 ping:215 tps:19.99 component: fly.main
+(21:12:49) MemasGelya failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:135 tps:19.96 component: interact.through
+(21:15:10) MemasGelya failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:130 tps:20.0 component: interact.through
+(21:16:30) Artiko123 failed Speed check | faster than expected | t-a | 0.481 > 0.2873 | val: true (+9) | vl:9 ping:54 tps:20.0 component: speed.main
+(21:16:44) __Meythet__ failed Speed check | faster than expected | t-a | 0.475 > 0.2873 | val: true (+9) | vl:9 ping:227 tps:19.7 component: speed.main
+(21:16:52) __Meythet__ failed Speed check | t: spin (+1) | vl:10 ping:227 tps:19.99 component: speed.spin
+(21:17:47) MemasGelya failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:144 tps:19.96 component: bot.baritone
+(21:17:49) __Meythet__ failed FastUse check | fast use (+0) | vl:0 ping:121 tps:20.0 component: fastuse
+(21:19:23) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:102 tps:19.97 component: interact.through
+(21:19:25) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:2 ping:102 tps:20.0 component: interact.through
+(21:19:45) Artiko123 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:90 tps:19.69 component: interact.through
+(21:20:05) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:129 tps:19.99 component: fastuse
+(21:21:04) Artiko123 failed Speed check | t: spin (+1) | vl:1 ping:68 tps:19.99 component: speed.spin
+(21:21:07) Artiko123 failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:68 tps:19.89 component: bot.baritone
+(21:22:58) Artiko123 failed AutoBot check | bot like actions | like: baritone (+2) | vl:2 ping:57 tps:20.0 component: bot.baritone
+(21:23:03) Artiko123 failed Interact check | interact block through walls ,o=CONCRETE b=CHEST (+1) | vl:1 ping:57 tps:19.95 component: interact.through
+(21:23:38) MemasGelya failed Speed check | teleport move (+25) | vl:25 ping:129 tps:19.99 component: speed.tp
+(21:23:38) MemasGelya failed Speed check | faster than expected | t-e | 5234.326 > 0.365 | tag: a (+20) | vl:45 ping:129 tps:19.99 component: speed.main
+(21:23:38) MemasGelya failed Speed check | faster than expected | t-e | a: 5234.326 c: 12 lm: 0.10862172296252444 | tag: d (+15) | vl:60 ping:129 tps:19.99 component: speed.main
+(21:24:20) __Meythet__ failed FastUse check | fast use (+0) | vl:0 ping:254 tps:19.99 component: fastuse
+(21:24:41) __Meythet__ failed Speed check | faster than expected | t-a | 0.396 > 0.2873 | val: false (+9) | vl:9 ping:1585 tps:19.99 component: speed.main
+(21:24:46) __Meythet__ failed FastUse check | fast use (+0) | vl:0 ping:1585 tps:20.0 component: fastuse
+(21:25:04) __Meythet__ failed FastUse check | fast use (+0) | vl:0 ping:1208 tps:20.0 component: fastuse
+(21:26:00) __Meythet__ failed FastUse check | fast use (+0) | vl:0 ping:423 tps:19.99 component: fastuse
+(21:27:02) Artiko123 failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:1 ping:55 tps:19.74 component: interact.through
+(21:28:52) MemasGelya failed Interact check | interact block through walls ,o=IRON_ORE b=CHEST (+1) | vl:1 ping:131 tps:20.0 component: interact.through
+(21:32:20) __Meythet__ failed Speed check | t: spin (+1) | vl:1 ping:417 tps:20.0 component: speed.spin
+(21:32:41) MemasGelya failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:1 ping:124 tps:19.93 component: interact.through
+(21:32:50) MemasGelya failed Inventory check | inventory move | simple (+2) | vl:2 ping:141 tps:19.94 component: inv.move
+(21:33:11) __Meythet__ failed Interact check | liquid (+1) | vl:1 ping:574 tps:19.98 component: interact.liquid
+(21:34:07) __Meythet__ failed FastUse check | fast use (+0) | vl:0 ping:398 tps:19.85 component: fastuse
+(21:34:16) __Meythet__ failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:314 tps:19.99 component: interact.through
+(21:39:59) __Meythet__ failed Speed check | t: spin (+1) | vl:1 ping:71 tps:19.99 component: speed.spin
+(21:48:12) __Meythet__ failed Inventory check | inventory move | simple (+2) | vl:2 ping:85 tps:20.0 component: inv.move
+(21:48:12) __Meythet__ failed Inventory check | inventory move | simple (+2) | vl:4 ping:85 tps:20.0 component: inv.move
+(21:48:12) __Meythet__ failed Inventory check | inventory move | simple (+2) | vl:6 ping:85 tps:20.0 component: inv.move
+(21:48:12) __Meythet__ failed Inventory check | inventory move | simple (+2) | vl:8 ping:85 tps:20.0 component: inv.move
+(21:48:12) __Meythet__ failed Inventory check | inventory move | simple (+2) | vl:10 ping:85 tps:20.0 component: inv.move
+(21:48:12) __Meythet__ failed Inventory check | inventory move | simple (+2) | vl:12 ping:85 tps:20.0 component: inv.move
+(21:52:00) __Meythet__ failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:236 tps:19.9 component: interact.through
+(21:59:46) __Meythet__ failed Interact check | interact block through walls ,o=STONE b=FURNACE (+1) | vl:1 ping:1305 tps:19.97 component: interact.through
+(21:59:47) __Meythet__ failed Interact check | interact block through walls ,o=STONE b=FURNACE (+1) | vl:2 ping:1305 tps:19.83 component: interact.through
+(21:59:48) __Meythet__ failed Interact check | interact block through walls ,o=STONE b=FURNACE (+1) | vl:1 ping:1305 tps:19.83 component: interact.through
+(22:00:25) __Meythet__ failed Jesus check | jesus | pattern: st (+3) | vl:3 ping:758 tps:20.0 component: jesus.st
+(22:00:39) __Meythet__ failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:658 tps:20.0 component: interact.through
+(22:03:33) MaksUCU failed Fly check | ground spoof | tag: fake air packet | loc: 1528.442,67.0,2367.387 (+4) | vl:4 ping:42 tps:19.93 component: fly.fg.air
+(22:03:33) MaksUCU failed Fly check | ground spoof | tag: fake air packet | loc: 1528.423,67.0,2367.399 (+4) | vl:8 ping:42 tps:20.0 component: fly.fg.air
+(22:03:34) MaksUCU failed Fly check | ground spoof | tag: fake air packet | loc: 1528.5,67.0,2367.5 (+4) | vl:12 ping:42 tps:20.0 component: fly.fg.air
+(22:04:13) MaksUCU failed Speed check | faster than expected | t-a | 0.556 (+5) | vl:5 ping:51 tps:20.0 component: speed.ground
+(22:04:13) MaksUCU failed Fly check | fast fall | var1:1 var2:0.41999998688697815 (+10) | vl:10 ping:51 tps:20.0 component: fly.fastfall
+(22:05:36) __Meythet__ failed FastUse check | fast use (+0) | vl:0 ping:544 tps:20.0 component: fastuse
+(22:13:29) MemasGelya failed Inventory check | inventory move | simple (+2) | vl:2 ping:139 tps:19.98 component: inv.move
+(22:15:50) MemasGelya failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:137 tps:19.99 component: interact.through
+(22:20:42) MaksUCU failed Speed check | t: spin (+1) | vl:1 ping:0 tps:19.97 component: speed.spin
+(22:23:43) MaksUCU failed Fly check | ground spoof | tag: fake air packet | loc: 100.0,49.0,0.0 (+4) | vl:4 ping:54 tps:19.96 component: fly.fg.air
+(22:24:31) MaksUCU failed Speed check | faster than expected | t-a | 0.287 > 0.2873 | val: true (+9) | vl:9 ping:51 tps:20.0 component: speed.main
+(22:27:33) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:46 tps:20.0 component: fastuse
+(22:30:19) Fox_ failed Fly check | ground spoof | tag: fake air packet | loc: -4920.3,42.0,1566.3 (+4) | vl:4 ping:0 tps:19.9 component: fly.fg.air
+(23:12:17) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:54 tps:19.94 component: fastuse
+(23:13:40) Matrix Enabled!
+(23:13:40) Version: 2.1.2
+(23:14:32) MaksUCU failed Chat check | send the same chat content (+1) | vl:1 ping:22 tps:19.95 component: chat.same
+(23:16:34) MaksUCU failed Jesus check | liquid speed | 0.124 >- 0.12 | d: false (+3) | vl:3 ping:51 tps:19.96 component: jesus.speed.in
+(23:22:05) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:54 tps:20.0 component: fastuse
+(23:25:32) MaksUCU failed Speed check | faster than expected | t-e | a: 0.287 c: 12 lm: 0.2871576534430574 | tag: d (+15) | vl:15 ping:55 tps:20.0 component: speed.main
+(23:25:32) MaksUCU failed Speed check | faster than expected | t-e | a: 0.287 c: 12 lm: 0.2873121633363594 | tag: d (+15) | vl:30 ping:55 tps:20.0 component: speed.main
+(23:25:32) MaksUCU failed Speed check | faster than expected | t-e | a: 0.288 c: 12 lm: 0.28745299307970756 | tag: d (+15) | vl:45 ping:55 tps:20.0 component: speed.main
+(23:25:36) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:53 tps:19.79 component: fastuse
+(23:26:38) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:53 tps:19.93 component: fastuse
+(23:26:46) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:53 tps:19.99 component: fastuse
+(23:28:07) MaksUCU failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:9 ping:53 tps:20.0 component: speed.main
+(23:32:06) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:91 tps:19.98 component: fastuse
+(23:34:27) MaksUCU failed FastUse check | fast use (+0) | vl:0 ping:59 tps:20.0 component: fastuse
+(23:39:31) velvet failed Fly check | ground spoof | tag: fake air packet | loc: 4801.972,19.0,597.347 (+4) | vl:4 ping:63 tps:19.97 component: fly.fg.air
+(23:39:46) velvet failed Speed check | faster than expected | t-a | 0.3 > 0.2873 | val: true (+9) | vl:9 ping:66 tps:19.97 component: speed.main
+(23:39:46) velvet failed Speed check | faster than expected | t-a | 0.291 > 0.2873 | val: true (+9) | vl:18 ping:66 tps:19.97 component: speed.main
+(23:51:54) velvet failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.1213309316176942 ~ 0.03999999910593033 ~ 60.320890316472514 (+5) | vl:5 ping:67 tps:19.98 component: jesus.solid
+(23:51:54) velvet failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.11706474674053279 ~ 0.051999998867515274 ~ 60.360890315578445 (+5) | vl:10 ping:67 tps:19.98 component: jesus.solid
+(23:51:54) velvet failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.11365179878794676 ~ 0.06159999881982969 ~ 60.41289031444596 (+5) | vl:15 ping:67 tps:19.98 component: jesus.solid
+(23:51:54) velvet failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.11092144038519243 ~ 0.06927999889612124 ~ 60.47449031326579 (+5) | vl:20 ping:67 tps:19.98 component: jesus.solid
+(23:51:54) velvet failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.10873715363044056 ~ 0.07542399904870933 ~ 60.54377031216191 (+5) | vl:25 ping:67 tps:19.98 component: jesus.solid
+(23:52:09) velvet failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.10000000596083809 ~ -0.12627200264358862 ~ 60.407404586151706 (+5) | vl:5 ping:0 tps:19.94 component: jesus.solid
+(23:52:09) velvet failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.10000000596083809 ~ -0.07378560205421536 ~ 60.28113258350812 (+5) | vl:10 ping:0 tps:19.94 component: jesus.solid
+(23:52:09) velvet failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.10000000596083809 ~ -0.0790284825229648 ~ 60.2073469814539 (+5) | vl:15 ping:0 tps:19.94 component: jesus.solid
+(23:52:09) velvet failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.10000000596083809 ~ -0.08322278696046226 ~ 60.12831849893094 (+5) | vl:20 ping:0 tps:19.94 component: jesus.solid
+(23:52:09) velvet failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.10000000596070373 ~ -0.08657823056046254 ~ 60.045095711970475 (+5) | vl:25 ping:0 tps:20.0 component: jesus.solid
+(23:52:14) Donbicon_ failed KillAura check | attack accuracy | accuracy: 87.5 , var: 514 (+20) | vl:20 ping:41 tps:19.96 component: ka.accuracy
+(23:52:18) Donbicon_ failed KillAura check | attack accuracy | accuracy: 77.77778 , var: 942 (+20) | vl:30 ping:49 tps:19.94 component: ka.accuracy
+(23:54:37) MaksUCU failed Fly check | ground spoof | tag: fake air packet | loc: 100.0,49.0,0.0 (+4) | vl:4 ping:0 tps:19.9 component: fly.fg.air

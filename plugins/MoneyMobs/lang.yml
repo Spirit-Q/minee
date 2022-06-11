@@ -1,0 +1,10 @@
+money-item-name: '&e$%money%'
+pickup-money: '&7&l<&f&l!&7&l> &7Вы подобрали &e$%money%&7!'
+no-permission: '&7&l<&f&l!&7&l> &7У вас недостаточно прав!'
+reloaded: '&7&l<&f&l!&7&l> &7Вы перезапустили плагин &dMoneyMobs.'
+player-drop-money: '&7&l<&f&l!&7&l> &7Вы были убиты игроком &e%killer%&7, и он забрал
+  у вас &e$%money%'
+proper-drop-cmd: '&b/moneymobs drop <кол-во>'
+dropped-money-cmd: '&aYou dropped %amount% at your location!'
+not-a-valid: '&cPlease enter a valid %object%!'
+pickup-negative-money: '&7&l<&f&l!&7&l> &7Вы потеряли &e$%money%&7!'

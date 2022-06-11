@@ -1,0 +1,21 @@
+(01:42:55) Matrix Enabled!
+(01:42:55) Version: 2.4.4
+(01:43:34) Matrix Enabled!
+(01:43:34) Version: 2.4.4
+(01:44:12) Matrix Enabled!
+(01:44:12) Version: 2.4.4
+(01:44:59) Matrix Enabled!
+(01:44:59) Version: 2.4.4
+(01:52:25) wither failed Fly check | ground spoof | tag: fake air packet | at: -191.297,71.0,-1081.355 t: -191.5,71.0,-1081.5 (+7) | vl:7 ping:758 tps:20.0 component: fly.fg.air
+(01:52:26) wither failed Speed check | suspicious movement:0.476 expect:0.315 predict:0.27277118508358095 fr:0.6 tag:ec (+10) | vl:15 ping:758 tps:20.0 component: speed.main
+(01:52:26) wither failed Speed check | suspicious movement:0.476 expect:0.40499999999999997 predict:0.27277118508358095 fr:0.6 tag:ea (+5) | vl:5 ping:758 tps:20.0 component: speed.main
+(01:52:26) wither failed Speed check | suspicious movement:0.585 expect:0.40499999999999997 predict:0.28380497888837114 fr:0.6 tag:ea (+5) | vl:20 ping:758 tps:20.0 component: speed.main
+(01:52:26) wither failed Speed check | suspicious movement:0.585 ar_t:12 lm:0.284 tag:ed (+15) | vl:35 ping:758 tps:20.0 component: speed.main
+(01:52:42) wither failed Speed check | suspicious movement:0.477 expect:0.40499999999999997 predict:0.2747765599242893 fr:0.6 tag:ea (+5) | vl:5 ping:577 tps:20.0 component: speed.main
+(01:52:42) wither failed Speed check | suspicious movement:0.477 ar_t:12 lm:0.274 tag:ed (+15) | vl:20 ping:577 tps:20.0 component: speed.main
+(01:52:43) wither failed Fly check | ground spoof | tag: fake air packet | at: -191.543,71.0,-1081.767 t: -191.5,71.0,-1081.5 (+7) | vl:7 ping:577 tps:20.0 component: fly.fg.air
+(01:52:45) wither failed Fly check | ground spoof | tag: fake air packet | at: -191.34,71.0,-1081.899 t: -191.5,71.0,-1081.5 (+7) | vl:14 ping:577 tps:20.0 component: fly.fg.air
+(02:04:32) Matrix Enabled!
+(02:04:32) Version: 2.4.4
+(10:41:38) Matrix Enabled!
+(10:41:38) Version: 2.4.4

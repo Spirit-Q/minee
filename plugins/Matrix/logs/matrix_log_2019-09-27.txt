@@ -1,0 +1,388 @@
+(02:00:44) Matrix Enabled!
+(02:00:44) Version: 2.4.4
+(10:52:16) Matrix Enabled!
+(10:52:16) Version: 2.4.4
+(11:02:32) Matrix Enabled!
+(11:02:32) Version: 2.4.4
+(12:38:57) Oldnan failed Fly check | ground spoof | tag: ai-wl | loc: -156.552,71.0,-1029.371 v:-0.155 (+5) | vl:5 ping:44 tps:20.0 component: fly.fg.wl
+(12:58:59) Tankbenz failed Chat check | send the same chat content (+1) | vl:1 ping:63 tps:20.0 component: chat.same
+(12:59:08) Tankbenz failed Chat check | send the same chat content (+1) | vl:1 ping:63 tps:20.0 component: chat.same
+(12:59:13) Tankbenz failed Chat check | send the same chat content (+1) | vl:2 ping:88 tps:19.96 component: chat.same
+(14:25:54) LilPeep failed Fly check | suspicious movement:-0.155 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:++ tag:gn (+5) | vl:5 ping:43 tps:20.0 component: fly.main
+(14:39:01) LilPeep failed Speed check | move no slow down while using/sneaking: m:0.36 a:13 (+4) | vl:4 ping:21 tps:20.0 component: speed.noslow.limit
+(14:40:00) LilPeep failed Fly check | ground spoof | tag: ai-wl | loc: -215.655,71.0,-1040.543 v:-0.155 (+5) | vl:5 ping:37 tps:19.95 component: fly.fg.wl
+(14:41:19) LilPeep failed Speed check | suspicious movement:0.489 expect:0.469 predict:0.26637501144323805 gt:1 fr:0.6 tag:b (+8) | vl:8 ping:47 tps:20.0 component: speed.main
+(15:37:58) WerTual failed Speed check | teleport move (+25) | vl:25 ping:35 tps:20.0 component: speed.tp
+(15:37:58) WerTual failed Speed check | suspicious movement:10.355 expect:0.40499999999999997 predict:0.21719305889462226 fr:0.6 tag:ea (+20) | vl:45 ping:35 tps:20.0 component: speed.main
+(15:40:08) WerTual failed Fly check | suspicious movement:-0.059 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:+- tag:gn (+5) | vl:5 ping:360 tps:20.0 component: fly.main
+(15:41:04) WerTual failed HitBox check | attacking entities that are not in view:1.991 type:SHEEP vec:-1.957,-0.039,0.362 hz:0.563 dst:3.357 (+2) | vl:2 ping:294 tps:20.0 component: hb.direction
+(15:41:40) WerTual failed HitBox check | reach: 3.753 expected: 3.744 cb:false sw:false dv:-0.495 lt:1 (+1) | vl:1 ping:265 tps:19.99 component: hb.reach
+(15:41:44) WerTual failed HitBox check | attacking entities that are not in view:1.623 type:SHEEP vec:1.167,0.217,1.106 hz:0.563 dst:3.034 (+2) | vl:2 ping:265 tps:19.98 component: hb.direction
+(15:44:12) WerTual failed FastUse check | fast use (+0) | vl:0 ping:159 tps:20.0 component: fastuse
+(15:44:19) WerTual failed HitBox check | attacking entities that are not in view:2.491 type:COW vec:-0.491,0.078,2.44 hz:0.517 dst:4.7 (+2) | vl:2 ping:159 tps:19.99 component: hb.direction
+(15:45:29) WerTual failed HitBox check | attacking entities that are not in view:1.499 type:COW vec:-1.054,0.719,-0.786 hz:0.591 dst:0.676 (+2) | vl:2 ping:149 tps:20.0 component: hb.direction
+(15:46:40) WerTual failed Inventory check | inventory move | simple (+2) | vl:2 ping:142 tps:19.99 component: inv.move
+(15:47:18) WerTual failed Chat check | send the same chat content (+1) | vl:1 ping:142 tps:19.97 component: chat.same
+(15:49:51) WerTual failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:8 g:-- tag:gn (+5) | vl:5 ping:140 tps:19.98 component: fly.main
+(15:49:51) WerTual failed Fly check | ground spoof | t:fgw a=0.41999998688697815 b=-0.374 (+4) | vl:9 ping:140 tps:19.98 component: fly.fg.w
+(15:49:51) WerTual failed Fly check | t: af (+5) | vl:14 ping:140 tps:19.98 component: nofall.air
+(15:49:53) WerTual failed Interact check | interact block through walls ,o=CONCRETE b=ENDER_CHEST (+1) | vl:1 ping:140 tps:19.8 component: interact.through
+(15:55:37) WerTual failed FastUse check | fast use (+0) | vl:0 ping:142 tps:20.0 component: fastuse
+(15:56:18) WerTual failed Interact check | interact block through walls ,o=COBBLESTONE b=CHEST (+1) | vl:1 ping:141 tps:19.97 component: interact.through
+(15:58:28) WerTual failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.377 air_t:4 g:-- tag:gn (+5) | vl:5 ping:141 tps:20.0 component: fly.main
+(16:00:34) Donbicon_ failed Speed check | move no slow down while using/sneaking: m:0.136 a:22 (+4) | vl:4 ping:32 tps:19.99 component: speed.noslow.limit
+(16:01:09) WerTual failed HitBox check | attacking entities that are not in view:2.264 type:ARMOR_STAND vec:-2.145,-0.722,0.016 hz:0.687 dst:1.732 (+2) | vl:2 ping:141 tps:20.0 component: hb.direction
+(16:03:49) WerTual failed Fly check | move unexpected: 0.0 -> -0.078 (+8) | vl:8 ping:134 tps:20.0 component: fly.fg.pattern.9plus.2
+(16:03:49) WerTual failed Fly check | t: af (+5) | vl:13 ping:134 tps:20.0 component: nofall.air
+(16:06:32) WerTual failed Speed check | (strafe) change direction in mid-air:0.214 a:98.604 lm:0.252 (+5) | vl:5 ping:131 tps:19.99 component: speed.strafe
+(16:07:19) WerTual failed Fly check | suspicious movement:-0.059 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.445 air_t:11 g:+- tag:gn (+5) | vl:5 ping:132 tps:20.0 component: fly.main
+(16:09:19) WerTual failed FastHeal check | regen health too fast | difficulty: 3 delay: 401 protocol_ver: 12 (+0) | vl:0 ping:141 tps:19.92 component: heal
+(16:11:08) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: 3991.624,65.0,2711.453 v:-0.155 (+5) | vl:5 ping:144 tps:19.79 component: fly.fg.wl
+(16:16:49) WerTual failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.288145305840133 fr:0.6 tag:a (+9) | vl:9 ping:139 tps:20.0 component: speed.main
+(16:18:06) WerTual failed Speed check | sprint direction: 0.275 angle:365.34 (+5) | vl:5 ping:133 tps:20.0 component: speed.sprint
+(16:18:06) WerTual failed Speed check | sprint direction: 0.28 angle:371.684 (+5) | vl:10 ping:133 tps:20.0 component: speed.sprint
+(16:18:06) WerTual failed Speed check | sprint direction: 0.28 angle:371.872 (+5) | vl:15 ping:133 tps:20.0 component: speed.sprint
+(16:24:38) WerTual failed Fly check | suspicious movement:0.42 predict:0.333 air_t:1 tag:sam (+5) | vl:5 ping:133 tps:20.0 component: fly.main
+(16:24:38) WerTual failed Fly check | suspicious movement:0.42 predict:0.333 air_t:1 tag:vt (+5) | vl:10 ping:133 tps:20.0 component: fly.main
+(16:28:47) WerTual failed Interact check | interact block through walls ,o=STONE b=ENDER_CHEST (+1) | vl:1 ping:134 tps:19.98 component: interact.through
+(16:29:47) WerTual failed Speed check | move no slow down while using/sneaking: m:0.135 a:22 (+4) | vl:4 ping:135 tps:19.84 component: speed.noslow.limit
+(16:31:01) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -193.502,73.188,-998.473 v:-0.155 (+5) | vl:5 ping:143 tps:20.0 component: fly.fg.wl
+(16:31:01) WerTual failed Fly check | t: af (+5) | vl:10 ping:143 tps:20.0 component: nofall.air
+(16:31:19) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -206.647,73.0,-1012.455 v:-0.155 (+5) | vl:5 ping:141 tps:20.0 component: fly.fg.wl
+(16:31:52) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -206.557,73.0,-1012.4 v:-0.155 (+5) | vl:5 ping:137 tps:20.0 component: fly.fg.wl
+(16:32:21) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -206.605,73.0,-1012.483 v:-0.155 (+5) | vl:5 ping:34 tps:19.69 component: fly.fg.wl
+(16:32:55) WerTual failed HitBox check | attacking entities that are not in view:1.984 type:ARMOR_STAND vec:-1.331,0.047,1.471 hz:0.45 dst:1.414 (+2) | vl:2 ping:87 tps:19.96 component: hb.direction
+(16:34:33) WerTual failed Fly check | suspicious movement:-0.166 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.078 air_t:4 g:++ tag:gn (+5) | vl:5 ping:140 tps:19.98 component: fly.main
+(16:34:34) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -211.63,72.0,-1087.691 v:-0.155 (+5) | vl:10 ping:140 tps:20.0 component: fly.fg.wl
+(16:36:43) Dark_volk_top failed Interact check | interact block through walls ,o=STONE b=ENDER_CHEST (+1) | vl:1 ping:5439 tps:19.98 component: interact.through
+(16:37:00) Dark_volk_top failed FastBow check | t: bow aim bot [s] a=313.4990921020508 (+2) | vl:2 ping:4393 tps:20.0 component: bow.aim.1
+(16:37:00) Dark_volk_top failed FastBow check | t: bow aim bot [r] a=313.4990921020508 (+1) | vl:3 ping:4393 tps:20.0 component: bot.aim.2
+(16:37:02) Dark_volk_top failed FastBow check | fast bow (+0) | vl:3 ping:4393 tps:19.96 component: fastbow
+(16:37:19) Dark_volk_top failed FastBow check | fast bow (+0) | vl:0 ping:2528 tps:19.99 component: fastbow
+(16:37:32) Dark_volk_top failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.903 air_t:8 g:-- tag:gn (+5) | vl:5 ping:2528 tps:19.98 component: fly.main
+(16:37:36) Dark_volk_top failed Fly check | suspicious movement:-0.162 predict:-0.582 lm:-0.514 hard_pred:-0.582 sev_pred:-0.078 air_t:12 g:-- tag:gn (+5) | vl:10 ping:1939 tps:19.98 component: fly.main
+(16:37:40) Dark_volk_top failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.302 air_t:8 g:-- tag:gn (+5) | vl:15 ping:1939 tps:20.0 component: fly.main
+(16:37:41) Dark_volk_top failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-1.081 air_t:11 g:-- tag:gn (+5) | vl:20 ping:1939 tps:20.0 component: fly.main
+(16:37:41) Dark_volk_top failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.445 air_t:11 g:-- tag:gn (+5) | vl:25 ping:1939 tps:20.0 component: fly.main
+(16:37:42) Dark_volk_top failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-1.193 air_t:11 g:-- tag:gn (+5) | vl:30 ping:1939 tps:20.0 component: fly.main
+(16:37:43) Dark_volk_top failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.445 air_t:11 g:-- tag:gn (+5) | vl:35 ping:1939 tps:20.0 component: fly.main
+(16:37:43) Dark_volk_top failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-1.023 air_t:8 g:-- tag:gn (+5) | vl:40 ping:1939 tps:20.0 component: fly.main
+(16:37:43) Dark_volk_top failed Fly check | ground spoof | tag: ai-wl | loc: -309.236,66.0,-907.942 v:-1.137 (+5) | vl:45 ping:1939 tps:20.0 component: fly.fg.wl
+(16:37:43) Dark_volk_top failed Fly check | t: af (+5) | vl:50 ping:1939 tps:20.0 component: nofall.air
+(16:38:03) Dark_volk_top failed Interact check | liquid (+1) | vl:1 ping:1778 tps:19.97 component: interact.liquid
+(16:38:03) Dark_volk_top failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:7 g:-- tag:gn (+5) | vl:15 ping:1778 tps:19.97 component: fly.main
+(16:38:07) Dark_volk_top failed Interact check | liquid (+1) | vl:2 ping:1778 tps:20.0 component: interact.liquid
+(16:38:09) Dark_volk_top failed Interact check | liquid (+1) | vl:3 ping:1778 tps:19.99 component: interact.liquid
+(16:38:10) Dark_volk_top failed Interact check | liquid (+1) | vl:4 ping:1778 tps:20.0 component: interact.liquid
+(16:38:16) Dark_volk_top failed Interact check | liquid (+1) | vl:1 ping:1778 tps:20.0 component: interact.liquid
+(16:38:16) Dark_volk_top failed Interact check | liquid (+1) | vl:2 ping:1778 tps:20.0 component: interact.liquid
+(16:38:23) Dark_volk_top failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.1552320045166016 ~ 0.41999998688697815 ~ 63.0 (+5) | vl:5 ping:1389 tps:20.0 component: jesus.solid
+(16:38:53) Dark_volk_top failed KillAura check | (npc) force field (+5) | vl:5 ping:813 tps:19.95 component: ka.ff
+(16:38:56) Dark_volk_top failed HitBox check | attacking entities that are not in view:2.941 type:ZOMBIE vec:-0.722,1.339,2.518 hz:0.646 dst:2.114 (+2) | vl:2 ping:813 tps:19.97 component: hb.direction
+(16:38:57) Dark_volk_top failed HitBox check | attacking entities that are not in view:1.984 type:ZOMBIE vec:0.434,1.621,1.057 hz:0.702 dst:1.591 (+2) | vl:4 ping:813 tps:19.97 component: hb.direction
+(16:38:59) Dark_volk_top failed Speed check | suspicious movement:0.483 expect:0.6235 vet:0.333 predict:0.24201089471060122 fr:0.6 tag:d (+8) | vl:8 ping:813 tps:19.99 component: speed.main
+(16:39:01) Dark_volk_top failed Speed check | suspicious movement:0.515 expect:0.2873 predict:0.24453260421701883 fr:0.6 tag:a (+9) | vl:17 ping:813 tps:20.0 component: speed.main
+(16:39:01) Dark_volk_top failed Speed check | suspicious movement:0.375 expect:0.2873 predict:0.42416238124705397 fr:0.6 tag:a (+9) | vl:26 ping:813 tps:20.0 component: speed.main
+(16:39:31) Dark_volk_top failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:0.333 air_t:8 g:-- tag:gn (+5) | vl:5 ping:709 tps:19.99 component: fly.main
+(16:39:33) Dark_volk_top failed Fly check | suspicious movement:-0.078 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:++ tag:gn (+5) | vl:10 ping:546 tps:20.0 component: fly.main
+(16:39:41) Dark_volk_top failed FastUse check | fast use (+0) | vl:0 ping:546 tps:20.0 component: fastuse
+(16:39:48) Dark_volk_top failed Speed check | (strafe) change direction in mid-air:0.234 a:119.256 lm:0.308 (+5) | vl:5 ping:638 tps:20.0 component: speed.strafe
+(16:39:57) Dark_volk_top failed Fly check | ground spoof | tag: ai-wl | loc: -424.304,66.0,-804.997 v:-0.155 (+5) | vl:5 ping:638 tps:19.97 component: fly.fg.wl
+(16:39:57) Dark_volk_top failed Fly check | ground spoof | t:fgw a=0.41999998688697815 b=-0.155 (+4) | vl:9 ping:638 tps:19.97 component: fly.fg.w
+(16:39:58) Dark_volk_top failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:0.165 air_t:8 g:-- tag:gn (+5) | vl:14 ping:638 tps:20.0 component: fly.main
+(16:40:11) Dark_volk_top failed Fly check | move unexpected: 0.0 -> -0.302 (+8) | vl:22 ping:611 tps:20.0 component: fly.fg.pattern.9plus.2
+(16:40:11) Dark_volk_top failed Fly check | illegal midair packets | var: true (+4) | vl:26 ping:611 tps:20.0 component: fly.fg.pattern.9plus
+(16:40:11) Dark_volk_top failed Fly check | t: af (+5) | vl:31 ping:611 tps:20.0 component: nofall.air
+(16:40:24) Dark_volk_top failed Fly check | ground spoof | send illegal ground moving packets | location: -431.095,68.0,-803.147 | block: AIR,AIR (+5) | vl:5 ping:472 tps:19.98 component: fly.fg.ground
+(16:40:24) Dark_volk_top failed Fly check | t: af (+5) | vl:10 ping:472 tps:20.0 component: nofall.air
+(16:40:27) Dark_volk_top failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m4 (+10) | vl:20 ping:472 tps:20.0 component: fly.main
+(16:40:27) Dark_volk_top failed Fly check | suspicious movement:0.0 predict:-0.228 air_t:12 tag:m4 (+10) | vl:30 ping:472 tps:20.0 component: fly.main
+(16:40:29) Dark_volk_top failed Fly check | suspicious movement:0.165 predict:0.165 air_t:12 tag:m1 (+10) | vl:40 ping:472 tps:20.0 component: fly.main
+(16:40:29) Dark_volk_top failed Fly check | suspicious movement:0.083 predict:-0.078 air_t:12 tag:m1 (+10) | vl:50 ping:472 tps:20.0 component: fly.main
+(16:40:29) Dark_volk_top failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-1.081 air_t:12 g:-- tag:gn (+5) | vl:55 ping:472 tps:20.0 component: fly.main
+(16:40:35) Dark_volk_top failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:0.333 air_t:8 g:-- tag:gn (+5) | vl:60 ping:563 tps:19.99 component: fly.main
+(16:40:37) Dark_volk_top failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:0.42 air_t:12 g:-- tag:gn (+5) | vl:65 ping:563 tps:20.0 component: fly.main
+(16:40:47) Dark_volk_top failed Interact check | liquid (+1) | vl:1 ping:563 tps:19.96 component: interact.liquid
+(16:40:47) Dark_volk_top failed Interact check | liquid (+1) | vl:2 ping:563 tps:19.96 component: interact.liquid
+(16:40:47) Dark_volk_top failed Interact check | liquid (+1) | vl:3 ping:563 tps:19.96 component: interact.liquid
+(16:40:47) Dark_volk_top failed Interact check | liquid (+1) | vl:4 ping:563 tps:19.96 component: interact.liquid
+(16:40:47) Dark_volk_top failed Interact check | liquid (+1) | vl:5 ping:563 tps:19.96 component: interact.liquid
+(16:40:51) Dark_volk_top failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:0.42 air_t:11 g:-- tag:gn (+5) | vl:30 ping:563 tps:20.0 component: fly.main
+(16:40:52) Dark_volk_top failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:0.083 air_t:11 g:-- tag:gn (+5) | vl:35 ping:563 tps:20.0 component: fly.main
+(16:40:54) Dark_volk_top failed Interact check | liquid (+1) | vl:6 ping:563 tps:19.95 component: interact.liquid
+(16:40:54) Dark_volk_top failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.445 air_t:11 g:-- tag:gn (+5) | vl:40 ping:563 tps:19.95 component: fly.main
+(16:40:55) Dark_volk_top failed Interact check | liquid (+1) | vl:7 ping:563 tps:19.95 component: interact.liquid
+(16:40:55) Dark_volk_top failed Interact check | liquid (+1) | vl:8 ping:563 tps:19.95 component: interact.liquid
+(16:40:55) Dark_volk_top failed Interact check | liquid (+1) | vl:9 ping:563 tps:19.95 component: interact.liquid
+(16:40:55) Dark_volk_top failed Fly check | suspicious movement:-0.162 predict:-0.582 lm:-0.514 hard_pred:-0.582 sev_pred:-1.248 air_t:12 g:-- tag:gn (+5) | vl:45 ping:563 tps:19.95 component: fly.main
+(16:40:55) Dark_volk_top failed Interact check | liquid (+1) | vl:10 ping:563 tps:19.95 component: interact.liquid
+(16:40:55) Dark_volk_top failed Interact check | liquid (+1) | vl:11 ping:563 tps:19.95 component: interact.liquid
+(16:41:11) Dark_volk_top failed Fly check | suspicious movement:-0.078 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:50 ping:4377 tps:19.99 component: fly.main
+(16:46:14) WerTual failed Fly check | suspicious movement:-0.374 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:160 tps:20.0 component: fly.main
+(16:46:44) WerTual failed Fly check | suspicious movement:-0.078 predict:-0.155 lm:-0.078 hard_pred:-0.155 sev_pred:-0.231 air_t:1 g:-- tag:gn (+5) | vl:5 ping:151 tps:19.87 component: fly.main
+(16:47:30) WerTual failed Fly check | suspicious movement:-0.377 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:141 tps:20.0 component: fly.main
+(16:47:54) WerTual failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:140 tps:20.0 component: fly.main
+(16:48:55) WerTual failed KillAura check | (angle) suspicious angle:[76.40131, 139.03358] (+8) | vl:8 ping:136 tps:20.0 component: ka.angle
+(16:49:07) WerTual failed Speed check | suspicious movement:0.809 expect:0.7441370070580128 predict:1.40078643573907 fr:0.6 tag:ea (+5) | vl:5 ping:137 tps:20.0 component: speed.main
+(16:49:44) WerTual failed Fly check | suspicious movement:-0.301 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:136 tps:19.97 component: fly.main
+(16:49:47) WerTual failed KillAura check | (angle) suspicious angle:[94.47664, 148.7026] (+8) | vl:8 ping:135 tps:20.0 component: ka.angle
+(16:49:49) WerTual failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.165 air_t:3 g:-- tag:gn (+5) | vl:5 ping:135 tps:20.0 component: fly.main
+(16:49:56) WerTual failed Fly check | suspicious movement:-0.374 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:-- tag:gn (+5) | vl:10 ping:135 tps:20.0 component: fly.main
+(16:50:01) WerTual failed FastUse check | fast use (+0) | vl:0 ping:135 tps:19.75 component: fastuse
+(16:50:13) WerTual failed Speed check | sprint direction: 0.229 angle:301.314 (+5) | vl:5 ping:154 tps:20.0 component: speed.sprint
+(16:50:18) WerTual failed FastUse check | fast use (+0) | vl:0 ping:150 tps:20.0 component: fastuse
+(16:50:42) WerTual failed Fly check | suspicious movement:-0.078 predict:-0.155 lm:-0.078 hard_pred:-0.155 sev_pred:-0.231 air_t:1 g:-- tag:gn (+5) | vl:5 ping:147 tps:19.98 component: fly.main
+(16:52:21) WerTual failed Speed check | sprint direction: 0.483 angle:534.643 (+5) | vl:5 ping:143 tps:19.97 component: speed.sprint
+(16:52:35) WerTual failed KillAura check | (angle) suspicious angle:[131.36205, 178.73027] (+8) | vl:8 ping:141 tps:20.0 component: ka.angle
+(16:53:07) WerTual failed Fly check | suspicious movement:-0.075 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.374 air_t:10 g:-- tag:gn (+5) | vl:5 ping:138 tps:20.0 component: fly.main
+(16:53:32) WerTual failed Fly check | suspicious movement:-0.374 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:++ tag:gn (+5) | vl:5 ping:137 tps:20.0 component: fly.main
+(16:54:22) WerTual failed Speed check | suspicious movement:0.859 expect:0.8306311559944496 predict:1.4638618352834167 fr:0.6 tag:ea (+5) | vl:5 ping:136 tps:19.96 component: speed.main
+(16:54:30) Dark_volk_top failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:535 tps:19.96 component: fly.main
+(16:54:42) WerTual failed Fly check | suspicious movement:-0.304 predict:-0.155 lm:-0.078 hard_pred:-0.155 sev_pred:-0.231 air_t:1 g:-- tag:gn (+5) | vl:5 ping:137 tps:20.0 component: fly.main
+(16:54:47) WerTual failed Fly check | suspicious movement:-0.078 predict:-0.304 lm:-0.231 hard_pred:-0.304 sev_pred:-0.377 air_t:3 g:-- tag:gn (+5) | vl:5 ping:137 tps:20.0 component: fly.main
+(16:54:54) Dark_volk_top failed KillAura check | post attack: 0 (+1) | vl:1 ping:5828 tps:20.0 component: ka.post
+(16:54:59) WerTual failed Speed check | suspicious movement:0.874 expect:0.7443688647390916 predict:1.4835556857389238 fr:0.6 tag:ea (+5) | vl:5 ping:137 tps:19.94 component: speed.main
+(16:54:59) WerTual failed Speed check | suspicious movement:0.796 expect:0.7327256703054068 predict:0.8208494491119563 fr:0.6 tag:ea (+5) | vl:10 ping:137 tps:19.94 component: speed.main
+(16:54:59) WerTual failed Speed check | suspicious movement:0.724 expect:0.7221303630653988 predict:0.7494680523780105 fr:0.6 tag:ea (+5) | vl:15 ping:137 tps:19.94 component: speed.main
+(16:55:20) WerTual failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.165 air_t:3 g:-- tag:gn (+5) | vl:5 ping:139 tps:20.0 component: fly.main
+(16:55:28) Dark_volk_top failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:+- tag:gn (+5) | vl:5 ping:4960 tps:19.81 component: fly.main
+(16:55:46) WerTual failed AutoBot check | bot like actions | like: Baritone (+4) | vl:4 ping:145 tps:20.0 component: bot.baritone
+(16:58:06) Dark_volk_top failed Chat check | send the same chat content (+1) | vl:1 ping:599 tps:20.0 component: chat.same
+(16:58:29) Dark_volk_top failed Chat check | send the same chat content (+1) | vl:1 ping:478 tps:20.0 component: chat.same
+(17:00:54) Dark_volk_top failed Fly check | move unexpected: -0.152 -> 0.003 (+8) | vl:8 ping:207 tps:19.99 component: fly.fg.pattern.9plus.2
+(17:00:54) Dark_volk_top failed Fly check | send illegal packet to anti fall damage |  val1: 0.0724278 val2: 0.2247629905309907 val3: false (+10) | vl:18 ping:207 tps:19.99 component: nofall.packet
+(17:01:10) WerTual failed Interact check | interact block through walls ,o=SMOOTH_BRICK b=FURNACE (+1) | vl:1 ping:137 tps:19.97 component: interact.through
+(17:01:40) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -219.243,72.0,-1058.366 v:-0.155 (+5) | vl:5 ping:136 tps:20.0 component: fly.fg.wl
+(17:01:54) Dark_volk_top failed Fly check | move unexpected: -0.152 -> -0.228 (+8) | vl:8 ping:224 tps:20.0 component: fly.fg.pattern.9plus.2
+(17:01:54) Dark_volk_top failed Fly check | send illegal packet to anti fall damage |  val1: 0.0724278 val2: 0.2247629905309907 val3: false (+10) | vl:18 ping:224 tps:20.0 component: nofall.packet
+(17:01:58) Dark_volk_top failed Fly check | suspicious movement:-0.155 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:0.003 air_t:4 g:-- tag:gn (+5) | vl:23 ping:224 tps:20.0 component: fly.main
+(17:03:19) Dark_volk_top failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.1552320045166016 ~ -0.07840000152587834 ~ 63.0 (+5) | vl:5 ping:1992 tps:19.99 component: jesus.solid
+(17:03:58) Dark_volk_top failed Speed check | move no slow down while using/sneaking: m:0.143 a:15 (+4) | vl:4 ping:1151 tps:20.0 component: speed.noslow.limit
+(17:04:26) WerTual failed Speed check | suspicious movement:1.963 expect:0.40499999999999997 predict:0.31261690128841196 fr:0.6 tag:ea (+20) | vl:20 ping:139 tps:20.0 component: speed.main
+(17:04:26) WerTual failed Fly check | step | p: 1 | m:1.6695068279902188 ev:-0.302 (+8) | vl:8 ping:139 tps:20.0 component: speed.step
+(17:04:26) WerTual failed Fly check | step | p:4 (+3) | vl:11 ping:139 tps:20.0 component: speed.step
+(17:04:26) WerTual failed Speed check | suspicious movement:1.963 expect:0.40499999999999997 predict:1.8121395088714962 fr:0.6 tag:ea (+20) | vl:40 ping:139 tps:20.0 component: speed.main
+(17:04:31) WerTual failed Fly check | ground spoof | tag: fake air packet | at: -200.699,68.0,-1056.612 t: -189.641,68.063,-1058.703 (+7) | vl:18 ping:139 tps:19.99 component: fly.fg.air
+(17:04:31) WerTual failed Speed check | suspicious movement:2.003 expect:0.365 predict:0.11467999366411305 fr:0.6 tag:ea (+20) | vl:60 ping:139 tps:19.99 component: speed.main
+(17:04:31) WerTual failed Speed check | suspicious movement:2.003 expect:0.365 predict:1.8486014920726581 fr:0.6 tag:ea (+20) | vl:80 ping:139 tps:19.99 component: speed.main
+(17:04:31) WerTual failed Speed check | suspicious movement:2.003 expect:0.365 predict:1.8486014920726581 fr:0.6 tag:ea (+20) | vl:100 ping:139 tps:19.99 component: speed.main
+(17:05:34) Dark_volk_top failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.1552320045166016 ~ -0.07840000152587834 ~ 63.0 (+5) | vl:5 ping:467 tps:20.0 component: jesus.solid
+(17:05:58) WerTual failed Speed check | move no slow down while using/sneaking: m:0.135 a:30 (+4) | vl:4 ping:152 tps:20.0 component: speed.noslow.limit
+(17:06:08) Dark_volk_top failed FastUse check | fast use (+0) | vl:0 ping:311 tps:20.0 component: fastuse
+(17:06:12) Dark_volk_top failed FastBow check | fast bow (+0) | vl:0 ping:311 tps:20.0 component: fastbow
+(17:06:17) Dark_volk_top failed Fly check | move unexpected: -0.152 -> -0.228 (+8) | vl:8 ping:311 tps:20.0 component: fly.fg.pattern.9plus.2
+(17:06:17) Dark_volk_top failed Fly check | send illegal packet to anti fall damage |  val1: 0.0724278 val2: 0.2247629905309907 val3: false (+10) | vl:18 ping:311 tps:20.0 component: nofall.packet
+(17:06:39) WerTual failed Speed check | suspicious movement:1.882 expect:0.40499999999999997 predict:0.11467999348926693 fr:0.6 tag:ea (+20) | vl:20 ping:144 tps:20.0 component: speed.main
+(17:06:58) Dark_volk_top failed Fly check | move unexpected: -0.024 -> -0.078 (+8) | vl:8 ping:233 tps:20.0 component: fly.fg.pattern.9plus.2
+(17:06:58) Dark_volk_top failed Fly check | send illegal packet to anti fall damage |  val1: 0.22476299 val2: 0.24918707874468282 val3: false (+10) | vl:18 ping:233 tps:20.0 component: nofall.packet
+(17:07:05) Dark_volk_top failed Fly check | suspicious movement:-0.078 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:-- tag:gn (+5) | vl:23 ping:233 tps:20.0 component: fly.main
+(17:16:50) WerTual failed KillAura check | no swing (+4) | vl:4 ping:143 tps:20.0 component: ka.noswing
+(17:17:21) WerTual failed KillAura check | post attack: 0 (+1) | vl:1 ping:142 tps:20.0 component: ka.post
+(17:19:07) WerTual failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+4) | vl:4 ping:142 tps:20.0 component: speed.noslow.limit
+(17:19:13) WerTual failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+4) | vl:8 ping:142 tps:20.0 component: speed.noslow.limit
+(17:22:23) WerTual failed Speed check | suspicious movement:0.427 expect:1.1235 vet:0.361 predict:0.13432487249781092 fr:0.6 tag:d (+8) | vl:8 ping:136 tps:20.0 component: speed.main
+(17:22:26) WerTual failed Speed check | (strafe) change direction in mid-air:0.4 a:493.211 lm:0.241 (+5) | vl:13 ping:1559 tps:20.0 component: speed.strafe
+(17:22:26) WerTual failed Speed check | suspicious movement:0.4 ar_t:12 lm:0.241 tag:ed (+15) | vl:28 ping:1559 tps:20.0 component: speed.main
+(17:22:26) WerTual failed Fly check | suspicious movement:0.361 predict:-1.893 air_t:12 tag:m1 (+10) | vl:10 ping:1559 tps:20.0 component: fly.main
+(17:22:26) WerTual failed Fly check | suspicious movement:0.275 predict:0.275 air_t:12 tag:m1 (+10) | vl:20 ping:1559 tps:20.0 component: fly.main
+(17:22:26) WerTual failed Fly check | suspicious movement:0.191 predict:0.191 air_t:12 tag:m1 (+10) | vl:30 ping:1559 tps:20.0 component: fly.main
+(17:22:26) WerTual failed Fly check | suspicious movement:0.109 predict:0.109 air_t:12 tag:m1 (+10) | vl:40 ping:1559 tps:20.0 component: fly.main
+(17:22:26) WerTual failed Fly check | suspicious movement:0.028 predict:-0.078 air_t:12 tag:m1 (+10) | vl:50 ping:1559 tps:20.0 component: fly.main
+(17:23:54) WerTual failed Fly check | suspicious movement:0.0 predict:-2.463 air_t:12 tag:m1 (+10) | vl:10 ping:388 tps:20.0 component: fly.main
+(17:23:54) WerTual failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:20 ping:388 tps:20.0 component: fly.main
+(17:23:54) WerTual failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:30 ping:388 tps:20.0 component: fly.main
+(17:23:54) WerTual failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:40 ping:388 tps:20.0 component: fly.main
+(17:23:55) WerTual failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:50 ping:388 tps:20.0 component: fly.main
+(17:23:55) WerTual failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:60 ping:388 tps:20.0 component: fly.main
+(17:25:18) WerTual failed Speed check | suspicious movement:3.011 expect:3.011277463536354 predict:5.050704176244907 fr:0.6 tag:ea (+20) | vl:20 ping:323 tps:20.0 component: speed.main
+(17:25:29) WerTual failed Fly check | ground spoof | send ground packets when falling | a: 76.56319957666749 (+5) | vl:5 ping:323 tps:19.89 component: fly.fg.nofall
+(17:25:29) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 76.56319957666749 val3: true (+10) | vl:15 ping:323 tps:19.89 component: nofall.packet
+(17:25:45) WerTual failed Fly check | ground spoof | send ground packets when falling | a: 78.56319957666749 (+5) | vl:20 ping:275 tps:20.0 component: fly.fg.nofall
+(17:25:45) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 78.56319957666749 val3: true (+10) | vl:30 ping:275 tps:20.0 component: nofall.packet
+(17:25:59) WerTual failed Speed check | suspicious movement:2.003 expect:0.365 predict:0.24738572666775258 fr:0.6 tag:ea (+20) | vl:20 ping:239 tps:20.0 component: speed.main
+(17:25:59) WerTual failed Speed check | suspicious movement:2.003 ar_t:12 lm:0.244 tag:ed (+15) | vl:35 ping:239 tps:20.0 component: speed.main
+(17:25:59) WerTual failed Fly check | suspicious movement:0.0 predict:-2.357 air_t:12 tag:m1 (+10) | vl:10 ping:239 tps:20.0 component: fly.main
+(17:25:59) WerTual failed Speed check | (strafe) change direction in mid-air:1.963 a:141.372 lm:2.003 (+5) | vl:40 ping:239 tps:20.0 component: speed.strafe
+(17:25:59) WerTual failed Speed check | suspicious movement:1.963 expect:0.365 predict:1.8486014323354467 fr:0.6 tag:ea (+20) | vl:60 ping:239 tps:20.0 component: speed.main
+(17:25:59) WerTual failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:20 ping:239 tps:20.0 component: fly.main
+(17:26:00) WerTual failed Speed check | suspicious movement:2.003 expect:0.365 predict:0.14943759912339347 fr:0.6 tag:ea (+20) | vl:80 ping:239 tps:20.0 component: speed.main
+(17:26:00) WerTual failed Speed check | suspicious movement:2.003 ar_t:12 lm:0.136 tag:ed (+15) | vl:95 ping:239 tps:20.0 component: speed.main
+(17:26:00) WerTual failed Fly check | suspicious movement:0.0 predict:-0.844 air_t:12 tag:m1 (+10) | vl:30 ping:239 tps:20.0 component: fly.main
+(17:26:23) WerTual failed Speed check | suspicious movement:0.979 expect:0.615 predict:3.6960735986905138 fr:0.6 tag:ea (+5) | vl:50 ping:194 tps:19.97 component: speed.main
+(17:26:44) WerTual failed Fly check | suspicious movement:0.0 predict:-2.196 air_t:12 tag:m1 (+10) | vl:10 ping:179 tps:20.0 component: fly.main
+(17:26:44) WerTual failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:20 ping:179 tps:20.0 component: fly.main
+(17:26:44) WerTual failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:30 ping:179 tps:20.0 component: fly.main
+(17:26:44) WerTual failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:40 ping:179 tps:20.0 component: fly.main
+(17:26:44) WerTual failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:50 ping:179 tps:20.0 component: fly.main
+(17:26:44) WerTual failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:60 ping:179 tps:20.0 component: fly.main
+(17:26:55) WerTual failed Speed check | suspicious movement:2.003 expect:0.365 predict:0.18713454683849753 fr:0.6 tag:ea (+20) | vl:20 ping:168 tps:19.96 component: speed.main
+(17:26:55) WerTual failed Speed check | suspicious movement:2.003 ar_t:12 lm:0.178 tag:ed (+15) | vl:35 ping:168 tps:19.96 component: speed.main
+(17:26:55) WerTual failed Fly check | suspicious movement:0.0 predict:-2.357 air_t:12 tag:m1 (+10) | vl:30 ping:168 tps:19.96 component: fly.main
+(17:26:56) WerTual failed Speed check | suspicious movement:2.003 expect:0.365 predict:0.10448176889664848 fr:0.6 tag:ea (+20) | vl:55 ping:168 tps:20.0 component: speed.main
+(17:26:56) WerTual failed Speed check | suspicious movement:2.003 ar_t:12 lm:0.087 tag:ed (+15) | vl:70 ping:168 tps:20.0 component: speed.main
+(17:26:56) WerTual failed Fly check | suspicious movement:0.0 predict:-0.781 air_t:12 tag:m1 (+10) | vl:40 ping:168 tps:20.0 component: fly.main
+(17:26:57) WerTual failed Speed check | suspicious movement:2.003 expect:0.365 predict:0.15133428776013985 fr:0.6 tag:ea (+20) | vl:90 ping:168 tps:20.0 component: speed.main
+(17:26:57) WerTual failed Speed check | suspicious movement:2.003 ar_t:12 lm:0.138 tag:ed (+15) | vl:105 ping:168 tps:20.0 component: speed.main
+(17:26:57) WerTual failed Fly check | suspicious movement:0.0 predict:-0.966 air_t:12 tag:m1 (+10) | vl:50 ping:168 tps:20.0 component: fly.main
+(17:26:58) WerTual failed Speed check | suspicious movement:2.003 expect:0.365 predict:0.1092461327690038 fr:0.6 tag:ea (+20) | vl:125 ping:168 tps:20.0 component: speed.main
+(17:26:58) WerTual failed Speed check | suspicious movement:2.003 ar_t:12 lm:0.092 tag:ed (+15) | vl:140 ping:168 tps:20.0 component: speed.main
+(17:26:58) WerTual failed Speed check | suspicious movement:2.003 expect:0.365 predict:0.07576089746951985 fr:0.6 tag:ea (+20) | vl:160 ping:168 tps:20.0 component: speed.main
+(17:26:58) WerTual failed Speed check | suspicious movement:2.003 ar_t:12 lm:0.055 tag:ed (+15) | vl:175 ping:168 tps:20.0 component: speed.main
+(17:27:21) Dark_volk_top failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:360 tps:20.0 component: fly.main
+(17:27:21) WerTual failed Fly check | ground spoof | send ground packets when falling | a: 58.292530143776986 (+5) | vl:15 ping:154 tps:20.0 component: fly.fg.nofall
+(17:27:21) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 58.292530143776986 val3: true (+10) | vl:25 ping:154 tps:20.0 component: nofall.packet
+(17:27:23) WerTual failed Chat check | send the same chat content (+1) | vl:1 ping:154 tps:19.57 component: chat.same
+(17:27:39) WerTual failed Fly check | ground spoof | send ground packets when falling | a: 72.70654597348164 (+5) | vl:30 ping:151 tps:20.0 component: fly.fg.nofall
+(17:27:39) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 72.70654597348164 val3: true (+10) | vl:40 ping:151 tps:20.0 component: nofall.packet
+(17:27:43) WerTual failed Fly check | ground spoof | send illegal ground moving packets | location: -3271.986,141.249,1955.278 | block: AIR,AIR (+5) | vl:45 ping:151 tps:20.0 component: fly.fg.ground
+(17:27:43) WerTual failed Fly check | t: af (+5) | vl:50 ping:151 tps:20.0 component: nofall.air
+(17:27:44) WerTual failed Fly check | ground spoof | send illegal ground moving packets | location: -3271.777,141.177,1955.202 | block: AIR,AIR (+5) | vl:55 ping:151 tps:19.84 component: fly.fg.ground
+(17:27:44) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 0.2247629905310191 val3: true (+10) | vl:65 ping:151 tps:19.84 component: nofall.packet
+(17:27:47) Dark_volk_top failed FastUse check | fast use (+0) | vl:0 ping:312 tps:19.71 component: fastuse
+(17:27:49) WerTual failed Fly check | ground spoof | send illegal ground moving packets | location: -3254.398,140.868,1972.074 | block: AIR,AIR (+5) | vl:30 ping:146 tps:20.0 component: fly.fg.ground
+(17:27:49) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 0.9574926931892094 val3: true (+10) | vl:40 ping:146 tps:20.0 component: nofall.packet
+(17:27:50) WerTual failed Fly check | ground spoof | send ground packets when falling | a: 3.2678703808854834 (+5) | vl:45 ping:146 tps:20.0 component: fly.fg.nofall
+(17:27:50) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 3.346270382411376 val3: true (+10) | vl:55 ping:146 tps:20.0 component: nofall.packet
+(17:27:51) WerTual failed Fly check | ground spoof | send ground packets when falling | a: 3.7395975259140357 (+5) | vl:60 ping:146 tps:20.0 component: fly.fg.nofall
+(17:27:51) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 8.583927923527 val3: true (+10) | vl:70 ping:146 tps:20.0 component: nofall.packet
+(17:27:54) WerTual failed Fly check | ground spoof | send ground packets when falling | a: 3.817997527439914 (+5) | vl:75 ping:146 tps:20.0 component: fly.fg.nofall
+(17:27:54) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 8.662327925052878 val3: true (+10) | vl:85 ping:146 tps:20.0 component: nofall.packet
+(17:28:00) WerTual failed Speed check | suspicious movement:3.011 expect:2.588287672530346 predict:5.044544077510215 fr:0.6 tag:ea (+20) | vl:95 ping:146 tps:19.79 component: speed.main
+(17:28:00) WerTual failed Speed check | suspicious movement:2.74 expect:2.4106918337541434 predict:2.765898384625104 fr:0.6 tag:ea (+20) | vl:115 ping:146 tps:19.79 component: speed.main
+(17:28:00) WerTual failed Speed check | suspicious movement:2.494 expect:2.249079615810163 predict:2.5192626018785766 fr:0.6 tag:ea (+20) | vl:135 ping:146 tps:19.79 component: speed.main
+(17:28:00) WerTual failed Speed check | suspicious movement:2.269 expect:2.1020124932426922 predict:2.294824033110957 fr:0.6 tag:ea (+20) | vl:155 ping:146 tps:19.79 component: speed.main
+(17:28:00) WerTual failed Speed check | suspicious movement:2.065 expect:1.9681814078493045 predict:2.0905849296464742 fr:0.6 tag:ea (+20) | vl:175 ping:146 tps:19.79 component: speed.main
+(17:28:00) WerTual failed Speed check | suspicious movement:2.065 expect:1.8951814078493046 predict:2.0905849296464742 fr:0.6 tag:eb (+6) | vl:181 ping:146 tps:19.79 component: speed.main
+(17:28:00) WerTual failed Speed check | suspicious movement:1.879 expect:1.8463951166314618 predict:1.9047273401373714 fr:0.6 tag:ea (+20) | vl:201 ping:146 tps:19.79 component: speed.main
+(17:28:06) WerTual failed Fly check | ground spoof | send ground packets when falling | a: 75.21333048794622 (+5) | vl:90 ping:143 tps:20.0 component: fly.fg.nofall
+(17:28:06) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 75.21333048794622 val3: true (+10) | vl:100 ping:143 tps:20.0 component: nofall.packet
+(17:28:12) Dark_volk_top failed FastUse check | fast use (+0) | vl:0 ping:765 tps:20.0 component: fastuse
+(17:28:31) WerTual failed Fly check | ground spoof | send ground packets when falling | a: 67.78008908596098 (+5) | vl:65 ping:140 tps:19.93 component: fly.fg.nofall
+(17:28:31) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 67.78008908596098 val3: true (+10) | vl:75 ping:140 tps:19.93 component: nofall.packet
+(17:29:05) WerTual failed FastBow check | t: bow aim bot [s] a=50.951904296875 (+2) | vl:2 ping:136 tps:20.0 component: bow.aim.1
+(17:29:05) WerTual failed FastBow check | t: bow aim bot [r] a=50.951904296875 (+1) | vl:3 ping:136 tps:20.0 component: bot.aim.2
+(17:29:14) WerTual failed Speed check | move no slow down while using/sneaking: m:0.193 a:13 (+4) | vl:105 ping:136 tps:20.0 component: speed.noslow.limit
+(17:30:57) WerTual failed Speed check | suspicious movement:0.457 ve:0.42 tag:gs (+5) | vl:5 ping:189 tps:19.93 component: speed.ground
+(17:30:59) WerTual failed Jesus check | [s] liquid speed:1.963 expect:0.86 dmg: false flw:false (+4) | vl:4 ping:189 tps:19.85 component: jesus.out
+(17:30:59) WerTual failed Speed check | suspicious movement:1.963 expect:0.365 predict:1.812139519142953 fr:0.6 tag:ea (+20) | vl:25 ping:189 tps:19.85 component: speed.main
+(17:30:59) WerTual failed Fly check | step | p: 1 | m:1.6695068279902188 ev:-0.332 (+8) | vl:8 ping:189 tps:19.85 component: speed.step
+(17:30:59) WerTual failed Fly check | step | p:4 (+3) | vl:11 ping:189 tps:19.85 component: speed.step
+(17:31:40) Dark_volk_top failed FastBow check | fast bow (+0) | vl:0 ping:240 tps:19.94 component: fastbow
+(17:31:43) Dark_volk_top failed Fly check | suspicious movement:-0.232 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:240 tps:19.98 component: fly.main
+(17:34:02) Dark_volk_top failed Fly check | ground spoof | tag: ai-wl | loc: 3136.62,69.0,-1061.395 v:-0.231 (+5) | vl:5 ping:122 tps:19.85 component: fly.fg.wl
+(19:48:42) chelo failed KillAura check | (autoclicker) type: delay, d:60, a:47, var:1 (+5) | vl:5 ping:52 tps:19.99 component: ka.ac.delay
+(19:50:21) chelo failed Interact check | interact block through walls ,o=DIRT b=FURNACE (+1) | vl:1 ping:122 tps:20.0 component: interact.through
+(20:52:33) JustStudio failed Speed check | suspicious movement:0.287 expect:0.2873 predict:0.288081042178374 fr:0.6 tag:a (+9) | vl:9 ping:41 tps:20.0 component: speed.main
+(21:01:12) JustStudio failed Fly check | ground spoof | tag: ai-wl | loc: -202.689,73.0,-1071.474 v:-0.155 (+5) | vl:5 ping:33 tps:20.0 component: fly.fg.wl
+(22:11:40) WerTual failed Chat check | send the same chat content (+1) | vl:1 ping:141 tps:19.75 component: chat.same
+(22:12:01) WerTual failed Chat check | send the same chat content (+1) | vl:1 ping:141 tps:19.92 component: chat.same
+(22:12:30) WerTual failed Chat check | send the same chat content (+1) | vl:1 ping:141 tps:20.0 component: chat.same
+(22:13:30) WerTual failed Speed check | suspicious movement:0.123 expect:0.342 predict:0.12867315182515915vet:0.083 fr:0.6 tag:f (+5) | vl:5 ping:157 tps:20.0 component: speed.main
+(22:13:43) WerTual failed Fly check | ground spoof | tag: ai-wl | loc: -179.483,73.063,-1010.863 v:-0.155 (+5) | vl:5 ping:152 tps:19.99 component: fly.fg.wl
+(22:13:43) WerTual failed Fly check | t: af (+5) | vl:10 ping:152 tps:19.99 component: nofall.air
+(22:14:45) Razer_Adam failed Speed check | suspicious movement:0.45 expect:0.2873 predict:0.2823658811282665 fr:0.6 tag:a (+9) | vl:9 ping:57 tps:20.0 component: speed.main
+(22:15:01) Razer_Adam failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.302 air_t:7 g:-- tag:gn (+5) | vl:5 ping:540 tps:19.99 component: fly.main
+(22:15:01) Razer_Adam failed Fly check | ground spoof | t:fgw a=0.41999998688697815 b=-0.374 (+4) | vl:9 ping:540 tps:19.99 component: fly.fg.w
+(22:15:01) Razer_Adam failed Fly check | t: af (+5) | vl:14 ping:540 tps:19.99 component: nofall.air
+(22:15:04) Razer_Adam failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.302 air_t:7 g:-- tag:gn (+5) | vl:19 ping:540 tps:19.94 component: fly.main
+(22:18:06) Razer_Adam failed Speed check | suspicious movement:1.008 expect:0.6844850335119212 predict:0.1786880570557937 gt:2 fr:0.6 tag:b (+8) | vl:8 ping:75 tps:19.99 component: speed.main
+(22:18:06) Razer_Adam failed Speed check | suspicious movement:0.503 expect:0.429 predict:0.7197538074852723 gt:3 fr:0.6 tag:b (+8) | vl:16 ping:75 tps:19.99 component: speed.main
+(22:18:55) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.516 a:12 (+4) | vl:4 ping:63 tps:19.99 component: speed.noslow.limit
+(22:19:20) Razer_Adam failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:60 tps:19.99 component: fly.main
+(22:19:48) Razer_Adam failed Speed check | move no slow down while using/sneaking: m:0.15 a:14 (+4) | vl:4 ping:58 tps:20.0 component: speed.noslow.limit
+(22:19:54) WerTual failed FastUse check | fast use (+0) | vl:0 ping:151 tps:20.0 component: fastuse
+(22:19:57) WerTual failed Fly check | suspicious movement:-0.155 predict:-0.377 lm:-0.304 hard_pred:-0.377 sev_pred:-0.078 air_t:4 g:-- tag:gn (+5) | vl:5 ping:151 tps:19.99 component: fly.main
+(22:20:44) WerTual failed KillAura check | (angle) suspicious angle:[155.01968, 155.01968] (+8) | vl:8 ping:144 tps:20.0 component: ka.angle
+(22:21:07) WerTual failed Speed check | suspicious movement:0.863 expect:0.7443985420390351 predict:1.441917826200956 fr:0.6 tag:ea (+5) | vl:5 ping:142 tps:20.0 component: speed.main
+(22:21:07) WerTual failed Speed check | suspicious movement:0.782 expect:0.7327526766491337 predict:0.8106770096550509 fr:0.6 tag:ea (+5) | vl:10 ping:142 tps:20.0 component: speed.main
+(22:21:14) WerTual failed Speed check | (strafe) change direction in mid-air:0.231 a:108.753 lm:0.266 (+5) | vl:15 ping:142 tps:19.99 component: speed.strafe
+(22:21:19) WerTual failed Speed check | suspicious movement:0.833 expect:0.7052785536859474 predict:1.4011044187265809 fr:0.6 tag:ea (+5) | vl:20 ping:142 tps:19.97 component: speed.main
+(22:21:19) WerTual failed Speed check | suspicious movement:0.768 expect:0.6971534862218614 predict:0.7837149036636 fr:0.6 tag:ea (+5) | vl:25 ping:142 tps:19.97 component: speed.main
+(22:21:19) WerTual failed Speed check | suspicious movement:0.709 expect:0.6897596746164548 predict:0.7241921350846913 fr:0.6 tag:ea (+5) | vl:30 ping:142 tps:19.97 component: speed.main
+(22:21:19) WerTual failed Speed check | suspicious movement:0.619 expect:0.6039084901182702 predict:0.624891498697286 fr:0.6 tag:eb (+6) | vl:36 ping:142 tps:19.97 component: speed.main
+(22:21:22) WerTual failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.248 air_t:3 g:-- tag:gn (+5) | vl:5 ping:142 tps:19.99 component: fly.main
+(22:21:36) WerTual failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28823551069795683 fr:0.6 tag:a (+9) | vl:9 ping:141 tps:19.96 component: speed.main
+(22:21:37) WerTual failed Speed check | suspicious movement:0.873 expect:0.8291498409864856 predict:1.4774481939072681 fr:0.6 tag:ea (+5) | vl:14 ping:141 tps:19.96 component: speed.main
+(22:21:41) WerTual failed FastUse check | fast use (+0) | vl:0 ping:141 tps:20.0 component: fastuse
+(22:22:16) WerTual failed Fly check | suspicious movement:-0.072 predict:-0.302 lm:-0.228 hard_pred:-0.302 sev_pred:-0.374 air_t:9 g:-- tag:gn (+5) | vl:5 ping:140 tps:19.98 component: fly.main
+(22:22:17) WerTual failed Fly check | suspicious movement:-0.374 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:-- tag:gn (+5) | vl:10 ping:140 tps:19.99 component: fly.main
+(22:22:25) WerTual failed Fly check | suspicious movement:-0.075 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.374 air_t:10 g:-- tag:gn (+5) | vl:5 ping:140 tps:20.0 component: fly.main
+(22:22:34) Razer_Adam failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.078 air_t:8 g:-- tag:gn (+5) | vl:5 ping:59 tps:20.0 component: fly.main
+(22:22:43) WerTual failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:10 ping:140 tps:20.0 component: fly.main
+(22:22:46) WerTual failed Speed check | suspicious movement:0.371 ve:0.42 tag:gs (+5) | vl:5 ping:140 tps:20.0 component: speed.ground
+(22:22:46) WerTual failed Speed check | suspicious movement:0.501 ve:0.42 tag:gs (+5) | vl:10 ping:140 tps:19.98 component: speed.ground
+(22:22:47) WerTual failed KillAura check | post attack: 8 (+1) | vl:1 ping:140 tps:19.98 component: ka.post
+(22:22:47) WerTual failed Fly check | ground spoof | send illegal ground moving packets | location: -1214.856,62.024,223.051 | block: AIR,AIR (+5) | vl:15 ping:140 tps:19.98 component: fly.fg.ground
+(22:22:47) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 0.5320292520400471 val3: true (+10) | vl:25 ping:140 tps:19.98 component: nofall.packet
+(22:22:48) WerTual failed Speed check | suspicious movement:0.418 ve:0.42 tag:gs (+5) | vl:15 ping:140 tps:19.98 component: speed.ground
+(22:22:49) WerTual failed Speed check | suspicious movement:0.46 ve:0.42 tag:gs (+5) | vl:20 ping:140 tps:19.92 component: speed.ground
+(22:22:49) WerTual failed Speed check | suspicious movement:0.374 ve:0.42 tag:gs (+5) | vl:25 ping:140 tps:19.92 component: speed.ground
+(22:22:50) WerTual failed Speed check | suspicious movement:0.327 ve:0.42 tag:gs (+5) | vl:30 ping:140 tps:19.92 component: speed.ground
+(22:22:50) WerTual failed Fly check | ground spoof | send illegal ground moving packets | location: -1209.879,62.024,225.674 | block: AIR,AIR (+5) | vl:30 ping:140 tps:19.92 component: fly.fg.ground
+(22:22:50) WerTual failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 0.45546773958503195 val3: true (+10) | vl:40 ping:140 tps:19.92 component: nofall.packet
+(22:22:50) WerTual failed Speed check | suspicious movement:0.298 ve:0.42 tag:gs (+5) | vl:35 ping:140 tps:20.0 component: speed.ground
+(22:22:51) WerTual failed Speed check | suspicious movement:0.387 ve:0.42 tag:gs (+5) | vl:40 ping:140 tps:20.0 component: speed.ground
+(22:22:51) WerTual failed Speed check | suspicious movement:0.404 ve:0.42 tag:gs (+5) | vl:45 ping:140 tps:20.0 component: speed.ground
+(22:22:52) WerTual failed Speed check | suspicious movement:0.434 ve:0.42 tag:gs (+5) | vl:5 ping:140 tps:20.0 component: speed.ground
+(22:22:52) WerTual failed Speed check | suspicious movement:0.318 ve:0.42 tag:gs (+5) | vl:10 ping:140 tps:20.0 component: speed.ground
+(22:22:53) WerTual failed Speed check | suspicious movement:0.345 ve:0.42 tag:gs (+5) | vl:15 ping:140 tps:20.0 component: speed.ground
+(22:22:54) WerTual failed Speed check | suspicious movement:0.364 ve:0.42 tag:gs (+5) | vl:20 ping:140 tps:20.0 component: speed.ground
+(22:22:55) WerTual failed Speed check | suspicious movement:0.364 ve:0.42 tag:gs (+5) | vl:25 ping:140 tps:19.99 component: speed.ground
+(22:22:55) WerTual failed Speed check | suspicious movement:0.386 ve:0.42 tag:gs (+5) | vl:30 ping:140 tps:19.99 component: speed.ground
+(22:22:56) WerTual failed Fly check | ground spoof | send illegal ground moving packets | location: -1211.616,62.249,226.828 | block: AIR,AIR (+5) | vl:5 ping:140 tps:19.99 component: fly.fg.ground
+(22:22:56) WerTual failed Fly check | t: af (+5) | vl:10 ping:140 tps:19.99 component: nofall.air
+(22:22:56) WerTual failed Speed check | suspicious movement:0.376 ve:0.42 tag:gs (+5) | vl:35 ping:140 tps:19.99 component: speed.ground
+(22:22:56) WerTual failed Speed check | suspicious movement:0.471 ve:0.42 tag:gs (+5) | vl:40 ping:140 tps:20.0 component: speed.ground
+(22:22:57) WerTual failed Speed check | suspicious movement:0.471 ve:0.42 tag:gs (+5) | vl:45 ping:140 tps:20.0 component: speed.ground
+(22:22:57) WerTual failed Speed check | suspicious movement:0.471 ve:0.42 tag:gs (+5) | vl:50 ping:140 tps:20.0 component: speed.ground
+(22:23:03) WerTual failed Speed check | suspicious movement:0.447 ve:0.42 tag:gs (+5) | vl:55 ping:139 tps:19.99 component: speed.ground
+(22:23:04) WerTual failed Speed check | suspicious movement:0.444 ve:0.42 tag:gs (+5) | vl:60 ping:139 tps:19.99 component: speed.ground
+(22:23:04) WerTual failed Speed check | suspicious movement:0.202 ve:0.42 tag:gs (+5) | vl:65 ping:139 tps:20.0 component: speed.ground
+(22:23:08) WerTual failed Speed check | suspicious movement:0.471 ve:0.42 tag:gs (+5) | vl:70 ping:139 tps:20.0 component: speed.ground
+(22:23:08) WerTual failed Speed check | suspicious movement:0.399 ve:0.42 tag:gs (+5) | vl:75 ping:139 tps:20.0 component: speed.ground
+(22:23:09) WerTual failed Speed check | suspicious movement:0.208 ve:0.42 tag:gs (+5) | vl:80 ping:139 tps:20.0 component: speed.ground
+(22:23:11) WerTual failed Speed check | suspicious movement:0.203 ve:0.42 tag:gs (+5) | vl:85 ping:139 tps:20.0 component: speed.ground
+(22:23:12) WerTual failed Speed check | suspicious movement:0.445 ve:0.42 tag:gs (+5) | vl:90 ping:139 tps:20.0 component: speed.ground
+(22:23:13) WerTual failed Speed check | suspicious movement:0.211 ve:0.42 tag:gs (+5) | vl:95 ping:139 tps:19.99 component: speed.ground
+(22:23:15) WerTual failed Speed check | suspicious movement:0.483 ve:0.42 tag:gs (+5) | vl:100 ping:139 tps:20.0 component: speed.ground
+(22:23:15) WerTual failed Speed check | suspicious movement:0.471 ve:0.42 tag:gs (+5) | vl:105 ping:139 tps:20.0 component: speed.ground
+(22:23:16) WerTual failed Speed check | suspicious movement:0.471 ve:0.42 tag:gs (+5) | vl:110 ping:139 tps:20.0 component: speed.ground
+(22:23:16) WerTual failed Speed check | suspicious movement:0.468 ve:0.42 tag:gs (+5) | vl:115 ping:140 tps:19.99 component: speed.ground
+(22:23:17) WerTual failed Speed check | suspicious movement:0.441 ve:0.42 tag:gs (+5) | vl:120 ping:140 tps:19.99 component: speed.ground
+(22:23:17) WerTual failed Speed check | suspicious movement:0.441 ve:0.42 tag:gs (+5) | vl:125 ping:140 tps:19.99 component: speed.ground
+(22:23:37) WerTual failed Fly check | suspicious movement:-0.078 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:-- tag:gn (+5) | vl:5 ping:140 tps:20.0 component: fly.main
+(22:23:43) Razer_Adam failed Inventory check | inventory move | simple (+2) | vl:2 ping:59 tps:20.0 component: inv.move
+(22:23:44) Razer_Adam failed Inventory check | inventory move | simple (+2) | vl:4 ping:59 tps:20.0 component: inv.move
+(22:24:23) WerTual failed FastBow check | t: bow aim bot [s] a=48.858642578125 (+2) | vl:2 ping:138 tps:19.99 component: bow.aim.1
+(22:24:28) WerTual failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.165 air_t:3 g:-- tag:gn (+5) | vl:5 ping:138 tps:19.98 component: fly.main
+(22:24:44) WerTual failed KillAura check | (angle) suspicious angle:[112.64969, 155.01968] (+8) | vl:8 ping:138 tps:20.0 component: ka.angle
+(22:24:54) WerTual failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.165 air_t:3 g:-- tag:gn (+5) | vl:5 ping:137 tps:20.0 component: fly.main
+(22:25:05) WerTual failed Fly check | suspicious movement:-0.078 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.248 air_t:2 g:-- tag:gn (+5) | vl:10 ping:141 tps:20.0 component: fly.main
+(22:25:07) WerTual failed FastUse check | fast use (+0) | vl:0 ping:141 tps:20.0 component: fastuse
+(22:25:07) Razer_Adam failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:62 tps:20.0 component: fly.main
+(22:25:12) WerTual failed Speed check | suspicious movement:0.819 expect:0.6676477133465784 predict:1.419480754738898 fr:0.6 tag:ea (+5) | vl:5 ping:141 tps:19.98 component: speed.main
+(22:25:12) WerTual failed Speed check | suspicious movement:0.729 expect:0.6585975739352505 predict:0.7711383445571381 fr:0.6 tag:ea (+5) | vl:10 ping:141 tps:19.98 component: speed.main
+(22:25:21) WerTual failed FastUse check | fast use (+0) | vl:0 ping:141 tps:20.0 component: fastuse
+(22:25:42) WerTual failed KillAura check | (angle) suspicious angle:[99.34757, 155.01968] (+8) | vl:8 ping:141 tps:20.0 component: ka.angle
+(22:25:46) WerTual failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.165 air_t:3 g:-- tag:gn (+5) | vl:5 ping:140 tps:19.99 component: fly.main
+(22:25:54) WerTual failed KillAura check | (angle) suspicious angle:[88.66811, 155.01968] (+8) | vl:8 ping:140 tps:20.0 component: ka.angle
+(22:25:59) WerTual failed Fly check | suspicious movement:-0.152 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.445 air_t:10 g:-- tag:gn (+5) | vl:5 ping:140 tps:20.0 component: fly.main
+(22:26:03) WerTual failed Fly check | suspicious movement:-0.072 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.302 air_t:8 g:-- tag:gn (+5) | vl:10 ping:140 tps:19.98 component: fly.main
+(22:26:04) WerTual failed Fly check | suspicious movement:-0.445 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.333 air_t:2 g:-- tag:gn (+5) | vl:15 ping:140 tps:20.0 component: fly.main
+(22:26:07) WerTual failed Fly check | suspicious movement:-0.152 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.374 air_t:10 g:-- tag:gn (+5) | vl:20 ping:140 tps:20.0 component: fly.main
+(22:26:11) WerTual failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.42 air_t:1 g:-- tag:gn (+5) | vl:25 ping:140 tps:19.99 component: fly.main
+(22:26:12) WerTual failed Fly check | suspicious movement:-0.078 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:0.333 air_t:2 g:-- tag:gn (+5) | vl:30 ping:140 tps:19.99 component: fly.main
+(22:26:34) WerTual failed Fly check | suspicious movement:-0.075 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.374 air_t:10 g:-- tag:gn (+5) | vl:5 ping:140 tps:19.99 component: fly.main
+(22:26:41) WerTual failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.165 air_t:3 g:-- tag:gn (+5) | vl:10 ping:140 tps:20.0 component: fly.main
+(22:26:47) WerTual failed Fly check | suspicious movement:-0.152 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.374 air_t:10 g:-- tag:gn (+5) | vl:15 ping:139 tps:19.97 component: fly.main
+(22:26:49) WerTual failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.165 air_t:3 g:-- tag:gn (+5) | vl:20 ping:139 tps:19.99 component: fly.main
+(22:26:55) WerTual failed Fly check | suspicious movement:-0.155 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.447 air_t:4 g:-- tag:gn (+5) | vl:5 ping:139 tps:19.99 component: fly.main
+(22:28:24) Razer_Adam failed Fly check | ground spoof | tag: ai-wl | loc: -269.65,67.0,-1051.775 v:-0.155 (+5) | vl:5 ping:58 tps:20.0 component: fly.fg.wl
+(22:28:29) WerTual failed Fly check | suspicious movement:-0.075 predict:-0.374 lm:-0.302 hard_pred:-0.374 sev_pred:-0.374 air_t:10 g:-- tag:gn (+5) | vl:5 ping:139 tps:20.0 component: fly.main
+(22:28:33) WerTual failed Fly check | suspicious movement:-0.301 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:10 ping:139 tps:20.0 component: fly.main
+(22:28:45) WerTual failed Fly check | suspicious movement:-0.078 predict:0.333 lm:0.42 hard_pred:0.333 sev_pred:0.333 air_t:1 g:-- tag:gn (+5) | vl:15 ping:139 tps:19.99 component: fly.main
+(22:28:50) Razer_Adam failed Fly check | suspicious movement:-0.162 predict:-0.582 lm:-0.514 hard_pred:-0.582 sev_pred:-0.582 air_t:12 g:-- tag:gn (+5) | vl:10 ping:58 tps:20.0 component: fly.main
+(22:28:51) Razer_Adam failed Fly check | suspicious movement:-0.024 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.228 air_t:8 g:-- tag:gn (+5) | vl:15 ping:58 tps:20.0 component: fly.main
+(22:29:53) Razer_Adam failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:5 ping:55 tps:20.0 component: fly.main
+(22:30:13) Razer_Adam failed Fly check | suspicious movement:-0.121 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.078 air_t:11 g:-- tag:gn (+5) | vl:10 ping:58 tps:20.0 component: fly.main
+(23:11:30) _DIBILLO_ failed Chat check | send the same chat content (+1) | vl:1 ping:76 tps:20.0 component: chat.same

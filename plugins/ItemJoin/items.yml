@@ -1,0 +1,58 @@
+items-Version: 6
+items-Delay: 2
+items-Overwrite: false
+items-Spamming: false
+items-RestrictCount: false
+items:
+  menu-item:
+    id: BOOK
+    slot: 8
+    data-value: 0
+    name: '&5&k|&d&k|&5&k|&f Меню &5&k|&d&k|&5&k|'
+    lore:
+      - '&c‣ &7Kликните, если хотите узнать информацию'
+    commands:
+      multi-click:
+        - 'message: &7&l<&f&l!&7&l> &7Открытие меню...'
+        - 'player: menu'
+    commands-type: interact
+    commands-cooldown: 2
+    itemflags: death-drops, hide-attributes, cancel-events, inventory-modify
+    triggers: join, respawn, world-change
+    permission-node: 'moon.menu.user'
+    enabled-worlds: world, world_nether, world_the_end
+  # donate-item:
+    # id: NAME_TAG
+    # slot: 1
+    # data-value: 0
+    # name: '&5&k|&d&k|&5&k|&a Донат &5&k|&d&k|&5&k|'
+    # lore:
+      # - '&c‣ &7Kликни, если хотите узнать информацию'
+    # commands:
+      # multi-click:
+        # - 'message: &7[&6&li&7] &b>> &7Открытие меню...'
+        # - 'player: donate'
+    # commands-type: interact
+    # itemflags: death-drops, hide-attributes, cancel-events
+    # triggers: join, respawn, world-change
+    # permission-node: 'universal.menu.user'
+    # enabled-worlds: world, world_nether, world_the_end
+  # fun-item:
+    # id: FIREWORK
+    # slot: 2
+    # data-value: 0
+    # name: '&5&k|&d&k|&5&k|&e Плюшки &5&k|&d&k|&5&k|'
+    # lore:
+      # - '&c‣ &7Kликни, для открытия меню'
+    # commands:
+      # multi-click:
+        # - 'message: &7[&6&li&7] &b>> &7Открытие меню...'
+        # - 'player: fun'
+    # commands-type: interact
+    # commands-cooldown: 2
+    # cooldown-message: '&7[&6&li&7] &b>> &7Пожалуйста, подождите &a%timeleft% &7секунд, прежде чем открыть меню снова..'
+    # itemflags: death-drops, unbreakable, hide-attributes, cancel-events
+    # triggers: join, respawn, world-change
+    # permission-node: 'universal.menu.user'
+    # enabled-worlds: world, world_nether, world_the_end    
+

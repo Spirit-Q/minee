@@ -1,0 +1,23 @@
+lastAccountName: wither
+timestamps:
+  login: 1624607882117
+  lastteleport: 1624576224423
+  kits:
+    default: 1624576192277
+  logout: 1624607926188
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -191.68036447033728
+  y: 68.0
+  z: -949.6032200650612
+  yaw: 28.840628
+  pitch: 25.649946
+money: '93223.0'
+logoutlocation:
+  world: world
+  x: -188.56047252582917
+  y: 72.0
+  z: -998.0488827301866
+  yaw: 57.033447
+  pitch: -12.000128

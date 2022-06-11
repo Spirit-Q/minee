@@ -1,0 +1,68 @@
+mob-arena-drops-enabled: false
+money:
+  material: GOLD_NUGGET
+  different-levels-enabled: true
+  different-levels:
+    lo:
+      material: GOLD_NUGGET
+    med:
+      min: 13
+      max: 17
+      material: GOLD_NUGGET
+    hi:
+      material: GOLD_NUGGET
+send-messages: true
+hopper-pickup-money: false
+whole-integer: false
+use-permissions: false
+shift-for-money: false
+drop-negative-money: false
+multiply-ground-money: false
+particle:
+  enabled: true
+  per-mob: false
+  type: FLAME
+  offset-x:
+    min: -1.0
+    max: 1.0
+  offset-y:
+    min: -1.0
+    max: 1.0
+  amount: 5
+  id: 0
+  data: 0
+  speed: 0.1
+  radius: 15
+sound:
+  enabled: false
+  per-mob: false
+  type: UI_TOAST_CHALLENGE_COMPLETE
+  volume: 5.0
+  pitch: 0.0
+pickup-sound:
+  enabled: false
+  type: UI_TOAST_CHALLENGE_COMPLETE
+  volume: 5.0
+  pitch: 0.0
+message:
+  title:
+    enabled: false
+    message: '&7Вы подобрали'
+  subtitle:
+    enabled: false
+    message: '&f$&e%money%&7!'
+enabled-worlds:
+- world
+- world_nether
+- world_the_end
+disabled-regions:
+- region1
+- region2
+multipliers:
+  enabled: true
+  multipliers:
+    Master: 2
+    Guardian: 2
+    Ghast: 2
+    Wither: 3
+enable-worldguard: false

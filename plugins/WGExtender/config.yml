@@ -1,0 +1,60 @@
+claim:
+  vertexpand:
+    enabled: false
+  blocklimits:
+    enabled: true
+    limits:
+      default: 25000
+      iron: 60000
+      blaze: 75000
+      gold: 100000
+      elder: 125000
+      wither: 150000
+      dragon: 150000
+      moon: 250000
+      youtube: 250000
+      helper: 250000
+      moder: 250000
+regionprotect:
+  flow:
+    lava:
+      enabled: true
+    water:
+      enabled: false
+    otherliquid:
+      enabled: false
+  ignitebyplayer:
+    enabled: true
+  fire:
+    spread:
+      toregion:
+        enabled: false
+      inregion:
+        enabled: false
+    burn:
+      enabled: false
+  explosion:
+    block:
+      enabled: false
+    entity:
+      enabled: false
+  pistonmove:
+    enabled: false
+autoflags:
+  enabled: true
+  flags:
+    pvp: allow
+    lightning: DENY
+restrictcommands:
+  enabled: true
+  commands:
+  - warp set
+  - warp pset
+  - rg info
+  - sethome
+  - warp create
+  - warp preate
+extendedwewand:
+  enabled: false
+misc:
+  pvpmode: allow

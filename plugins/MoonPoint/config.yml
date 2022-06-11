@@ -1,0 +1,8 @@
+# Плагин модифицировал unfiX
+# VK: vk.com/unfix1337
+
+distance: 5
+message:
+  longDistance: '&7&l<&f&l!&7&l> &7Вы слишком далеко от аукциона - &f/warp auc'
+  success: '&7&l<&f&l!&7&l> &7Поинт аукциона установлен. [&fMOONPIXEL&7]'
+location: world,-191.4436843825283,73.0625,-997.4822300426605

@@ -1,0 +1,733 @@
+(07:46:46) jeka4651 failed Speed check | t: spin (+1) | vl:1 ping:42 tps:19.99 component: speed.spin
+(07:46:53) jeka4651 failed Speed check | t: spin (+1) | vl:2 ping:56 tps:20.0 component: speed.spin
+(07:47:47) jeka4651 failed Speed check | t: spin (+1) | vl:1 ping:187 tps:19.95 component: speed.spin
+(07:47:47) jeka4651 failed Speed check | t: spin (+1) | vl:2 ping:187 tps:19.95 component: speed.spin
+(07:48:44) jeka4651 failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -1.8244679497883562 ~ -0.09999999999999432 ~ 63.05 (+5) | vl:5 ping:129 tps:19.99 component: jesus.solid
+(07:48:44) jeka4651 failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -1.8244679497883562 ~ 0.09999999999999432 ~ 62.95 (+5) | vl:10 ping:129 tps:19.99 component: jesus.solid
+(07:48:44) jeka4651 failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -1.8663786271174325 ~ -0.09999999999999432 ~ 63.05 (+5) | vl:15 ping:129 tps:19.99 component: jesus.solid
+(07:48:44) jeka4651 failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -1.9074510916993102 ~ 0.09999999999999432 ~ 62.95 (+5) | vl:20 ping:129 tps:19.99 component: jesus.solid
+(07:48:44) jeka4651 failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -1.9477021077729453 ~ -0.09999999999999432 ~ 63.05 (+5) | vl:25 ping:129 tps:19.99 component: jesus.solid
+(07:48:44) jeka4651 failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -1.9477021077729453 ~ 0.09999999999999432 ~ 62.95 (+5) | vl:30 ping:0 tps:19.99 component: jesus.solid
+(07:48:54) jeka4651 failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -1.2103924095339562 ~ -0.1412518972330261 ~ 63.06285189570715 (+5) | vl:5 ping:0 tps:20.0 component: jesus.solid
+(07:49:01) jeka4651 failed Speed check | t: spin (+1) | vl:1 ping:0 tps:19.99 component: speed.spin
+(07:49:01) jeka4651 failed Speed check | t: spin (+1) | vl:2 ping:0 tps:19.99 component: speed.spin
+(07:50:37) jeka4651 failed Speed check | t: spin (+1) | vl:1 ping:87 tps:19.99 component: speed.spin
+(07:50:39) jeka4651 failed Fly check | ground spoof | tag: fake air packet | at: -4989.134,62.0,1542.824 t: -4986.5,63.0,1530.5 (+7) | vl:7 ping:87 tps:20.0 component: fly.fg.air
+(07:50:39) jeka4651 failed Speed check | suspicious movement:0.98 expect:0.365 predict:0.14143398572163263 fr:0.6 tag:ea (+5) | vl:6 ping:87 tps:20.0 component: speed.main
+(07:50:39) jeka4651 failed Speed check | suspicious movement:0.98 expect:0.365 predict:0.9173000524243269 fr:0.6 tag:ea (+5) | vl:11 ping:87 tps:20.0 component: speed.main
+(07:50:39) jeka4651 failed Speed check | suspicious movement:0.98 expect:0.365 predict:0.9173000524243269 fr:0.6 tag:ea (+5) | vl:16 ping:87 tps:20.0 component: speed.main
+(07:50:55) jeka4651 failed Speed check | t: spin (+1) | vl:1 ping:88 tps:20.0 component: speed.spin
+(07:51:44) MorozovJeka failed Speed check | t: spin (+1) | vl:1 ping:0 tps:20.0 component: speed.spin
+(07:51:49) MorozovJeka failed Speed check | suspicious movement:0.98 expect:0.40499999999999997 predict:0.28642184842305657 fr:0.6 tag:ea (+5) | vl:6 ping:0 tps:20.0 component: speed.main
+(07:52:39) Jeka1995 failed Speed check | suspicious movement:0.98 expect:0.40499999999999997 predict:0.2839882919899801 fr:0.6 tag:ea (+5) | vl:5 ping:0 tps:19.59 component: speed.main
+(07:52:39) Jeka1995 failed Speed check | suspicious movement:0.98 expect:0.40499999999999997 predict:0.9172819804190017 fr:0.6 tag:ea (+5) | vl:10 ping:0 tps:19.59 component: speed.main
+(08:24:21) MankaGrief failed Interact check | interact block through walls ,o=PRISMARINE b=CHEST (+1) | vl:1 ping:44 tps:20.0 component: interact.through
+(08:24:45) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:54 tps:19.99 component: speed.spin
+(08:25:22) MankaGrief failed Fly check | suspicious movement:-0.082 predict:-0.155 air_t:1 g:-- tag:gn (+5) | vl:5 ping:60 tps:20.0 component: fly.main
+(08:25:39) MankaGrief failed Fly check | suspicious movement:-0.082 predict:-0.155 air_t:1 g:-- tag:gn (+5) | vl:10 ping:85 tps:19.99 component: fly.main
+(08:25:39) ADADAA failed Fly check | suspicious movement:0.02 predict:-0.078 air_t:12 tag:m1 (+10) | vl:10 ping:54 tps:19.99 component: fly.main
+(08:27:03) MankaGrief failed Fly check | ground spoof | tag: ai-wl | loc: 5499.325,92.5,-7886.274 v:-0.078 (+5) | vl:5 ping:85 tps:20.0 component: fly.fg.wl
+(08:28:21) MankaGrief failed FastHeal check | regen health too fast | difficulty: 3 delay: 436 protocol_ver: 12 (+0) | vl:0 ping:73 tps:19.98 component: heal
+(08:31:48) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:68 tps:19.98 component: fastuse
+(08:32:28) MemasGelya failed FastBow check | fast bow (+0) | vl:0 ping:143 tps:19.99 component: fastbow
+(08:33:21) MankaGrief failed Speed check | (strafe) change direction in mid-air:0.251 a:373.74 lm:0.236 (+5) | vl:5 ping:70 tps:19.99 component: speed.strafe
+(08:33:52) MankaGrief failed Fly check | suspicious movement:-0.078 predict:-0.197 air_t:12 g:-- tag:gn (+5) | vl:5 ping:72 tps:19.99 component: fly.main
+(08:34:28) MankaGrief failed Fly check | (levitation) move unexpected: -0.04 <> 0.004 (+5) | vl:5 ping:82 tps:20.0 component: fly.levitation
+(08:34:51) MemasGelya failed Fly check | suspicious movement:-0.663 predict:-0.663 air_t:12 tag:g9 (+6) | vl:6 ping:159 tps:19.99 component: fly.main
+(08:34:53) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:159 tps:20.0 component: fastuse
+(08:34:58) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:83 tps:20.0 component: fastuse
+(08:35:06) MemasGelya failed Fly check | suspicious movement:-0.156 predict:-0.156 air_t:11 tag:g9 (+6) | vl:12 ping:152 tps:20.0 component: fly.main
+(08:35:12) MemasGelya failed Fly check | suspicious movement:-0.232 predict:-0.377 air_t:4 g:+- tag:gn (+5) | vl:17 ping:152 tps:20.0 component: fly.main
+(08:35:21) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:79 tps:19.97 component: fastuse
+(08:35:30) MankaGrief failed Fly check | suspicious movement:-0.146 predict:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:78 tps:20.0 component: fly.main
+(08:35:35) MemasGelya failed Fly check | suspicious movement:-0.921 predict:-0.921 air_t:12 tag:g9 (+6) | vl:6 ping:143 tps:19.93 component: fly.main
+(08:35:51) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:79 tps:19.96 component: fastuse
+(08:35:56) MemasGelya failed Fly check | suspicious movement:0.003 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:142 tps:20.0 component: fly.main
+(08:36:03) MankaGrief failed Fly check | ground spoof | tag: ai-wl | loc: 4901.776,81.0,-7298.622 v:-0.078 (+5) | vl:5 ping:82 tps:19.98 component: fly.fg.wl
+(08:36:07) MankaGrief failed Fly check | ground spoof | tag: ai-wl | loc: 4901.635,81.0,-7300.318 v:-0.155 (+5) | vl:10 ping:82 tps:19.94 component: fly.fg.wl
+(08:36:11) MankaGrief failed Fly check | ground spoof | tag: ai-wl | loc: 4879.33,86.0,-7300.17 v:-0.078 (+5) | vl:15 ping:84 tps:19.96 component: fly.fg.wl
+(08:36:41) MemasGelya failed Fly check | suspicious movement:-0.921 predict:-0.921 air_t:12 tag:g9 (+6) | vl:6 ping:139 tps:19.99 component: fly.main
+(08:36:53) MemasGelya failed Fly check | suspicious movement:-0.166 predict:-0.078 air_t:12 g:++ tag:gn (+5) | vl:5 ping:140 tps:19.9 component: fly.main
+(08:37:27) MemasGelya failed Fly check | suspicious movement:0.0 predict:-1.195 air_t:12 tag:m4 (+10) | vl:10 ping:141 tps:20.0 component: fly.main
+(08:37:36) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:140 tps:19.99 component: fastuse
+(08:37:42) MankaGrief failed Fly check | suspicious movement:-0.297 predict:-0.231 air_t:2 g:-- tag:gn (+5) | vl:5 ping:72 tps:19.95 component: fly.main
+(08:37:42) MankaGrief failed Fly check | suspicious movement:-0.517 predict:-0.594 air_t:6 g:-- tag:gn (+5) | vl:10 ping:72 tps:19.95 component: fly.main
+(08:38:28) MemasGelya failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:140 tps:19.94 component: fly.main
+(08:39:15) MemasGelya failed Fly check | suspicious movement:-0.172 predict:-0.019 air_t:12 g:-- tag:gn (+5) | vl:5 ping:137 tps:20.0 component: fly.main
+(08:39:17) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:72 tps:19.99 component: fastuse
+(08:39:28) MankaGrief failed Fly check | suspicious movement:-0.146 predict:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:74 tps:19.99 component: fly.main
+(08:39:31) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:74 tps:19.98 component: fastuse
+(08:39:34) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:136 tps:20.0 component: fastuse
+(08:39:53) MankaGrief failed Fly check | ground spoof | tag: ai-wl | loc: 4881.271,117.5,-7291.659 v:-0.078 (+5) | vl:5 ping:70 tps:19.91 component: fly.fg.wl
+(08:39:56) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:137 tps:19.97 component: fastuse
+(08:40:10) MemasGelya failed Fly check | ground spoof | tag: ai-wl | loc: 4877.66,130.0,-7262.367 v:-0.155 (+5) | vl:5 ping:140 tps:19.97 component: fly.fg.wl
+(08:40:15) MemasGelya failed Fly check | suspicious movement:-0.036 predict:-0.304 air_t:3 g:+- tag:gn (+5) | vl:10 ping:140 tps:20.0 component: fly.main
+(08:40:16) MemasGelya failed Fly check | suspicious movement:-0.096 predict:-0.096 air_t:12 tag:g9 (+6) | vl:6 ping:140 tps:19.98 component: fly.main
+(08:40:17) MankaGrief failed Speed check | move no slow down while using/sneaking: m:0.136 a:29 (+4) | vl:4 ping:68 tps:19.99 component: speed.noslow.limit
+(08:40:17) MankaGrief failed Speed check | t: spin (+1) | vl:5 ping:68 tps:19.99 component: speed.spin
+(08:41:36) MankaGrief failed Fly check | ground spoof | tag: ai-wl | loc: 4898.346,72.5,-7307.229 v:-0.078 (+5) | vl:5 ping:70 tps:19.96 component: fly.fg.wl
+(08:42:27) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:73 tps:19.99 component: fastuse
+(08:43:00) MankaGrief failed Fly check | suspicious movement:-0.788 predict:-0.788 air_t:12 tag:g9 (+6) | vl:6 ping:78 tps:19.98 component: fly.main
+(08:43:15) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:76 tps:20.0 component: fastuse
+(08:43:42) MankaGrief failed Fly check | suspicious movement:-0.078 predict:0.248 air_t:2 g:-- tag:gn (+5) | vl:5 ping:75 tps:19.99 component: fly.main
+(08:44:35) MankaGrief failed Fly check | suspicious movement:-0.231 predict:-0.231 air_t:12 tag:g9 (+6) | vl:6 ping:75 tps:19.98 component: fly.main
+(08:45:14) MankaGrief failed Fly check | suspicious movement:-0.166 predict:-0.078 air_t:12 g:++ tag:gn (+5) | vl:5 ping:80 tps:20.0 component: fly.main
+(08:45:19) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:80 tps:19.97 component: fastuse
+(08:45:24) MankaGrief failed Fly check | suspicious movement:-0.166 predict:-0.078 air_t:12 g:++ tag:gn (+5) | vl:5 ping:79 tps:20.0 component: fly.main
+(08:46:05) MankaGrief failed Fly check | suspicious movement:-0.146 predict:-0.034 air_t:12 g:-- tag:gn (+5) | vl:5 ping:75 tps:19.99 component: fly.main
+(08:46:16) MankaGrief failed Interact check | interact block through walls ,o=PURPUR_PILLAR b=CHEST (+1) | vl:1 ping:76 tps:20.0 component: interact.through
+(08:47:33) MankaGrief failed Fly check | suspicious movement:-0.489 predict:-0.489 air_t:12 tag:g9 (+6) | vl:6 ping:71 tps:19.99 component: fly.main
+(08:48:00) MankaGrief failed KillAura check | t: g (+10) | vl:10 ping:73 tps:20.0 component: ka.g
+(08:48:11) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:71 tps:20.0 component: fastuse
+(08:48:15) MankaGrief failed Fly check | suspicious movement:-0.146 predict:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:71 tps:19.97 component: fly.main
+(08:48:34) MankaGrief failed Fly check | suspicious movement:-0.146 predict:-0.034 air_t:12 g:++ tag:gn (+5) | vl:5 ping:71 tps:19.98 component: fly.main
+(08:49:24) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:79 tps:19.92 component: fastuse
+(08:49:25) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=CHEST (+1) | vl:1 ping:59 tps:19.92 component: interact.through
+(08:49:43) MankaGrief failed Fly check | suspicious movement:-0.149 predict:-0.078 air_t:12 g:++ tag:gn (+5) | vl:5 ping:76 tps:19.99 component: fly.main
+(08:50:16) MankaGrief failed Fly check | suspicious movement:-0.078 predict:-0.231 air_t:2 g:-- tag:gn (+5) | vl:5 ping:75 tps:19.97 component: fly.main
+(08:50:54) MankaGrief failed Fly check | suspicious movement:-0.921 predict:-0.921 air_t:12 tag:g9 (+6) | vl:6 ping:75 tps:19.97 component: fly.main
+(08:51:10) MankaGrief failed Fly check | suspicious movement:-0.166 predict:-0.078 air_t:12 g:-+ tag:gn (+5) | vl:11 ping:73 tps:19.98 component: fly.main
+(08:52:04) MankaGrief failed Fly check | suspicious movement:-0.654 predict:-0.654 air_t:12 tag:g9 (+6) | vl:6 ping:69 tps:19.82 component: fly.main
+(08:52:06) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:69 tps:20.0 component: fastuse
+(08:56:07) MankaGrief failed Fly check | suspicious movement:-0.155 predict:0.248 air_t:2 g:-- tag:gn (+5) | vl:5 ping:73 tps:20.0 component: fly.main
+(08:57:19) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:76 tps:20.0 component: fastuse
+(08:58:07) MankaGrief failed Fly check | suspicious movement:-0.146 predict:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:73 tps:19.96 component: fly.main
+(08:58:17) MankaGrief failed Fly check | suspicious movement:-0.666 predict:-0.666 air_t:12 tag:g9 (+6) | vl:6 ping:73 tps:19.94 component: fly.main
+(08:58:21) MankaGrief failed Fly check | suspicious movement:-0.036 predict:-0.304 air_t:3 g:+- tag:gn (+5) | vl:11 ping:73 tps:19.97 component: fly.main
+(08:58:23) MankaGrief failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:16 ping:73 tps:19.99 component: fly.main
+(08:58:24) MankaGrief failed Speed check | (strafe) change direction in mid-air:0.15 a:102.421 lm:0.199 (+5) | vl:5 ping:73 tps:20.0 component: speed.strafe
+(08:59:20) MankaGrief failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:5 ping:72 tps:19.99 component: fly.main
+(09:00:13) _CJLaDoCTb_ failed Speed check | suspicious movement:0.451 expect:0.2873 predict:0.25082576329355444 fr:0.6 tag:a (+9) | vl:9 ping:126 tps:20.0 component: speed.main
+(09:00:17) _CJLaDoCTb_ failed Speed check | (strafe) change direction in mid-air:0.182 a:91.981 lm:0.202 (+5) | vl:5 ping:126 tps:19.96 component: speed.strafe
+(09:01:55) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:1 ping:144 tps:20.0 component: interact.through
+(09:06:50) MemasGelya failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:5 ping:151 tps:19.96 component: fly.main
+(09:07:53) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=SEA_LANTERN b=CHEST (+1) | vl:1 ping:136 tps:19.95 component: interact.through
+(09:08:02) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=TRAPPED_CHEST (+1) | vl:2 ping:136 tps:20.0 component: interact.through
+(09:08:07) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=SMOOTH_BRICK b=CHEST (+1) | vl:3 ping:132 tps:19.98 component: interact.through
+(09:08:44) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=TRAPPED_CHEST (+1) | vl:1 ping:127 tps:20.0 component: interact.through
+(09:08:46) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:2 ping:127 tps:19.98 component: interact.through
+(09:09:13) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=TRAPPED_CHEST (+1) | vl:1 ping:127 tps:19.97 component: interact.through
+(09:09:43) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=TRAPPED_CHEST (+1) | vl:1 ping:131 tps:19.99 component: interact.through
+(09:09:44) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=TRAPPED_CHEST (+1) | vl:2 ping:131 tps:19.99 component: interact.through
+(09:10:10) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=SEA_LANTERN b=CHEST (+1) | vl:1 ping:130 tps:20.0 component: interact.through
+(09:10:14) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=CHEST (+1) | vl:2 ping:130 tps:20.0 component: interact.through
+(09:11:11) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.078 predict:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:212 tps:20.0 component: fly.main
+(09:12:13) MemasGelya failed Speed check | (strafe) change direction in mid-air:0.193 a:132.35 lm:0.273 (+5) | vl:5 ping:138 tps:20.0 component: speed.strafe
+(09:12:35) _CJLaDoCTb_ failed Elytra check | move faster than expect | tag: pt-st | s: 1638 | move: 1.497 expect: 1.123 (+3) | vl:3 ping:145 tps:19.75 component: elytra.xz
+(09:16:04) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:124 tps:19.92 component: fastuse
+(09:16:18) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=52 (+1) | vl:1 ping:147 tps:19.98 component: inv.cs.b
+(09:16:19) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:2 ping:147 tps:19.97 component: inv.cs.b
+(09:17:44) MemasGelya failed Fly check | suspicious movement:-0.078 predict:0.118 air_t:1 g:+- tag:gn (+5) | vl:5 ping:134 tps:19.97 component: fly.main
+(09:17:44) MemasGelya failed Speed check | suspicious movement:0.283 expect:0.392 predict:0.28288366195346565vet:-0.377 fr:0.6 tag:f (+5) | vl:5 ping:134 tps:19.97 component: speed.main
+(09:17:58) MemasGelya failed Fly check | suspicious movement:-0.059 predict:-0.445 air_t:11 g:+- tag:gn (+5) | vl:5 ping:134 tps:19.96 component: fly.main
+(09:18:08) MemasGelya failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:+- tag:gn (+5) | vl:10 ping:133 tps:20.0 component: fly.main
+(09:18:21) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:133 tps:20.0 component: fastuse
+(09:19:03) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:1 ping:129 tps:19.97 component: inv.cs.b
+(09:19:16) _CJLaDoCTb_ failed Fly check | ground spoof | t:fgw a=0.41999998688697815 b=-0.37663049823865513 (+4) | vl:4 ping:130 tps:20.0 component: fly.fg.w
+(09:19:16) _CJLaDoCTb_ failed Fly check | t: af (+5) | vl:9 ping:130 tps:20.0 component: nofall.air
+(09:20:04) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.669 predict:-0.669 air_t:12 tag:g9 (+6) | vl:6 ping:144 tps:19.98 component: fly.main
+(09:20:10) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.04 predict:-0.04 air_t:12 tag:g9 (+6) | vl:12 ping:197 tps:20.0 component: fly.main
+(09:20:26) _CJLaDoCTb_ failed FastBow check | fast bow (+0) | vl:0 ping:178 tps:20.0 component: fastbow
+(09:21:05) MemasGelya failed Speed check | suspicious movement:0.517 tag:gs (+5) | vl:5 ping:138 tps:19.95 component: speed.ground
+(09:21:08) _CJLaDoCTb_ failed Fly check | ground spoof | tag: ai-wl | loc: -7642.849,118.5,-4014.867 v:-0.078 (+5) | vl:5 ping:149 tps:20.0 component: fly.fg.wl
+(09:21:13) _CJLaDoCTb_ failed Fly check | ground spoof | tag: ai-wl | loc: -7643.121,118.0,-4016.339 v:-0.078 (+5) | vl:10 ping:149 tps:19.99 component: fly.fg.wl
+(09:22:21) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:144 tps:20.0 component: fastuse
+(09:22:37) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=2 (+1) | vl:1 ping:209 tps:19.98 component: inv.cs.b
+(09:22:37) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:2 ping:209 tps:19.98 component: inv.cs.b
+(09:23:00) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:173 tps:20.0 component: fastuse
+(09:23:51) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.976 predict:-0.976 air_t:12 tag:g9 (+6) | vl:6 ping:146 tps:19.99 component: fly.main
+(09:23:55) _CJLaDoCTb_ failed Fly check | suspicious movement:-1.51 predict:-1.51 air_t:12 tag:g9 (+6) | vl:12 ping:139 tps:20.0 component: fly.main
+(09:24:04) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.658 predict:-0.658 air_t:12 tag:g9 (+6) | vl:18 ping:139 tps:20.0 component: fly.main
+(09:24:17) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.078 predict:0.248 air_t:12 g:-- tag:gn (+5) | vl:23 ping:136 tps:19.94 component: fly.main
+(09:24:20) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:136 tps:20.0 component: fastuse
+(09:24:45) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.078 predict:-0.155 air_t:12 g:-- tag:gn (+5) | vl:5 ping:130 tps:20.0 component: fly.main
+(09:25:18) _CJLaDoCTb_ failed Fly check | ground spoof | tag: ai-wl | loc: -7646.565,105.0,-4052.678 v:-0.155 (+5) | vl:5 ping:139 tps:19.99 component: fly.fg.wl
+(09:25:31) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.312 predict:-0.312 air_t:12 tag:g9 (+6) | vl:6 ping:139 tps:19.99 component: fly.main
+(09:25:32) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.966 predict:0.165 air_t:3 g:-- tag:gn (+5) | vl:11 ping:139 tps:19.99 component: fly.main
+(09:25:54) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:133 tps:19.98 component: fastuse
+(09:26:59) _CJLaDoCTb_ failed Speed check | suspicious movement:0.869 expect:0.6739408758250266 predict:1.4444646477543914 fr:0.6 tag:ea (+5) | vl:5 ping:142 tps:20.0 component: speed.main
+(09:26:59) _CJLaDoCTb_ failed Speed check | suspicious movement:0.809 expect:0.6632362001201227 predict:0.8165338511539656 fr:0.6 tag:ea (+5) | vl:10 ping:142 tps:20.0 component: speed.main
+(09:26:59) _CJLaDoCTb_ failed Speed check | suspicious movement:0.736 expect:0.653494944947919 predict:0.7616887939523976 fr:0.6 tag:ea (+5) | vl:15 ping:142 tps:20.0 component: speed.main
+(09:26:59) _CJLaDoCTb_ failed Speed check | suspicious movement:0.67 expect:0.6446304024857391 predict:0.6954318218038721 fr:0.6 tag:ea (+5) | vl:20 ping:142 tps:20.0 component: speed.main
+(09:26:59) _CJLaDoCTb_ failed Speed check | suspicious movement:0.592 expect:0.5235636686126734 predict:0.6351379754113513 fr:0.6 tag:eb (+6) | vl:26 ping:142 tps:20.0 component: speed.main
+(09:27:12) _CJLaDoCTb_ failed Inventory check | inventory move | simple (+2) | vl:2 ping:161 tps:19.98 component: inv.move
+(09:27:29) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:154 tps:19.99 component: fastuse
+(09:28:01) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.036 predict:-0.304 air_t:3 g:+- tag:gn (+5) | vl:5 ping:142 tps:19.97 component: fly.main
+(09:28:25) MemasGelya failed Fly check | ground spoof | tag: ai-wl | loc: -7642.349,119.0,-4014.835 v:-0.078 (+5) | vl:5 ping:2175 tps:20.0 component: fly.fg.wl
+(09:28:31) _CJLaDoCTb_ failed FastBow check | t: bow aim bot [s] a=57.99714660644531 (+2) | vl:2 ping:135 tps:19.96 component: bow.aim.1
+(09:29:01) _CJLaDoCTb_ failed Elytra check | move faster than expect | tag: pt-st-s | s: 474 | move: 0.689 expect: 0.008 (+1) | vl:1 ping:143 tps:19.81 component: elytra.xz
+(09:29:01) _CJLaDoCTb_ failed Elytra check | move unexpected: 0.017 -> -0.136 / pb (+2) | vl:3 ping:143 tps:19.81 component: elytra.y
+(09:29:01) _CJLaDoCTb_ failed Fly check | suspicious movement:0.0 predict:-0.062 air_t:12 tag:m4 (+10) | vl:10 ping:143 tps:19.9 component: fly.main
+(09:29:06) _CJLaDoCTb_ failed Elytra check | move faster than expect | tag: pt-st-s | s: 68 | move: 0.319 expect: 0.21 (+1) | vl:4 ping:143 tps:20.0 component: elytra.xz
+(09:29:10) _CJLaDoCTb_ failed Fly check | suspicious movement:-1.125 predict:-1.125 air_t:12 tag:g9 (+6) | vl:16 ping:150 tps:20.0 component: fly.main
+(09:29:19) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:150 tps:20.0 component: fastuse
+(09:29:20) MemasGelya failed Fly check | suspicious movement:-0.355 predict:-0.447 air_t:5 g:+- tag:gn (+5) | vl:5 ping:785 tps:19.97 component: fly.main
+(09:29:35) _CJLaDoCTb_ failed Elytra check | move faster than expect | tag: pt-st | s: 134 | move: 1.016 expect: 0.785 (+3) | vl:3 ping:158 tps:19.98 component: elytra.xz
+(09:29:54) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=52 (+1) | vl:1 ping:150 tps:19.97 component: inv.cs.b
+(09:29:54) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=99 (+1) | vl:2 ping:150 tps:19.97 component: inv.cs.b
+(09:29:54) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=2 (+1) | vl:3 ping:150 tps:19.97 component: inv.cs.b
+(09:30:48) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:148 tps:19.98 component: fastuse
+(09:31:28) _CJLaDoCTb_ failed Speed check | suspicious movement:0.483 expect:0.469 predict:0.3497538277719892 gt:1 fr:0.6 tag:b (+8) | vl:8 ping:134 tps:20.0 component: speed.main
+(09:31:44) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:134 tps:20.0 component: fastuse
+(09:31:51) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.146 predict:-0.078 air_t:12 g:++ tag:gn (+5) | vl:5 ping:134 tps:19.99 component: fly.main
+(09:32:31) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:5 ping:136 tps:19.99 component: fly.levitation
+(09:32:32) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:10 ping:136 tps:20.0 component: fly.levitation
+(09:32:32) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:15 ping:136 tps:20.0 component: fly.levitation
+(09:32:32) _CJLaDoCTb_ failed KillAura check | strange aim (+5) | vl:5 ping:136 tps:20.0 component: ka.aim
+(09:32:32) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:20 ping:136 tps:20.0 component: fly.levitation
+(09:32:32) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:25 ping:136 tps:20.0 component: fly.levitation
+(09:32:32) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:30 ping:136 tps:20.0 component: fly.levitation
+(09:32:32) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:35 ping:136 tps:20.0 component: fly.levitation
+(09:32:33) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:40 ping:136 tps:20.0 component: fly.levitation
+(09:32:33) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:45 ping:136 tps:20.0 component: fly.levitation
+(09:32:33) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:50 ping:136 tps:20.0 component: fly.levitation
+(09:32:33) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:55 ping:136 tps:20.0 component: fly.levitation
+(09:32:33) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:60 ping:136 tps:20.0 component: fly.levitation
+(09:32:33) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:65 ping:136 tps:20.0 component: fly.levitation
+(09:32:34) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:70 ping:136 tps:20.0 component: fly.levitation
+(09:32:34) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:75 ping:136 tps:20.0 component: fly.levitation
+(09:32:34) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:80 ping:136 tps:20.0 component: fly.levitation
+(09:32:34) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:85 ping:136 tps:20.0 component: fly.levitation
+(09:32:34) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:90 ping:136 tps:20.0 component: fly.levitation
+(09:32:34) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:95 ping:136 tps:20.0 component: fly.levitation
+(09:32:34) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:100 ping:136 tps:20.0 component: fly.levitation
+(09:32:35) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:105 ping:136 tps:20.0 component: fly.levitation
+(09:32:35) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:110 ping:136 tps:20.0 component: fly.levitation
+(09:32:35) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:115 ping:136 tps:20.0 component: fly.levitation
+(09:32:35) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:120 ping:136 tps:20.0 component: fly.levitation
+(09:32:35) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:125 ping:136 tps:20.0 component: fly.levitation
+(09:32:35) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:130 ping:136 tps:20.0 component: fly.levitation
+(09:32:36) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:135 ping:136 tps:20.0 component: fly.levitation
+(09:32:36) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:140 ping:136 tps:20.0 component: fly.levitation
+(09:32:36) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:145 ping:136 tps:20.0 component: fly.levitation
+(09:32:36) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:150 ping:136 tps:20.0 component: fly.levitation
+(09:32:36) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:155 ping:136 tps:20.0 component: fly.levitation
+(09:32:37) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:160 ping:136 tps:20.0 component: fly.levitation
+(09:32:37) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:165 ping:136 tps:20.0 component: fly.levitation
+(09:32:37) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:170 ping:136 tps:20.0 component: fly.levitation
+(09:32:37) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:175 ping:136 tps:20.0 component: fly.levitation
+(09:32:37) _CJLaDoCTb_ failed KillAura check | strange aim (+5) | vl:10 ping:136 tps:20.0 component: ka.aim
+(09:32:37) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: 0.0 <> 0.045 (+5) | vl:180 ping:136 tps:20.0 component: fly.levitation
+(09:32:59) _CJLaDoCTb_ failed FastBow check | fast bow (+0) | vl:0 ping:0 tps:20.0 component: fastbow
+(09:33:00) _CJLaDoCTb_ failed FastBow check | fast bow (+0) | vl:0 ping:49 tps:19.95 component: fastbow
+(09:33:45) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.078 predict:0.333 air_t:1 g:-- tag:gn (+5) | vl:5 ping:145 tps:19.94 component: fly.main
+(09:33:54) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:1 ping:145 tps:20.0 component: inv.cs.b
+(09:33:55) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:2 ping:145 tps:20.0 component: inv.cs.b
+(09:35:48) _CJLaDoCTb_ failed Fly check | ground spoof | tag: ai-wl | loc: -7925.827,172.0,-4174.597 v:-0.078 (+5) | vl:5 ping:146 tps:20.0 component: fly.fg.wl
+(09:36:56) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:129 tps:20.0 component: fastuse
+(09:37:10) _CJLaDoCTb_ failed Fly check | (levitation) move unexpected: -0.051 <> 0.01 (+5) | vl:5 ping:128 tps:20.0 component: fly.levitation
+(09:37:14) _CJLaDoCTb_ failed FastBow check | t: bow aim bot [s] a=359.043212890625 (+2) | vl:2 ping:128 tps:20.0 component: bow.aim.1
+(09:37:14) _CJLaDoCTb_ failed FastBow check | t: bow aim bot [r] a=359.043212890625 (+1) | vl:3 ping:128 tps:20.0 component: bot.aim.2
+(09:37:27) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.146 predict:-0.078 air_t:12 g:-- tag:gn (+5) | vl:5 ping:136 tps:20.0 component: fly.main
+(09:37:28) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.869 predict:-0.869 air_t:12 tag:g9 (+6) | vl:11 ping:136 tps:19.97 component: fly.main
+(09:38:43) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:1 ping:133 tps:19.99 component: interact.through
+(10:53:06) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:1 ping:48 tps:19.99 component: inv.cs.b
+(10:53:06) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:2 ping:48 tps:19.99 component: inv.cs.b
+(10:53:06) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:3 ping:48 tps:19.99 component: inv.cs.b
+(10:54:02) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:1 ping:84 tps:19.99 component: interact.through
+(10:54:07) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:2 ping:90 tps:19.99 component: interact.through
+(10:54:37) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=TRAPPED_CHEST (+1) | vl:1 ping:98 tps:20.0 component: interact.through
+(10:54:39) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:2 ping:98 tps:20.0 component: interact.through
+(10:54:46) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=TRAPPED_CHEST (+1) | vl:3 ping:98 tps:20.0 component: interact.through
+(10:55:25) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=TRAPPED_CHEST (+1) | vl:1 ping:108 tps:19.99 component: interact.through
+(10:55:28) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=TRAPPED_CHEST (+1) | vl:2 ping:108 tps:19.98 component: interact.through
+(10:55:41) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=SEA_LANTERN b=CHEST (+1) | vl:3 ping:108 tps:19.95 component: interact.through
+(10:55:43) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=TRAPPED_CHEST (+1) | vl:4 ping:108 tps:20.0 component: interact.through
+(10:55:46) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:5 ping:108 tps:19.94 component: interact.through
+(10:55:52) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:6 ping:108 tps:19.92 component: interact.through
+(10:56:03) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=TRAPPED_CHEST (+1) | vl:1 ping:108 tps:20.0 component: interact.through
+(10:56:10) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=TRAPPED_CHEST (+1) | vl:2 ping:116 tps:19.98 component: interact.through
+(10:56:26) _CJLaDoCTb_ failed Inventory check | inventory move | simple (+2) | vl:2 ping:118 tps:19.97 component: inv.move
+(10:56:26) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=TRAPPED_CHEST (+1) | vl:1 ping:118 tps:19.97 component: interact.through
+(10:56:27) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=TRAPPED_CHEST (+1) | vl:2 ping:118 tps:19.99 component: interact.through
+(10:56:31) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=CHEST (+1) | vl:3 ping:118 tps:19.98 component: interact.through
+(10:57:08) _CJLaDoCTb_ failed FastUse check | fast use (+0) | vl:0 ping:145 tps:20.0 component: fastuse
+(10:57:40) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=TRAPPED_CHEST (+1) | vl:1 ping:135 tps:19.99 component: interact.through
+(10:57:55) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=TRAPPED_CHEST (+1) | vl:2 ping:129 tps:19.98 component: interact.through
+(12:18:07) Sparda88 failed Speed check | suspicious movement:0.481 expect:0.2873 predict:0.2836601830502363 fr:0.6 tag:a (+9) | vl:9 ping:17 tps:20.0 component: speed.main
+(12:18:11) Sparda88 failed HitBox check | attacking entities that are not in view:1.489 type:ENDERMAN vec:-1.455,-0.123,-0.291 hz:0.586 dst:1.214 (+2) | vl:2 ping:30 tps:19.78 component: hb.direction
+(12:19:39) Sparda88 failed HitBox check | attacking entities that are not in view:0.998 type:ENDERMAN vec:0.975,0.015,-0.211 hz:0.486 dst:0.586 (+2) | vl:2 ping:78 tps:19.97 component: hb.direction
+(12:21:00) Sparda88 failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:5 ping:71 tps:19.99 component: fly.main
+(12:24:01) Sparda88 failed Fly check | suspicious movement:-0.098 predict:-0.174 air_t:1 g:-- tag:gn (+5) | vl:5 ping:75 tps:19.97 component: fly.main
+(12:24:01) Sparda88 failed Fly check | suspicious movement:-0.098 predict:-0.174 air_t:2 g:-- tag:gn (+5) | vl:10 ping:75 tps:19.97 component: fly.main
+(12:26:56) Sparda88 failed HitBox check | attacking entities that are not in view:1.116 type:ENDERMAN vec:1.023,-0.243,-0.374 hz:0.553 dst:1.645 (+2) | vl:2 ping:78 tps:20.0 component: hb.direction
+(12:33:50) Sparda88 failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2886741162702752 fr:0.6 tag:a (+9) | vl:9 ping:72 tps:19.92 component: speed.main
+(13:01:57) Sparda88 failed Speed check | suspicious movement:0.346 expect:0.6235 vet:0.094 predict:0.2772926967343169 fr:0.6 tag:d (+8) | vl:8 ping:81 tps:20.0 component: speed.main
+(13:02:49) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:36 tps:19.97 component: fastuse
+(13:03:52) turikhnax failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:110 tps:19.98 component: interact.through
+(13:04:44) turikhnax failed Speed check | fast climb | 0.144 > 0.118 / 20 (+5) | vl:5 ping:101 tps:20.0 component: speed.ladder
+(13:04:44) turikhnax failed Speed check | fast climb | 0.144 > 0.118 / 20 (+5) | vl:10 ping:101 tps:20.0 component: speed.ladder
+(13:06:43) turikhnax failed Interact check | interact block through walls ,o=STONE b=FURNACE (+1) | vl:1 ping:98 tps:19.91 component: interact.through
+(13:08:23) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:92 tps:19.98 component: fastuse
+(13:10:30) Sparda88 failed Fly check | suspicious movement:-0.098 predict:-0.174 air_t:1 g:-- tag:gn (+5) | vl:5 ping:67 tps:19.91 component: fly.main
+(13:10:30) Sparda88 failed Fly check | suspicious movement:-0.098 predict:-0.174 air_t:2 g:-- tag:gn (+5) | vl:10 ping:67 tps:19.91 component: fly.main
+(13:11:34) turikhnax failed Inventory check | inventory move | simple (+2) | vl:2 ping:116 tps:20.0 component: inv.move
+(13:11:39) turikhnax failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:2 g:-- tag:gn (+5) | vl:5 ping:116 tps:19.99 component: fly.main
+(13:12:22) turikhnax failed Fly check | step | p: 1 | m:1.1451067006516382 ev:-0.078 (+8) | vl:8 ping:98 tps:19.92 component: speed.step
+(13:12:22) turikhnax failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:2 g:-- tag:gn (+5) | vl:13 ping:98 tps:19.92 component: fly.main
+(13:12:25) turikhnax failed Fly check | ground spoof | tag: ai-wl | loc: 2078.755,68.05,-369.25 v:-0.078 (+5) | vl:18 ping:98 tps:19.99 component: fly.fg.wl
+(13:12:25) turikhnax failed Fly check | t: af (+5) | vl:23 ping:98 tps:19.99 component: nofall.air
+(13:13:13) Sparda88 failed HitBox check | attacking entities that are not in view:1.667 type:COW vec:-1.169,1.097,-0.457 hz:0.591 dst:1.43 (+2) | vl:2 ping:74 tps:19.94 component: hb.direction
+(13:18:26) MankaGrief failed Fly check | suspicious movement:-0.216 predict:-0.216 air_t:12 tag:g9 (+6) | vl:6 ping:69 tps:19.9 component: fly.main
+(13:18:34) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:69 tps:19.99 component: fastuse
+(13:19:39) MankaGrief failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.288429129681876 fr:0.6 tag:a (+9) | vl:9 ping:71 tps:20.0 component: speed.main
+(13:22:08) MankaGrief failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+4) | vl:4 ping:80 tps:19.96 component: speed.noslow.limit
+(13:24:38) MankaGrief failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:1 ping:79 tps:19.99 component: inv.cs.b
+(13:25:17) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:156 tps:19.97 component: fastuse
+(13:25:42) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.374 air_t:10 g:-- tag:gn (+5) | vl:5 ping:180 tps:19.94 component: fly.main
+(13:25:42) turikhnax failed Fly check | suspicious movement:-0.01 predict:-0.155 air_t:11 g:-- tag:gn (+5) | vl:10 ping:180 tps:19.94 component: fly.main
+(13:26:11) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:266 tps:19.97 component: fastuse
+(13:26:41) turikhnax failed Inventory check | inventory move | simple (+2) | vl:2 ping:192 tps:19.88 component: inv.move
+(13:26:41) turikhnax failed Inventory check | inventory move | simple (+2) | vl:4 ping:192 tps:19.88 component: inv.move
+(13:26:41) turikhnax failed Inventory check | inventory move | simple (+2) | vl:6 ping:192 tps:19.88 component: inv.move
+(13:26:41) turikhnax failed Inventory check | inventory move | simple (+2) | vl:8 ping:192 tps:19.88 component: inv.move
+(13:28:23) MankaGrief failed Interact check | interact block through walls ,o=WORKBENCH b=CHEST (+1) | vl:1 ping:74 tps:20.0 component: interact.through
+(13:29:15) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:72 tps:19.98 component: fastuse
+(13:29:35) turikhnax failed Interact check | interact block through walls ,o=PRISMARINE b=CHEST (+1) | vl:1 ping:115 tps:20.0 component: interact.through
+(13:29:58) MankaGrief failed Inventory check | inventory move | simple (+2) | vl:2 ping:96 tps:19.95 component: inv.move
+(13:31:12) MankaGrief failed Interact check | interact block through walls ,o=PRISMARINE b=CHEST (+1) | vl:1 ping:78 tps:20.0 component: interact.through
+(13:34:46) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:74 tps:19.91 component: speed.spin
+(13:35:04) turikhnax failed Interact check | interact block through walls ,o=PRISMARINE b=CHEST (+1) | vl:1 ping:101 tps:19.93 component: interact.through
+(13:36:19) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=SEA_LANTERN b=CHEST (+1) | vl:1 ping:193 tps:19.98 component: interact.through
+(13:36:50) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:5 ping:103 tps:20.0 component: fly.main
+(13:36:51) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:10 ping:103 tps:19.99 component: fly.main
+(13:37:04) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:15 ping:99 tps:19.99 component: fly.main
+(13:37:27) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:5 ping:94 tps:19.97 component: fly.main
+(13:37:31) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:10 ping:97 tps:20.0 component: fly.main
+(13:38:16) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:1 ping:205 tps:20.0 component: inv.cs.b
+(13:38:16) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=55 (+1) | vl:2 ping:205 tps:20.0 component: inv.cs.b
+(13:38:16) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=3 (+1) | vl:3 ping:205 tps:20.0 component: inv.cs.b
+(13:38:16) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:4 ping:205 tps:20.0 component: inv.cs.b
+(13:38:16) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:5 ping:205 tps:20.0 component: inv.cs.b
+(13:38:17) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=54 (+1) | vl:6 ping:205 tps:19.99 component: inv.cs.b
+(13:38:18) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=52 (+1) | vl:7 ping:200 tps:19.99 component: inv.cs.b
+(13:38:18) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:8 ping:200 tps:19.99 component: inv.cs.b
+(13:38:20) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:9 ping:200 tps:19.95 component: inv.cs.b
+(13:38:49) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=TRAPPED_CHEST (+1) | vl:1 ping:193 tps:20.0 component: interact.through
+(13:38:52) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=TRAPPED_CHEST (+1) | vl:2 ping:193 tps:19.99 component: interact.through
+(13:39:05) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:1 ping:192 tps:19.86 component: inv.cs.b
+(13:39:05) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:2 ping:192 tps:19.86 component: inv.cs.b
+(13:39:05) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:3 ping:192 tps:19.86 component: inv.cs.b
+(13:39:08) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:1 ping:192 tps:20.0 component: inv.cs.b
+(13:39:08) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:2 ping:192 tps:20.0 component: inv.cs.b
+(13:39:08) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:3 ping:192 tps:20.0 component: inv.cs.b
+(13:40:53) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:5 ping:96 tps:20.0 component: fly.main
+(13:41:27) MankaGrief failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:5 ping:122 tps:19.96 component: fly.main
+(13:41:31) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:5 ping:127 tps:20.0 component: fly.main
+(13:41:32) turikhnax failed Fly check | suspicious movement:-0.075 predict:-0.006 air_t:4 g:++ tag:gn (+5) | vl:10 ping:127 tps:20.0 component: fly.main
+(13:41:34) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:15 ping:127 tps:19.98 component: fly.main
+(13:41:41) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-+ tag:gn (+5) | vl:5 ping:127 tps:19.98 component: fly.main
+(13:41:45) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:10 ping:127 tps:20.0 component: fly.main
+(13:41:59) turikhnax failed Interact check | interact block through walls ,o=PRISMARINE b=CHEST (+1) | vl:1 ping:128 tps:20.0 component: interact.through
+(13:42:03) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:15 ping:134 tps:20.0 component: fly.main
+(13:42:11) turikhnax failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:5 ping:134 tps:19.99 component: fly.main
+(13:42:50) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.078 predict:-0.006 air_t:4 g:-- tag:gn (+5) | vl:5 ping:220 tps:19.99 component: fly.main
+(13:42:52) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:83 tps:19.95 component: fastuse
+(13:42:53) turikhnax failed FastUse check | fast use (+0) | vl:0 ping:113 tps:20.0 component: fastuse
+(13:43:01) MankaGrief failed Interact check | interact block through walls ,o=WORKBENCH b=CHEST (+1) | vl:1 ping:83 tps:19.99 component: interact.through
+(13:43:25) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:78 tps:20.0 component: speed.spin
+(13:47:06) MankaGrief failed Speed check | suspicious movement:0.476 expect:0.469 predict:0.34478882120971466 gt:1 fr:0.6 tag:b (+8) | vl:8 ping:90 tps:19.98 component: speed.main
+(13:47:36) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:96 tps:19.93 component: fastuse
+(13:49:00) MankaGrief failed Fly check | suspicious movement:-0.075 predict:-0.302 air_t:9 g:-- tag:gn (+5) | vl:5 ping:86 tps:20.0 component: fly.main
+(13:49:02) MankaGrief failed HitBox check | attacking entities that are not in view:1.048 type:SKELETON vec:0.15,0.127,-1.029 hz:0.631 dst:3.234 (+2) | vl:2 ping:86 tps:19.93 component: hb.direction
+(13:49:18) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:83 tps:20.0 component: fastuse
+(13:49:42) MankaGrief failed Speed check | suspicious movement:0.477 expect:0.469 predict:0.3452787233368482 gt:1 fr:0.6 tag:b (+8) | vl:8 ping:79 tps:20.0 component: speed.main
+(13:50:03) MankaGrief failed Speed check | t: spin (+1) | vl:9 ping:88 tps:19.99 component: speed.spin
+(13:50:03) MankaGrief failed Speed check | t: spin (+1) | vl:10 ping:88 tps:20.0 component: speed.spin
+(13:50:10) MankaGrief failed FastBow check | t: bow aim bot [s] a=51.9000244140625 (+2) | vl:2 ping:88 tps:19.97 component: bow.aim.1
+(13:50:10) MankaGrief failed FastBow check | t: bow aim bot [r] a=51.9000244140625 (+1) | vl:3 ping:88 tps:19.97 component: bot.aim.2
+(13:51:21) _CJLaDoCTb_ failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.2881172460424675 fr:0.6 tag:a (+9) | vl:9 ping:46 tps:19.94 component: speed.main
+(13:51:41) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:77 tps:20.0 component: fastuse
+(13:55:04) MankaGrief failed Speed check | suspicious movement:0.481 expect:0.2873 predict:0.283370252776416 fr:0.6 tag:a (+9) | vl:9 ping:76 tps:20.0 component: speed.main
+(13:56:10) _CJLaDoCTb_ failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:200 tps:19.94 component: fly.main
+(13:57:26) _CJLaDoCTb_ failed Speed check | suspicious movement:0.655 expect:0.5726787679654611 predict:0.667112935247287 fr:0.6 tag:eb (+6) | vl:6 ping:201 tps:20.0 component: speed.main
+(13:57:29) _CJLaDoCTb_ failed KillAura check | extremely suspicious rotation feature (+15) | vl:15 ping:201 tps:20.0 component: ka.rotation
+(13:58:47) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:83 tps:19.88 component: fastuse
+(14:01:04) MankaGrief failed Interact check | interact block through walls ,o=PRISMARINE b=CHEST (+1) | vl:1 ping:74 tps:19.59 component: interact.through
+(14:04:21) MankaGrief failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:+- tag:gn (+5) | vl:5 ping:90 tps:19.98 component: fly.main
+(14:13:39) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:113 tps:20.0 component: interact.through
+(14:18:08) Dep3kiu_TpoJlb failed Inventory check | inventory move | simple (+2) | vl:2 ping:57 tps:19.97 component: inv.move
+(14:18:08) Dep3kiu_TpoJlb failed Inventory check | inventory move | simple (+2) | vl:4 ping:57 tps:19.97 component: inv.move
+(14:18:08) Dep3kiu_TpoJlb failed Inventory check | inventory move | simple (+2) | vl:6 ping:57 tps:19.97 component: inv.move
+(14:19:42) Dep3kiu_TpoJlb failed FastUse check | fast use (+0) | vl:0 ping:68 tps:19.77 component: fastuse
+(14:21:18) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:5 ping:73 tps:19.97 component: fly.main
+(14:21:53) Dep3kiu_TpoJlb failed AutoBot check | bot like actions | like: Baritone (+4) | vl:4 ping:62 tps:20.0 component: bot.baritone
+(14:22:31) _CJLaDoCTb_ failed Fly check | suspicious movement:0.333 predict:0.333 air_t:4 tag:vt (+5) | vl:5 ping:89 tps:20.0 component: fly.main
+(14:23:13) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=WOOL b=CHEST (+1) | vl:1 ping:177 tps:19.98 component: interact.through
+(14:23:18) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:2 ping:177 tps:20.0 component: interact.through
+(14:23:25) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:3 ping:177 tps:19.94 component: interact.through
+(14:25:24) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=WOOL b=TRAPPED_CHEST (+1) | vl:1 ping:202 tps:19.98 component: interact.through
+(14:25:35) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:2 ping:196 tps:20.0 component: interact.through
+(14:25:36) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=TRAPPED_CHEST (+1) | vl:3 ping:196 tps:19.97 component: interact.through
+(14:28:19) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=SMOOTH_BRICK b=CHEST (+1) | vl:1 ping:233 tps:19.82 component: interact.through
+(14:29:21) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=LOG b=CHEST (+1) | vl:1 ping:65 tps:20.0 component: interact.through
+(14:29:49) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=STONE b=TRAPPED_CHEST (+1) | vl:1 ping:122 tps:19.71 component: interact.through
+(14:29:51) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:2 ping:122 tps:19.98 component: interact.through
+(14:29:52) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:3 ping:122 tps:19.98 component: interact.through
+(14:29:54) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=WOOD b=TRAPPED_CHEST (+1) | vl:4 ping:107 tps:19.98 component: interact.through
+(14:29:55) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=WOOD b=TRAPPED_CHEST (+1) | vl:5 ping:107 tps:20.0 component: interact.through
+(14:30:03) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:6 ping:107 tps:19.95 component: interact.through
+(14:30:11) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=47 (+1) | vl:1 ping:195 tps:19.99 component: inv.cs.b
+(14:30:11) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:2 ping:195 tps:19.99 component: inv.cs.b
+(14:31:34) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:66 tps:19.91 component: interact.through
+(14:31:54) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=TRAPPED_CHEST (+1) | vl:1 ping:206 tps:20.0 component: interact.through
+(14:31:58) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:1 ping:201 tps:19.93 component: inv.cs.b
+(14:32:01) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=3 (+1) | vl:2 ping:201 tps:19.98 component: inv.cs.b
+(14:34:47) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:54 tps:19.98 component: interact.through
+(14:35:15) _CJLaDoCTb_ failed Fly check | move unexpected: 0.0 -> -0.078 (+8) | vl:8 ping:211 tps:19.97 component: fly.fg.pattern.9plus.2
+(14:35:15) _CJLaDoCTb_ failed Fly check | t: af (+5) | vl:13 ping:211 tps:19.97 component: nofall.air
+(14:40:46) _CJLaDoCTb_ failed Fly check | ground spoof | t:fgw a=0.41999998688697815 b=-0.22768848754498797 (+4) | vl:4 ping:202 tps:20.0 component: fly.fg.w
+(14:41:29) _CJLaDoCTb_ failed Fly check | suspicious movement:0.0 predict:-0.228 air_t:12 tag:m1 (+10) | vl:10 ping:250 tps:20.0 component: fly.main
+(14:41:53) Dep3kiu_TpoJlb failed Speed check | move no slow down while using/sneaking: m:0.137 a:100 (+4) | vl:4 ping:62 tps:19.99 component: speed.noslow.limit
+(14:44:44) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.036 predict:-0.304 air_t:3 g:-- tag:gn (+5) | vl:5 ping:197 tps:20.0 component: fly.main
+(14:45:17) _CJLaDoCTb_ failed Speed check | move no slow down while using/sneaking: m:0.137 a:76 (+4) | vl:4 ping:193 tps:19.96 component: speed.noslow.limit
+(14:48:29) Danil failed Fly check | suspicious movement:-0.312 predict:-0.312 air_t:12 tag:g9 (+6) | vl:6 ping:124 tps:19.99 component: fly.main
+(14:48:33) Dep3kiu_TpoJlb failed Speed check | move no slow down while using/sneaking: m:0.136 a:100 (+4) | vl:4 ping:64 tps:19.97 component: speed.noslow.limit
+(14:48:37) Danil failed Speed check | (strafe) change direction in mid-air:0.164 a:141.053 lm:0.266 (+5) | vl:5 ping:124 tps:20.0 component: speed.strafe
+(14:48:39) _CJLaDoCTb_ failed Fly check | ground spoof | tag: ai-wl | loc: 7954.7,73.0,7826.192 v:-0.078 (+5) | vl:5 ping:193 tps:19.99 component: fly.fg.wl
+(14:49:32) _CJLaDoCTb_ failed Inventory check | inventory move | simple (+2) | vl:2 ping:196 tps:19.93 component: inv.move
+(14:50:48) Dep3kiu_TpoJlb failed Speed check | move no slow down while using/sneaking: m:0.136 a:56 (+4) | vl:4 ping:55 tps:19.99 component: speed.noslow.limit
+(14:52:46) Danil failed Speed check | (strafe) change direction in mid-air:0.205 a:121.375 lm:0.294 (+5) | vl:5 ping:125 tps:19.9 component: speed.strafe
+(14:53:12) Danil failed Fly check | suspicious movement:0.333 predict:0.333 air_t:12 tag:m1 (+10) | vl:10 ping:148 tps:19.96 component: fly.main
+(14:53:12) Danil failed Fly check | suspicious movement:0.248 predict:0.248 air_t:12 tag:m1 (+10) | vl:20 ping:148 tps:19.96 component: fly.main
+(14:53:12) Danil failed Fly check | suspicious movement:0.165 predict:0.165 air_t:12 tag:m1 (+10) | vl:10 ping:148 tps:19.96 component: fly.main
+(14:53:12) Danil failed Fly check | suspicious movement:0.083 predict:-0.078 air_t:12 tag:m1 (+10) | vl:20 ping:148 tps:19.96 component: fly.main
+(14:53:12) Danil failed Fly check | suspicious movement:0.003 predict:-0.078 air_t:12 tag:m1 (+10) | vl:30 ping:148 tps:19.96 component: fly.main
+(14:54:34) Danil failed KillAura check | extremely suspicious rotation feature (+15) | vl:15 ping:128 tps:20.0 component: ka.rotation
+(14:54:56) Dep3kiu_TpoJlb failed Inventory check | inventory move | simple (+2) | vl:2 ping:170 tps:20.0 component: inv.move
+(14:55:05) Dep3kiu_TpoJlb failed Speed check | suspicious movement:0.481 expect:0.2873 predict:0.28327681188818427 fr:0.6 tag:a (+9) | vl:9 ping:170 tps:20.0 component: speed.main
+(14:55:52) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GLASS b=CHEST (+1) | vl:1 ping:116 tps:20.0 component: interact.through
+(14:55:56) Dep3kiu_TpoJlb failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:135 tps:19.96 component: fly.main
+(14:56:22) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GRASS b=TRAPPED_CHEST (+1) | vl:1 ping:115 tps:19.84 component: interact.through
+(14:56:58) Dep3kiu_TpoJlb failed Fly check | suspicious movement:0.034 predict:-0.078 air_t:12 tag:m4 (+10) | vl:10 ping:86 tps:20.0 component: fly.main
+(14:57:45) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:74 tps:19.93 component: interact.through
+(14:58:26) Dep3kiu_TpoJlb failed Speed check | fast climb | 0.154 > 0.118 / 20 (+5) | vl:5 ping:73 tps:19.96 component: speed.ladder
+(14:58:54) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GLASS b=TRAPPED_CHEST (+1) | vl:1 ping:142 tps:19.97 component: interact.through
+(14:58:58) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GLASS b=CHEST (+1) | vl:2 ping:152 tps:19.99 component: interact.through
+(14:59:03) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:3 ping:152 tps:19.95 component: interact.through
+(14:59:05) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=TRAPPED_CHEST (+1) | vl:4 ping:152 tps:19.95 component: interact.through
+(14:59:22) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:147 tps:19.97 component: interact.through
+(14:59:33) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:1 ping:149 tps:20.0 component: inv.cs.b
+(15:00:56) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.024 predict:-0.228 air_t:8 g:-- tag:gn (+5) | vl:5 ping:96 tps:19.97 component: fly.main
+(15:02:12) Dep3kiu_TpoJlb failed Interact check | interact block through walls ,o=LEAVES b=CHEST (+1) | vl:1 ping:66 tps:20.0 component: interact.through
+(15:02:31) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:5 ping:62 tps:20.0 component: fly.main
+(15:02:32) Dep3kiu_TpoJlb failed Speed check | (strafe) change direction in mid-air:5235.495 a:564.005 lm:0.186 (+5) | vl:5 ping:62 tps:20.0 component: speed.strafe
+(15:02:32) Dep3kiu_TpoJlb failed Speed check | teleport move (+25) | vl:30 ping:62 tps:20.0 component: speed.tp
+(15:02:32) Dep3kiu_TpoJlb failed Speed check | suspicious movement:5235.495 expect:0.40499999999999997 predict:0.19506199068120805 fr:0.6 tag:ea (+20) | vl:50 ping:62 tps:20.0 component: speed.main
+(15:02:32) Dep3kiu_TpoJlb failed Fly check | suspicious movement:15.232 predict:-0.304 air_t:3 tag:vt (+5) | vl:10 ping:62 tps:20.0 component: fly.main
+(15:03:02) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=WOOD b=CHEST (+1) | vl:1 ping:114 tps:20.0 component: interact.through
+(15:03:03) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=TRAPPED_CHEST (+1) | vl:2 ping:114 tps:20.0 component: interact.through
+(15:03:07) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:5 ping:57 tps:19.92 component: fly.main
+(15:03:07) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:10 ping:57 tps:20.0 component: fly.main
+(15:03:08) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.024 predict:-0.228 air_t:8 g:-- tag:gn (+5) | vl:15 ping:57 tps:20.0 component: fly.main
+(15:03:42) _skyboy_2 failed Fly check | suspicious movement:-0.232 predict:-0.377 air_t:4 g:-- tag:gn (+5) | vl:5 ping:439 tps:19.96 component: fly.main
+(15:03:51) _skyboy_2 failed Speed check | (strafe) change direction in mid-air:0.221 a:95.567 lm:0.253 (+5) | vl:5 ping:439 tps:19.94 component: speed.strafe
+(15:04:07) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=TRAPPED_CHEST (+1) | vl:1 ping:119 tps:20.0 component: interact.through
+(15:04:13) Dep3kiu_TpoJlb failed Speed check | t:sneak a (+2) | vl:2 ping:59 tps:19.97 component: speed.noslow.a
+(15:04:27) _skyboy_2 failed Fly check | suspicious movement:-0.232 predict:-0.377 air_t:4 g:-- tag:gn (+5) | vl:5 ping:220 tps:19.97 component: fly.main
+(15:04:29) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:1 ping:123 tps:19.95 component: interact.through
+(15:04:33) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:2 ping:123 tps:19.95 component: interact.through
+(15:04:34) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=CHEST (+1) | vl:3 ping:123 tps:19.95 component: interact.through
+(15:04:39) Dep3kiu_TpoJlb failed KillAura check | snap | tag: b (+0) | vl:0 ping:60 tps:19.94 component: ka.snap
+(15:04:39) Dep3kiu_TpoJlb failed Speed check | sprint direction: 0.248 angle:324.293 (+5) | vl:7 ping:60 tps:19.98 component: speed.sprint
+(15:04:39) Dep3kiu_TpoJlb failed Speed check | sprint direction: 0.265 angle:329.583 (+5) | vl:12 ping:60 tps:19.98 component: speed.sprint
+(15:04:39) Dep3kiu_TpoJlb failed Speed check | sprint direction: 0.271 angle:311.319 (+5) | vl:17 ping:60 tps:19.98 component: speed.sprint
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:1 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:2 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:3 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:4 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:5 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:6 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:7 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:8 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:9 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=48 (+1) | vl:10 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=51 (+1) | vl:11 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=48 (+1) | vl:12 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:13 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:14 ping:122 tps:19.99 component: inv.cs.b
+(15:04:41) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:15 ping:122 tps:19.99 component: inv.cs.b
+(15:04:42) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:16 ping:122 tps:19.99 component: inv.cs.b
+(15:04:42) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:17 ping:122 tps:19.99 component: inv.cs.b
+(15:04:42) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:18 ping:122 tps:19.99 component: inv.cs.b
+(15:04:42) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:19 ping:122 tps:19.99 component: inv.cs.b
+(15:04:42) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:20 ping:122 tps:19.99 component: inv.cs.b
+(15:05:02) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=98 (+1) | vl:1 ping:0 tps:19.97 component: inv.cs.b
+(15:05:02) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=51 (+1) | vl:2 ping:0 tps:19.97 component: inv.cs.b
+(15:05:02) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:3 ping:0 tps:19.97 component: inv.cs.b
+(15:05:02) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=48 (+1) | vl:4 ping:0 tps:19.97 component: inv.cs.b
+(15:05:28) _skyboy_2 failed Fly check | suspicious movement:-0.407 predict:-0.517 air_t:6 g:-- tag:gn (+5) | vl:5 ping:109 tps:20.0 component: fly.main
+(15:05:34) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:77 tps:19.97 component: interact.through
+(15:05:49) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:1 ping:87 tps:19.9 component: inv.cs.b
+(15:05:49) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:2 ping:87 tps:19.9 component: inv.cs.b
+(15:05:49) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:3 ping:87 tps:19.9 component: inv.cs.b
+(15:05:49) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:4 ping:87 tps:20.0 component: inv.cs.b
+(15:05:49) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:5 ping:87 tps:20.0 component: inv.cs.b
+(15:05:50) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:6 ping:87 tps:20.0 component: inv.cs.b
+(15:05:56) _skyboy_2 failed Fly check | suspicious movement:-0.166 predict:-0.078 air_t:11 g:-+ tag:gn (+5) | vl:5 ping:86 tps:19.98 component: fly.main
+(15:06:10) _skyboy_2 failed Fly check | suspicious movement:-0.039 predict:-0.117 air_t:12 g:+- tag:gn (+5) | vl:10 ping:80 tps:19.95 component: fly.main
+(15:06:10) _skyboy_2 failed Fly check | suspicious movement:-0.02 predict:-0.117 air_t:12 g:-- tag:gn (+5) | vl:15 ping:80 tps:19.95 component: fly.main
+(15:06:30) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=TRAPPED_CHEST (+1) | vl:1 ping:97 tps:20.0 component: interact.through
+(15:06:36) Dep3kiu_TpoJlb failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:5 ping:60 tps:20.0 component: fly.main
+(15:06:46) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:103 tps:19.64 component: interact.through
+(15:06:48) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:2 ping:113 tps:20.0 component: interact.through
+(15:06:55) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:3 ping:113 tps:20.0 component: interact.through
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:1 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:2 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:3 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:4 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:5 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:6 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:7 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:8 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:9 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:10 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:11 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:12 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:13 ping:113 tps:19.95 component: inv.cs.b
+(15:06:56) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:14 ping:113 tps:19.95 component: inv.cs.b
+(15:06:57) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:15 ping:113 tps:19.95 component: inv.cs.b
+(15:06:58) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=2 (+1) | vl:16 ping:113 tps:19.98 component: inv.cs.b
+(15:06:59) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:17 ping:113 tps:19.99 component: inv.cs.b
+(15:07:00) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:18 ping:113 tps:19.99 component: inv.cs.b
+(15:07:48) _skyboy_2 failed Inventory check | inventory move | simple (+2) | vl:2 ping:463 tps:19.95 component: inv.move
+(15:08:23) _skyboy_2 failed Speed check | suspicious movement:0.441 expect:0.2873 predict:0.24017704319145844 fr:0.6 tag:a (+9) | vl:9 ping:229 tps:19.95 component: speed.main
+(15:08:27) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GLASS b=CHEST (+1) | vl:1 ping:116 tps:20.0 component: interact.through
+(15:08:45) _skyboy_2 failed Fly check | suspicious movement:-0.078 predict:0.248 air_t:2 g:++ tag:gn (+5) | vl:5 ping:187 tps:19.98 component: fly.main
+(15:09:20) turikhnax failed Fly check | move unexpected: 0.09 -> -0.078 (+8) | vl:8 ping:40 tps:20.0 component: fly.fg.pattern.9plus.2
+(15:09:20) turikhnax failed Fly check | ground spoof | t: fgw.2 a=41.410000035762785 b=-0.0784000015258789 c=0.08999996423721512 (+10) | vl:18 ping:40 tps:20.0 component: fly.fg.w2
+(15:09:20) turikhnax failed Fly check | ground spoof | send illegal ground moving packets | location: 6901.157,41.41,1423.626 (+3) | vl:21 ping:40 tps:20.0 component: fly.fg.ground.fast
+(15:09:20) turikhnax failed Fly check | t: af (+5) | vl:26 ping:40 tps:20.0 component: nofall.air
+(15:10:18) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=STAINED_GLASS b=CHEST (+1) | vl:1 ping:113 tps:20.0 component: interact.through
+(15:10:23) _skyboy_2 failed Speed check | suspicious movement:0.476 expect:0.2873 predict:0.27934495643393736 fr:0.6 tag:a (+9) | vl:9 ping:129 tps:19.9 component: speed.main
+(15:10:23) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:2 ping:117 tps:19.9 component: interact.through
+(15:11:17) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=51 (+1) | vl:1 ping:116 tps:20.0 component: inv.cs.b
+(15:11:17) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=47 (+1) | vl:2 ping:116 tps:20.0 component: inv.cs.b
+(15:11:17) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:3 ping:116 tps:20.0 component: inv.cs.b
+(15:11:17) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:4 ping:116 tps:20.0 component: inv.cs.b
+(15:11:17) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:5 ping:116 tps:20.0 component: inv.cs.b
+(15:11:17) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=47 (+1) | vl:6 ping:116 tps:20.0 component: inv.cs.b
+(15:11:17) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:7 ping:116 tps:20.0 component: inv.cs.b
+(15:11:17) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:8 ping:116 tps:20.0 component: inv.cs.b
+(15:11:17) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:9 ping:116 tps:20.0 component: inv.cs.b
+(15:11:18) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:10 ping:116 tps:20.0 component: inv.cs.b
+(15:11:18) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=47 (+1) | vl:11 ping:116 tps:20.0 component: inv.cs.b
+(15:11:18) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:12 ping:116 tps:20.0 component: inv.cs.b
+(15:11:24) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GLASS b=TRAPPED_CHEST (+1) | vl:1 ping:113 tps:20.0 component: interact.through
+(15:12:08) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:3 ping:183 tps:19.98 component: inv.cs.b
+(15:12:37) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:1 ping:151 tps:19.87 component: inv.cs.b
+(15:12:37) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:2 ping:151 tps:19.87 component: inv.cs.b
+(15:12:37) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=2 (+1) | vl:3 ping:151 tps:19.87 component: inv.cs.b
+(15:12:38) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:4 ping:151 tps:19.95 component: inv.cs.b
+(15:13:14) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=48 (+1) | vl:1 ping:133 tps:19.97 component: inv.cs.b
+(15:13:55) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GLASS b=CHEST (+1) | vl:1 ping:120 tps:20.0 component: interact.through
+(15:13:57) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:1 ping:120 tps:20.0 component: inv.cs.b
+(15:13:58) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:2 ping:120 tps:19.99 component: inv.cs.b
+(15:14:15) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=SEA_LANTERN b=CHEST (+1) | vl:1 ping:119 tps:19.81 component: interact.through
+(15:14:27) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=CHEST (+1) | vl:2 ping:150 tps:20.0 component: interact.through
+(15:15:37) _skyboy_2 failed Fly check | suspicious movement:-0.08 predict:-0.08 air_t:12 tag:g9 (+6) | vl:6 ping:547 tps:19.96 component: fly.main
+(15:16:23) _skyboy_2 failed Fly check | suspicious movement:-0.42 predict:0.333 air_t:1 g:-+ tag:gn (+5) | vl:5 ping:257 tps:19.9 component: fly.main
+(15:16:24) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=52 (+1) | vl:1 ping:180 tps:19.9 component: inv.cs.b
+(15:16:24) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=53 (+1) | vl:2 ping:180 tps:20.0 component: inv.cs.b
+(15:16:25) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:3 ping:180 tps:20.0 component: inv.cs.b
+(15:16:25) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:4 ping:180 tps:20.0 component: inv.cs.b
+(15:16:25) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:5 ping:180 tps:20.0 component: inv.cs.b
+(15:16:26) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=99 (+1) | vl:6 ping:180 tps:20.0 component: inv.cs.b
+(15:16:26) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:7 ping:180 tps:20.0 component: inv.cs.b
+(15:16:26) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:8 ping:180 tps:20.0 component: inv.cs.b
+(15:16:26) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=51 (+1) | vl:9 ping:180 tps:20.0 component: inv.cs.b
+(15:16:48) _skyboy_2 failed Fly check | suspicious movement:0.165 predict:0.165 air_t:12 tag:m4 (+10) | vl:10 ping:213 tps:19.87 component: fly.main
+(15:16:49) _skyboy_2 failed Fly check | suspicious movement:-0.166 predict:-0.078 air_t:4 g:-+ tag:gn (+5) | vl:15 ping:213 tps:19.69 component: fly.main
+(15:17:40) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:143 tps:19.65 component: interact.through
+(15:18:05) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:1 ping:140 tps:19.96 component: interact.through
+(15:19:05) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:1 ping:124 tps:19.95 component: inv.cs.b
+(15:19:05) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=52 (+1) | vl:2 ping:124 tps:19.95 component: inv.cs.b
+(15:19:06) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:3 ping:124 tps:19.95 component: inv.cs.b
+(15:19:06) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:4 ping:124 tps:19.95 component: inv.cs.b
+(15:19:06) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:5 ping:124 tps:19.95 component: inv.cs.b
+(15:19:06) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=41 (+1) | vl:6 ping:124 tps:19.95 component: inv.cs.b
+(15:19:06) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:7 ping:124 tps:19.95 component: inv.cs.b
+(15:19:06) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:8 ping:124 tps:19.95 component: inv.cs.b
+(15:19:06) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:9 ping:124 tps:19.95 component: inv.cs.b
+(15:19:06) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=48 (+1) | vl:10 ping:124 tps:19.95 component: inv.cs.b
+(15:19:06) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=51 (+1) | vl:11 ping:124 tps:19.95 component: inv.cs.b
+(15:19:07) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:12 ping:124 tps:19.97 component: inv.cs.b
+(15:19:07) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:13 ping:124 tps:19.97 component: inv.cs.b
+(15:19:07) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:14 ping:124 tps:19.97 component: inv.cs.b
+(15:19:07) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=99 (+1) | vl:15 ping:124 tps:19.97 component: inv.cs.b
+(15:19:07) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=98 (+1) | vl:16 ping:124 tps:19.97 component: inv.cs.b
+(15:19:07) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=99 (+1) | vl:17 ping:124 tps:19.97 component: inv.cs.b
+(15:19:07) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:18 ping:124 tps:19.97 component: inv.cs.b
+(15:19:07) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:19 ping:124 tps:19.97 component: inv.cs.b
+(15:19:07) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=93 (+1) | vl:20 ping:124 tps:19.97 component: inv.cs.b
+(15:19:07) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:21 ping:0 tps:19.97 component: inv.cs.b
+(15:19:07) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:22 ping:0 tps:19.97 component: inv.cs.b
+(15:19:46) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:1 ping:28 tps:19.94 component: inv.cs.b
+(15:19:46) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:2 ping:28 tps:19.94 component: inv.cs.b
+(15:19:46) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:3 ping:28 tps:19.94 component: inv.cs.b
+(15:19:46) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=0 (+1) | vl:4 ping:28 tps:19.94 component: inv.cs.b
+(15:19:46) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:5 ping:28 tps:19.94 component: inv.cs.b
+(15:19:46) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:6 ping:28 tps:19.94 component: inv.cs.b
+(15:19:46) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:7 ping:28 tps:19.94 component: inv.cs.b
+(15:19:46) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:8 ping:28 tps:19.94 component: inv.cs.b
+(15:19:46) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=97 (+1) | vl:9 ping:28 tps:19.94 component: inv.cs.b
+(15:19:46) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=51 (+1) | vl:10 ping:28 tps:19.94 component: inv.cs.b
+(15:19:47) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=1 (+1) | vl:11 ping:28 tps:19.98 component: inv.cs.b
+(15:19:47) _CJLaDoCTb_ failed Inventory check | t: chest steal  sub=click a=98 (+1) | vl:12 ping:28 tps:19.98 component: inv.cs.b
+(15:20:02) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=TRAPPED_CHEST (+1) | vl:1 ping:89 tps:19.95 component: interact.through
+(15:20:07) _CJLaDoCTb_ failed Fly check | ground spoof | tag: ai-wl | loc: 7960.477,72.0,7821.361 v:-0.155 (+5) | vl:5 ping:89 tps:20.0 component: fly.fg.wl
+(15:20:28) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.355 predict:-0.447 air_t:5 g:+- tag:gn (+5) | vl:5 ping:103 tps:19.99 component: fly.main
+(15:24:04) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:1 ping:114 tps:20.0 component: interact.through
+(15:25:18) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:1 ping:115 tps:20.0 component: interact.through
+(15:25:20) _CJLaDoCTb_ failed Interact check | interact block through walls ,o=LOG b=CHEST (+1) | vl:2 ping:115 tps:19.97 component: interact.through
+(15:25:24) _CJLaDoCTb_ failed Fly check | suspicious movement:-0.232 predict:-0.377 air_t:4 g:+- tag:gn (+5) | vl:5 ping:115 tps:19.81 component: fly.main
+(15:26:46) PRO2019 failed Speed check | (strafe) change direction in mid-air:0.163 a:152.572 lm:0.236 (+5) | vl:5 ping:53 tps:19.97 component: speed.strafe
+(16:50:55) chelo failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:18 tps:19.96 component: interact.through
+(16:50:58) chelo failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:1 ping:18 tps:19.99 component: inv.cs.b
+(16:52:27) chelo failed Fly check | suspicious movement:0.165 predict:0.165 air_t:12 tag:m4 (+10) | vl:10 ping:67 tps:19.97 component: fly.main
+(16:58:56) chelo failed KillAura check | auto clicker | packet pattern | cc: 6 lc: 12 (+0) | vl:0 ping:101 tps:19.96 component: ka.autoclicker.packet
+(16:58:56) chelo failed KillAura check | auto clicker | packet pattern | cc: 14 lc: 12 (+0) | vl:0 ping:101 tps:19.96 component: ka.autoclicker.packet
+(16:58:57) chelo failed KillAura check | auto clicker | packet pattern | cc: 7 lc: 15 (+0) | vl:0 ping:101 tps:20.0 component: ka.autoclicker.packet
+(16:58:58) chelo failed KillAura check | auto clicker | packet pattern | cc: 3 lc: 12 (+0) | vl:0 ping:101 tps:20.0 component: ka.autoclicker.packet
+(17:00:48) chelo failed KillAura check | auto clicker | packet pattern | cc: 2 lc: 13 (+0) | vl:0 ping:179 tps:19.97 component: ka.autoclicker.packet
+(17:00:48) chelo failed KillAura check | auto clicker | packet pattern | cc: 10 lc: 13 (+0) | vl:0 ping:179 tps:19.97 component: ka.autoclicker.packet
+(17:00:58) chelo failed KillAura check | auto clicker | packet pattern | cc: 7 lc: 11 (+0) | vl:0 ping:152 tps:20.0 component: ka.autoclicker.packet
+(17:00:58) chelo failed KillAura check | auto clicker | packet pattern | cc: 15 lc: 11 (+0) | vl:0 ping:152 tps:20.0 component: ka.autoclicker.packet
+(17:01:00) chelo failed KillAura check | auto clicker | packet pattern | cc: 7 lc: 12 (+0) | vl:0 ping:152 tps:20.0 component: ka.autoclicker.packet
+(17:01:06) chelo failed Speed check | move no slow down while using/sneaking: m:0.269 a:100 (+4) | vl:4 ping:152 tps:20.0 component: speed.noslow.limit
+(17:01:06) chelo failed Speed check | move no slow down while using/sneaking: m:0.257 a:100 (+4) | vl:8 ping:152 tps:20.0 component: speed.noslow.limit
+(17:01:06) chelo failed Speed check | move no slow down while using/sneaking: m:0.262 a:100 (+4) | vl:12 ping:152 tps:20.0 component: speed.noslow.limit
+(17:01:06) chelo failed Speed check | move no slow down while using/sneaking: m:0.269 a:100 (+4) | vl:16 ping:152 tps:20.0 component: speed.noslow.limit
+(17:01:06) chelo failed Speed check | move no slow down while using/sneaking: m:0.274 a:100 (+4) | vl:20 ping:152 tps:20.0 component: speed.noslow.limit
+(17:01:08) chelo failed Speed check | move no slow down while using/sneaking: m:0.279 a:100 (+4) | vl:24 ping:152 tps:19.99 component: speed.noslow.limit
+(17:01:10) chelo failed Speed check | move no slow down while using/sneaking: m:0.367 a:100 (+4) | vl:28 ping:521 tps:20.0 component: speed.noslow.limit
+(17:01:13) chelo failed Speed check | move no slow down while using/sneaking: m:0.383 a:100 (+4) | vl:32 ping:521 tps:20.0 component: speed.noslow.limit
+(17:01:17) chelo failed Speed check | move no slow down while using/sneaking: m:0.267 a:100 (+4) | vl:36 ping:521 tps:20.0 component: speed.noslow.limit
+(17:01:32) chelo failed Speed check | move no slow down while using/sneaking: m:0.467 a:100 (+4) | vl:4 ping:408 tps:20.0 component: speed.noslow.limit
+(17:01:36) chelo failed Speed check | move no slow down while using/sneaking: m:0.467 a:100 (+4) | vl:8 ping:408 tps:20.0 component: speed.noslow.limit
+(17:03:11) chelo failed Speed check | (strafe) change direction in mid-air:0.171 a:159.995 lm:0.337 (+5) | vl:5 ping:615 tps:19.97 component: speed.strafe
+(17:04:11) chelo failed Speed check | (strafe) change direction in mid-air:0.159 a:124.215 lm:0.26 (+5) | vl:5 ping:480 tps:19.97 component: speed.strafe
+(17:05:27) chelo failed Fly check | suspicious movement:-0.162 predict:-0.582 air_t:12 g:-- tag:gn (+5) | vl:5 ping:497 tps:19.98 component: fly.main
+(17:05:37) chelo failed Fly check | suspicious movement:-0.58 predict:-0.649 air_t:12 g:-- tag:gn (+5) | vl:10 ping:497 tps:19.94 component: fly.main
+(17:05:50) chelo failed Fly check | suspicious movement:-0.232 predict:-0.377 air_t:4 g:-- tag:gn (+5) | vl:15 ping:397 tps:19.99 component: fly.main
+(17:07:16) chelo failed Fly check | suspicious movement:-0.176 predict:-0.514 air_t:12 g:+- tag:gn (+5) | vl:5 ping:560 tps:20.0 component: fly.main
+(17:07:32) chelo failed KillAura check | auto clicker | packet pattern | cc: 8 lc: 8 (+0) | vl:0 ping:438 tps:20.0 component: ka.autoclicker.packet
+(17:07:40) chelo failed Speed check | move no slow down while using/sneaking: m:0.26 a:63 (+4) | vl:4 ping:582 tps:20.0 component: speed.noslow.limit
+(17:07:40) chelo failed Speed check | move no slow down while using/sneaking: m:0.275 a:65 (+4) | vl:8 ping:582 tps:20.0 component: speed.noslow.limit
+(17:07:40) chelo failed Speed check | move no slow down while using/sneaking: m:0.277 a:66 (+4) | vl:12 ping:582 tps:20.0 component: speed.noslow.limit
+(17:07:40) chelo failed Speed check | move no slow down while using/sneaking: m:0.279 a:67 (+4) | vl:16 ping:582 tps:20.0 component: speed.noslow.limit
+(17:07:40) chelo failed Speed check | move no slow down while using/sneaking: m:0.261 a:68 (+4) | vl:20 ping:582 tps:20.0 component: speed.noslow.limit
+(17:07:41) chelo failed Speed check | move no slow down while using/sneaking: m:0.266 a:78 (+4) | vl:24 ping:582 tps:20.0 component: speed.noslow.limit
+(17:07:41) chelo failed Speed check | move no slow down while using/sneaking: m:0.28 a:88 (+4) | vl:28 ping:582 tps:19.96 component: speed.noslow.limit
+(17:07:43) chelo failed Speed check | move no slow down while using/sneaking: m:0.265 a:100 (+4) | vl:32 ping:582 tps:19.96 component: speed.noslow.limit
+(17:07:44) chelo failed Speed check | move no slow down while using/sneaking: m:0.279 a:100 (+4) | vl:36 ping:582 tps:20.0 component: speed.noslow.limit
+(17:07:45) chelo failed Speed check | move no slow down while using/sneaking: m:0.263 a:100 (+4) | vl:40 ping:582 tps:20.0 component: speed.noslow.limit
+(17:07:49) chelo failed Speed check | move no slow down while using/sneaking: m:0.383 a:100 (+4) | vl:44 ping:582 tps:20.0 component: speed.noslow.limit
+(17:07:49) chelo failed Speed check | move no slow down while using/sneaking: m:0.275 a:100 (+4) | vl:48 ping:582 tps:20.0 component: speed.noslow.limit
+(17:07:50) chelo failed Speed check | move no slow down while using/sneaking: m:0.28 a:100 (+4) | vl:52 ping:582 tps:19.96 component: speed.noslow.limit
+(17:07:51) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:52 tps:19.96 component: speed.spin
+(17:07:54) chelo failed Speed check | move no slow down while using/sneaking: m:0.583 a:100 (+4) | vl:6 ping:597 tps:20.0 component: speed.noslow.limit
+(17:07:55) chelo failed Speed check | move no slow down while using/sneaking: m:0.406 a:100 (+4) | vl:10 ping:597 tps:20.0 component: speed.noslow.limit
+(17:07:55) chelo failed Speed check | move no slow down while using/sneaking: m:0.397 a:100 (+4) | vl:14 ping:597 tps:20.0 component: speed.noslow.limit
+(17:07:56) chelo failed Speed check | move no slow down while using/sneaking: m:0.579 a:100 (+4) | vl:18 ping:597 tps:20.0 component: speed.noslow.limit
+(17:07:56) chelo failed Speed check | move no slow down while using/sneaking: m:0.404 a:100 (+4) | vl:22 ping:597 tps:20.0 component: speed.noslow.limit
+(17:09:15) MankaGrief failed Speed check | suspicious movement:0.451 expect:0.2873 predict:0.2769322670540741 fr:0.6 tag:a (+9) | vl:9 ping:84 tps:19.97 component: speed.main
+(17:09:51) chelo failed Fly check | suspicious movement:-0.059 predict:-0.445 air_t:11 g:+- tag:gn (+5) | vl:5 ping:165 tps:19.98 component: fly.main
+(17:10:13) chelo failed Speed check | move no slow down while using/sneaking: m:0.261 a:35 (+4) | vl:4 ping:142 tps:19.99 component: speed.noslow.limit
+(17:10:13) chelo failed Speed check | move no slow down while using/sneaking: m:0.268 a:36 (+4) | vl:8 ping:142 tps:19.99 component: speed.noslow.limit
+(17:10:13) chelo failed Speed check | move no slow down while using/sneaking: m:0.273 a:38 (+4) | vl:12 ping:142 tps:19.99 component: speed.noslow.limit
+(17:10:13) chelo failed Speed check | move no slow down while using/sneaking: m:0.265 a:41 (+4) | vl:16 ping:142 tps:19.99 component: speed.noslow.limit
+(17:10:13) chelo failed Speed check | move no slow down while using/sneaking: m:0.274 a:42 (+4) | vl:20 ping:142 tps:19.99 component: speed.noslow.limit
+(17:10:14) chelo failed Speed check | move no slow down while using/sneaking: m:0.279 a:52 (+4) | vl:24 ping:142 tps:20.0 component: speed.noslow.limit
+(17:10:15) chelo failed Speed check | move no slow down while using/sneaking: m:0.275 a:62 (+4) | vl:28 ping:142 tps:20.0 component: speed.noslow.limit
+(17:10:38) chelo failed Speed check | move no slow down while using/sneaking: m:0.568 a:100 (+4) | vl:4 ping:255 tps:20.0 component: speed.noslow.limit
+(17:10:39) chelo failed Fly check | suspicious movement:-0.08 predict:-0.08 air_t:12 tag:g9 (+6) | vl:6 ping:255 tps:20.0 component: fly.main
+(17:11:59) chelo failed Speed check | suspicious movement:0.287 expect:0.2873 predict:0.28791261577954347 fr:0.6 tag:a (+9) | vl:9 ping:119 tps:20.0 component: speed.main
+(17:12:08) MankaGrief failed Fly check | suspicious movement:-0.01 predict:-0.152 air_t:7 g:-- tag:gn (+5) | vl:5 ping:70 tps:20.0 component: fly.main
+(17:12:31) MankaGrief failed Fly check | suspicious movement:-0.036 predict:-0.304 air_t:3 g:+- tag:gn (+5) | vl:5 ping:71 tps:19.98 component: fly.main
+(17:12:46) MemasGelya failed Fly check | suspicious movement:-0.232 predict:-0.377 air_t:4 g:+- tag:gn (+5) | vl:5 ping:56 tps:20.0 component: fly.main
+(17:13:24) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:69 tps:20.0 component: speed.spin
+(17:13:24) MankaGrief failed Speed check | t: spin (+1) | vl:2 ping:69 tps:20.0 component: speed.spin
+(17:14:15) MemasGelya failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:147 tps:19.63 component: interact.through
+(17:14:41) chelo failed KillAura check | auto block (+4) | vl:4 ping:102 tps:19.99 component: ka.ab
+(17:16:41) MankaGrief failed KillAura check | snap | tag: b (+0) | vl:0 ping:68 tps:19.99 component: ka.snap
+(17:17:30) chelo failed Fly check | suspicious movement:-0.58 predict:-0.649 air_t:12 g:-- tag:gn (+5) | vl:5 ping:165 tps:19.98 component: fly.main
+(17:18:21) chelo failed KillAura check | auto clicker | packet pattern | cc: 10 lc: 8 (+0) | vl:0 ping:113 tps:20.0 component: ka.autoclicker.packet
+(17:19:09) MemasGelya failed Fly check | ground spoof | tag: ai-wl | loc: 6924.615,40.0,1414.349 v:-0.231 (+5) | vl:5 ping:143 tps:19.76 component: fly.fg.wl
+(17:19:17) MemasGelya failed Speed check | suspicious movement:0.479 expect:0.2873 predict:0.2820774873662308 fr:0.6 tag:a (+9) | vl:9 ping:143 tps:19.84 component: speed.main
+(17:19:36) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:69 tps:20.0 component: speed.spin
+(18:01:50) MemasGelya failed Speed check | suspicious movement:0.292 expect:0.392 predict:0.29166187282250416vet:-0.377 fr:0.6 tag:f (+5) | vl:5 ping:0 tps:19.84 component: speed.main
+(18:23:52) MemasGelya failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:206 tps:20.0 component: interact.through
+(18:24:08) MemasGelya failed Inventory check | inventory move | simple (+2) | vl:2 ping:192 tps:20.0 component: inv.move
+(18:25:27) MemasGelya failed Interact check | interact block through walls ,o=DIRT b=CHEST (+1) | vl:1 ping:241 tps:20.0 component: interact.through
+(18:26:53) MemasGelya failed Speed check | fast climb | 0.154 > 0.118 / 16 (+5) | vl:5 ping:196 tps:19.99 component: speed.ladder
+(18:27:24) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:47 tps:19.77 component: speed.spin
+(18:28:11) MemasGelya failed Fly check | suspicious movement:-0.024 predict:-0.228 air_t:8 g:-- tag:gn (+5) | vl:5 ping:176 tps:19.95 component: fly.main
+(18:28:19) MemasGelya failed Speed check | (strafe) change direction in mid-air:0.262 a:121.019 lm:0.343 (+5) | vl:5 ping:193 tps:20.0 component: speed.strafe
+(18:28:30) MemasGelya failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:5 ping:252 tps:19.63 component: fly.main
+(18:28:39) MemasGelya failed Speed check | (strafe) change direction in mid-air:0.191 a:135.021 lm:0.261 (+5) | vl:5 ping:252 tps:19.96 component: speed.strafe
+(18:30:03) MemasGelya failed Fly check | suspicious movement:-1.673 predict:-2.103 air_t:12 tag:g9 (+6) | vl:6 ping:185 tps:20.0 component: fly.main
+(18:31:24) MemasGelya failed Jesus check | liquid speed | 0.127 >- 0.12 | d: false f:false (+3) | vl:3 ping:143 tps:20.0 component: jesus.speed.in
+(18:31:24) MemasGelya failed Jesus check | liquid speed | 0.121 >- 0.12 | d: false f:false (+3) | vl:6 ping:143 tps:20.0 component: jesus.speed.in
+(18:32:12) MemasGelya failed Speed check | suspicious movement:0.479 expect:0.2873 predict:0.2827572023657676 fr:0.6 tag:a (+9) | vl:9 ping:134 tps:19.51 component: speed.main
+(18:32:55) MankaGrief failed KillAura check | force field | t: base (+4) | vl:4 ping:71 tps:19.93 component: ka.ff
+(18:33:00) MankaGrief failed Speed check | sprint direction: 0.229 angle:333.424 (+5) | vl:5 ping:69 tps:19.97 component: speed.sprint
+(18:33:05) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:225 tps:20.0 component: fastuse
+(18:34:38) MankaGrief failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:5 ping:67 tps:20.0 component: fly.main
+(18:34:47) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:67 tps:20.0 component: speed.spin
+(18:34:50) MankaGrief failed Fly check | suspicious movement:-0.305 predict:-0.652 air_t:8 g:-- tag:gn (+5) | vl:10 ping:67 tps:19.99 component: fly.main
+(18:34:50) MankaGrief failed Fly check | ground spoof | send ground packets when falling | a: 3.0784000015258783 (+5) | vl:15 ping:67 tps:19.99 component: fly.fg.nofall
+(18:34:50) MankaGrief failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 3.0784000015258783 val3: true (+10) | vl:25 ping:67 tps:19.99 component: nofall.packet
+(18:34:55) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:67 tps:19.97 component: fastuse
+(18:34:57) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:67 tps:19.96 component: fastuse
+(18:35:52) MemasGelya failed Fly check | move unexpected: 0.0 -> -0.078 (+8) | vl:8 ping:232 tps:19.96 component: fly.fg.pattern.9plus.2
+(18:35:52) MemasGelya failed Fly check | t: af (+5) | vl:13 ping:232 tps:19.96 component: nofall.air
+(18:36:41) MemasGelya failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:+- tag:gn (+5) | vl:5 ping:177 tps:19.99 component: fly.main
+(18:36:46) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:179 tps:20.0 component: fastuse
+(18:37:23) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:100 tps:20.0 component: fastuse
+(18:37:36) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:92 tps:20.0 component: speed.spin
+(18:37:36) MankaGrief failed Speed check | t: spin (+1) | vl:2 ping:92 tps:20.0 component: speed.spin
+(18:38:16) MemasGelya failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:5 ping:296 tps:19.98 component: fly.main
+(18:39:06) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:72 tps:19.99 component: speed.spin
+(18:39:19) MemasGelya failed Speed check | suspicious movement:0.287 expect:0.2873 predict:0.28791555776217953 fr:0.6 tag:a (+9) | vl:9 ping:203 tps:20.0 component: speed.main
+(18:39:24) MemasGelya failed Fly check | suspicious movement:-0.232 predict:-0.377 air_t:4 g:-- tag:gn (+5) | vl:5 ping:203 tps:19.94 component: fly.main
+(18:40:26) MankaGrief failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28832202711848104 fr:0.6 tag:a (+9) | vl:9 ping:69 tps:19.98 component: speed.main
+(18:41:14) MemasGelya failed Fly check | suspicious movement:0.083 predict:-0.078 air_t:12 tag:m1 (+10) | vl:10 ping:376 tps:20.0 component: fly.main
+(18:41:14) MemasGelya failed Fly check | suspicious movement:0.0 predict:-0.078 air_t:12 tag:m1 (+10) | vl:20 ping:376 tps:20.0 component: fly.main
+(18:41:24) MemasGelya failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:-- tag:gn (+5) | vl:25 ping:351 tps:20.0 component: fly.main
+(18:41:31) MemasGelya failed Jesus check | jesus | solid | val1: STATIONARY_WATER val2: -0.230527368912964 ~ 0.41999998688697815 ~ 63.09375 (+5) | vl:5 ping:298 tps:19.99 component: jesus.solid
+(18:46:39) da_9I_TOP failed Interact check | interact block through walls ,o=SAND b=CHEST (+1) | vl:1 ping:57 tps:19.89 component: interact.through
+(18:46:39) da_9I_TOP failed Interact check | interact block through walls ,o=SAND b=CHEST (+1) | vl:2 ping:57 tps:19.89 component: interact.through
+(18:47:14) MankaGrief failed Speed check | suspicious movement:0.483 expect:0.469 predict:0.34947859072295645 gt:1 fr:0.6 tag:b (+8) | vl:8 ping:71 tps:19.87 component: speed.main
+(18:47:48) MankaGrief failed Fly check | suspicious movement:-0.193 predict:-0.193 air_t:12 tag:g9 (+6) | vl:6 ping:69 tps:19.94 component: fly.main
+(18:47:49) MankaGrief failed Fly check | suspicious movement:-0.422 predict:-0.155 air_t:1 g:++ tag:gn (+5) | vl:11 ping:69 tps:19.94 component: fly.main
+(18:48:06) MemasGelya failed FastUse check | fast use (+0) | vl:0 ping:146 tps:19.99 component: fastuse
+(18:49:51) da_9I_TOP failed Fly check | suspicious movement:-0.059 predict:-0.445 air_t:11 g:+- tag:gn (+5) | vl:5 ping:231 tps:19.98 component: fly.main
+(18:50:02) MankaGrief failed Speed check | suspicious movement:0.482 expect:0.469 predict:0.3493087355251574 gt:1 fr:0.6 tag:b (+8) | vl:8 ping:66 tps:19.95 component: speed.main
+(18:50:07) da_9I_TOP failed Speed check | t: spin (+1) | vl:1 ping:208 tps:19.99 component: speed.spin
+(18:50:42) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:85 tps:19.99 component: fastuse
+(18:50:49) MankaGrief failed Speed check | t: spin (+1) | vl:1 ping:85 tps:19.72 component: speed.spin
+(18:50:49) MankaGrief failed KillAura check | rotation check | val: 6.0 (+3) | vl:3 ping:85 tps:19.72 component: ka.rot
+(18:51:07) MankaGrief failed Chat check | send the same chat content (+1) | vl:1 ping:80 tps:20.0 component: chat.same
+(18:51:12) MankaGrief failed Chat check | send the same chat content (+1) | vl:2 ping:78 tps:19.94 component: chat.same
+(18:51:16) MankaGrief failed Chat check | send the same chat content (+1) | vl:3 ping:78 tps:19.99 component: chat.same
+(18:51:21) MankaGrief failed Chat check | send the same chat content (+1) | vl:4 ping:78 tps:20.0 component: chat.same
+(18:51:26) MankaGrief failed Chat check | send the same chat content (+1) | vl:5 ping:78 tps:20.0 component: chat.same
+(18:51:31) da_9I_TOP failed Chat check | send the same chat content (+1) | vl:1 ping:119 tps:20.0 component: chat.same
+(18:51:46) MankaGrief failed Fly check | suspicious movement:-0.166 predict:-0.078 air_t:4 g:-+ tag:gn (+5) | vl:5 ping:72 tps:19.99 component: fly.main
+(18:52:02) MankaGrief failed Fly check | suspicious movement:-0.166 predict:-0.078 air_t:12 g:-+ tag:gn (+5) | vl:5 ping:72 tps:20.0 component: fly.main
+(18:52:21) MankaGrief failed Speed check | move no slow down while using/sneaking: m:0.136 a:98 (+4) | vl:4 ping:70 tps:20.0 component: speed.noslow.limit
+(18:52:52) da_9I_TOP failed FastUse check | fast use (+0) | vl:0 ping:97 tps:19.99 component: fastuse
+(18:53:16) MemasGelya failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:158 tps:19.97 component: interact.through
+(18:53:33) MankaGrief failed Chat check | send the same chat content (+1) | vl:1 ping:67 tps:20.0 component: chat.same
+(18:53:44) da_9I_TOP failed Fly check | suspicious movement:-0.121 predict:-0.445 air_t:11 g:+- tag:gn (+5) | vl:5 ping:97 tps:20.0 component: fly.main
+(18:53:51) MankaGrief failed KillAura check | snap | tag: b (+0) | vl:0 ping:83 tps:19.95 component: ka.snap
+(18:53:58) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:78 tps:19.98 component: fastuse
+(18:54:21) MankaGrief failed Speed check | suspicious movement:0.288 expect:0.2873 predict:0.28828522520014754 fr:0.6 tag:a (+9) | vl:9 ping:76 tps:19.98 component: speed.main
+(18:54:56) MankaGrief failed FastUse check | fast use (+0) | vl:0 ping:272 tps:20.0 component: fastuse
+(18:55:15) MankaGrief failed Speed check | (strafe) change direction in mid-air:0.173 a:137.814 lm:0.244 (+5) | vl:5 ping:182 tps:20.0 component: speed.strafe
+(18:56:16) da_9I_TOP failed Speed check | t: spin (+1) | vl:1 ping:94 tps:20.0 component: speed.spin
+(19:09:33) Danil failed Interact check | interact block through walls ,o=FURNACE b=FURNACE (+1) | vl:1 ping:136 tps:20.0 component: interact.through
+(20:49:39) dany2282005 failed Inventory check | t: chest steal  sub=click a=50 (+1) | vl:1 ping:21 tps:20.0 component: inv.cs.b
+(20:49:40) dany2282005 failed Inventory check | t: chest steal  sub=click a=49 (+1) | vl:2 ping:21 tps:20.0 component: inv.cs.b
+(20:50:04) dany2282005 failed Interact check | interact block through walls ,o=GRASS b=CHEST (+1) | vl:1 ping:54 tps:20.0 component: interact.through

@@ -1,0 +1,6 @@
+(18:36:58) Matrix Enabled!
+(18:36:58) Version: 2.4.4
+(18:45:07) Matrix Enabled!
+(18:45:07) Version: 2.4.4
+(18:47:22) SonicGames failed FastUse check | fast use (+0) | vl:0 ping:7 tps:20.0 component: fastuse
+(18:47:36) SonicGames failed Speed check | suspicious movement:0.287 expect:0.2873 predict:0.2880894041400804 fr:0.6 tag:a (+9) | vl:9 ping:141 tps:20.0 component: speed.main

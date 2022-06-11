@@ -1,0 +1,1 @@
+﻿[0;1000;0]&f &d● &fВсего смертей: &a&l%statistic_player_death%

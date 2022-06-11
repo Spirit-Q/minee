@@ -1,0 +1,11 @@
+# BungeeGuard Configuration
+
+# Allowed authentication tokens.
+allowed-tokens:
+ - "qczXLCjauAZHNWIQjLrVKKUlyWqXHko9R8oo145KefCQ25Cg9fiRJFaq7M4mriNp"
+
+
+# Messages
+no-data-kick-message: "&cНевозможно подтвердить подлинность - прокси не перенаправил данные."
+no-properties-kick-message: "&cНевозможно подтвердить подлинность."
+invalid-token-kick-message: "&cУказан неверный токен аутентификации."

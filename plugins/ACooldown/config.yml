@@ -1,0 +1,123 @@
+Messages:
+# Формат времени(Можно убрать полностью)
+  TimeFormat: 
+   second:
+    a: '&7секунда&a'
+    i: '&7секунды&a'
+    b: '&7секунд&a'
+    sec: '&7сек&a'
+   minutes:
+    min: '&7мин&a'
+    m: '&7м&a'
+   hours:
+    h: '&7ч&a'
+   days:
+    dn: '&7дн&a'
+    day: '&7день&a'
+    dna: '&7дня&a'
+    dnei: '&7дней&a'
+# Можно удалить всё что выше до Messages
+
+# Вывод сообщения если у игрока нет прав
+  perms: '&7&l<&f&l!&7&l> &7У Вас нет разрешения!'
+# Вывод сообщения если игрок ввёл команду /acd reload
+  reload: '&7&l<&f&l!&7&l> &7Конфигурация перезагружена!'
+# Вывод сообщения если игрок вводит не существующий аргумент в команде /acd
+  args: '&7&l<&f&l!&7&l> &7У нас такого &cнету :('
+# Вывод сообщения если игрок ввёл команду /acd
+  info:
+  - ''
+  - '&7&l<&f&l!&7&l> &7Доступные команды:'
+  - ' &d> &7Перезагрузить конфигурацию - &f/acd reload'
+  - ' &d> &7Убрать всем задержку - &f/acd cleartable'
+  - ''
+# Вывод сообщения если игрок ввёл команду /acd cleartable
+  clearall: '&7&l<&f&l!&7&l> &7Таблица очищена, задержки с игроков сняты!'
+# Стандартное сообщение
+  message: '&7&l<&f&l!&7&l> &7Команда будет доступна через &d@time&7.'
+# Задержка по стандарту
+  cooldown: 5
+
+# Переменные - @time : Время задержки(В секундах)
+
+commands:
+# Главна комманда
+  ban:
+# Доп комманда (Можно убрать и будет работать)
+    aliases: ['eban', 'essentials:ban']
+# Время задержки (Можно убрать и будет работать)
+    cooldown: # default - это все не вписанные группы
+     default: 4800
+# Тип задержки(только если есть aliases), STANDART - 1 задержка на команду и доп команду, в моём случае ban,eban,essentials:ban (Можно убрать и будет работать)
+# MULTI - разная задержка для гл команды и доп команды (Можно убрать и будет работать)
+    type: 'STANDART'
+# Уникальное сообщение для команды (Можно убрать и будет работать)
+    message: '&7&l<&f&l!&7&l> &7Команда будет доступна через &d@time&7.'
+# Права игнорирующие задежку(По стандарту ACooldown.bypass) (Можно убрать и будет работать)
+    permission: 'universal.menu.all'
+# Это аргумент с которого начнётся задержка (Можно убрать и будет работать)
+    length: 1
+  tpa:
+   aliases: ['call'] 
+   cooldown:
+     default: 5
+   type: 'STANDART'
+   message: '&7&l<&f&l!&7&l> &7Команда будет доступна через &d@time&7.'
+   permission: 'universal.menu.all' 
+   length: 0
+  auc:
+   aliases: ['ah', 'auctionhouse'] 
+   cooldown:
+     default: 1
+   type: 'STANDART'
+   message: '&7&l<&f&l!&7&l> &7Команда будет доступна через &d@time&7.'
+   permission: 'universal.menu.all' 
+   length: 0
+  home:
+   aliases: ['ehome'] 
+   cooldown:
+     default: 1
+   type: 'STANDART'
+   message: '&7&l<&f&l!&7&l> &7Команда будет доступна через &d@time&7.'
+   permission: 'universal.menu.all' 
+   length: 0
+  reward:
+   aliases: ['reward'] 
+   cooldown:
+     default: 1
+   type: 'STANDART'
+   message: '&7&l<&f&l!&7&l> &7Команда будет доступна через &d@time&7.'
+   permission: 'universal.menu.all' 
+   length: 0
+  broadcast:
+   aliases: ['bc', 'ebc', 'ebroadcast'] 
+   cooldown:
+     default: 60
+   type: 'STANDART'
+   message: '&7&l<&f&l!&7&l> &7Команда будет доступна через &d@time&7.'
+   permission: 'universal.menu.all' 
+   length: 0
+  night:
+   aliases: ['night', 'time set', 'enight'] 
+   cooldown:
+     default: 60
+   type: 'STANDART'
+   message: '&7&l<&f&l!&7&l> &7Команда будет доступна через &d@time&7.'
+   permission: 'universal.menu.all' 
+   length: 0
+  day:
+   aliases: ['day', 'time set', 'eday'] 
+   cooldown:
+     default: 60
+   type: 'STANDART'
+   message: '&7&l<&f&l!&7&l> &7Команда будет доступна через &d@time&7.'
+   permission: 'universal.menu.all' 
+   length: 0
+  message:
+   aliases: ['r', 'msg', 'w', 'm'] 
+   cooldown:
+     default: 5
+   type: 'STANDART'
+   message: '&7&l<&f&l!&7&l> &7Команда будет доступна через &d@time&7.'
+   permission: 'universal.menu.all' 
+   length: 0

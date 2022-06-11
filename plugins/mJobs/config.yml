@@ -1,0 +1,75 @@
+settings:
+  carrier:
+    range: 15
+    maxBoxes: 3
+    blockedCommands:
+    - egm
+    - egm
+    - gm
+    - gamemode
+    - egamemode
+    - fly
+    - efly
+    - speed
+    - espeed
+    - marry
+    - c
+    - clan
+    - tp
+    - etp
+    - tppos
+    - etppos
+    - thru
+    - top
+    - etop
+    - ah
+    - auction
+    - auc
+    - trade
+    - hat
+  woodcutter: {}
+  miner:
+    blockedCommands:
+    - egm
+    - gm
+    - gamemode
+    - egamemode
+    - more
+    - emore
+    - ah
+    - auction
+    - auc
+    - trade
+    - marry
+    - c
+    - clan
+    - hat
+    ore_time: 15
+    prices:
+    - 16 32 5
+    - 73 32 5
+    - 15 32 7
+    - 14 32 8
+    - 56 16 10
+    - 129 16 15
+data:
+  carrier:
+    routes: {}
+    regions: {}
+  woodcutter:
+    regions:
+      moon:
+        ==: ru.jampire.mjobs.jobs.woodcutter.RegionForest
+        reward: 5
+        world: world
+        z1: -1051
+        y1: 0
+        z2: -1025
+        cooldown: 1
+        x1: -248
+        y2: 174
+        health: 1
+        x2: -223
+  miner:
+    routes: {}
+    mines: {}

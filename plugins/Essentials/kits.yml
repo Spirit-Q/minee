@@ -1,0 +1,339 @@
+# EssentialsX kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+# 
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - name[:durability] amount [enchantment:level]... [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+  Default:
+    delay: 259200
+    items:
+    - 298 1 Color:128,0,128 Protection:1 Unbreaking:1
+    - 299 1 Color:128,0,128 Protection:1 Unbreaking:1
+    - 300 1 Color:128,0,128 Protection:1 Unbreaking:1
+    - 301 1 Color:128,0,128 Protection:1 Unbreaking:1
+    - 267 1 Unbreaking:1
+    - 257 1 Unbreaking:1
+    - 258 1 Unbreaking:1
+    - 256 1 Unbreaking:1
+    - 261 1 
+    - 17 64
+    - 364 32
+    - 262 64
+    - 54 2
+    - 325 1
+    - 169 16
+    - 295 16
+    - 442 1
+  Iron:
+    delay: 259200
+    items:
+    - 306 1 durability:1 protect:1 thorns:1 name:&7Железный_шлем_из_набора_&8Iron
+    - 307 1 durability:1 protect:1 thorns:1 name:&7Железный_нагрудник_из_набора_&8Iron
+    - 308 1 durability:1 protect:1 thorns:1 name:&7Железные_поножи_из_набора_&8Iron
+    - 309 1 durability:1 protect:1 thorns:1 name:&7Железные_ботинки_из_набора_&8Iron
+    - 267 1 alldamage:1 durability:1 name:&7Железный_мечь_из_набора_&8Iron
+    - 257 1 efficiency:1 durability:1 name:&7Железная_кирка_из_набора_&8Iron
+    - 258 1 efficiency:1 durability:1 name:&7Железный_топор_из_набора_&8Iron
+    - 256 1 efficiency:1 durability:1 name:&7Железная_лопата_из_набора_&8Iron
+    - 261 1 arrowdamage:1 infinity:1 name:&7Лук_из_набора_&8Iron
+    - 41 1
+    - 42 1
+    - 57 1
+    - 173 2
+    - 368 8
+    - 384 32
+    - 364 64
+    - 260 16
+    - 17 128
+    - 262 128
+  Blaze:
+    delay: 259200
+    items:
+    - 306 1 durability:2 protect:2 thorns:2 name:&7Железный_шлем_из_набора_&6Blaze
+    - 307 1 durability:2 protect:2 thorns:2 name:&7Железный_нагрудник_из_набора_&6Blaze
+    - 308 1 durability:2 protect:2 thorns:2 name:&7Железные_поножи_из_набора_&6Blaze
+    - 309 1 durability:2 protect:2 thorns:2 name:&7Железные_ботинки_из_набора_&6Blaze
+    - 267 1 alldamage:2 durability:2 name:&7Железный_мечь_из_набора_&6Blaze
+    - 257 1 efficiency:2 durability:2 name:&7Железная_кирка_из_набора_&6Blaze
+    - 258 1 efficiency:2 durability:2 name:&7Железный_топор_из_набора_&6Blaze
+    - 256 1 efficiency:2 durability:2 name:&7Железная_лопата_из_набора_&6Blaze
+    - 261 1 arrowdamage:1 infinity:1 name:&7Лук_из_набора_&6Blaze
+    - 41 2
+    - 42 2
+    - 57 2
+    - 173 2
+    - 368 16
+    - 384 64
+    - 364 64
+    - 260 16
+    - 17 128
+    - 262 128
+  Gold:
+    delay: 259200
+    items:
+    - 306 1 durability:3 protect:3 thorns:2 name:&7Железный_шлем_из_набора_&eGold
+    - 307 1 durability:3 protect:3 thorns:2 name:&7Железный_нагрудник_из_набора_&eGold
+    - 308 1 durability:3 protect:3 thorns:2 name:&7Железные_поножи_из_набора_&eGold
+    - 309 1 durability:3 protect:3 thorns:2 name:&7Железные_ботинки_из_набора_&eGold
+    - 276 1 alldamage:1 durability:1 fire:1 knockback:1 name:&7Алмазный_мечь_из_набора_&eGold
+    - 278 1 efficiency:1 durability:1 Fortune:1 name:&7Алмазная_кирка_из_набора_&eGold
+    - 279 1 efficiency:1 durability:1 Fortune:1 name:&7Алмазный_топор_из_набора_&eGold
+    - 277 1 efficiency:1 durability:1 Fortune:1 name:&7Алмазная_лопата_из_набора_&eGold
+    - 261 1 arrowdamage:1 punch:1 infinity:1 flame:1 name:&7Лук_из_набора_&eGold
+    - 41 2
+    - 42 2
+    - 57 2
+    - 173 3
+    - 368 16
+    - 384 64
+    - 364 64
+    - 260 16
+    - 17 128
+    - 262 128
+    - 449 1
+  Elder:
+    delay: 259200
+    items:
+    - 310 1 durability:1 protect:1 thorns:1 name:&7Алмазный_шлем_из_набора_&7Elder
+    - 311 1 durability:1 protect:1 thorns:1 name:&7Алмазный_нагрудник_из_набора_&7Elder
+    - 312 1 durability:1 protect:1 thorns:1 name:&7Алмазные_поножи_из_набора_&7Elder
+    - 313 1 durability:1 protect:1 thorns:1 FeatherFalling:1 name:&7Алмазные_ботинки_из_набора_&7Elder
+    - 276 1 alldamage:2 durability:1 fire:1 knockback:1 name:&7Алмазный_мечь_из_набора_&7Elder
+    - 278 1 efficiency:2 durability:1 Fortune:1 name:&7Алмазная_кирка_из_набора_&7Elder
+    - 279 1 efficiency:2 durability:1 Fortune:1 name:&7Алмазный_топор_из_набора_&7Elder
+    - 277 1 efficiency:2 durability:1 Fortune:1 name:&7Алмазная_лопата_из_набора_&7Elder
+    - 261 1 arrowdamage:2 punch:1 infinity:1 flame:1 name:&7Лук_из_набора_&7Elder
+    - 17 128
+    - 21 32
+    - 364 64
+    - 432 16
+    - 262 128
+    - 384 128
+    - 260 32
+    - 57 3
+    - 42 3
+    - 41 3
+    - 173 3
+    - 449 1
+    - 368 16
+    - 368 16
+  Wither:
+    delay: 259200
+    items:
+    - 310 1 durability:2 protect:2 thorns:2 name:&7Алмазный_шлем_из_набора_&dWither
+    - 311 1 durability:2 protect:2 thorns:2 name:&7Алмазный_нагрудник_из_набора_&dWither
+    - 312 1 durability:2 protect:2 thorns:2 name:&7Алмазные_поножи_из_набора_&dWither
+    - 313 1 durability:2 protect:2 thorns:2 FeatherFalling:2 name:&7Алмазные_ботинки_из_набора_&dWither
+    - 276 1 alldamage:3 durability:2 fire:1 knockback:1 name:&7Алмазный_мечь_из_набора_&dWither
+    - 278 1 efficiency:3 durability:2 Fortune:1 name:&7Алмазная_кирка_из_набора_&dWither
+    - 279 1 efficiency:3 durability:2 Fortune:1 name:&7Алмазный_топор_из_набора_&dWither
+    - 277 1 efficiency:3 durability:2 Fortune:1 name:&7Алмазная_лопата_из_набора_&dWither
+    - 261 1 arrowdamage:3 punch:1 infinity:1 flame:1 name:&7Лук_из_набора_&dWither
+    - 17 128
+    - 21 32
+    - 364 64
+    - 432 32
+    - 262 192
+    - 384 192
+    - 260 32
+    - 57 4
+    - 42 4
+    - 41 4
+    - 173 4
+    - 449 2
+    - 368 16
+    - 368 16
+    - 130 1
+  Dragon:
+    delay: 259200
+    items:
+    - 310 1 durability:3 protect:3 thorns:3 respiration:1 name:&7Алмазный_шлем_из_набора_&5Dragon
+    - 311 1 durability:3 protect:3 thorns:3 name:&7Алмазный_нагрудник_из_набора_&5Dragon
+    - 312 1 durability:3 protect:3 thorns:3 name:&7Алмазные_поножи_из_набора_&5Dragon
+    - 313 1 durability:3 protect:3 thorns:3 FeatherFalling:3 name:&7Алмазные_ботинки_из_набора_&5Dragon
+    - 276 1 alldamage:4 durability:3 fire:2 knockback:1 name:&7Алмазный_мечь_из_набора_&5Dragon
+    - 278 1 efficiency:4 durability:3 Fortune:2 name:&7Алмазная_кирка_из_набора_&5Dragon
+    - 279 1 efficiency:4 durability:3 Fortune:2 name:&7Алмазный_топор_из_набора_&5Dragon
+    - 277 1 efficiency:4 durability:3 Fortune:2 name:&7Алмазная_лопата_из_набора_&5Dragon
+    - 261 1 arrowdamage:4 punch:2 infinity:1 flame:1 name:&7Лук_из_набора_&5Dragon
+    - 17 128
+    - 21 64
+    - 89 16
+    - 364 128
+    - 432 32
+    - 262 192
+    - 384 256
+    - 260 64
+    - 57 4
+    - 42 4
+    - 41 4
+    - 173 6
+    - 449 3
+    - 368 16
+    - 368 16
+    - 130 2
+  Moon:
+    delay: 259200
+    items:
+    - 310 1 durability:4 protect:4 thorns:3 respiration:3 name:&7Алмазный_шлем_из_набора_&f&l&n&oMOON
+    - 311 1 durability:4 protect:4 thorns:3 name:&7Алмазный_нагрудник_из_набора_&f&l&n&oMOON
+    - 312 1 durability:4 protect:4 thorns:3 name:&7Алмазные_поножи_из_набора_&f&l&n&oMOON
+    - 313 1 durability:4 protect:4 thorns:3 FeatherFalling:4 name:&7Алмазные_ботинки_из_набора_&f&l&n&oMOON
+    - 276 1 alldamage:5 durability:3 fire:2 knockback:2 name:&7Алмазный_мечь_из_набора_&f&l&n&oMOON
+    - 278 1 efficiency:5 durability:3 Fortune:3 name:&7Алмазная_кирка_из_набора_&f&l&n&oMOON
+    - 279 1 efficiency:5 durability:3 Fortune:3 name:&7Алмазный_топор_из_набора_&f&l&n&oMOON
+    - 277 1 efficiency:5 durability:3 Fortune:3 name:&7Алмазная_лопата_из_набора_&f&l&n&oMOON
+    - 261 1 arrowdamage:5 punch:2 infinity:1 flame:1 unbreaking:1 name:&7Лук_из_набора_&f&l&n&oMOON
+    - 17 128
+    - 21 64
+    - 89 32
+    - 364 128
+    - 432 64
+    - 260 64
+    - 262 192
+    - 384 256
+    - 437 16
+    - 57 6
+    - 42 6
+    - 41 6
+    - 173 8
+    - 449 1
+    - 449 1
+    - 449 1
+    - 368 16
+    - 368 16
+    - 368 16
+    - 130 4
+  Helper:
+    delay: 259200
+    items:
+    - 310 1 durability:4 protect:4 thorns:3 respiration:3 name:&7Алмазный_шлем_из_набора_&f&l&n&oMOON
+    - 311 1 durability:4 protect:4 thorns:3 name:&7Алмазный_нагрудник_из_набора_&f&l&n&oMOON
+    - 312 1 durability:4 protect:4 thorns:3 name:&7Алмазные_поножи_из_набора_&f&l&n&oMOON
+    - 313 1 durability:4 protect:4 thorns:3 FeatherFalling:4 name:&7Алмазные_ботинки_из_набора_&f&l&n&oMOON
+    - 276 1 alldamage:5 durability:3 fire:2 knockback:2 name:&7Алмазный_мечь_из_набора_&f&l&n&oMOON
+    - 278 1 efficiency:5 durability:3 Fortune:3 name:&7Алмазная_кирка_из_набора_&f&l&n&oMOON
+    - 279 1 efficiency:5 durability:3 Fortune:3 name:&7Алмазный_топор_из_набора_&f&l&n&oMOON
+    - 277 1 efficiency:5 durability:3 Fortune:3 name:&7Алмазная_лопата_из_набора_&f&l&n&oMOON
+    - 261 1 arrowdamage:5 punch:2 infinity:1 flame:1 unbreaking:1 name:&7Лук_из_набора_&f&l&n&oMOON
+    - 17 128
+    - 21 64
+    - 89 32
+    - 364 128
+    - 432 64
+    - 260 64
+    - 262 192
+    - 384 256
+    - 437 16
+    - 57 6
+    - 42 6
+    - 41 6
+    - 173 8
+    - 449 1
+    - 449 1
+    - 449 1
+    - 368 16
+    - 368 16
+    - 368 16
+    - 130 4
+  Moder:
+    delay: 259200
+    items:
+    - 310 1 durability:4 protect:4 thorns:3 respiration:3 name:&7Алмазный_шлем_из_набора_&f&l&n&oMOON
+    - 311 1 durability:4 protect:4 thorns:3 name:&7Алмазный_нагрудник_из_набора_&f&l&n&oMOON
+    - 312 1 durability:4 protect:4 thorns:3 name:&7Алмазные_поножи_из_набора_&f&l&n&oMOON
+    - 313 1 durability:4 protect:4 thorns:3 FeatherFalling:4 name:&7Алмазные_ботинки_из_набора_&f&l&n&oMOON
+    - 276 1 alldamage:5 durability:3 fire:2 knockback:2 name:&7Алмазный_мечь_из_набора_&f&l&n&oMOON
+    - 278 1 efficiency:5 durability:3 Fortune:3 name:&7Алмазная_кирка_из_набора_&f&l&n&oMOON
+    - 279 1 efficiency:5 durability:3 Fortune:3 name:&7Алмазный_топор_из_набора_&f&l&n&oMOON
+    - 277 1 efficiency:5 durability:3 Fortune:3 name:&7Алмазная_лопата_из_набора_&f&l&n&oMOON
+    - 261 1 arrowdamage:5 punch:2 infinity:1 flame:1 unbreaking:1 name:&7Лук_из_набора_&f&l&n&oMOON
+    - 17 128
+    - 21 64
+    - 89 32
+    - 364 128
+    - 432 64
+    - 260 64
+    - 262 192
+    - 384 256
+    - 437 16
+    - 57 6
+    - 42 6
+    - 41 6
+    - 173 8
+    - 449 1
+    - 449 1
+    - 449 1
+    - 368 16
+    - 368 16
+    - 368 16
+    - 130 4
+  YouTube:
+    delay: 259200
+    items:
+    - 310 1 protect:4 respiration:3 aquaaffinity:1 unbreaking:3 Mending:1 name:&7Алмазный_шлем_из_набора_&f[&f&lYou&4&lTube&f]
+    - 311 1 protect:4 unbreaking:3 Mending:1 name:&7Алмазный_нагрудник_из_набора_&f[&f&lYou&4&lTube&f]
+    - 312 1 protect:4 unbreaking:3 Mending:1 name:&7Алмазные_поножи_из_набора_&f[&f&lYou&4&lTube&f]
+    - 313 1 protect:4 featherfalling:4 unbreaking:3 DepthStrider:3 Mending:1 name:&7Алмазные_ботинки_из_набора_&f[&f&lYou&4&lTube&f]
+    - 276 1 Sharpness:5 Fire aspect:2 Looting:3 Sweeping_edge:3 Unbreaking:3 Mending:1 name:&7Алмазный_мечь_из_набора_&f[&f&lYou&4&lTube&f]
+    - 261 1 Power:5 Flame:1 Mending:1 Unbreaking:3 name:&7Алмазная_кирка_из_набора_&f[&f&lYou&4&lTube&f]
+    - 279 1 Sharpness:5 Efficiency:5 SilkTouch:1 Unbreaking:3 Fortune:3 Mending:1 name:&7Алмазный_топор_из_набора_&f[&f&lYou&4&lTube&f]
+    - 278 1 Efficiency:5 SilkTouch:1 Unbreaking:3 Fortune:3 Mending:1 name:&7Алмазная_лопата_из_набора_&f[&f&lYou&4&lTube&f]
+    - 277 1 efficiency:5 durability:3 Fortune:3 name:&7Лук_из_набора_&f[&f&lYou&4&lTube&f]
+    - 442 1
+    - 449 1
+    - 449 1
+    - 449 1
+    - 449 1
+    - 384 128
+    - 368 16
+    - 368 16
+    - 368 16
+    - 437 32
+    - 289 32
+    - 376 16
+    - 364 64
+    - 322 16
+    - 262 128
+    - 17 128
+    - 41 16
+    - 57 16
+    - 42 16
+    - 173 16
+  Top:
+    delay: 259200
+    items:
+    - 310 1 protect:4 respiration:3 aquaaffinity:1 unbreaking:3 Mending:1 name:&6&l&oАлмазный_шлем
+    - 311 1 protect:4 unbreaking:3 Mending:1 name:&6&l&oАлмазный_нагрудник
+    - 312 1 protect:4 unbreaking:3 Mending:1 name:&6&l&oАлмазные_штаны
+    - 313 1 protect:4 featherfalling:4 unbreaking:3 DepthStrider:3 Mending:1 name:&6&l&oАлмазные_ботинки
+    - 276 1 Sharpness:5 Fire aspect:2 Looting:3 Sweepingedge:3 Unbreaking:3 Mending:1
+    - 261 1 Power:5 Flame:1 Mending:1 Unbreaking:3
+    - 279 1 Sharpness:5 Efficiency:5 SilkTouch:1 Unbreaking:3 Fortune:3 Mending:1
+    - 278 1 Efficiency:5 SilkTouch:1 Unbreaking:3 Fortune:3 Mending:1
+    - 277 1 efficiency:5 durability:3 Fortune:3
+    - 442 1
+    - 449 1
+    - 449 1
+    - 449 1
+    - 449 1
+    - 384 128
+    - 368 16
+    - 368 16
+    - 368 16
+    - 437 32
+    - 289 32
+    - 376 16
+    - 364 64
+    - 322 16
+    - 262 128
+    - 17 128
+    - 41 16
+    - 57 16
+    - 42 16
+    - 173 16
